@@ -1,0 +1,11 @@
+Betreff: Frage zu meinem E.ON Vertrag
+
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON und habe eine Frage zu meiner Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Könnte ich bitte eine genaue Aufschlüsselung meiner Kosten bekommen? Mein Vertragskonto lautet <<123456789&&VERTRAGSNUMMER>>.
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Hans Meyer&&PERSON>>
+<<Hauptstraße 10&&STRASSE>>
+<<12345&&PLZ>><<Berlin&&ORT>>
+<<hans.meyer@mail.de&&EMAIL>>
+<<+49 123 45678910&&TELEFONNUMMER>>

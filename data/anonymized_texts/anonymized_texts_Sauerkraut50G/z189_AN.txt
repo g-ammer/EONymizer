@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meines Zählerstandes. Meine Vertragsnummer ist <VERTRAGSNUMMER>, Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und Zählernummer ist <ZAEHLERNRUMMER>. Könnten Sie mir bitte den aktuellen Zählerstand mitteilen?
+
+Freundliche Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

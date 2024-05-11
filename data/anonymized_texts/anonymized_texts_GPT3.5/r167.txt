@@ -1,0 +1,9 @@
+Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir höher als gewöhnlich zu sein. Könnten Sie bitte prüfen, ob alles korrekt ist?
+
+Mit freundlichen Grüßen,
+<<Markus Bauer&&PERSON>>
+<<Musterstraße 5, 12345 Musterstadt&&STRASSE, PLZ, ORT>>
+Telefon: <<01234567890&&TELEFONNUMMER>>
+Email: <<markus.bauer@mail&&EMAIL>>

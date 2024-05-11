@@ -1,0 +1,13 @@
+Guten Tag,
+
+meine Vertragsnummer ist <<400012345&&VERTRAGSNUMMER>> und ich habe ein Problem mit der E.ON App. Ich komme einfach nicht mehr ins Login, immer wenn ich meine Daten eingebe bekomme ich einen Fehler. Ist das technisch bedingt oder mache ich einfach was falsch? Gibt es irgendwo eine Anleitung für das richtige Login oder kann mir da jemand weiterhelfen? 
+
+Ich warte auf ihre Antwort. 
+
+Vielen Dank schon einmal im Voraus.
+
+Mit freundlichen Grüßen,
+<<Helmut Fischer&&PERSON>>
+<<Fischstraße 6&&STRASSE>>,
+<<12345&&PLZ>> <<Rostock&&ORT>>
+<<fischer.helmut@mail.de&&EMAIL>>

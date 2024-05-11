@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe vor Kurzem meine letzte Rechnung von E.ON bekommen und es gibt da eine Sache, die ich nicht ganz verstehe. Die Rechnungsnummer ist <<9876543210&&RECHNUNGSNUMMER>>. Auf der Rechnung steht ein Betrag von 200 Euro, was mir sehr hoch vorkommt. In den letzten Monaten war mein durchschnittlicher Rechnungsbetrag immer um die 100 Euro. Könnten Sie bitte für mich prüfen, ob da ein Fehler vorliegt?
+
+Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<<Anna Schmidt&&PERSON>>,
+<<Heinrichstraße 4&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>
+Telefon: <<01234567890&&TELEFONNUMMER>>
+Email: <<anna.schmidt@email.de&&EMAIL>>

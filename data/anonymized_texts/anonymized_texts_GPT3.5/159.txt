@@ -1,0 +1,7 @@
+Guten Tag Kundenservice,
+
+Ich habe eine Frage zu meiner Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Mein Name ist <<Sabine Müller&&PERSON>> und ich lebe am <<Kirchplatz 2&&STRASSE>>, <<0123&&PLZ>> <<Musterhausen&&ORT>>. Die Datagrammpartner-ID für mein Konto ist <<14096263740&&ID>>. Woran erkenne ich, ob meine Kontobelastung erfolgreich war? 
+
+Vielen Dank im Voraus,
+
+<<Sabine Müller&&PERSON>>

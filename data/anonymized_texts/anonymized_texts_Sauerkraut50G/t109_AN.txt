@@ -1,0 +1,10 @@
+ Betreff: Login Probleme mit meiner E.ON App
+
+Guten Tag,
+
+ich bin <PERSON> aus <ORT>. Seit langem nutze ich die App von E.ON problemlos, aber seit Kurzem habe ich Probleme beim Anmelden. Ich habe meine Zugangsdaten korrekt eingegeben und auch verschiedene Endgeräte probiert, leider bis jetzt ohne Erfolg. Ein einfaches Passwort zurücksetzen über "Passwort vergessen" habe ich bereits versucht, leider ohne Erfolg. Meine Vertragsnummer ist die <VERTRAGSNUMMER> und die Geschäftspartnernummer die <GESCHAEFTSPARTNERNUMMER>.
+
+Können Sie bitte überprüfen und mir bei diesem Problem helfen?
+
+Viele Grüße,
+<PERSON>

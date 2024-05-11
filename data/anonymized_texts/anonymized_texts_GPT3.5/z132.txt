@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundenservice,
+
+mein Name ist <<Andreas Müller&&PERSON>> und meine Adresse ist <<Hamburger Straße 124, 22305 Hamburg&&STRASSE>>. Ich habe eine Frage zu meinem Zählerstand. Bislang hat mein Zähler immer einen gewissen Wert angezeigt, doch auf meiner letzten Rechnung (Rechnungsnummer: <<1234567890&&RECHNUNGSNUMMER>>) erscheint eine höhere Anzahl Kilowattstunden als erwartet.
+
+Könnten Sie bitte prüfen, ob es ein Missverständnis mit dem Zählerstand gibt? Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>> und die Zählernummer lautet <<102398765&&ZAEHLERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Andreas Müller&&PERSON>>

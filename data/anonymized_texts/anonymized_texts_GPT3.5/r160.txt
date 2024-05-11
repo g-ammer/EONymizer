@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe ein Anliegen zu meiner letzten Stromrechnung. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>> und der Rechnungsbetrag beläuft sich auf 240 Euro, was deutlich höher ist als meine bisherigen monatlichen Zahlungen. Ich hätte gerne eine Erklärung für diesen unerwartet hohen Betrag. 
+
+Für Rückfragen stehe ich Ihnen gern zur Verfügung. Meine Vertragsnummer lautet <<404567891&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>. Sie können mich unter meiner E-Mail-Adresse <<thomas.mueller@gmail.com&&EMAIL>> oder telefonisch unter <<0171 1234567&&TELEFONNUMMER>> erreichen.
+
+Vielen Dank im Voraus für Ihre Unterstützung und ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<<Thomas Müller&&PERSON>>

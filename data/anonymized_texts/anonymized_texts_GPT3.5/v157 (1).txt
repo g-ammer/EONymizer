@@ -1,0 +1,13 @@
+Guten Tag E.ON Team,
+
+ich wende mich an Sie in Bezug auf meinen Energievertrag, Vertragsnummer <<402456789&&VERTRAGSNUMMER>>. Meine Geschäftspartnernummer, sollte sie benötigt werden, lautet <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Meine Frage bezieht sich auf die Vertragslaufzeit meines momentanen Vertrags. Ich bin mir derzeit nicht sicher, ob es sich um einen Vertrag mit fester Laufzeit handelt oder ob es ein flexibler Tarif ist, der monatlich kündbar ist. Könnten Sie mir hierzu vielleicht weiterhelfen, da ich mein Vertragsdokument nicht finden kann?
+
+Ich bin momentan schwer erreichbar, daher wäre es mir es recht, wenn Sie Ihre Antwort per E-Mail an <<hans.mueller@web.de&&EMAIL>> senden.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+
+Tel: <<01731234567&&TELEFONNUMMER>>
+<<lsenstraße 90&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>

@@ -1,0 +1,12 @@
+ Hallo E.ON Team,
+
+ich habe Probleme mit der Anmeldung in der App. Mein Login scheint nicht zu funktionieren. Ich habe schon mehrmals das Passwort zurückgesetzt, aber immer wieder erhalte ich die Meldung, dass meine Anmeldeinformationen nicht korrekt sind.
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Könnten Sie bitte überprüfen, ob es eine Störung im System gibt oder ob das Problem eventuell auf meiner Seite liegt?
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

@@ -1,0 +1,15 @@
+Sehr geehrte Kundensupport-Team,
+
+ich kontaktiere Sie als E.ON-Kunde unter meinem Kundenkonto mit der Geschäftspartnernummer <<1309876543&&GESCHAEFTSPARTNERNUMMER>> zu einer Frage, die ich in Bezug auf meinen Vertrag habe.
+
+Ich trage derzeit einen Standard-Jahresvertrag bei E.ON mit der Vertragsnummer <<2329876543210&&VERTRAGSNUMMER>>. Hier aus meinem Verständnis hat der Vertrag eine Laufzeit von einem Jahr und sollte demnach Ende dieses Jahres auslaufen. Daher würde ich es sehr schätzen, wenn Sie mir bitte bestätigen könnten, ob mein Verständnis korrekt ist.
+
+Außerdem, wenn mein Vertrag tatsächlich am Ende dieses Jahres endet, könnte ich die Möglichkeit haben, ihn zu verlängern geben. Könnte ich bitte Informationen über jedwede Verlängerungsmöglichkeiten und wenn irgendwelche Sonderbedingungen geltend sind, zu erhalten.
+
+Ihre schnelle Antwort wird sehr geschätzt.
+
+Vielen Dank und beste Grüße,
+<<Daniel Schmidt&&PERSON>>
+<<Dahlienstraße 4&&STRASSE>>, <<24103&&PLZ>> <<Kiel&&ORT>>
+Telefon: <<0431 123456&&TELEFONNUMMER>>
+E-Mail: <<Daniel.Schmidt@mail.de&&EMAIL>>

@@ -1,0 +1,11 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe gerade meine aktuelle Energieabrechnung erhalten. Die Rechnungsnummer lautet <RECHNUNGSNUMMER> und der Betrag scheint extrem hoch zu sein. Könnten Sie mir bitte den Rechnungsbetrag noch einmal erläutern?
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

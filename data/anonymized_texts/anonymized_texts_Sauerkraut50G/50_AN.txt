@@ -1,0 +1,12 @@
+ Sehr geehrter Kundenservice,
+
+ich hoffe, diese Nachricht trifft Sie gut. Mein Name ist <PERSON> und ich lebe am <STRASSE>, <PLZ><ORT>. Ich habe einen Stromvertrag bei E.ON unter der Vertragsnummer <VERTRAGSNUMMER>.
+
+Seit einiger Zeit habe ich Schwierigkeiten mit meiner monatlichen Rechnung. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>>. Die Beträge scheinen nicht konsistent zu sein und ich verstehe die detaillierte Aufschlüsselung der Kosten auf der Rechnung nicht ganz.
+
+Könnte ich bitte einen Rückruf von einem Kundenberater erhalten, um diese Angelegenheit zu besprechen? Sie können mich unter der Nummer <TELEFONNUMMER> erreichen. Alternativ können Sie mir auch eine E-Mail an <EMAIL> schicken.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und freue mich auf eine Klärung meiner Anliegen.
+
+Mit freundlichen Grüßen,
+<PERSON>

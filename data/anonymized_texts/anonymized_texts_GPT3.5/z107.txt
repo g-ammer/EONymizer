@@ -1,0 +1,22 @@
+Betreff: Frage zur Ablesung meines Zählerstandes
+
+Sehr geehrtes E.ON Kundenserviceteam,
+
+da neulich meine jährliche Zählerablesung anstand, wurde mein aktueller Zählerstand von mir selber abgelesen und eingetragen. Nun bin ich etwas verwirrt und hätte eine Frage dazu.
+
+Bei der Prüfung meiner jüngsten Rechnung mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> habe ich bemerkt, dass dort ein viel höherer Zählerstand als tatsächlich abgelesen eingetragen war. Dies hat dazu geführt, dass die von mir zu zahlende Summe viel höher ist, als ich normalerweise aufgrund meines normalen Stromverbrauchs erwarte.
+
+Die betreffende Zählernummer lautet <<1234567&&ZAEHLERNUMMER>> und bezieht sich auf meinen Energievertrag mit der Vertragsnummer <<402123456&&VERTRAGSNUMMER>>. Ich bin mir absolut sicher, dass ich den Zählerstand korrekt abgelesen und übermittelt habe.
+
+Könnten Sie daher bitte die Ablesung überprüfen und eine eventuelle Korrektur vornehmen, damit meine Rechnung auf den tatsächlichen Verbrauch angepasst wird?
+
+Ich hoffe sehr, dass sich dieser Vorfall klären lässt und freue mich auf Ihre positive Rückmeldung.
+
+Vielen Dank für Ihre Hilfe in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<<Susanne Müller&&PERSON>>
+<<Am Beispielplatz 10&&STRASSE>>
+<<98765&&PLZ>><<Musterstadt&&ORT>>
+Tel: <<01234 567890&&TELEFONNUMMER>>
+Email: <<su.mueller@example.com&&EMAIL>>

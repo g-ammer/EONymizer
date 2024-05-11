@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe eine Frage zum Thema Zählerstand. Ich habe kürzlich den Zählerstand an meinem Hauptwohnsitz in der <<Friedrichstraße 45&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>> abgelesen. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>. Ich bin mir jedoch unsicher, ob ich den Stand korrekt abgelesen habe. Ergibt ein Wert von <<12345&&ZAEHLERNUMMER>> kWh Sinn oder habe ich mich möglicherweise vertan? Mir scheint der Wert etwas hoch.
+
+Bitte nehmen Sie Kontakt zu mir per E-Mail (<<max.muster@mustermail.de&&EMAIL>>) oder Telefon (<<030/1234567&&TELEFONNUMMER>>) auf.
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+
+<<Max Muster&&PERSON>>

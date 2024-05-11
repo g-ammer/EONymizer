@@ -1,0 +1,7 @@
+Guten Tag 
+
+Meine Name ist <PERSON> und  mein Wohnsitz ist <ADRESSE>. Ich habe Fragen zu meinem neuen Vertrag bei E.ON. Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Ich bin erst seit kurzem Kunde bei Ihnen und habe Fragen zur Abrechnung meines Zählerstandes. Kann mir ein Kundenbetreuer dabei assistieren und mir erklären, wie das genau funktioniert? Meine Zählernummer ist A567BCD89. 
+
+Mit freundlichen Grüßen, 
+
+<PERSON>.

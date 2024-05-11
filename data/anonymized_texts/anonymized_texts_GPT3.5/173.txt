@@ -1,0 +1,13 @@
+Betreff: Frage zur Vertragsänderung
+
+Guten Tag,
+
+Ich bin <<Michael Meier&&PERSON>>, Vertragsnummer <<400023456&&VERTRAGSNUMMER>>. Ich würde gerne wissen, wie ich meinen Vertrag ändern kann? Kann ich das online machen oder muss ich einen Kundenberater sprechen?
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<<Michael Meier&&PERSON>>
+<<Musterstraße 4, 12345 Musterstadt&&STRASSE>><<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+<<michael.meier@mustermail.de&&EMAIL>>

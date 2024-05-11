@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <<1401827390&&GESCHAEFTSPARTNERNUMMER>> und habe eine Frage zum Zählerstand. Mein Zähler zeigt momentan einen erheblich höheren Verbrauch an als gewöhnlich. Die Zählernummer lautet <<182930&&ZAEHLERNUMMER>>. Könnten Sie bitte überprüfen, ob mir der korrekte Zählerstand in Rechnung gestellt wird oder ob hier ein Fehler vorliegt?
+Ich bedanke mich im Voraus für Ihre Mühe und freue mich auf eine schnelle Rückmeldung.
+Mit freundlichen Grüßen,
+<<Leonhard Meyer&&PERSON>>

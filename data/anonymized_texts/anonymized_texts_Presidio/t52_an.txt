@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich bin <PERSON> und meine Kundennummer bei E.ON ist <GESCHÄFTSPARTNERNR.>. Ich würde mich freuen, wenn Sie mir mit der E.ON App helfen könnten. Ich habe kürzlich mein Smartphone gewechselt und jetzt kann ich mich nicht mehr in der App anmelden. Ich verwende meine üblichen Login-Daten, aber es wird immer 'Anmeldefehler' angezeigt.
+
+Meine E-Mail-Adresse ist <EMAIL> und die Kontakttelefonnummer ist <TELEFONNR.>. Sollten Sie weitere Informationen wie meine Vertragsnummer (<VERTRAGSNR.>) oder Zählernummer (<ZÄHLERNR.>) benötigen, zögern Sie bitte nicht, mich zu kontaktieren. 
+
+Ich wäre für jede Unterstützung dankbar, die Sie mir anbieten könnten, um dieses Problem zu lösen. 
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+
+<PERSON>

@@ -1,0 +1,14 @@
+ Sehr geehrtes E.ON Service-Team,
+
+Hier spreche ich, <PERSON> aus der Adlerstraße 23, 73728 Esslingen. Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Vergangene Woche habe ich meine jüngste Rechnung von Ihnen bekommen, Rechnungsnummer <<RECHNUNGSNUMMER>>. Beim Durchsehen der Rechnung konnte ich jedoch den Rechnungsbetrag nicht nachvollziehen. Meiner Meinung nach ist er weitaus höher als erwartet.
+
+Könnten Sie bitte überprüfen, ob es irgendwelche Fehler in der Abrechnung gab oder ob der erhöhte Verbrauch irgendwie anders begründet ist? Gibt es eventuell eine Möglichkeit, dass ich eine detaillierte Aufschlüsselung der Kostenpunkte erhalte, um besser zu verstehen, wie der Gesamtbetrag zustande kommt?
+
+Ich freue mich auf Ihre baldige Antwort und danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+<EMAIL>

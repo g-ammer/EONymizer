@@ -1,0 +1,13 @@
+ Betreff: Unklarheit bezüglich der letzten Rechnung
+
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zur meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und der Rechnungsbetrag beläuft sich auf 150,00 Euro. Ich bin mir aber nicht ganz sicher, ob dieser hohe Betrag korrekt ist, da ich in dem Abrechnungszeitraum meinen Stromverbrauch reduziert habe. Könnten Sie das bitte überprüfen?
+
+Ich hoffe auf eine baldige Klärung dieser Angelegenheit. Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Mail: <EMAIL>

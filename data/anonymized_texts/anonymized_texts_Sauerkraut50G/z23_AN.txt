@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe eine Frage zum Zählerstand.
+Ich möchte meinen aktuellen Zählerstand ablesen und überprüfen, aber ich bin mir nicht sicher, wie das funktioniert. Könnten Sie mir bitte eine Anleitung oder Hilfe dazu anbieten?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

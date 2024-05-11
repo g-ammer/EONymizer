@@ -1,0 +1,18 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, nun besitze ich seit einiger Zeit einen Stromvertrag bei E.ON, Vertragsnummer <VERTRAGSNUMMER>. Soweit bin ich mit eurer Leistung auch sehr zufrieden.
+
+Aber momentan begegne ich einem kleinen Problem mit abgerechneten Beträgen. Auf meiner letzten Rechnung (Rechnungsnummer <<RECHNUNGSNUMMER>>) ist ein Posten, den ich prompt nicht so recht verstehe.
+
+Möglicherweise könnte ein freundliches Kundenberater mir das mal näher erläutern? Wo könnte man so eine Anfrage eventuell umgehend am Telefon schneller lösen? Wie ist die Erreichbarkeit von eurem Kundenservice?
+
+Vielen Dank für eure hilfreiche Unterstützung.
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>
+
+MfG,
+<PERSON>

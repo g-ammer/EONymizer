@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich hätte eine Frage zu meinem laufenden Vertrag mit der Vertragsnummer <<253212456728&&VERTRAGSNUMMER>>. Wie lange läuft der Vertrag nochen bitte genau bei euch anggeben.
+
+Vielen Dank im Voraus für eine Aufklärung.
+
+Viele Grüße,
+<<Leonhard Friedrich&&PERSON>>
+<<Lippendorfstraße 36A&&STRASSE>>,
+<<04279&&PLZ>> <<Leipzig&&ORT>>
+<<email.leon.f@muster.com&&EMAIL>>

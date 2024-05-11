@@ -1,0 +1,16 @@
+Guten Tag,
+
+mein Name ist <<Simon Schulze&&PERSON>> und ich bin Kunde bei E.ON. Meine Geschäftspartnernummer lautet <<1406567890&&GESCHAEFTSPARTNERNUMMER>> und meine Vertragsnummer ist <<402534321&&VERTRAGSNUMMER>>.
+
+Ich habe kürzlich meine letzte Rechnung von E.ON erhalten. Bei der Überprüfung der Rechnungsnummer <<5863201892&&RECHNUNGSNUMMER>>, fiel mir auf, dass der Rechnungsbetrag höher ist als ich erwartet habe. Könnten Sie bitte überprüfen, ob die Rechnung korrekt ist?
+
+Ich habe bereits einen Blick auf meinen Zählerstand geworfen. Die Zählernummer <<342312&&ZAEHLERNUMMER>> ist korrekt abgelesen und ich sehe keine besonderen Spitzen in meinem Verbrauch. Die Zahlung ist noch ausstehend, weil ich eine Klärung bevorzuge vor der Zahlung.
+
+Vielen Dank für ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+<<Simon Schulze&&PERSON>>
+<<Meisenweg 12&&STRASSE>>
+<<30177&&PLZ>><<Hannover&&ORT>>
+Telefon: <<0511 78965432&&TELEFONNUMMER>>
+Email: <<Simon.Schulze@email.de&&EMAIL>>

@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+mein Name ist <<Stefan Marx&&PERSON>> und ich wohne in der <<Carl-Benz-Straße 65&&STRASSE>>, <<78479&&PLZ>> <<Konstanz&&ORT>>. Ich habe eine Frage bezüglich des Zählerstands meines Vertrags. Meine Vertragsnummer lautet <<401928105&&VERTRAGSNUMMER>>. Da ich aus meinen postalischen Unterlagen den Zählerstand hinzufügen muss, könnten Sie mir bitte mitteilen, wie und wo ich das machen kann?
+
+Duch Zufall bin ich auf Ihre Webseite gestoßen, doch ich konnte keine geeignete Anleitung für meinen technischen Status finden. Soll ich ihnen den aktuellen Zählerstand mal per Mail mitteilen oder ist ein Foto erforderlich?
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Stefan Marx&&PERSON>>
+E-Mail: <<marx.stefan@gmx.de&&EMAIL>>
+Telefon: <<09733482119&&TELEFONNUMMER>>

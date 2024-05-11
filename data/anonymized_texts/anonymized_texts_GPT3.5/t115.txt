@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,
+ich habe ein technisches Problem mit meiner E.ON App. Ich kann mich nicht mehr einloggen, obwohl ich die richtigen Daten eingebe. Es handelt sich um die Geschäftspartnernummer <<1301234567&&GESCHAEFTSPARTNERNUMMER>> und die Vertragsnummer <<232123456789&&VERTRAGSNUMMER>>. Gibt es momentan eine Störung oder liegt das Problem bei mir?
+Ich würde mich über eine schnelle Rückmeldung freuen. Bitte kontaktieren Sie mich unter meiner Email-Adresse: <<j.schmidt@beispiel.de&&EMAIL>> oder unter meiner Telefonnummer <<0171123456&&TELEFONNUMMER>>.
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Johannes Schmidt&&PERSON>>

@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und hätte eine Frage bezüglich meines Vertrages. Meine Vertragsnummer lautet <<402827364&&VERTRAGSNUMMER>>. Ich weiß leider nicht genau, wie lange die Vertragslaufzeit ist und wann eine eventuelle Kündigung möglich ist. Könnten Sie mir hierzu bitte mehr Informationen zukommen lassen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<M. Schmidt&&PERSON>>
+<<schmidt.marie@web.de&&EMAIL>>
+Tel: <<0176 12345678&&TELEFONNUMMER>>
+<<Rosenstraße 1&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>

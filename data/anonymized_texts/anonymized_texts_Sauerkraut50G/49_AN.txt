@@ -1,0 +1,16 @@
+ Betreff: Anfrage bezüglich Kundenservice
+
+Guten Tag,
+
+mein Name ist <PERSON> und meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich bin seit einiger Zeit Kunde bei E.ON und benötige nun Ihre Hilfe. Der Kundenservice bei E.ON hat mich bisher noch nie enttäuscht, worüber ich sehr froh bin.
+
+Leider muss ich sagen, dass mir in den letzten Monaten ein paar Unstimmigkeiten aufgefallen sind. Speziell geht es mir um das Thema Kundenservice und den Kundendialog mit dem Kundenberater.
+
+Ich habe einige Rückfragen zu meiner letzten Abrechnung. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und die Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Ich bin mir ziemlich sicher, dass die Abrechnung nicht ganz korrekt ist und würde das gerne mit einem Kundenberater besprechen.
+
+Können Sie mir bitte helfen? Es wäre sehr hilfreich, wenn ich einen festen Ansprechpartner hätte, der sich um mein Anliegen kümmern könnte.
+
+Ich sehe erwartungsvoll Ihrer Rückantwort entgegen und hoffe auf eine schnelle und effiziente Lösung meines Problems.
+
+Viele Grüße,
+<PERSON>

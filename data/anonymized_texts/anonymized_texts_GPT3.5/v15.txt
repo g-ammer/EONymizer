@@ -1,0 +1,8 @@
+Guten Tag E.ON Team,
+
+ich brauche Information bezüglich meiner Vertragslaufzeit. Ich besitze einen Stromvertrag bei Ihnen mit der Vertragsnummer <<402567123&&VERTRAGSNUMMER>>. Ich ackere leider gerade durch viel Papierkram und finde einfach nicht wenn mein Vertrag endet.
+
+Ciao!
+<<Sol Hoetter&&PERSON>>
+<<Arkadienallee 12a, 70327 Stuttgart&&STRASSE>><<hoetter.sol@gmail.com&&EMAIL>>
+Tel.: <<0456-2836528&&TELEFONNUMMER>>

@@ -1,0 +1,8 @@
+ Sehr geehrte Damen und Herren,
+
+<PERSON> aus <ORT>, <STRASSE>. KundIn <NAME>.
+
+<ANONYMIZED>
+
+Mit freundlichen Grüßen,
+<ANONYMIZED>

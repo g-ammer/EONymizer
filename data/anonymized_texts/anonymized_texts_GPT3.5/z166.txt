@@ -1,0 +1,12 @@
+Guten Tag E.ON Kundenservice,
+
+ich bin Herr <<Klaus Schmidt&&PERSON>> und wohne in der <<Heinrich-Heine-Straße 12&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>. Ich habe eine Frage bezüglich des Zählerstandes meines Energievertrags. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>.
+
+Ich würde gerne meinen aktuellen Zählerstand ablesen, bin mir aber nicht sicher, wo ich die Zählernummer finde und wie ich den Zählerstand richtig ablese. Könnten Sie mir dabei bitte behilflich sein?
+
+Ich freue mich auf Ihre Rückmeldung. Sie erreichen mich unter der Telefonnummer <<0176 12345678&&TELEFONNUMMER>> oder per E-Mail an <<k.schmidt@gmail.com&&EMAIL>>.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<<Klaus Schmidt&&PERSON>>

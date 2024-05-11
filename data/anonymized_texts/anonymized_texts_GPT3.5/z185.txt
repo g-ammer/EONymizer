@@ -1,0 +1,6 @@
+Betreff: Frage zu meinem Zählerstand
+
+Sehr geehrte Damen und Herren,
+ich bin Kunde von E.ON mit der Geschäftspartnernummer <<1309876543&&GESCHAEFTSPARTNERNUMMER>>. Kürzlich habe ich meinen Zählerstand abgelesen und gemerkt, dass dieser nicht mit meinem monatlichen Verbrauch übereinstimmt. Könnten Sie das bitte überprüfen? Meine Zählernummer ist <<987654321&&ZAEHLERNUMMER>>.
+Vielen Dank,
+<<Mark&&PERSON>>

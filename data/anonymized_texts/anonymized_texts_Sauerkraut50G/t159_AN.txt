@@ -1,0 +1,10 @@
+ Hallo,
+
+mein Name ist <PERSON> und ich habe eine Frage bezüglich meines E.ON Kontos mit der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Ich versuche mich in Ihrem Service-Portal einzuloggen, bekomme jedoch die Meldung, dass meine Nummer ungültig ist. Hat es mit meiner neuen E.ON App zu tun? Ist mein Vertragskonto mit der Nummer <VERTRAGSNUMMER> korrekt? Könnten Sie bitte meine Verbindung prüfen, falls es eine technische Störung gibt?
+
+Ich freue mich auf Ihre Unterstützung.
+
+Vielen Dank,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

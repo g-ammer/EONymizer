@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung von E.ON. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>> und der Rechnungsbetrag beträgt <<120€&&ANONYMIZED>>. Leider kann ich diesen Betrag aktuell nicht aufbringen. Ist es möglich, die Zahlung in Raten abzuwickeln?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Waldweg 5, 12345 Musterstadt&&STRASSE>>,
+<<E-Mail: h.muster@mail.de&&EMAIL>>
+Vertragsnummer: <<402345678&&VERTRAGSNUMMER>>
+Geschäftspartnernummer: <<201234567&&GESCHAEFTSPARTNERNUMMER>>

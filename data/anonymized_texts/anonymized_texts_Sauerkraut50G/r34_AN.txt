@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meiner Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Wenn ich es richtig verstehe, kommt der angegebenen Rechnungsbetrag viel höher, als ich erwartet hatte. Ist dies nur ein Fehler, oder gab es tatsächlich einen Ausreißer im Verbrauch zu erkennen? Mein Vertragsnummer ist <VERTRAGSNUMMER> falls benötigt.
+
+Vielen Dank für Ihre Unterstützung.
+
+mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

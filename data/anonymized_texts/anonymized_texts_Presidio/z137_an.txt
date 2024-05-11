@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich wohne in der <ADRESSE>. Ich habe eine Frage bezüglich des Zählerstands meines Vertrags. Meine Vertragsnummer lautet <VERTRAGSNR.>. Da ich aus meinen postalischen Unterlagen den Zählerstand hinzufügen muss, könnten Sie mir bitte mitteilen, wie und wo ich das machen kann?
+
+Duch Zufall bin ich auf Ihre Webseite gestoßen, doch ich konnte keine geeignete Anleitung für meinen technischen Status finden. Soll ich ihnen den aktuellen Zählerstand mal per Mail mitteilen oder ist ein Foto erforderlich?
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+E-Mail:  <EMAIL>
+Telefon: <TELEFONNR.>

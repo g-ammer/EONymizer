@@ -1,0 +1,11 @@
+ Hallo,
+
+mein Name ist <PERSON> und ich habe eine Frage zu meinem Energievertrag mit der Nummer <VERTRAGSNUMMER>. Kann ich diesen online im Kundenbereich selbst verwalten oder benötige ich dazu die Hilfe eines Kundenberaters? Bitte geben Sie mir die nötigen Informationen, um mein Anliegen zu klären.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

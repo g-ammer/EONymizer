@@ -1,0 +1,12 @@
+ Guten Tag E.ON Kundenservice,
+
+Leider funktioniert der Login in meine E.ON App auf dem Handy seit einiger Zeit nicht mehr richtig. Sobald ich meine Nutzerdaten eingebe, um mich einzuloggen, stürzt die App ständig ab. Das ist relativ frustrierend und kostet viel Zeit.
+
+Konkret handelt es sich um folgende Kundendaten: Die Vertragsnummer ist die <VERTRAGSNUMMER> und die Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Meine Postleitzahl ist die <<PLZ>> Berlin.
+
+Es wäre toll, wenn ihr mir direkte Unterstützung leisten könntet, um diese technischen Probleme zu klären. Braucht ihr dafür vielleicht weitere Informationen von mir?
+
+Vielen Dank schon mal im voraus.
+
+Mit freundlichen Grüßen
+<PERSON>

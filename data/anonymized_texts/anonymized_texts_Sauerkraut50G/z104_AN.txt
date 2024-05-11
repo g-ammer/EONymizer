@@ -1,0 +1,12 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, ich bin Kunde bei E.ON und habe eine Frage zu meinem aktuellen Zählerstand. Die Zählernummer ist <ZAEHLERNRUMMER> und meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Ich musste kürzlich feststellen, dass mein Zählerstand auf meiner Rechnung höher angegeben ist, als er tatsächlich ist. Ich habe gestern meinen Zählerstand überprüft und festgestellt, dass er niedriger ist als der auf meiner letzten Rechnung.
+
+Könnten Sie bitte überprüfen, ob es einen Fehler bei der Erfassung des Zählerstandes gab oder ob es andere Gründe für diese Diskrepanz gibt? Würde eine erneute Ablesung des Zählerstandes helfen?
+
+Ich freue mich auf Ihre Rückmeldung. Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>

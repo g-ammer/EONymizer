@@ -1,0 +1,14 @@
+Guten Tag E.ON Kundenservice,
+
+ich habe heute versucht, meinen aktuellen Vertrag, Vertragsnummer <<402938475&&VERTRAGSNUMMER>>, online einzusehen, allerdings blieb der Status des Vertrags unklar. Könnten Sie mir daher bitte Auskunft über die aktuelle Vertragslaufzeit geben?
+
+Zudem würde ich gerne wissen, unter welchen Bedingungen eine Kündigung möglich wäre und ob es dabei eine Kündigungsfrist gibt. 
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Viele Grüße,
+<<Lena Schmitt&&PERSON>>
+<<lenaschmitt@gmail.com&&EMAIL>>
+<<Münchener Str. 15&&STRASSE>>
+<<80335&&PLZ>><<München&&ORT>>
+Tel.: <<089/12345678&&TELEFONNUMMER>>

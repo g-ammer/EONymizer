@@ -1,0 +1,13 @@
+Guten Tag,
+
+Ich bin Kunde bei Ihnen und habe Fragen zu meinem Vertrag. Meine Vertragsnummer lautet <<282693947283&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<170129392&&GESCHAEFTSPARTNERNUMMER>>.
+
+Zunächst möchte ich gern wissen, wie lange die Laufzeit dieses Vertrages ist und wann das Vertragsende ist. Weiterhin hätte ich gern Informationen zu den Kündigungsfristen.
+
+Vielen Dank im Voraus für Ihre Bemühungen.
+
+Mit freundlichen Grüßen,
+<<Felix Müller&&PERSON>>
+<<Müllerstraße 23&&STRASSE>>
+<<85356&&PLZ>><<München&&ORT>>
+E-Mail: <<mullerfelix@mail.de&&EMAIL>>

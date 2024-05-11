@@ -1,0 +1,16 @@
+ Betreff: Nachfrage bezüglich meines Zählerstandes
+
+Sehr geehrtes E.ON Serviceteam,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen. Vertragsnummer 402937816.
+
+Mir scheint, dass mein jüngst notierter Zählerstand seltsam hoch anmutet. Deshalb kontaktiere ich Sie nun mit meiner Sorge. Ist es möglich, eine Überprüfung zu meinem Zählerstand zu erhalten?
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und freue mich auf eine zügige Bearbeitung.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>

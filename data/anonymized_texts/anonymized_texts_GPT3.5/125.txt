@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <<Anna Schröder&&PERSON>> und ich bin Kunde bei E.ON mit der Geschäftspartnernummer <<1402948388&&GESCHAEFTSPARTNERNUMMER>>.
+
+Während ich meine Aufzeichnungen überprüfte, fiel mir auf, dass ich Probleme mit einigen Rechnungen habe, die mir geschickt wurden. Die Rechnungsnummern sind <<9509280940&&RECHNUNGSNUMMER>> und <<9509280950&&RECHNUNGSNUMMER>>. Es wurden darin zusätzliche Gebühren berechnet, die mir etwas verwirrend vorkommen.
+
+Könnte ein Kundenberater dies bitte überprüfen und mir die Details der zusätzlichen Gebühren erklären? Wenn möglich, wäre es für mich ideal, wenn dieser Vorgang vor dem 20. des Monats abgeschlossen werden könnte.
+
+Ich freue mich auf Ihre baldige Rückmeldung und bedanke mich im Voraus für Ihre Unterstützung.
+
+Viele Grüße,
+<<Anna Schröder&&PERSON>>

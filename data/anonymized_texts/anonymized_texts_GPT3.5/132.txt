@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich wende mich mit einer dringenden Frage an Sie. Ich habe vor einigen Tagen einen Anruf von einem Ihrer Mitarbeiter erhalten, in welchem mir ein neuer Tarif angeboten wurde. Leider war ich zu diesem Zeitpunkt sehr beschäftigt und konnte mich nicht ausreichend mit den Details befassen.
+
+Könnten Sie mir bitte die Details dieses Angebots noch einmal schriftlich zukommen lassen? Es handelt sich um den Vertrag mit der Vertragsnummer <<402345678&&VERTRAGSNUMMER>>.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Tobias Müller&&PERSON>>
+<<Tobias.Müller@email.de&&EMAIL>>
+<<Münchner Str. 10&&STRASSE>>, <<81540&&PLZ>>,
+ <<München&&ORT>>
+Telefonnummer: <<0151 12345678&&TELEFONNUMMER>>

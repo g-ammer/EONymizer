@@ -1,0 +1,16 @@
+ Hallo Statek Hase,
+
+Vielen Dank für Ihre Nachricht und Entschuldigung für die Unannehmlichkeiten mit unserer App. Leider können wir keine personenbezogenen Daten wie Telefonnummern oder E-Mail Adressen verarbeiten. Wir können Ihnen aber gerne allgemeine Hilfestellungen geben, um das Problem zu beheben.
+
+Für den Login in die E.ON App können Sie folgende Schritte ausprobieren:
+
+1. Stellen Sie sicher, dass Sie die aktuellste Version der E.ON App installiert haben.
+2. Überprüfen Sie Ihre Internetverbindung und stellen Sie sicher, dass Sie mit dem Internet verbunden sind.
+3. Löschen Sie den Cache und die Cookies in Ihrem Browser, falls Sie sich über den Browser einloggen.
+4. Versuchen Sie, sich mit Ihren Zugangsdaten erneut anzumelden.
+5. Wenn das Problem weiterhin besteht, setzen Sie Ihr Passwort zurück und versuchen Sie es erneut.
+
+Sollte das Problem weiterhin bestehen, können Sie uns gerne unter <ANONYMIZED> kontaktieren und wir werden unser Bestes tun, um Ihnen zu helfen.
+
+Mit freundlichen Grüßen,
+E.ON Technischer Support

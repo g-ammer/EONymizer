@@ -1,0 +1,10 @@
+ Guten Tag E.ON Kundenservice,
+
+hier ist <PERSON> von der <STRASSE> in <ORT>. Da ich Fragen zu meiner letzten Abrechnung habe, wollte ich Sie um einen Rückruf bitten. Unter Vertragsnummer <VERTRAGSNUMMER> dürfte alles zu finden sein. Erreichen können Sie mich unter der Telefonnummer <<TELEFONNUMMER>> oder per Mail an <EMAIL>.
+
+Ich stehe Ihnen sowohl Arbeits- als auch vor Abends zur Verfügung und würde eine direkte Klärung bevorzugt über das Telefon abwickeln wollen.
+
+Ich bedanke mich im Voraus und freue mich auf Ihren Anruf.
+
+Mit freundlichen Grüßen,
+<PERSON>

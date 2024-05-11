@@ -1,0 +1,12 @@
+Guten Tag, 
+
+ich bin Kunde bei Ihnen und hätte eine Frage zum Thema Zählerstand. Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>. Ich habe meinen Zählerstand erfasst und möchte wissen, ob ich diesen nun an Sie weiterleiten soll oder ob das automatisch passiert. 
+
+Vielen Dank für Ihre Hilfe und Unterstützung.
+
+Mit freundlichen Grüßen, 
+<<Hans Müller&&PERSON>>
+<<hans.mueller@example.com&&EMAIL>>
+<<Musterstraße 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Telefonnummer: <<0123456789&&TELEFONNUMMER>>

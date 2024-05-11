@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung. Meine Rechnungsnummer ist <<RECHNUNGSNUMMER>> und ich bin Kunde unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Der Rechnungsbetrag scheint höher als üblich. Könnten Sie bitte überprüfen, ob es einen Fehler gab?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

@@ -1,0 +1,8 @@
+Guten Tag,
+
+ich habe eine Frage zu meinem Vertrag bei Ihnen. Meine Vertragsnummer ist <<400123456&&VERTRAGSNUMMER>> und ich wohne in der <<Goethestraße 12&&STRASSE>> in <<10115&&PLZ>> <<Berlin&&ORT>>. Wie lange läuft mein Vertrag noch und bis wann muss ich ihn kündigen, wenn ich das möchte? Würden Sie mir bitte diese Information zukommen lassen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>

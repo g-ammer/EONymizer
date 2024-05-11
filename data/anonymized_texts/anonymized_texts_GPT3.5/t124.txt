@@ -1,0 +1,18 @@
+Guten Tag,
+
+ich hoffe, Sie können mir weiterhelfen. Ich bin Kunde bei E.ON und verwende Ihre App zur Verwaltung meiner Verträge. Normalerweise klappt das auch ganz gut, doch seit ein paar Tagen habe ich Schwierigkeiten beim Login.
+
+Jedes Mal, wenn ich mich anmelden möchte, erhalte ich die Fehlermeldung "Technischer Fehler. Bitte versuchen Sie es später erneut." Ich habe meine Zugangsdaten mehrmals überprüft und bin mir sicher, dass sie korrekt sind. Auch ein Neustart meines Handys und das erneute Herunterladen der App haben das Problem nicht behoben.
+
+Ist dies ein bekannter Fehler? Gibt es eine Störung in Ihrem System oder mache ich etwas falsch?
+
+Zu Ihrer Information: Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Vielleicht hilft das bei der Lösung meines Problems.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und hoffe auf eine zeitnahe Rückmeldung.
+
+Mit freundlichen Grüßen
+<<Johannes Müller&&PERSON>>
+
+Telefon: <<0170/1234567&&TELEFONNUMMER>>
+E-Mail: <<j.müller@mail.de&&EMAIL>>
+Adresse: <<Hauptstraße 123, 12345 Berlin&&STRASSE>><<12345&&PLZ>><<Berlin&&ORT>>

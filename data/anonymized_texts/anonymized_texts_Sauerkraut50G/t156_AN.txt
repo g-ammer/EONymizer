@@ -1,0 +1,14 @@
+ Guten Tag,
+
+ich bin Kunde bei Ihnen und benötige technischen Support für die E.ON App. Ich habe Schwierigkeiten beim Login, da die App meine Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> nicht akzeptiert und mir auch keine Fehlermeldung anzeigt. Ich bin mir sicher, dass die eingegebene Nummer richtig ist.
+
+Können Sie mir bitte weiterhelfen und mich informieren, wenn es eine Störung gibt oder ob ich etwas falsch mache?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Gruß,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+Tel: <TELEFONNUMMER>
+E-Mail: <EMAIL>

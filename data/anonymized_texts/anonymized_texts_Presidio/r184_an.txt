@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe Fragen zu meiner neuesten E.ON Rechnung mit der Rechnungsnummer <RECHNUNGSNR.>, die ich auf dem Vertrag mit der ID <VERTRAGSNR.> abgestimmt habe. Wäre es möglich, dass Sie mir eine genauere Erläuterung zu einigen der aufgeführten Posten - insbesondere zum genauen Rechnungsbetrag - liefern könnten? Der Betrag scheint höher zu sein als ich erwartet habe.
+
+Vielen Dank im Voraus für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<PERSON> 
+<ADRESSE><TELEFONNR.><ADRESSE>
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

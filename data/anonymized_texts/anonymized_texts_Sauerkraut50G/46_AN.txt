@@ -1,0 +1,14 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNR>. Es gab eine Preiserhöhung, die nicht angekündigt war und ich würde gerne wissen, warum das so ist. Könnte ein Kundenberater sich bitte mit mir in Verbindung setzen?
+
+Mein Vertragsnummer lautet <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+Tel.: <TELEFONNUMMER>
+E-Mail: <EMAIL>

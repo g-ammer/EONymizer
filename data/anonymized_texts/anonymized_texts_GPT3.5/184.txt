@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich meines Vertrages mit der Vertragsnummer <<400123456&&VERTRAGSNUMMER>>. Können Sie mir bitte sagen, wie ich meinen aktuellen Verbrauch einsehen kann?
+
+Mit freundlichen Grüßen,
+<<Sebastian Müller&&PERSON>>
+<<Heinrich-Heine-Straße 4&&STRASSE>>
+<<90443&&PLZ>><<Nürnberg&&ORT>>
+Tel.: <<+49 911 1234567&&TELEFONNUMMER>>
+E-Mail: <<s.mueller@gmx.de&&EMAIL>>

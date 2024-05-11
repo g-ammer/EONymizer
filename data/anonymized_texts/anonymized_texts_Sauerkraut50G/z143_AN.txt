@@ -1,0 +1,16 @@
+ Guten Tag,
+
+ich hoffe, Sie können mir bei meiner Frage behilflich sein. Heute habe ich versucht, auf Ihrer Webseite meinen aktuellen Zählerstand für mein Vertragskonto <VERTRAGSNUMMER> einzugeben, aber leider hatten wir keine Internetquelle. Nun wollte ich Sie fragen, ob es eine andere Möglichkeit gibt, Ihnen meinen Zählerstand mitzuteilen. Kann ich ihn auch telefonisch durchgeben?
+
+Daten für Ihre Anfrage:
+Vertragsnummer: <VERTRAGSNUMMER>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>
+Zählernummer: <ZAEHLERNRUMMER>
+
+Vielen Dank für Ihre Unterstützung!
+
+Mit freundlichen Grüßen
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich hätte eine kurze Frage zur meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir dieses Mal extrem hoch und ich verstehe nicht ganz, warum das so ist.
+
+Könnten Sie mir bitte eine genaue Berechnung des Rechnungsbetrages zuschicken oder erklären, wie dieser zustande gekommen ist? Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus für Ihre Mühe und ich freue mich auf Ihre baldige Rückmeldung.
+
+Viele Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel.: <TELEFONNUMMER>
+Email: <EMAIL>

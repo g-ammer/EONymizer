@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich habe ein Problem mit meiner E.ON App. Ich kann mich nicht mehr einloggen. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<200123456&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir bitte dabei helfen, das Problem zu beheben?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Frieda Schmidt&&PERSON>>
+<<Friedenstraße 12&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+<<frieda.schmidt@mail.de&&EMAIL>>

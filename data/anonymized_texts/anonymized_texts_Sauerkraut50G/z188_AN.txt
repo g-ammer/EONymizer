@@ -1,0 +1,15 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meinem Zählerstand. Mein Zähler zeigt derzeit einen Stand von <ZAEHLERNRUMMER> kWh an. Bei meiner letzten Abrechnung, die ich vor zwei Wochen erhalten habe (Rechnungsnummer: <<RECHNUNGSNUMMER>>), wurde jedoch ein Stand von 1350 kWh angegeben. Ich bin mir sicher, dass ich den Zählerstand korrekt abgelesen habe.
+
+Könnten Sie mir bitte erklären, wie es zu dieser Diskrepanz kommen konnte? Gibt es möglicherweise einen Fehler in der Abrechnung oder beim Zähler?
+
+Meine Vertragsnummer bei Ihnen lautet: <VERTRAGSNUMMER> und die Zählernummer ist <ZAEHLERNRUMMER>.
+
+Ich freue mich auf eine schnelle Klärung meiner Anfrage und danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>
+E-Mail: <EMAIL>

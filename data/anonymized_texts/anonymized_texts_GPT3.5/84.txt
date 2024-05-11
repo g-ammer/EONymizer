@@ -1,0 +1,11 @@
+Lieber E.ON Kundenservice,
+
+ich habe Fragen zu meiner zuletzt erhaltenen Abrechnung unter der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Es gibt einige Punkte, die mir unklar sind und deshalb würde ich gerne einen telefonischen Beratungstermin mit einem Kundenbetreuer vereinbaren. Kann ich bitte von einem Kundenberater kontaktiert werden?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Freundliche Grüße
+<<Karin Müller&&PERSON>>
+<<Schillerstraße 15&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>
+Telefon: <<030123456&&TELEFONNUMMER>>
+E-Mail: <<karin.mueller@test.de&&EMAIL>>

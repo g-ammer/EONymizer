@@ -1,0 +1,10 @@
+"Hallo E.ON Team,
+
+ich hoffe, Sie können mir weiterhelfen. Ich habe meinen Energievertrag mit Ihnen vor einiger Zeit abgeschlossen und würde gerne wissen, wie lange die Vertragslaufzeit noch ist. Meine Vertragsnummer lautet <VERTRAGSNR.>. 
+
+Vielen Dank im Voraus für Ihre Unterstützung. 
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+<EMAIL>"

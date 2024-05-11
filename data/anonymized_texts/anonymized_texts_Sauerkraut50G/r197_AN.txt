@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Ich habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> und der Vertragsnummer <VERTRAGSNUMMER>. Der Rechnungsbetrag scheint viel höher als erwartet. Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist?
+
+Danke und viele Grüße,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

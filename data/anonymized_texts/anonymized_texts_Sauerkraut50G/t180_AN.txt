@@ -1,0 +1,15 @@
+ Guten Tag,
+
+mein Name ist <PERSON>.
+
+Ich habe die E.ON App geladen und versucht mich anzumelden. Allerdings war das Login bis jetzt immer erfolglos. Nur um das zu prüfen kann am Ende meiner Daten der Haken nicht gesetzt werden.
+
+Das ist für mich als Tech Direktor beunruhigend. Meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>, falls diese Information benötigt wird.
+
+Grüßen Sie mir ihr Team und geben Sie zu Hand eventuelle technische Einschränkungen? Ich schätze die Unterstützung des E.ON Teams angemessen gewürdigen.
+
+Freundliche Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

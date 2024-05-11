@@ -1,0 +1,25 @@
+ freundlichen Grüßen,
+
+Ihr Name
+Ihre Adresse
+Ihre E-Mail-Adresse
+Ihre Telefonnummer
+
+Output:
+Betreff: Problem mit dem E.ON App Login
+
+Hallo,
+
+seit einigen Tagen kann ich mich leider kaum noch in der E.ON App gleich einloggen. Meine Kundennummer ist 28272854029. Ich habe versucht, mein Passwort zurückzusetzen, aber es wird immer eine Fehlermeldung angezeigt.
+
+Ich bin dabei, verschiedene Lösungsansätze auszuprobieren, wie zum Beispiel das Zurücksetzen des Fingerabdrucksensors oder die Verwendung eines anderen Geräts. Leider hat noch nichts funktioniert.
+
+Vertrag 7305 mit dem Verbindungsnamen "Indsung" ist davon betroffen. Ich hoffe, dass Sie mir helfen können, das Problem zu lösen.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

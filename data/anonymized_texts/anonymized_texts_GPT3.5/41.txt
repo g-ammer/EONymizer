@@ -1,0 +1,15 @@
+Sehr geehrter Kundenservice,
+
+ich bin seit mehreren Jahren Kunde bei E.ON und gewöhnlich sehr zufrieden mit Ihrem Service. Doch in letzter Zeit habe ich das leider anders erlebt. Online habe ich versucht ein Anliegen zu klären - doch es gibt Probleme mit Ihrem Online Chat System. Es kept loading.
+
+Ich würde sehr gerne mit einem Kundenbetreuer sprechen und hoffe, Sie könnten mir dabei behilflich sein. Meine Geschäftspartnernummer lautet <<1309876543&&GESCHAEFTSPARTNERNUMMER>>.
+
+Könnten Sie bitte einen Rückruf organisieren? Hier ist meine Telefonnummer: <<0151 12345678&&TELEFONNUMMER>>.
+
+Ich bedanke mich für Ihre Unterstützung und verbleibe
+
+mit freundlichen Grüßen,
+<<Karl-Heinz Schmidt&&PERSON>>
+<<Musterstraße 17&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+<<khschmidt@email.de&&EMAIL>>

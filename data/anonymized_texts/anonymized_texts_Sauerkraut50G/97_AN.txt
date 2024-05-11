@@ -1,0 +1,8 @@
+ Guten Tag,
+
+meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich habe eine Frage zum Kundenservice von E.ON. Können Sie mir erklären, wie ich mit einem Kundenbetreuer in Kontakt treten kann? Ich möchte meinen bestehenden Vertrag mit einer Kündigungsfrist besprechen.
+
+Vielen Dank und freundliche Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>

@@ -1,0 +1,11 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner vor kurzem erhaltenen Rechnung. Auf dieser finde ich die Rechnungsnummer <<RECHNUNGSNUMMER>> und obwohl meine monatlichen Lastschrifteinzüge ohne Schwierigkeiten stattfinden, ergibt sich ein hoher und meiner Meinung nach falscher Rechnungsbetrag. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich frage mich, ob es dabei zu Irgendwelchen Fehlern kommen konnte. Bitte überprüfen und Anpassung machen.
+
+Ihre Unterstützung ist hoch geschätzt.
+
+Mit besten Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

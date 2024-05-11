@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung von E.ON. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und der Rechnungsbetrag beträgt <ID>. Leider kann ich diesen Betrag aktuell nicht aufbringen. Ist es möglich, die Zahlung in Raten abzuwickeln?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+<EMAIL>
+Vertragsnummer: <VERTRAGSNUMMER>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>

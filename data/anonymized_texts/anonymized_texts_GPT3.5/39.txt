@@ -1,0 +1,15 @@
+Betreff: Frage über Vertragskonto
+
+Guten Tag,
+
+ich bin <<Jonas Friedrich&&PERSON>> und mein Vertrag bei E.ON begann am 01.02.2021. Ich wende mich an Sie, da ich derzeit einige Anpassungen an meinem E-On-Konto vornehmen möchte und dabei Unterstützung benötige.
+
+Mein Vertragskonto lautet <<404578901&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201789320&&GESCHAEFTSPARTNERNUMMER>>. Ich bin sehr zufrieden mit dem Service, den ich bisher bei E.ON erhalten habe und frage mich daher, ob es möglich wäre, meinen Vertrag casual upzugraden oder mehr Leistungen hinzuzufügen?
+
+Ich befinde mich an der Adresse <<Stuttgarter Straße 21&&STRASSE>>, <<70178&&PLZ>> <<Stuttgart&&ORT>> und mobil erreichbar unter der Nummer <<017674859251&&TELEFONNUMMER>>. Oder kontaktieren Sie mich einfach per Mail an <<jonas.friedrich@mail.de&&EMAIL>>, welche für mich die bequemste Option wäre.
+
+Danke im Voraus für Ihre Aufmerksamkeit und Unterstützung. Bitte lassen Sie mich wissen, welche Optionen ich habe.
+
+Mit freundlichen Grüßen,
+
+<<Jonas Friedrich&&PERSON>>

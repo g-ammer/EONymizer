@@ -1,0 +1,16 @@
+Guten Tag, 
+
+ich hoffe, es geht Ihnen gut. Ich habe eine Frage zu meinem E.ON Konto. Ich habe Schwierigkeiten, mich in meine E.ON App einzuloggen. Ich habe mehrmals versucht, mein Passwort zurückzusetzen, aber leider ohne Erfolg. 
+
+Hier sind meine Vertragsdaten: 
+Vertragsnummer: <<401234567&&VERTRAGSNUMMER>>
+Geschäftspartnernummer: <<200987654&&GESCHAEFTSPARTNERNUMMER>>
+
+Gibt es vielleicht eine technische Störung oder irgendein Problem mit meinem Account? Ich würde mich sehr über Ihre Unterstützung freuen. 
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Leonie Müller&&PERSON>> 
+E-Mail: <<leonie.müller@web.de&&EMAIL>>
+Adresse: <<Rosenstraße 12&&STRASSE>>, <<12345&&PLZ>> <<München&&ORT>>

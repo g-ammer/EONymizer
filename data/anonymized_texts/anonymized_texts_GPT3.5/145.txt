@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hätte ein Anliegen bezüglich meines bei Ihnen laufenden Vertrags unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>>. In der letzten Woche habe ich unerwartet eine deutlich höhere Rechnung von Ihnen erhalten (Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>) als es üblich ist, und das, obwohl sich bei meinem Energieverbrauch nichts geändert hat. 
+
+Mir ist bewusst, dass Schwankungen immer mal vorkommen können. Allerdings war der Unterschied zur regulären Monatsrechnung so groß, dass ich nun einen Kundenberater sprechen und meine aktuelle Abrechnung überprüfen lassen möchte. Gibt es die Möglichkeit eines Telefontermins?
+
+Mein Name ist <<Christian Schmidt&&PERSON>> und ich wohne in der <<Hauptstraße 15&&STRASSE>> in <<12345&&PLZ>> <<Musterstadt&&ORT>>. Sie können mich unter der Telefonnumer <<0900-123456&&TELEFONNUMMER>> oder per E-Mail unter <<c.schmidt@testmail.com&&EMAIL>> erreichen. 
+
+Vielen Dank im Voraus für die Unterstützung. 
+
+Mit freundlichen Grüßen,
+<<Christian Schmidt&&PERSON>>

@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+ich bin Kunde bei E.ON mit der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und schicke Ihnen diese E-Mail in Bezug auf meine neueste Rechnung. Bei Überprüfung meiner Kontoauszüge ist mir aufgefallen, dass der abgebuchte Betrag höher ist als der auf meiner Rechnung angegebene Betrag.
+
+Die Rechnungsnummer lautet <RECHNUNGSNR> und der darin angegebene Betrag ist <RECHNUNGSBETRAG> €. Allerdings wurden von meinem Konto <ABGEBUCHTERBETRAG> € abgebucht. Können Sie mir bitte erläutern, warum es zu einer Differenz kommt? Handelt es sich möglicherweise um einen Fehler?
+
+Ich hoffe auf schnelle Klärung und bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<MOBILNUMMER>
+<EMAIL>

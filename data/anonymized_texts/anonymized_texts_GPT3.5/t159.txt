@@ -1,0 +1,12 @@
+Hallo,
+
+ich wollte Sie fragen, warum ich meine Geschäftspartnernummer <<1306632984&&GESCHAEFTSPARTNERNUMMER>> nicht anmelden kann? Ich habe versucht, Ihr Service-Portal zu verwenden, um mich einzuloggen, aber ich bekomme die Meldung, dass meine Nummer ungültig ist. Hat es mit meiner neuen E.ON App zu tun? Ist mein Vertragskonto mit der Nummer <<232988476123&&VERTRAGSNUMMER>> korrekt? Könnten Sie bitte meine Verbindung prüfen, falls es eine technische Störung gibt?
+
+Ich freue mich auf Ihre Unterstützung.
+
+Vielen Dank,
+
+<<Klaus Schneider&&PERSON>>
+<<Am Godesberg 25&&STRASSE>>
+<<50389&&PLZ>><<Wesseling&&ORT>>
+<<schneider.klaus@web.de&&EMAIL>>

@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich habe gestern meine neueste Rechnung von Ihnen erhalten, Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Der aktuelle Rechnungsbetrag weicht jedoch stark vom bisherigen ab, was mich etwas verwirrt. Kann es sein, dass hier ein Fehler vorliegt? Mein Vertragskonto lautet <<402345678&&VERTRAGSNUMMER>>.
+Ich wäre Ihnen dankbar, wenn Sie den Rechnungsbetrag noch einmal überprüfen könnten. Bitte lassen Sie mich auch wissen, wie ich vorgehen soll, falls ich die Rechnung noch nicht bezahlt habe.
+Vielen Dank für Ihre Unterstützung und Ihre schnelle Antwort.
+Mit freundlichen Grüßen
+<<Thomas Müller&&PERSON>>
+<<Hauptstraße 12&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+Telefon: <<01234/567890&&TELEFONNUMMER>>
+E-Mail: <<thomas.mueller@example.com&&EMAIL>>

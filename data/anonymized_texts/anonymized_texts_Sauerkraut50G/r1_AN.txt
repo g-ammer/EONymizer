@@ -1,0 +1,17 @@
+ Guten Tag,
+
+ich habe ein Problem mit meiner letzten Rechnung und hoffe, dass Sie mir schnell helfen können. Mein Name ist <PERSON> und meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Die kürzlich erhaltene Rechnung mit Rechnungsnummer <<RECHNUNGSNUMMER>> hat einen höheren Betrag als gewohnt. Der Betrag beträgt <ANONYMIZED>. Ich bin damit verwirrt, da ich ordnungsgemäße Zahlungen durchgeführt und meinen Stromverbrauch verringert habe.
+
+Könnten Sie vielleicht die Einzelheiten dieser Rechnung für mich klären? Ich möchte sichergehen, dass ich nicht für einen Service zahlen muss, den ich nicht in Anspruch genommen habe.
+
+Ich danke Ihnen für Ihre Hilfe bei dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

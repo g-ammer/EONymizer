@@ -1,0 +1,12 @@
+ Sehr geehrte E.ON Kundenbetreuung,
+
+ich hoffe, Sie sind gut in die neue Woche gestartet. Ich habe eine Frage zu meinem Vertrag bei Ihnen, die Vertragsnummer lautet <VERTRAGSNUMMER>. Seit einigen Wochen habe ich das Gefühl, dass es Probleme mit meiner monatlichen Abrechnung gibt. Die Rechnungsnummer meiner letzten Abrechnung ist <<RECHNUNGSNUMMER>>.
+
+Es wäre wirklich hilfreich, wenn ein Kundenberater sich diese Angelegenheit ansieht und mich darüber aufklärt, falls es irgendwelche Fehlbuchungen oder technische Unstimmigkeiten gibt. Mir ist es wichtig, dass alles reibungslos funktioniert und ich nehme an, dass auch Sie diesbezüglich ein großes Interesse haben.
+
+Sie können mich gerne unter meiner e-Mail-Adresse <EMAIL> oder auf meinem Handy, die Nummer ist <TELEFON>, kontaktieren.
+
+Vielen Dank im Voraus für Ihre Hilfe. Ich freue mich auf eine Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+mit meiner Vertragsnummer <<402938567&&VERTRAGSNUMMER>> hätte ich bitte Information über die Vertragslaufzeit des gegenwärtigen Vertrages. Könnten Sie bitte auch die Kündigungsfristen erläutern?
+Vielen Dank bereits im Voraus!
+Mit freundlichen Grüßen,
+<<Friedhelm Schmidt&&PERSON>>
+<<Bergstraße 12, 78930&&STRASSE>> <<Musterstadt&&ORT>>
+<<fschmidt@email.de&&EMAIL>>
+<<+491522&&TELEFONNUMMER>>

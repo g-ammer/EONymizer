@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,
+mein Name ist <<Anna Schmitt&&PERSON>>, wohnhaft in der <<Kurfürstenstr. 14&&STRASSE>>, <<10785&&PLZ>> <<Berlin&&ORT>>. Ich bin Kunde bei E-ON und habe bei meiner letzten Abrechnung eine Unklarheit entdeckt.
+Die Rechnungsnummer lautet: <<5712865904&&RECHNUNGSNUMMER>> und das Vertragskonto weist die Nummer <<401287205&&VERTRAGSNUMMER>> auf. In der Abrechnung ist ein Betrag von 175,50 € genannt, der mir ungewöhnlich hoch erscheint. Könnten Sie hier möglichst zeitnah eine Prüfung veranlassen, um die Korrektheit dieses Betrages zu bestätigen.
+Ich würde mich freuen, wenn Sie mich per E-Mail an <<AnnaSchmitt@gmx.de&&EMAIL>> oder telefonisch unter <<030 1234567&&TELEFONNUMMER>> informieren könnten. Ihre Rückantwort ist mir wichtig.
+Viele Grüße,
+<<Anna Schmitt&&PERSON>>

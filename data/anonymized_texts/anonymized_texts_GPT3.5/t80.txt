@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich habe ein Problem mit der E.ON App auf meinem Handy. Wenn ich mich ins Konto einloggen möchte, erscheint immer die Meldung, dass das Passwort oder der Benutzername falsch seien. Jedoch bin ich mir sicher, dass ich die korrekten Daten eingebe.
+Ich habe die App bereits deinstalliert und wieder neu installiert, aber das Problem besteht weiterhin. Können Sie mir bitte helfen, diesen Technik-Fehler zu beheben? Ich kann momentan meine Rechnungen und den Zählerstand nicht überprüfen, was sehr unpraktisch für mich ist.
+Zur Referenz meine Vertragsnummer: <<401234567&&VERTRAGSNUMMER>> und Geschäftspartnernummer: <<200123456&&GESCHAEFTSPARTNERNUMMER>>.
+Vielen Dank im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<müller.hans@gmail.com&&EMAIL>>
+<<Bergstraße 5&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+<<0151 12345678&&TELEFONNUMMER>>

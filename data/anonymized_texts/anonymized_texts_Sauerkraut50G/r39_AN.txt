@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich bin seit mehreren Jahren treuer Kunde bei E.ON Energie. Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+Beim Durchsehen meiner Unterlagen ist mir nun aufgefallen, dass ich im Hinblick auf meine Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> mehrere Fragen habe. 
+
+Der aktuelle Rechnungsbetrag scheint mir ziemlich hoch und weicht signifikant von meinen üblichen Abrechnungen ab. In der detaillierten Aufstellung konnte ich leider keine konkreten Gründe für diese Erhöhung entdecken. Könnten Sie mir bitte helfen zu verstehen, wie dieser Betrag zustande gekommen ist?
+
+Außerdem würde mich interessieren, ob es möglich ist zukünftige Zahlungen in Raten zu begleichen. Wenn ja, welchen Prozess müsste ich hierfür durchlaufen?
+
+Sie können mich gerne per E-Mail an <EMAIL> oder telefonisch unter der Nummer <TELEFONNUMMER> erreichen. Über eine schnelle und aufklärende Antwort würde ich mich sehr freuen.
+
+Beste Grüße,
+<PERSON>

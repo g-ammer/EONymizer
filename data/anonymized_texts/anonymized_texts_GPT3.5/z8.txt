@@ -1,0 +1,17 @@
+Betreff: Anfrage zum Zählerstand
+
+Sehr geehrte Damen und Herren,
+
+ich bin bei E.ON Kunde und habe eine Frage zum Thema Zählerstand. Ich würde gerne wissen, wie ich den aktuellen Stand meines Stromzählers ablesen kann. Da ich im Moment zu Hause bin und mein Zähler sich im Keller befindet, könnte ich dies selber erledigen.
+
+Könnten Sie mir bitte eine kurze Anleitung geben, auf was ich achten muss und wie die einzelnen Ziffern und Abläufe auf dem Zähler zu interpretieren sind?
+
+Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>> und die Zählernummer ist <<234567890&&ZAEHLERNUMMER>>.
+
+Ich bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Michael Schmidt&&PERSON>>
+<<m.schmidt@beispiel.de&&EMAIL>>
+<<Max-Morlock-Strasse 33&&STRASSE>>
+<<90471&&PLZ>><<Nürnberg&&ORT>>

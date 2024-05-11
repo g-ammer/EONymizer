@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meines Zählerstands. Ich habe heute meinen Zählerstand abgelesen und möchte diesen nun gerne an Sie übermitteln. Könnten Sie mir bitte sagen, wie ich das am besten mache?
+
+Für weitere Rückfragen stehe ich Ihnen gerne zur Verfügung. Meine Vertragsnummer lautet <<400231234&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit besten Grüßen
+
+<<Felix Schneider&&PERSON>>
+<<Blumenstraße 15&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+<<Felix.Schneider@gmail.com&&EMAIL>>
+<<030 12345678&&TELEFONNUMMER>>

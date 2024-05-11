@@ -1,0 +1,12 @@
+Sehr geehrter Kundenservice,
+
+ich schreibe im Bezug auf meine neueste Rechnung und benötige hierbei Ihre Unterstützung. Die Rechnungsnummer lautet <RECHNUNGSNR.> mit einem Betrag von 150€. Sie ist im Vergleich zu den Kosten der letzten Monate viel höher ausgefallen. Ich würde gern verstehen, warum der Abrechnungsbetrag dieses Monat so hoch ist.
+
+Ich hoffe auf Ihre baldige Erklärung. Meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>.
+
+Vielen Dank für Ihre Hilfe und bleiben Sie gesund.
+
+Mit freundlichen Grüßen,
+<PERSON> 
+<ADRESSE>
+ <EMAIL>

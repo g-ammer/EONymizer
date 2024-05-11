@@ -1,0 +1,16 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meines Zählerstands. Am Anfang des Jahres habe ich einen Wert von <ID> KWh abgelesen und notiert. Die gestern erhaltene Rechnung zeigt allerdings einen verbrauchten Zählerstand von <ID> KWh. Um die Differenz zu klären, wollte ich meine Zählerstände und die Belege meiner bisherigen Änderungen überprüfen.
+
+Leider konnte ich in meinem Online-Konto keinen passenden Bereich finden. Wo finde ich meine gemeldeten Zählerstände und Belege meiner jährlichen Verbrauchs- und Kostenübersicht?
+
+Eine Kontonummer zur besseren Zuordnung: Vertragskonto-Nr.:<ID>.
+
+Ich würde mich sehr über Ihre Unterstützung freuen und bitte um ein Feedback.
+
+Vielen Dank,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

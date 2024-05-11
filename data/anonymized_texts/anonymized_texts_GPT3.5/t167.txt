@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe einige technische Probleme beim Anmelden in der E.ON App. Beim Versuch, mich einzuloggen, gibt es immer wieder eine Fehlermeldung. Die Zugangsdaten sind aber definitiv korrekt, solche Sachen vermerke ich separiert für verschiedene Plattformen/Services.
+
+Zur weiteren Information im sich bietenden Support: Ich bin <<Alexander Maier&&PERSON>>, lebe aktuell <<Auf der Eck 24&&STRASSE>>, <<91087&&PLZ>> <<Neubeck&&ORT>>. Mein Vertragsnummer ist <<400205833&&VERTRAGSNUMMER>>.
+
+Können Sie mir bitte dabei helfen oder Info mitteilen, ist ein allgemeinesProblem in Ihr System?
+
+Verbleibe mit freundlichen Grüßen,
+
+<<Alexander Maier&&PERSON>>

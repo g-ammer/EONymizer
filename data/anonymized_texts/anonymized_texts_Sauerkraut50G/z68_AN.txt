@@ -1,0 +1,15 @@
+ Betreff: Frage zum Zählerstand meines Energievertrags
+
+Sehr geehrtes E.ON-Kundenserviceteam,
+
+mein Name ist <PERSON> und ich habe einen Energievertrag bei Ihnen mit der Vertragsnummer <VERTRAGSNUMMER>. In den vergangenen Tagen hat mein digitaler Zähler überdurchschnittlich hohe Verbrauchswerte angezeigt. Daher würde ich gerne eine Prüfung des Zählerstands anfragen und, falls notwendig, einen Techniker bestellen.
+
+Meine Zählernummer lautet <ZAEHLERNRUMMER> und die aktuell angezeigten Verbrauchswerte liegen bei 4500 kWh, was mir deutlich zu hoch zu sein scheint. Meine Geschäftspartnernummer lautet ebenso <GESCHAEFTSPARTNERNUMMER>. Bitte nehmen Sie diese detaillierten Informationen zur Hilfe um mein Problem schneller zu lösen.
+
+Sie erreichen mich entweder per Mail unter <EMAIL> oder telefonisch unter <TELEFONNUMMER> für Rückfragen oder Terminvereinbarungen.
+
+Vielen Dank im voraus für Ihre zeitnahe Antwort.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

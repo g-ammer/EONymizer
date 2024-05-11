@@ -1,0 +1,12 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Vertrages mit der Vertragsnummer <<402345678&&VERTRAGSNUMMER>>. Wie lange läuft er noch und unter welchen Umständen kann ich diesen kündigen? Ist hier eine besondere Frist zu beachten oder wäre meine Kündigung auch zum nächsten Monat möglich?
+
+Besten Dank Ihnen für Ihre Mühen und eine schnelle Antwort.
+
+Mit ganz freundlichen Grüßen,
+<<Martin Schmidt&&PERSON>>
+<<Tannenweg 23&&STRASSE>>
+<<69256&&PLZ>> <<Mauer&&ORT>>
+Telefon: <<06264-939285&&TELEFONNUMMER>>
+E-Mail: <<MartinSchmidt@email.de&&EMAIL>>

@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Ich bin der E.ON Kunde <PERSON> und wohne in der Hohen Str. <ID>, <ORT>. Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Ich komme nicht recht weiter, wie ich den Zählerstand ablesen und e-mailen kann. Gibt es irgendwo vereinfachende Informationen zur digitalen Eingabe?
+
+Ich freue mich auf eine erklärende Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

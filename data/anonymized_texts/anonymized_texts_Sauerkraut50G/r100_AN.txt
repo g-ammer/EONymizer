@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten E.ON-Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir etwas höher zu sein, als ich erwartet hatte. Können Sie bitte prüfen, ob der Betrag korrekt ist?
+
+Für weitere Rückfragen können Sie mich unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> sowie unter meinem Vertragskonto <VERTRAGSNUMMER> kontaktieren. Falls notwendig, meine Zählernummer lautet <<ZAEHLERNRUMMER>>.
+
+Ich bedanke mich bereits im Voraus für Ihre Hilfe und freue mich auf eine Klärung der Angelegenheit.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

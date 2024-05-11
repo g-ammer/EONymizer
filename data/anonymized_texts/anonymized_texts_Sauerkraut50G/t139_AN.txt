@@ -1,0 +1,10 @@
+ Hallo E.ON Kundendienst,
+
+mein Name ist <PERSON> und ich lebe auf der <STRASSE> in <PLZ><ORT>. Ich habe ein Problem mit Ihrer App. Bei meinem letzten Versuch meine Vertragsnummer <VERTRAGSNUMMER> einzugeben, kam immer eine Fehlermeldung. Ist es vielleicht gerade eine Störung auf technischer Seite vorhanden?
+
+Ich danke Ihnen im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+Tel: <TELEFONNUMMER>

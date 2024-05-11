@@ -1,0 +1,11 @@
+Betreff: Frage zu meinem Kundenbetreuer
+
+Hallo, sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON und habe eine Frage zu meinem zuständigen Kundenbetreuer. Zuletzt hatte ich einen sehr freundlichen Telefonkontakt mit einem Ihrer Mitarbeiter, der mir sehr weitergeholfen hat. Leider habe ich mir seinen Namen nicht notiert und würde diesen gerne erfahren, um bei eventuellen weiteren Anliegen oder Fragen direkt Kontakt zu ihm aufnehmen zu können. Ist es möglich, diese Information zu erhalten?
+Meine Vertragsnummer ist <<404567832&&VERTRAGSNUMMER>> und die Geschäftspartnernummer lautet <<200987654&&GESCHAEFTSPARTNERNUMMER>>.
+Ich freue mich über eine baldige Rückmeldung.
+Vielen Dank und herzliche Grüße,
+<<Matthias Meyer&&PERSON>>
+<<Meyer.Matthias@mail.de&&EMAIL>>
+<<Berliner Straße 30&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>
+Telefonnummer: <<0151 24578923&&TELEFONNUMMER>>

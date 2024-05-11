@@ -1,0 +1,15 @@
+ Sehr geehrter Kundenservice von E.ON,
+
+ich habe einige Fragen bezüglich meiner Kostenabrechnung und hoffe auf Ihre Unterstützung. Zunächst ist mir aufgefallen, dass auf meiner kürzlich erhaltenen Abrechnung, Rechnungsnummer <<RECHNUNGSNUMMER>>, ein recht hoher Betrag aufgeführt wurde, dem ich nicht zuordnen kann. Ich habe geprüft und es entspricht nicht meinem normalen Verbrauch.
+
+Könnte hier ein Fehler vorliegen? Meine Vertragsnummer ist <VERTRAGSNUMMER> und die dazugehörige Zählernummer lautet <ZAEHLERNRUMMER>.
+
+Könnten Sie mir auch sagen, wann genau der Zählerstand erfasst wurde? Ich möchte sicherstellen, dass ich den richtigen Zählerstand zur Verfügung gestellt habe.
+
+Ich hoffe auf baldige Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

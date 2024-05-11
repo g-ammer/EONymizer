@@ -1,0 +1,16 @@
+Hallo E.ON Team,
+
+ich habe heute meine monatliche Rechnung erhalten und der Rechnungsbetrag scheint mir etwas zu hoch. Die Rechnungsnummer lautet <<8740561239&&RECHNUNGSNUMMER>>. Könnten Sie mir bitte erklären, wie der Betrag zustande gekommen ist?
+
+Meine Vertragsnummer ist <<272645831107&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<1305678901&&GESCHAEFTSPARTNERNUMMER>>. Die Zählernummer ist <<987654321&&ZAEHLERNUMMER>>.
+
+Ich würde mich über eine schnelle Rückmeldung freuen, um eventuelle Missverständnisse zu klären.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 10&&STRASSE>>
+<<10115&&PLZ>><<Berlin&&ORT>>
+<<hans.mueller@gmail.com&&EMAIL>>
+<<0176 12345678&&TELEFONNUMMER>>

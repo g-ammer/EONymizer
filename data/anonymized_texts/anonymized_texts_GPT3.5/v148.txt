@@ -1,0 +1,9 @@
+Sehr geehrter Kundendienst,
+ich bin Kunde bei E.ON unter der Geschäftspartnernummer <<1304679283&&GESCHAEFTSPARTNERNUMMER>> und habe einige Fragen zu meinem Vertrag. Meine Vertragsnummer lautet <<401567980&&VERTRAGSNUMMER>>. Wie lang ist die aktuelle Vertragslaufzeit und wann wäre eine Kündigung möglich? Die Zählernummer meines Stromzählers vor Ort <<ExtraTLTL0601233&&ZAEHLERNUMMER>> ist.
+Ich bitte Sie um Zeilnahe Rückantwort auf mein Anliegen.
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Rolf Debitzski&&PERSON>>
+<<Nagelsweg 10&&STRASSE>>, <<20097&&PLZ>>, <<Hamburg&&ORT>>
+Tel: <<040/4202003&&TELEFONNUMMER>>
+<<rolf.debitz@ggmail.com&&EMAIL>>

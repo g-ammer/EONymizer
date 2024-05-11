@@ -1,0 +1,11 @@
+ Sehr geehrtes E.ON Team,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir ungewöhnlich hoch zu sein. Könnten Sie mir bitte erklären, wie dieser Betrag zustande kommt? Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

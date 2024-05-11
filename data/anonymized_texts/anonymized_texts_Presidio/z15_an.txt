@@ -1,0 +1,11 @@
+Guten Tag, 
+
+ich bin Kunde bei Ihnen und hätte eine Frage zum Thema Zählerstand. Meine Vertragsnummer ist <VERTRAGSNR.>. Ich habe meinen Zählerstand erfasst und möchte wissen, ob ich diesen nun an Sie weiterleiten soll oder ob das automatisch passiert. 
+
+Vielen Dank für Ihre Hilfe und Unterstützung.
+
+Mit freundlichen Grüßen, 
+<PERSON>
+<EMAIL>
+<ADRESSE>
+Telefonnummer: <TELEFONNR.>

@@ -1,0 +1,23 @@
+Betreff: Anfrage zur Vertragslaufzeit
+
+Guten Tag,
+
+ich hätte gerne eine Information zu meinem Energievertrag bei E.ON. Es steht mir nicht mehr eindeutig vor Augen, wie lange meiner Vertragslaufzeit noch andauert. Wäre es möglich, dass Sie dieses bitte für mich überprüfen?
+
+Damit Sie mein Anliegen schneller zuordnen können, hier die Details:
+
+Geschäftspartnernummer: <<1401234567&&GESCHAEFTSPARTNERNUMMER>>
+Meine Vertragsnummer: <<232987654321&&VERTRAGSNUMMER>>
+Zählernummer: <<0345678094394&&ZAEHLERNUMMER>>
+
+Mein genaue Wohnanschrift ist <<Lindenbergstr. 45&&STRASSE>>, <<12356&&PLZ>> <<Frankfurt am Main&&ORT>>.
+
+Zu guter Letzt, besteht derzeit seitens der E.ON keine Absicht meiner aktueller Vertrag vorzeitig zu beenden oder zu ändern?
+
+Ich bedanke mich im voraus für Ihre Rückmeldung.
+
+Viele Grüße
+
+<<Theo Messemer&&PERSON>>
+<<Theo.Messemer[at]mail.de&&EMAIL>>
+<<069/8596325&&TELEFONNUMMER>>

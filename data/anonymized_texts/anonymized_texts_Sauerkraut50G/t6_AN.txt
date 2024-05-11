@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich bin derzeit in der E.ON App und habe Schwierigkeiten, mich einzuloggen. Es wird mir ein technischer Fehler angezeigt und ich am verzweifeln. Hilfe wäre dringend gefragt. 
+
+Detaillierte Nutzer Daten wie folgt:
+Vertragsnummer: <VERTRAGSNUMMER>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>
+Meine E-Mail-Adresse lautet <EMAIL>, Tel ist die <TELEFONNUMMER>
+
+Freue mich sehr auf Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<PERSON>

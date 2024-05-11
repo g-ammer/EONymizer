@@ -1,0 +1,14 @@
+Betreff: Anliegen zur Kundenbetreuung
+
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich wende mich heute an Ihren Kundenservice mit einem Anliegen bezüglich meines Energievertrages mit der Vertragsnummer <VERTRAGSNR.>. 
+
+Ich habe kürzlich eine E-Mail mit der Rechnungsnummer <RECHNUNGSNR.> erhalten und es gibt einige Punkte, die ich nicht ganz verstehe. Daher wünsche ich mir Unterstützung von einem Ihrer Kundenberater, um diese Unklarheiten zu beseitigen. 
+
+Könnte ich einen Rückruf von einem Ihrer Kundenbetreuer erhalten? Sie erreichen mich unter der Telefonnummer <TELEFONNR.>. Alternativ können Sie mir auch eine E-Mail an <EMAIL> senden.
+
+Vielen Dank für Ihre Unterstützung und ich freue mich auf eine baldige Kontaktaufnahme.
+
+Mit freundlichen Grüßen,
+<PERSON>

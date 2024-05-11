@@ -1,0 +1,11 @@
+Guten Tag,
+
+Ich benötige bitte Informationen zu meinem Vertrag. Die Vertragsnummer lautet <<402345671&&VERTRAGSNUMMER>>. Könnten Sie mir bitte die genaue Vertragslaufzeit mitteilen und unter welchen Bedingungen ich diesen verlängern oder kündigen kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Sophia Müller&&PERSON>>
+<<sophiamueller@gmail.com&&EMAIL>>
+<<Hauptstraße 12, 12345 Berlin&&STRASSE>>,
+<<0176 12345678&&TELEFONNUMMER>>

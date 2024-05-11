@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich hoffe, Sie können mir helfen. Ich habe heute meine Rechnung der Vertragsnummer <<400123456&&VERTRAGSNUMMER>> erhalten und bin etwas verwirrt über den Rechnungsbetrag. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>>.
+
+Vergleiche ich diesen mit meinem Durchschnittsverbrauch der letzten Monate, scheint der jetzige Rechnungsbetrag deutlich höher zu sein. Könnte es vielleicht einen Fehler bei der Abrechnung geben oder wurde meine monatliche Rate übersehen? 
+
+Es wäre super, wenn Sie das bitte für mich prüfen könnten. 
+
+Schon mal vielen Dank für Ihre Hilfe!
+
+Freundliche Grüße,
+
+<<Markus Schmitt&&PERSON>>
+<<Keplerstr. 34&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>
+<<markus.schmitt@web.de&&EMAIL>>
+<<+49 176 12345678&&TELEFONNUMMER>>

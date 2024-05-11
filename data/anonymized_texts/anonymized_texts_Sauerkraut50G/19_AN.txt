@@ -1,0 +1,12 @@
+ Sehr geehrter Kundenservice,
+
+mein Name ist <PERSON> und ich wende mich mit einer dringenden Anliegen an Sie. Ich habe gerade meine letzte Rechnung überprüft und dabei ist mir aufgefallen, dass der Betrag ungewöhnlich hoch ist. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>.
+
+Könnten Sie bitte prüfen, ob es eventuell zu einem Fehler bei der Berechnung gekommen ist? Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Für eine schnelle Klärung wäre ich sehr dankbar. Sie können mich unter meiner Mail-Adresse <EMAIL> oder unter der Telefonnummer <TELEFONNUMMER> erreichen.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<PERSON>

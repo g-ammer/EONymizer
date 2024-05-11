@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich hätte eine Frage zur meiner aktuellen Rechnung. Der Rechnungsbetrag scheint höher zu sein als sonst. Unter der Rechnungsnummer <RECHNUNGSNUMMER>, finde ich einen zusätzlichen Posten, den ich nicht zuordnen kann.
+
+Könnten Sie mir vielleicht erklären, wofür dieser Betrag berechnet wurde? Die Vertragsnummer ist die <VERTRAGSNUMMER>.
+
+Ich bin gespannt auf Ihre Rückmeldung.
+
+Viele Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

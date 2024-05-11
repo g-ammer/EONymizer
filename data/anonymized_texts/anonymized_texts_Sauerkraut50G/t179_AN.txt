@@ -1,0 +1,8 @@
+ Guten Tag,
+
+ich habe ein technisches Problem mit der E.ON App. Nach dem letzten Update kann ich mich nicht mehr einloggen. Mein Benutzername ist "<ANONYMIZED>" und meine Vertragsnummer ist <VERTRAGSNUMMER>. Könnten Sie bitte überprüfen, was das Problem sein könnte?
+
+Vielen Dank und beste Grüße,
+<PERSON>
+Email: <EMAIL>
+Telefon: <TELEFONNUMMER>

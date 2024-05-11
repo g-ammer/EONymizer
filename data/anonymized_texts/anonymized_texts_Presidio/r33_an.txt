@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <RECHNUNGSNR.> und der Rechnungsbetrag ist 150 Euro. Ich habe die Zahlung bereits getätigt, jedoch habe ich eine Mitteilung von Ihnen erhalten, dass diese noch aussteht. Können Sie bitte überprüfen, ob meine Zahlung eingegangen ist? 
+
+Meine Vertragsnummer lautet <VERTRAGSNR.>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>

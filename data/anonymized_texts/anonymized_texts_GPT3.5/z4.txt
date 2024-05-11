@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich hoffe, dieses Schreiben erreicht Sie in guter Verfassung. Ich bin Kunde bei Ihnen unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>> und habe eine Frage zu meinem Zählerstand. Wie kann ich diesen selbst ablesen und Ihnen mitteilen?
+Vielen Dank im Voraus für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Otto Schmidt&&PERSON>>
+<<Musterstraße 123&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+Tel: <<0123 / 45678&&TELEFONNUMMER>>
+<<schmidt.otto@beispiel-mail.de&&EMAIL>>

@@ -1,0 +1,17 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zum Kundenservice. Ich bin unter der Vertragsnummer <VERTRAGSNR.> bei Ihnen registriert.
+
+Wer ist mein zuständiger Kundenberater? Ich würde gerne ein Gespräch führen, um meine Vertragsoptionen zu besprechen und Informationen zu erhalten.
+
+Ich bin unter der folgenden Adresse und Telefonnummer erreichbar:
+
+<PERSON>
+<ADRESSE><TELEFONNR.> Mülheim an der Ruhr
+
+Tel: <TELEFONNR.>
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

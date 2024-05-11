@@ -1,0 +1,16 @@
+Betreff: Probleme mit der E.ON App
+
+Sehr geehrter Kundenservice,
+
+ich bin Kunde bei E.ON und habe derzeit Schwierigkeiten mit der App. Mein Name ist <<Frank Müller&&PERSON>> und ich lebe in der <<Kastanienallee 45&&STRASSE>> in <<10115&&PLZ>> <<Berlin&&ORT>>.
+
+Ich kann mich seit gestern nicht mehr anmelden. Der Login funktioniert einfach nicht und ich erhalte eine Fehlermeldung. Es hat zuvor immer problemlos geklappt. Ich bin mir sicher, dass meine Zugangsdaten korrekt sind.
+
+Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir bitte dabei behilflich sein, dieses Problem zu beheben?
+
+Falls es eine technische Störung ist, wann kann ich mit einer Lösung rechnen? Es ist wichtig, dass ich Zugriff auf meine Verbrauchsdaten und Rechnungen habe.
+
+Ich freue mich auf eine baldige Antwort.
+
+Mit freundlichen Grüßen,
+<<Frank Müller&&PERSON>>

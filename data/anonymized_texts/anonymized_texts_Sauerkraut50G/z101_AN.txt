@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich bin Kunde bei Ihnen mit der Vertragsnummer <VERTRAGSNUMMER> und habe eine Frage bzgl. meines Zählerstands. Mein Zähler, Zählernummer <ZAEHLERNRUMMER>, zeigt mir aktuell einen Stand von 19237 kW/h an, aber in meiner letzten Rechnung, Rechnungsnummer <<RECHNUNGSNUMMER>>, wurde ein anderer Wert angegeben. Ich vermute daher, dass da ein Fehler vorliegt.
+
+Könnten Sie bitte prüfen, ob mein aktueller Zählerstand korrekt in Ihrem System erfasst ist? Und wenn nicht, wie kann ich den korrekten Zählerstand bei Ihnen melden?
+
+Freue mich auf Ihre baldige Rückmeldung.
+
+Vielen Dank und beste Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>

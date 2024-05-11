@@ -1,0 +1,9 @@
+Hallo E.ON Service-Team,
+
+ich hätte eine Frage zu meinem Zählerstand. Unsere Familie ist kürzlich umgezogen und in der neuen Wohnung ist ja ein neuer Zähler. Ich wollte wissen, welche sein Zählerstand ist, und wie oft sollte ich den Zählerstand melden? Meine Vertragsnummer ist die <<401234567&&VERTRAGSNUMMER>>, und die neue Adresse lautet <<Johannesstraße 8&&STRASSE>> in <<80805&&PLZ>> <<München&&ORT>>.
+
+Ich hoffe, Sie können mir dabei helfen.
+
+Mit besten Dank im Voraus,
+
+<<Julia Schmitz&&PERSON>>

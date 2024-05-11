@@ -1,0 +1,13 @@
+Betrifft: Anfrage zu meinem Zählerstand
+
+Sehr geehrtes E.ON-Team,
+
+mein Name ist <<Lisa Bosch&&PERSON>> und ich wohne in der <<Schwerinerstraße 24&&STRASSE>>, <<81249&&PLZ>>, <<München&&ORT>>. Könnten Sie mir eine genaue Erklärung darüber geben, wie sich der Zählerstand bemisst, der in meiner letzten Rechnung ausgewiesen wurde? 
+
+Vertragsnummer: <<404556677&&VERTRAGSNUMMER>>
+Zählernummer für diesen Vertrag: <<Z7564321E&&ZAEHLERNUMMER>>
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<<Lisa Bosch&&PERSON>>

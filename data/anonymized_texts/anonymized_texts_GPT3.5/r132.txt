@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe vor einigen Tagen eine Rechnung von Ihnen bekommen und habe dazu eine Frage. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>> und der Betrag ist 250€. Woher kommt die Diskrepanz? Letzten Monat war meine Rechnung nur 150€. Könnten Sie bitte überprüfen, ob es einen Fehler gab?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen
+<<Felix Müller&&PERSON>>
+<<Felix.Mueller@gmail.com&&EMAIL>>
+<<Musterhauserstr 2&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berling&&ORT>>
+<<0181/1234567&&TELEFONNUMMER>>
+Geschäftspartnernummer: <<1401234567&&GESCHAEFTSPARTNERNUMMER>>
+Vertragsnummer: <<402012345&&VERTRAGSNUMMER>>

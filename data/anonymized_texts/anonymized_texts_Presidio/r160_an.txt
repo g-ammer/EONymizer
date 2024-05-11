@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe ein Anliegen zu meiner letzten Stromrechnung. Die Rechnungsnummer ist <RECHNUNGSNR.> und der Rechnungsbetrag beläuft sich auf 240 Euro, was deutlich höher ist als meine bisherigen monatlichen Zahlungen. Ich hätte gerne eine Erklärung für diesen unerwartet hohen Betrag. 
+
+Für Rückfragen stehe ich Ihnen gern zur Verfügung. Meine Vertragsnummer lautet <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Sie können mich unter meiner E-Mail-Adresse <EMAIL> oder telefonisch unter <TELEFONNR.> erreichen.
+
+Vielen Dank im Voraus für Ihre Unterstützung und ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

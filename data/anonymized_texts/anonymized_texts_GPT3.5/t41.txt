@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON unter der Vertragsnummer <<402348567&&VERTRAGSNUMMER>> und seit kurzer Zeit habe ich technische Probleme mit der E.ON App. Nach dem Login, der problemlos funktioniert, stürzt die App immer wieder ab. Ich habe bereits versucht, die App zu deinstallieren und neu zu installieren, aber das Problem besteht weiterhin. Könnten Sie mir bitte helfen, diese Störung zu beheben?
+Ich hoffe auf eine schnelle Lösung, da ich die App regelmäßig zur Kontrolle meines Verbrauchs nutze.
+Beste Grüße,
+<<Helmut Schmidt&&PERSON>>
+<<Schillerstraße 12&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>
+Telefon: <<030/1234567&&TELEFONNUMMER>>
+E-Mail: <<helmut.schmidt@gmx.de&&EMAIL>>

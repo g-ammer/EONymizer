@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich habe seit einigen Tagen Probleme mit der E.ON App. Nach Eingabe meiner Login-Daten werde ich immer wieder ausgeloggt und kann nicht auf meine Vertragsinformationen und Rechnungen zugreifen. Ich habe bereits die Verbindung zu meinem Netzwerk geprüft und die App neu installiert, leider ohne Erfolg.
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Könnten Sie bitte Techniksupport zur Verfügung stellen, um dieses Problem zu beheben?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

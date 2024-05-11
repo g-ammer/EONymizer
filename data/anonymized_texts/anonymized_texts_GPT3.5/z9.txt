@@ -1,0 +1,20 @@
+Sehr geehrte Damen und Herren,
+
+ich hoffe, diese E-Mail findet Sie gut. Mein Anliegen bezieht sich auf meinen Gemessenen Zählerstand für Energieverbrauch.
+
+Ich habe letzte Woche ein komplettes Ablesen des Zählers durchgeführt und nach fast einer Woche habe ich den Eindruck, dass es kein korrektes Update für meinen Energieverbrauch gibt. Laut meiner Aufzeichnungen müsste mein Zählerstand weit unter den von Ihnen gemeldeten Zahlen liegen. Gibt es eine Art Verzögerung bei der Erneuerung der gemessenen Werte? Oder könnte es möglich sein, dass mein Zähler kaputt ist?
+
+Zu Ihrer Hilfe habe ich folgende Informationen angefügt:
+
+Vertragsnummer: <<232123456789&&VERTRAGSNUMMER>>
+Geschäftspartnernummer: <<1309876543&&GESCHAEFTSPARTNERNUMMER>>
+Zählernummer: <<ZA123456&&ZAEHLERNUMMER>>
+
+Ich erwarte Ihre baldige Rückmeldung. Ich bedanke mich im Voraus für Ihre Hilfe bei dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<<Martin Schmidt&&PERSON>>
+<<Am Gutenbergpark 1&&STRASSE>>, <<65187&&PLZ>> <<Wiesbaden&&ORT>>
+E-Mail: <<martin.schmidt@email.de&&EMAIL>>
+Tel: <<0611-9876543&&TELEFONNUMMER>>

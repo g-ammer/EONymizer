@@ -1,0 +1,14 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Vor Kurzem habe ich den Wert von meinem Zähler Nr. <<4562398475&&ZAEHLERNUMMER>> abgelesen und stellte fest, dass dieser deutlich höher liegt, als in meiner aktuellen Rechnung angegeben ist (RECHNUNGSNUMMER <<1234567890&&RECHNUNGSNUMMER>>).  
+
+Die Unterlagen meines Vertragskonto <<401237546&&VERTRAGSNUMMER>> ziehe ich für genaue Informationen heran, sehe jedoch, dass das Problem daraus nicht klar hervorgeht. Ohne Abhilfestellung bin ich etwas festgefahren in meinen Rechnern und Ihrer Plattform und finde keine Lösung dieses Unterschiedes.      
+
+<<Jonas Nielsen&&PERSON>>       
+<<55203&&PLZ>> <<Mainz&&ORT>>
+<<042-8348569&&TELEFONNUMMER>>
+<<joneil@hotmail.de&&EMAIL>>
+
+Mit freundlichen Grüßen,
+<<Jonas&&PERSON>> 
+<<Nielsen&&PERSON>>

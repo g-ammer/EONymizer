@@ -1,0 +1,12 @@
+Betreff: Frage zur Rechnungsnummer <<15879632408&&RECHNUNGSNUMMER>>
+
+Guten Tag,
+
+Meine Geschäftspartnernummer ist <<1306543973&&GESCHAEFTSPARTNERNUMMER>> und meine Vertragsnummer lautet <<802543540&&VERTRAGSNUMMER>>. Auf meiner letzten Rechnung mit der Rechnungsnummer <<15879632408&&RECHNUNGSNUMMER>> von E.ON habe ich einen Rechnungsbetrag von 270€ isoliert, normalerweise beträgt mein Verbrauch im Durchschnitt pro Monat nur 203€ Wie komme ich pünktlich diese hohe Rechnungsbetrag zustande ?
+
+Bitte Klären Seii das.
+
+LG
+<<Max Fröhlich&&PERSON>>,
+<<Adelaide-Solbrig-Straße 54&&STRASSE>>, +
+<<069608874638&&TELEFONNUMMER>>

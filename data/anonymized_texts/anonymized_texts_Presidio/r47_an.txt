@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage zum Thema Rechnung. Ich habe heute meine aktuelle Stromrechnung erhalten, aber der Rechnungsbetrag ist deutlich höher als in den vorherigen Monaten. Können Sie mir bitte helfen, das zu verstehen?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und die Rechnungsnummer lautet <RECHNUNGSNR.>. Mein Name ist <PERSON> und ich wohne in der <ADRESSE>. Sie können mich auch unter meiner Telefonnummer <TELEFONNR.> oder per Email an <EMAIL> erreichen. 
+
+Ich freue mich auf eine schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

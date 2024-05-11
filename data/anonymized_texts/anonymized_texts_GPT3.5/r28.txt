@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe meine neueste Rechnung von Ihnen erhalten mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir jedoch zu hoch zu sein. Könnten Sie mir bitte eine Aufschlüsselung der Kosten senden?
+
+Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Johann Schmidt&&PERSON>>
+<<Schillerstraße 8&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>
+<<johann.schmidt@email.de&&EMAIL>>
+<<+49 170 1234567&&TELEFONNUMMER>>

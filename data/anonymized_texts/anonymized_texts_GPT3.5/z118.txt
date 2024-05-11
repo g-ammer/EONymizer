@@ -1,0 +1,9 @@
+Guten Tag,
+
+ich habe eine Frage zum Thema Zählerstand. Wie oft muss ich meinen Zählerstand melden und was ist die beste Methode für mich, dies zu tun? Meine Vertragsnummer lautet <<2322345678&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<1301234567&&GESCHAEFTSPARTNERNUMMER>>. Dazu ist meine Zählernummer <<56789&&ZAEHLERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Freundliche Grüße,
+<<Gerhard Meyer&&PERSON>>
+<<gerhardmeier@gmail.com&&EMAIL>>

@@ -1,0 +1,9 @@
+Guten Tag E.ON Team,
+
+ich hätte eine Frage bezüglich meines Zählerstandes. Meine Vertragsnummer ist <ZÄHLERNR.>, Geschäftspartnernummer <GESCHÄFTSPARTNERNR.> und Zählernummer ist <ZÄHLERNR.>. Könnten Sie mir bitte den aktuellen Zählerstand mitteilen? 
+
+Freundliche Grüße,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+<TELEFONNR.>

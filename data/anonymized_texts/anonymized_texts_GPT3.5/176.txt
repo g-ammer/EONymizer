@@ -1,0 +1,9 @@
+Guten Tag,
+
+ich habe kürzlich meinen Vertrag bei E.ON abgeschlossen und nun habe ich einige Fragen zum Kundenservice. Ich frage mich, ob es einen persönlichen Kundenberater gibt, der mir bei meinen zukünftigen Anliegen zur Verfügung steht.
+Meine Vertragsnummer ist <<23278976544&&VERTRAGSNUMMER>> und die Geschäftspartnernummer lautet <<1301293827&&GESCHAEFTSPARTNERNUMMER>>.
+Ich freue mich auf Ihre baldige Antwort.
+
+Viele Grüße,
+<<Lukas Schmidt&&PERSON>>
+<<Lukas.schmidt@gmx.de&&EMAIL>>

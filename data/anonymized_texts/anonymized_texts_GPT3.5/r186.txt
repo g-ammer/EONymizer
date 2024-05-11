@@ -1,0 +1,17 @@
+Hallo E.ON Kundenservice,
+
+ich habe letzte Woche eine Rechnung von Ihnen für meinen Energievertrag (Vertragsnummer <<401234567&&VERTRAGSNUMMER>>) erhalten. Bei der Durchsicht ist mir aufgefallen, dass ich den aufgeführten Betrag nicht nachvollziehen kann. Würden Sie bitte die einzelnen Positionen auf der Rechnung (Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>) für mich präziser erläutern?
+
+Zudem habe ich in meiner Bank die Überweisung koordiniert, jedoch sehe ich, dass aus meinem Konto bis jetzt nichts abgebucht wurde. Könnten Sie bitte die passende Bankverbindung erneut prüfen, damit ich sicherstellen kann, dass die Zahlung an der richtigen Stelle eingeht?
+
+Zu meiner Sicherheit und Ihrer Information ist meine Geschäftspartnernummer <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Freue mich auf eine klärende und zeitnahe Rückmeldung.
+
+Vielen Dank im Voraus,
+
+<<Matthias Klein&&PERSON>>
+<<Mohlstraße 25&&STRASSE>>
+<<72074&&PLZ>><<Tübingen&&ORT>>
+E-Mail: <<matthiasklein@email.de&&EMAIL>>
+Telefon: <<07071 123 456&&TELEFONNUMMER>>

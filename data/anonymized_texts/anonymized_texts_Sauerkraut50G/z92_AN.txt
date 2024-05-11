@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich hatte eine Frage hinsichtlich meines Zählerstandes. Das Thema beschäftigt mich nun schon seit einigen Tagen. Ich konnte den Zählerstand meines E.ON Zählers (Zählernummer <ZAEHLERNRUMMER>) an meiner Adresse <STRASSE>, <PLZ> <ORT> leider nicht richtig ablesen. Es wäre toll, wenn Sie mir dabei helfen könnten.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<PERSON>
+Vertragsnummer: <VERTRAGSNUMMER>
+Telefon: <TELEFONNUMMER>
+Email: <EMAIL>

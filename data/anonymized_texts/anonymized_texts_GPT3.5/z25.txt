@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich hoffe es geht Ihnen gut und Sie habe einen angenehmen Tag. Ich bin Kunde bei Ihnen, mein Name ist <<Christian Schmidt&&PERSON>> und ich wollte Ihnen eine Frage bezüglich meines Zählerstands stellen. Ich habe versucht ihn selbst abzulesen, da ich meine monatlichen Kosten kontrollieren möchte. Leider hatte ich Schwierigkeiten zu verstehen, wie ich den Zählerstand korrekt ablese. Können Sie mir dabei eventuell behilflich sein?
+
+Meine Vertragsnummer lautet <<402783492&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<206784532&&GESCHAEFTSPARTNERNUMMER>>. Mein Zähler trägt die Nummer <<25367945&&ZAEHLERNUMMER>>.
+
+Ich würde mich über eine Hilfe in dieser Angelegenheit sehr freuen.
+
+Vielen Dank schonmal im Voraus.
+
+Mit freundlichen Grüßen
+
+<<Christian Schmidt&&PERSON>>
+<<Dammstraße 23, 38100 Braunschweig&&STRASSE>>
+Telefon: <<0176 54983762&&TELEFONNUMMER>>
+Mail: <<schmidt.christian@web.de&&EMAIL>>

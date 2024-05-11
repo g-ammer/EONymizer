@@ -1,0 +1,11 @@
+Guten Tag,
+
+mein Name ist <<Markus Brandt&&PERSON>> und ich habe eine Frage zu meinem Vertrag mit der Vertragsnummer <<400987654&&VERTRAGSNUMMER>>. Ich möchte wissen, wann die Vertragslaufzeit endet und ab wann ich eine Kündigung einreichen kann.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Markus Brandt&&PERSON>>
+<<markus.brandt@web.de&&EMAIL>>
+<<Ludwigstraße 8&&STRASSE>>, <<90402&&PLZ>> <<Nürnberg&&ORT>>
+Tel: <<+49 911 1234567&&TELEFONNUMMER>>

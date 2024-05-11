@@ -1,0 +1,9 @@
+Sehr geehrter E.ON Kundenservice,
+ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Mir ist beim Durchsehen der Rechnung ein Posten unklar und ich würde gerne eine Erklärung dafür erhalten. Könnten Sie bitte einen Kundenberater damit beauftragen, sich mit mir in Verbindung zu setzen?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Schillerstraße 12&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+E-Mail: <<hans.mueller@beispiel.de&&EMAIL>>
+Telefon: <<030 12345678&&TELEFONNUMMER>>
+Vertragsnummer: <<402345678&&VERTRAGSNUMMER>>

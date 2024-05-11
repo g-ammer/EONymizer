@@ -1,0 +1,12 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir etwas hoch und ich verstehe nicht genau, wie dieser zustande gekommen ist.
+
+Könnten Sie mir bitte eine detaillierte Aufschlüsselung der Kostenpunkte meiner Rechnung zur Verfügung stellen? Dadurch kann ich nachvollziehen, auf welcher Basis der Rechnungsbetrag errechnet wurde. Zudem würde ich gerne wissen, bis wann der Betrag fällig ist und ob eine Ratenzahlung möglich wäre.
+
+Ich würde mich sehr über eine schnelle Rückmeldung freuen. Sie können mir gerne an meine E-Mail-Adresse <EMAIL> antworten oder mich unter der Telefonnummer <TELEFONNUMMER> erreichen. Meine Adresse lautet <STRASSE>, <PLZ>, <ORT>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

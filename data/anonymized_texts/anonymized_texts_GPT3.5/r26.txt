@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+mein Name ist <<Laura Beier&&PERSON>> und ich bin bei Ihnen mit Vertragsnummer <<4012583667&&VERTRAGSNUMMER>> registriert. Ich habe eine Frage wegen meiner letzten Rechnung. Die Rechnungsnummer dazu ist <<6005821374&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir ziemlich hoch. Ist das richtig so?
+Mfg,
+<<Laura Beier&&PERSON>>
+<<laura.beier@web.de&&EMAIL>>
+<<Bertha-Benz Straße 4&&STRASSE>>, <<70192&&PLZ>>,
+ <<Stuttgart&&ORT>>
+Tel: <<+49.&&TELEFONNUMMER>>

@@ -1,0 +1,10 @@
+Guten Tag,
+
+mein Name ist <PERSON>, ich habe eine Frage zu meiner letzten Rechnung, Nummer <RECHNUNGSNR.>. Der Betrag erscheint mir zu hoch. Könnten Sie bitte prüfen, ob alles korrekt ist? Meine Vertragsnummer lautet <VERTRAGSNR.>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+Am Stad

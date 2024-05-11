@@ -1,0 +1,11 @@
+Guten Tag,
+
+Ich benötige bitte Informationen zu meinem Vertrag. Die Vertragsnummer lautet <VERTRAGSNR.>. Könnten Sie mir bitte die genaue Vertragslaufzeit mitteilen und unter welchen Bedingungen ich diesen verlängern oder kündigen kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+<TELEFONNR.>

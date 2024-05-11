@@ -1,0 +1,8 @@
+ Guten Tag E.ON Team,
+
+ich habe soeben meine aktuelle Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten, jedoch erscheint mir der Rechnungsbetrag ungewöhnlich hoch. Können Sie mir bitte eine detaillierte Aufschlüsselung der Kosten zukommen lassen? Meine Vertragsnummer ist <VERTRAGSNUMMER> und die Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>

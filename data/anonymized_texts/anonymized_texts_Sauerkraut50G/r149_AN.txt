@@ -1,0 +1,17 @@
+ena Müller
+Musterstraße 1
+12345 Musterstadt
+
+Output:
+
+Sehr geehrtes E.ON-Team,
+
+ich hätte eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Ich bin etwas verwirrt, da der Rechnungsbetrag höher ist als ich normalerweise für meinen Verbrauch zahle. Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist?
+
+Für Rückfragen stehe ich Ihnen unter meiner Telefonnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL> zur Verfügung. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

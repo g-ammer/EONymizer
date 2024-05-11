@@ -1,0 +1,16 @@
+Hallo lieber Kundenservice,
+
+mein Name ist <<Susanne Kramer&&PERSON>> und ich bin eine treue Kundin von E.ON seit mehreren Jahren. Die Geschäftspartnernummer lautet <<1401234567&&GESCHAEFTSPARTNERNUMMER>> und die Vertragsnummer ist <<232123456789&&VERTRAGSNUMMER>>.
+
+Ich habe eine Frage bzgl. der Zuständigkeit meines Kundenberaters. Vor einigen Wochen wurde ich von einem Ihrer Mitarbeiter angerufen und es wurde mir mitgeteilt, dass mein aktueller Kundenbetreuer nicht mehr für mein Gebiet zuständig ist. Können Sie mir bitte den Namen und die Kontaktdaten meines neuen Kundenbetreuers geben?
+
+Ich möchte einige Fragen über meine letzte Rechnung (Rechnungsnummer: <<1234567890&&RECHNUNGSNUMMER>>) klären und auch über die Möglichkeit eines neuen Vertrags mit günstigeren Konditionen sprechen.
+
+Ich warte auf Ihre Antwort und danke schon mal im Voraus für Ihre Hilfe.
+
+Viele Grüße,
+<<Susanne Kramer&&PERSON>>
+<<Sonnenglückstraße 7&&STRASSE>>
+<<22417&&PLZ>><<Hamburg&&ORT>>
+Tel.: <<040-1234567&&TELEFONNUMMER>>
+E-Mail: <<susanne.kramer@email.de&&EMAIL>>

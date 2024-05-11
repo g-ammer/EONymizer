@@ -1,0 +1,7 @@
+Sehr geehrtes E.ON Team,
+mein Name ist <<Heinrich Müller&&PERSON>> und ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <<1304567890&&GESCHAEFTSPARTNERNUMMER>>. Ich habe eine Frage zu meinem Vertrag.
+Ich habe meinen Vertrag vor einiger Zeit abgeschlossen und würde gerne wissen, wie lange die Vertragslaufzeit noch ist. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>.
+Können Sie mir bitte auch Informationen geben, wie ich meinen Vertrag kündigen kann, falls ich mich dazu entscheiden sollte? Was ist die Kündigungsfrist und benötige ich ein spezielles Formular dafür?
+Vielen Dank im Voraus für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Heinrich Müller&&PERSON>>

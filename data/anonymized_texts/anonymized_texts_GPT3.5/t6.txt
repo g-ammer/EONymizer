@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich bin derzeit in der E.ON App und habe Schwierigkeiten, mich einzuloggen. Es wird mir ein technischer Fehler angezeigt und ich am verzweifeln. Hilfe wäre dringend gefragt.
+
+Detaillierte Nutzer Daten wie folgt: 
+VERTRAGSNUMMER: <<400345983&&VERTRAGSNUMMER>>
+GESCHÄFTSPARTNERNUMMER: <<2013789258&&GESCHAEFTSPARTNERNUMMER>>
+Meine E-Mail-Adresse lautet <<p.mueller@email.de&&EMAIL>>, Tel ist die <<040394934&&TELEFONNUMMER>>
+
+Freue mich sehr auf Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<<Peter Müller&&PERSON>>

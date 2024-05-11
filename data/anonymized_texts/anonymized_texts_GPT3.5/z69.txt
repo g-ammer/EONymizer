@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen und habe eine Frage zu meinem Zählerstand. Unter der Vertragsnummer <<402365874&&VERTRAGSNUMMER>> ist mein Energievertrag bei Ihnen registriert. Bei der letzten Abrechnung mit der Rechnungsnummer <<3456789120&&RECHNUNGSNUMMER>> ist mir aufgefallen, dass der Zählerstand nicht mit dem auf meiner Ablesung übereinstimmt. 
+
+Die abgelesene Zählernummer lautet <<987654321&&ZAEHLERNUMMER>> und der darauf vermerkte Stand war 2000 kWh. In meiner Rechnung wurde jedoch ein Verbrauch von 2500 kWh angegeben. Ich würde gerne wissen, woher diese Differenz kommt und ob es eventuell zu einem Fehler bei der Ablesung oder Berechnung gekommen ist.
+
+Ich hoffe, Sie können mir weiterhelfen und bedanke mich bereits im Voraus für Ihre Unterstützung.
+
+Viele Grüße
+<<Horst Schmitt&&PERSON>>
+<<Schmittweg 10&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+<<horst.schmitt@mailprovider.de&&EMAIL>>
+<<0171/123456&&TELEFONNUMMER>>

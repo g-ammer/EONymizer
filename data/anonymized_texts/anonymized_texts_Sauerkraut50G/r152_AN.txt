@@ -1,0 +1,17 @@
+ Sehr geehrter E.ON Kundenservice,
+
+ich hoffe, diese Nachricht erreicht Sie in guter Gesundheit. Ich, <PERSON>, schreibe Ihnen aus meiner Adresse, <STRASSE>, <PLZ><ORT>.
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Kürzlich habe ich meine Rechnung erhalten, Rechnungsnummer <<RECHNUNGSNUMMER>>, jedoch gibt es Unstimmigkeiten bezüglich des Rechnungsbetrags, den ich nicht vollständig einordnen kann.
+
+Der Rechnungsbetrag scheint höher zu sein als der übliche Betrag, den ich jeden Monat zahle. Die kleine Erklärung auf der Rechnung ist in diesem Fall leider nicht ausreichend.
+
+Könnten Sie mir bitte eine detaillierte Erklärung dafür geben, warum der Betrag erhöht wurde? Gibt es zusätzliche Gebühren, die ich bisher übersehen habe?
+
+Ich freue mich auf eine schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+E-Mail: <EMAIL>
+Telefonnummer: <TELEFONNUMMER>

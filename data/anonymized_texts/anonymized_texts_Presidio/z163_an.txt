@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundendienst,
+
+ich bin der E.ON Kunde <PERSON> und wohne in der <ADRESSE>. Meine Vertragsnummer ist <VERTRAGSNR.>. 
+
+Ich komme nicht recht weiter, wie ich den Zählerstand ablesen und e-melden kann. Gibt es irgendwo vereinfachende Informationen zur digitalen Eingabe?
+
+Ich freue mich auf eine erklärende Antwort.
+
+Mit freundlichen Grüßen 
+<PERSON>

@@ -1,0 +1,10 @@
+ Guten Tag,
+
+Ich hoffe, es geht Ihnen gut. Mein Name ist <PERSON> und meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich würde gerne meine momentane Vertragslaufzeit erfragen. Meiner Anschrift ist Alfredstraße 17, <PLZ><ORT>.
+
+Können Sie mir bitte nähere Informationen zur rechtzeitigen Kündigung geben? Es wäre sehr hilfreich zu wissen, welche Deadline ich einhalten und welche Dokumente ich vorlegen müssen.
+
+Für Ihre Hilfe bedanke ich mich im Voraus sehr herzlich.
+
+Mit freundlichen Grüßen,
+<PERSON>

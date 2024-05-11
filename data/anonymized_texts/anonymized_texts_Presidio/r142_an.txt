@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNR.>. Ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNR.>: Der Rechnungsbetrag erscheint mir ungewöhnlich hoch. Könnten Sie bitte überprüfen, ob es einen Fehler bei der Berechnung gab oder mir zumindest eine detaillierte Aufschlüsselung der Kosten zukommen lassen?
+
+Ich bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+Herr <PERSON>
+<EMAIL>
+<ADRESSE>
+Telefon: <TELEFONNR.>

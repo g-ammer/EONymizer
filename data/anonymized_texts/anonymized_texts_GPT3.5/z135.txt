@@ -1,0 +1,7 @@
+Sehr geehrte Damen und Herren,
+ich hätte eine Frage zur Erfassung meines Zählerstands. Wie gebe ich den Zählerstand korrekt ein? Zudem, wann sollte ich den Zählerstand übermitteln, also was wäre der optimale Zeitpunkt? Meine Vertragsnummer ist <<402354678&&VERTRAGSNUMMER>>.
+Herzlichen Dank im Voraus für Ihre Hilfe.
+Viele Grüße,
+<<Leonie Müller&&PERSON>>
+<<Leonie.Mueller@gmx.de&&EMAIL>>
+<<Schillerstraße 45&&STRASSE>>, <<50674&&PLZ>> <<Kö&&ORT>>

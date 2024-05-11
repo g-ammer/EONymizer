@@ -1,0 +1,11 @@
+ Guten Tag E.ON Kundenservice,
+
+mein Name ist <PERSON> und ich wohne in der Auguststraße 35, 53604 Dresden. Aktuell habe Ich ein Anliegen hinsichtlich meinem Zählerstand. Ich bin unter meiner Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> geführt und fühle mich ein wenig verwirrt über die aktuellste Ablesung meines Zählers mit der Nummer: <ZAEHLERNRUMMER>.
+
+<ANONYMIZED>
+
+Ich bitte um offizielle Bestätigung der Abrechnung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

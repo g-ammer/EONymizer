@@ -1,0 +1,12 @@
+ Hallo E.ON Kundenservice,
+
+ich habe da einen kleinen Frage zu meinem Zählerstand. Mein Name ist <PERSON> und ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNUMMER>. Seit einigen Tagen bin ich mir unsicher, ob ich den Zählerstand meines Stromzählers (Nummer <ZAEHLERNRUMMER>) richtig abgelesen habe. Sollten die Zahlen der Reihenfolge nach gelesen werden oder muss man andersherum anfangen?
+
+Es wäre echt klasse, wenn Sie mir da weiterhelfen könnten. Ist es eventuell auch möglich, das über Videoanleitung oder einige Flussdiagramme zu veranschaulichen?
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>

@@ -1,0 +1,15 @@
+Guten Tag E.ON Kundendienst,
+
+mein Name ist <<Julia Scherer&&PERSON>> und ich war in den letzten Tagen mit einigen technischen Schwierigkeiten bei Ihrem Service konfrontiert. Bei der Verwendung der E.ON App auf meinem Smartphone konnte ich nicht erfolgreich einloggen - selbst nachdem ich mein Passwort mehrmals zurückgesetzt habe.
+
+Zudem scheint es auch ein Problem mit meiner Vertragsnummer (<<232987904321&&VERTRAGSNUMMER>>) zu geben. Jedes Mal, wenn ich versuche, eine Rechnung (RECHNUNGSNUMMER: <<1234567890&&RECHNUNGSNUMMER>>) zu öffnen, zeigt es an, dass die Rechnung nicht vorhanden ist.
+
+Das hat mich wirklich verunsichert und ich bin eher aufgebracht, weil ich all meine Angelegenheiten bevorzugt digital über Ihr Portal klären möchte. Ich zähle auf Ihr technisches Support-Team, meine Frage zur App und zu den Rechnungen zu klären und mir weiterzuhelfen.
+
+Meine Adresse lautet <<Schöneberger Straße 23&&STRASSE>>, <<10999&&PLZ>> <<Berlin&&ORT>>. Sie können mich auch unter der Telefonnummer (030)12345678 oder per E-Mail (julia.scherer@email.de) erreichen, sollte es erforderlich sein.
+
+Ich freue mich auf Ihre baldige Rückmeldung.
+
+Mit freundlichen Grüßen,
+
+<<Julia Scherer&&PERSON>>

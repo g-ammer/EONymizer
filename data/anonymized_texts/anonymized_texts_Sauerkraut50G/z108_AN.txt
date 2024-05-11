@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meines Zählerstands. Meine Vertragsnummer lautet <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Ich weiß nicht, ob es relevant ist, aber meine Zählernummer lautet <ZAEHLERNRUMMER>.
+
+Können Sie bitte prüfen, ob mein aktueller Zählerstand korrekt in Ihrem System hinterlegt ist? Ich habe den Verdacht, dass es eine Diskrepanz geben könnte. Wenn es Ihnen hilft, kann ich Ihnen gerne den aktuellen Stand durchgeben.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Viele Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

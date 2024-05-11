@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe neulich zum ersten Mal meine Stromrechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten und bin leider etwas verwirrt. Könnten Sie bitte erläutern, wofür die einzelnen Posten auf meiner Rechnung stehen? Warum ist der Gesamtbetrag so hoch?
+
+Es wäre schön, wenn ein Kundenberater dieses in einfacher Weise erklären könnte. Ich möchte sicherstellen, dass ich das also nächstes Mal richtig verstehe, um Probleme in der Zukunft zu vermeiden.
+
+Zudem würde ich gern wissen, ob ich ein Online-Konto erstellen kann, um meine Rechnungen und den Verbrauch regelmäßig einsehen zu können. Wenn ja, wie gehe ich beim Erstellen dieses Kontos vor?
+
+Ich freue mich auf Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

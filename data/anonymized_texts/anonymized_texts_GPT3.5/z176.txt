@@ -1,0 +1,11 @@
+Guten Tag E.ON Team,
+
+es gibt eine Verwirrung bei meinem Zählerstand. Die Heizperiode startete am 01.09.21 und ich habe den Zähler abgelesen. Die laufende Lesung lautet 28972 kWh allerdings ist dies weit höher als in meinen Rechnungen angegeben, wo meine Jahresverbrauch bei ungefähr 7500 kWh liegt.
+
+Kann es da vielleicht eine Anomalie gegeben haben? Mein Vertrag ist die Nummer <<407610721&&VERTRAGSNUMMER>>. Ich würde mich freuen, wenn jemand das abklären könnte. Danke!
+
+LG,
+<<Julia Wagner&&PERSON>>
+<<Taubenstraße 18&&STRASSE>>, <<10175&&PLZ>> <<Berlin&&ORT>>
+mailto:<<julia.wagner@gmail.com&&EMAIL>>
+Telefonnummer: <<+49&&TELEFONNUMMER>>

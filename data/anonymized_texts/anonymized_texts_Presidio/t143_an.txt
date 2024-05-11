@@ -1,0 +1,15 @@
+Guten Tag E.ON Team,
+
+Ich heiße <PERSON> und benötige dringend euren technischen Support. Ich habe Probleme beim Anmelden in die E.ON App mit meiner Vertragsnummer: <VERTRAGSNR.>.
+
+Ich gebe meinen Benutzernamen und Passwort ein, aber die App gibt mir jedes Mal eine Fehlermeldung und ich kann nicht auf meine Vertragsdetails zugreifen. Es scheint eine technische Störung mit der App vorzuherrschen. Am Internet sollte es nicht liegen, da alle anderen Apps tadellos funktionieren.
+
+Könnte bitte jemand einen Blick darauf werfen und die Problemursache finden, um dies zu beheben. Es ist wichtig für mich, meine Zählerdaten und mein Verbrauch regelmäßig zu überprüfen und zu tracken.
+
+Für jegliche Hilfe wäre ich sehr dankbar.
+
+Ich bin unter meiner Telefonnummer <TELEFONNR.> oder auch per Mail: <EMAIL> zu erreichen.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

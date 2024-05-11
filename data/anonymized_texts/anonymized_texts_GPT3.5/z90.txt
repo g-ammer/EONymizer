@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meines Zählerstands. Ich habe festgestellt, dass der aktuelle Zählerstand von meinem Stromzähler (Zählernummer: <<123456789&&ZAEHLERNUMMER>>) sich nicht mit dem auf meiner letzten Rechnung (Rechnungsnummer: <<9080706050&&RECHNUNGSNUMMER>>) deckt. Könnten Sie bitte prüfen, ob es einen Fehler gibt?
+
+Mein Vertragskonto lautet <<272345678&&VERTRAGSNUMMER>>.

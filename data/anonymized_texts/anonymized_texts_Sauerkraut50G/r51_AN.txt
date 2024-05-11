@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+leider habe ich ein kleines Problem mit meiner aktuellen Rechnung (Nummer: <RECHNUNGSNUMMER>) und verstehe den darin angezeigten Betrag nicht ganz. Es besteht meiner Meinung nach kein signifikanter Unterschied im Verbrauch, daher seltsam, einen erheblichen Anstieg beim Rechnungsbetrag zu sehen.
+
+Können Sie bitte diese Position genauer erläutern und mir eine gesamte Konfiguration meiner Verbrauchszahlen zukommen lassen? Wenn nötig, brauchen Sie weitere Informationen, zur Hand habe ich jetzt schon mal die Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> sowie die Vertragsnummer <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

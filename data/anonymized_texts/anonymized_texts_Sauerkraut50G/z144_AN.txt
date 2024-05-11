@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe eine Frage zum Thema Zählerstand. Bei meiner letzten Abrechnung ist mir aufgefallen, dass der Verbrauch sehr hoch ist. Ich frage mich, ob es einen Fehler beim Ablesen des Zählerstandes gab. Könnten Sie bitte meinen Zählerstand überprüfen?
+
+Meine Zählernummer lautet <ZAEHLERNRUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich wohne in der <STRASSE>, <PLZ><ORT>.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

@@ -1,0 +1,9 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich möchte einen neuen Kundenbetreuer zugelost bekommen. Hat dies irgendwelche Auswirkungen auf meinen Vertrag oder Rechnungsabläufe?
+
+Viele Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

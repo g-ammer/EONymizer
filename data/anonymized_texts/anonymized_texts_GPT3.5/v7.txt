@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich hätte eine Frage bezüglich meines Vertrages bei Ihnen. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Ich würde gerne wissen, wie lange die Laufzeit meines Vertrages ist und unter welchen Bedingungen ich diesen eventuell kündigen könnte.
+Ich danke Ihnen im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Anita Schmitz&&PERSON>>
+<<Musterweg 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+<<schmitz.anita@mail.de&&EMAIL>>
+<<+49 176 12345678&&TELEFONNUMMER>>

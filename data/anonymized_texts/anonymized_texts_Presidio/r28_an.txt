@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe meine neueste Rechnung von Ihnen erhalten mit der Rechnungsnummer <RECHNUNGSNR.>. Der Rechnungsbetrag scheint mir jedoch zu hoch zu sein. Könnten Sie mir bitte eine Aufschlüsselung der Kosten senden? 
+
+Meine Vertragsnummer lautet <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+<EMAIL>
+<TELEFONNR.>

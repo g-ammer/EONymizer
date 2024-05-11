@@ -1,0 +1,12 @@
+Guten Tag,
+
+meine Name ist <<Klaus Schmidt&&PERSON>> und ich wohne in der <<Goethestraße 13&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>. Seit einigen Tagen versuche ich den Kundenservice von E.ON telefonisch zu erreichen, aber leider ohne Erfolg. Daher schreibe ich Ihnen nun in der Hoffnung auf eine baldige Rückmeldung.
+
+Ich habe eine Frage zu meiner letzten Rechnung, die mir unter der Nummer <<9876543210&&RECHNUNGSNUMMER>> zugeschickt wurde. Da scheint mir etwas nicht zu stimmen. 
+
+Könnten Sie bitte mal drüberschauen und mir das erläutern? Meine Vertragsnummer ist <<404567893&&VERTRAGSNUMMER>>.
+
+Vielen Dank für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<<Klaus Schmidt&&PERSON>>

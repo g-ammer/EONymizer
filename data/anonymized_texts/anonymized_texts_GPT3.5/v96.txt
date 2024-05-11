@@ -1,0 +1,12 @@
+Guten Tag, 
+
+ich habe eine Frage zu meinem Vertrag bei Ihnen. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Ich möchte gern wissen, wie lange meine Vertragslaufzeit noch ist und wann eine Kündigung möglich wäre. 
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Sophie Maier&&PERSON>>
+<<sophie.maier25@email.de&&EMAIL>>
+<<0151 23456789&&TELEFONNUMMER>>
+<<Rosenthaler Str. 45, 10178 Berlin&&STRASSE>>, <<10178&&PLZ>>,
+ <<Berlin&&ORT>>

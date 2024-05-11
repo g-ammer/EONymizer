@@ -1,0 +1,10 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, ich wohne in der <STRASSE> <PLZ><ORT>. Ich bin Kunde bei Ihnen und habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und der Rechnungsbetrag beträgt <KONTONUMMER>,35 Euro.
+
+Könnten Sie mir bitte erklären, wie sich dieser Betrag zusammensetzt? Ich habe nämlich den Eindruck, dass er höher ist als gewöhnlich.
+
+Vielen Dank bereits im Voraus für Ihre Hilfe.
+
+Viele Grüße,
+<PERSON>

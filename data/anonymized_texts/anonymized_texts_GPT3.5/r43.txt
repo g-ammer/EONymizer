@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich hätte eine Frage betreffend meiner letzten Rechnung, Rechnungsnummer <<9876543210&&RECHNUNGSNUMMER>>. Der in Rechnung gestellte Betrag erscheint mir dieses Mal ungewöhnlich hoch und ich kann mir den Anstieg nicht erklären. Könnten Sie mir bitte Hintergründe dazu nennen? Meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Julia Neumann&&PERSON>>,
+<<Rosenstraße 12&&STRASSE>>,
+<<12345&&PLZ>> <<München&&ORT>>
+<<julia.neumann@example.com&&EMAIL>>

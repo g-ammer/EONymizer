@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich hätte eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir ungewöhnlich hoch. Könnten Sie bitte prüfen, ob hier ein Fehler vorliegt? Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>

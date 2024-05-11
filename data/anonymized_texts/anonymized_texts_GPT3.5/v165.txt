@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich habe kürzlich meinen Vertrag mit der Vertragsnummer <<402345678&&VERTRAGSNUMMER>> gewechselt und habe einige Fragen zur neuen Vertragslaufzeit. Können Sie mir bitte mitteilen, wie lange meine neue Vertragslaufzeit ist und wann eine mögliche Kündigung möglich ist?
+Mit freundlichen Grüßen,
+<<Anita Wagner&&PERSON>>
+<<Anita.Wagner@hotmail.com&&EMAIL>>
+<<Friedrichstraße 57&&STRASSE>>, <<10117&&PLZ>>,
+ <<Berlin&&ORT>>
+Telefon: <<030 12345678&&TELEFONNUMMER>>

@@ -1,0 +1,9 @@
+ Sehr geehrter E.ON Kundenservice,
+
+ich habe eine Frage zum Rechnungsbetrag meiner aktuellen Stromrechnung mit der Nummer <RECHNUNGSNUMMER>. Der Betrag erscheint mir etwas höher als üblich. Könnten meine Verbrauchseinheiten falsch berechnet worden sein? Meine Zählernummer ist <ZAEHLERNUMMER>.
+
+Vielen Dank und festen Gruß,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

@@ -1,0 +1,14 @@
+ Hallo E.ON Kundenservice,
+
+ich habe vor ein paar Tagen eine Rechnung von Ihnen erhalten, die mir etwas unklar erscheint. Die Rechnungsnummer ist <RECHNUNGSNUMMER> und die Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Der Rechnungsbetrag scheint höher zu sein als in den vorherigen Monaten und ich verstehe nicht ganz, warum das so ist. Könnten Sie mir bitte erklären, wie sich dieser Betrag zusammensetzt?
+
+Außerdem wollte ich fragen, ob es möglich wäre, meine Zahlungen in Zukunft in monatlichen Raten zu begleichen. Falls ja, könnten Sie mir bitte Informationen dazu geben, wie ich diesen Prozess starten kann?
+
+Ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>

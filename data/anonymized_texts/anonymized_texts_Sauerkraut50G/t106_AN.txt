@@ -1,0 +1,17 @@
+ Guten Tag,
+
+ich habe Schwierigkeiten, mich in Ihre mobile App "E.ON Drive" einzuloggen. Jedes Mal, wenn ich versuche mich anzumelden, erhalte ich die Meldung "technische Störung". Könnten Sie mir bitte dabei helfen?
+
+Ich verwende dieselben Anmeldedaten, die ich auch für den Login auf Ihrem Online-Portal verwende und dort funktioniert es ohne Probleme.
+
+Meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER> und mein Vertragskonto hat die Nummer <KONTO>.
+
+Ich hoffe, Sie können mir helfen, dieses Problem zu lösen, da ich die App sehr nützlich finde und sie gerne nutzen möchte.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>

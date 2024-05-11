@@ -1,0 +1,10 @@
+Guten Tag,
+
+mein Name ist <<Helmut Klais&&PERSON>>, ich wohne in der <<Friedrichstraße 12&&STRASSE>>, <<45478&&PLZ>> <<Mülheim an der Ruhr&&ORT>>. Mich würde gern über die genauen Details meines Stromvertrags informieren. Meine Vertragsnummer lautet <<402354678&&VERTRAGSNUMMER>>. Können Sie bitte mir erläutern, an welchem Datum mein Vertrag endet und ob automatische Verlängerung notiert ist?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+ <<Helmut Klais&&PERSON>>
+Tel: <<01627988431&&TELEFONNUMMER>>
+Email: <<hklais@gmx.de&&EMAIL>>

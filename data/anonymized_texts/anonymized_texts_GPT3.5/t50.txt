@@ -1,0 +1,15 @@
+Betreff: Technische Probleme mit der E.ON App
+
+Sehr geehrtes E.ON-Team,
+
+ich habe ein technisches Problem. Ich kann mich nicht mehr in die E.ON App mit meinen üblichen Login-Daten einloggen. Haben Sie vielleicht gerade Wartungsarbeiten oder eine Störung im System?
+
+Meine Geschäftspartnernummer ist die <<1301234567&&GESCHAEFTSPARTNERNUMMER>>. Ich bitte um schnelle Rückmeldung und Lösung des Problems, damit ich wieder auf meine Verbrauchsdaten und Rechnungen zugreifen kann.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Tobias Müller&&PERSON>>
+<<Taubenweg 12&&STRASSE>>, <<28199&&PLZ>> <<Bremen&&ORT>>
+<<tobias.mueller@web.de&&EMAIL>>
+<<0179-123456789&&TELEFONNUMMER>>

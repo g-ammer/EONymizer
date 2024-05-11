@@ -1,0 +1,8 @@
+Guten Tag,
+
+mein Name ist <<Peter Schmidt&&PERSON>> und ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <<1308457285&&GESCHAEFTSPARTNERNUMMER>>. Ich habe eine Frage bezüglich meines Zählerstands. Wie und wann lese ich den aktuellen Zählerstand ab? Es wäre toll, wenn Sie mir diese Information zukommen lassen könnten.
+
+Ich wohne zurzeit in der <<Musterstraße 7&&STRASSE>>, <<45678&&PLZ>> <<Köln&&ORT>> und ich habe einen Vertrag bei Ihnen unter der Vertragsnummer <<404711581&&VERTRAGSNUMMER>>. Die Zählernummer ist <<MHK 8596245&&ZAEHLERNUMMER>> und ich habe den Vertrag schon seit mehreren Jahren bei Ihnen.
+
+Vielen Dank im Voraus und mit freundlichen Grüßen,
+<<Peter Schmidt&&PERSON>>

@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meiner neuesten Rechnung. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Mir erscheint der Rechnungsbetrag dieses Monats ungewöhnlich hoch und entspricht nicht meinem üblichen Verbrauch. Könnten Sie bitte überprüfen, ob hier ein Fehler vorliegt?
+
+Meine Vertragsnummer ist <<2323456789&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<1301234567&&GESCHAEFTSPARTNERNUMMER>>. Falls weitere Details benötigt werden, bitte ich um Mitteilung.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 27&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+<<mueller.hans@example.com&&EMAIL>>
+<<+49 123 456789&&TELEFON>>

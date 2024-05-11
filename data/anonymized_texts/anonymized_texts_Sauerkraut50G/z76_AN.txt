@@ -1,0 +1,12 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, ich wohne in der <STRASSE> in <PLZ><ORT> und bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNUMMER>.
+
+Ich sitze gerade vor meiner Stromrechnung und habe Probleme mit dem Zählerstand. Auf der Rechnung ist die Zählernummer <<ZAEHLERNRUMMER>> aufgeführt, jedoch kann ich den angegebenen Zählerstand nicht nachvollziehen.
+
+Könnten Sie mir bitte erklären, wie der Zählerstand genau ermittelt wird? Und wie kann ich sicherstellen, dass der Zählerstand korrekt abgelesen und erfasst wurde?
+
+Vielen Dank für Ihre Unterstützung bei diesem Thema.
+
+Mit freundlichen Grüßen,
+<PERSON>

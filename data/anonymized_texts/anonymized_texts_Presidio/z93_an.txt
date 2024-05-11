@@ -1,0 +1,13 @@
+Guten Tag E.ON Kundenservice,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Ich habe kürzlich einen neuen Zählerstand erfasst und online eingetragen, aber irgendwie scheint es nicht aktualisiert zu sein auf meinem Konto. Können Sie mir bitte helfen, dies zu klären?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und die Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.>. Der betroffene Zähler hat die Nummer Z<ZÄHLERNR.>. 
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+<EMAIL>
+<TELEFONNR.>

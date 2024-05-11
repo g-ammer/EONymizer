@@ -1,0 +1,17 @@
+Guten Tag,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <PERSON>, ich bin Kunde bei E.ON und habe einige Fragen.
+
+Zuallererst, ich habe eine Rechnung erhalten, Rechnungsnummer <RECHNUNGSNR.>, und der Betrag scheint mir etwas zu hoch. Für meinen Geschmack steigt der Betrag fast jeden Monat an, obwohl mein Energieverbrauch ziemlich gleich bleibt. Können Sie bitte näher auf meine Rechnung eingehen und mir die Gründe für die Kostensteigerung mitteilen? 
+
+Außerdem habe ich eine Vertragsänderung in Betracht gezogen, um einige zusätzliche Features hinzuzufügen. Daher bin ich daran interessiert, wie dieser Prozess abläuft. Können Sie mir bitte mitteilen, wer mein zuständiger Kundenbetreuer ist? 
+
+Meine Vertragsid ist <GESCHÄFTSPARTNERNR.> und meine Geschäftspartnernummer ist <VERTRAGSNR.>. Bitte lassen Sie mich wissen, wenn Sie zusätzliche Informationen benötigen.
+
+Ich bedanke mich im Voraus für Ihre Unterstützung und Hoffe auf eine baldige Antwort.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+
+<ADRESSE> Berlin

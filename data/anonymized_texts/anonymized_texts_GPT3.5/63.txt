@@ -1,0 +1,10 @@
+Guten Tag, 
+
+ich habe eine Frage bezüglich meines Energievertrags mit der Vertragsnummer <<232545785489&&VERTRAGSNUMMER>>. Könnte ein Kundenberater mir bitte mitteilen, wie ich meine monatlichen Zahlungen einsehen kann? 
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Anna Schulz&&PERSON>>
+<<Am Park 9&&STRASSE>>, <<10115&&PLZ>>, <<Berlin&&ORT>>
+<<Anna.Schulz91@gmx.de&&EMAIL>>

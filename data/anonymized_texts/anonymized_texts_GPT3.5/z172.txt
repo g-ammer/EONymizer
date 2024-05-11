@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich habe eine Frage zu meinem Zählerstand. Ich bin Kunde bei E.ON mit der Vertragsnummer <<401234567&&VERTRAGSNUMMER>>. Ich habe festgestellt, dass mein aktueller Zählerstand deutlich höher ist als meine monatliche Abschlagszahlung.
+
+Ich würde gerne erfahren, ob ein Fehler vorliegt oder ob ich meine Abschlagszahlung erhöhen sollte, um eine hohe Nachzahlung zu vermeiden. Ebenfalls würde ich gerne wissen, ob es möglich ist, meinen Zählerstand selbst zu überprüfen und Vorkehrungen gegen einen möglichen Fehler zu treffen.
+
+Eine kurze Rückmeldung Ihrerseits zu diesem Thema wäre sehr hilfreich.
+
+Ich danke Ihnen im Voraus für Ihre schnelle Hilfe und freue mich auf Ihre Antwort.
+
+Beste Grüße
+<<Hans Schmidt&&PERSON>>
+<<Hauptstraße 5&&STRASSE>>
+<<12345&&PLZ>><<Dorfstadt&&ORT>>
+Telefonnummer: <<01234/56789&&TELEFONNUMMER>>
+E-mail: <<hans.schmidt@email.de&&EMAIL>>

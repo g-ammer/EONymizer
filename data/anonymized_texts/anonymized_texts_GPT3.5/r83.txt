@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir etwas zu hoch und ich würde gerne wissen, worauf sich dieser Betrag zusammensetzt. Könnten Sie mir das bitte erläutern?
+Vielen Dank im Voraus für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Lena Meyer&&PERSON>>
+<<Musterweg 3&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+E-Mail: <<lena.meyer@email&&EMAIL>>

@@ -1,0 +1,15 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich meiner kürzlich erhaltenen Rechnung. Die Rechnungsnummer lautet <RECHNUNGSNR.> und der Rechnungsbetrag beträgt 123,45 Euro. Ich bin mir nicht sicher, ob dieser Betrag korrekt ist, denn es scheint höher zu sein als das, was ich normalerweise bezahle.
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer ist <VERTRAGSNR.>. Könnten Sie bitte überprüfen, ob es einen Fehler in meiner Rechnung gibt oder ob es eine Erklärung für den höheren Betrag gibt?
+
+Ich wäre Ihnen sehr dankbar, wenn Sie diese Angelegenheit so schnell wie möglich klären könnten. 
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+12345 Musterstadt
+<EMAIL>

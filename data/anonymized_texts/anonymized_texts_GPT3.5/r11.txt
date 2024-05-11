@@ -1,0 +1,17 @@
+Sehr geehrte Damen und Herren,
+
+gestern habe ich meine E.ON Rechnung erhalten, die mir ein paar Fragen aufgeworfen hat. Es handelt sich um die Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>.
+
+Das mir berechnete Rechnungsdatum ist mir unklar. Könnten Sie mir bitte erläutern, wie der Rechnungsbetrag zustande kommt und was genau unter den aufgeführten Posten zu verstehen ist?
+
+Des Weiteren sah ich, dass eine kurzfristige Zahlung des Rechnungsbetrages verlangt wird – wäre es auch möglich, diesen Betrag in kleineren Raten zu begleichen?
+
+Meine Geschäftspartnernummer lautet: <<13012345678&&GESCHAEFTSPARTNERNUMMER>>.
+
+Freundlicherweise bitte ich um eine rasche Klärung meiner Angelegenheit.
+
+Mit freundlichen Grüßen,
+<<Michael Schmidt&&PERSON>>
+<<Schneiderstraße 3&&STRASSE>>, <<30159&&PLZ>> <<Hannover&&ORT>>
+E-Mail: <<Michael.Schmidt@mail.de&&EMAIL>>
+Telefon: <<0511-123456789&&TELEFONNUMMER>>

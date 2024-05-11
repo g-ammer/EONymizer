@@ -1,0 +1,14 @@
+Guten Tag E.ON Kundenservice,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe Ihnen wegen meiner letzten Rechnung. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>>. In meinem aktuellen Kontoauszug habe ich bemerkt, dass der Rechnungsbetrag offenbar höher als üblich ist.
+
+Könnten Sie bitte überprüfen, weshalb und wofür ich diesen Betrag zahlen muss? Meine Vertragsnummmer ist <<402345897&&VERTRAGSNUMMER>>.
+
+Außerdem möchte ich nachfragen, ob es möglich ist, Ratenzahlungen für diesen Rechnungsbetrag zu arrangieren?
+
+Ich freue mich auf eine baldige Rückmeldung von Ihnen.
+
+Mit freundlichen Grüßen,
+<<Anna Meier&&PERSON>>
+<<Annstr. 12&&STRASSE>>, <<45678&&PLZ>>, <<Dortmund&&ORT>>
+E-Mail: <<a.meier12@gmail.de&&EMAIL>>

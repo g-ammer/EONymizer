@@ -1,0 +1,14 @@
+ Hallo E.ON-Kundenservice,
+
+da ich auf Ihrem Webportal invalide Informationen eingeben musste, versuche ich den Bestellstatus meines neuen Gaszählers (ZAHLERNUMMER: <ID>) selbst auf diesem Weg herausfinden zu können.
+
+Können Sie mir bitte nachsehen, ob das System den Zähler bereits zugestellt hat und welches das geplante Installmentgangstermin ist?
+
+Nochmal vielen Dank für Ihre Unterstützung bei diesem Problem.
+
+Liebe Grüße,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<TELEFONNUMMER>
+<EMAIL>

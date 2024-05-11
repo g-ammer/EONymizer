@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe Fragen zu meiner Vertragsnummer <VERTRAGSNUMMER>. Könnten Sie mir bitte die genaue Vertragslaufzeit mitteilen und welche Kündigungsfristen zu beachten sind?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

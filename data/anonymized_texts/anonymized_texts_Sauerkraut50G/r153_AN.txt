@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und die Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Der Rechnungsbetrag scheint mir etwas zu hoch zu sein.
+
+Könnten Sie mir bitte mitteilen, auf welche Verbrauchsdaten sich diese Rechnung bezieht und wie sich der Betrag im Detail zusammensetzt? Eventuell wurde ein falscher Zählerstand verwendet. Die Zählernummer lautet <ZAEHLERNRUMMER>.
+
+Ich bitte um eine schnelle Klärung, da der Betrag bereits von meinem Konto abgebucht wurde.
+
+Über eine zeitnahe Rückmeldung würde ich mich sehr freuen.
+
+Vielen Dank und sonnige Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Zählerstandes. Meine Zählernummer lautet <ZÄHLERNR.>. Ich habe gerade versucht, meinen aktuellen Zählerstand in meinem Online-Konto einzutragen, aber ich bin mir nicht sicher, ob der Eintrag erfolgreich war. Können Sie das bitte für mich überprüfen? 
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Ich wäre Ihnen sehr dankbar, wenn Sie mir so schnell wie möglich dazu Rückmeldung geben könnten.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+Tel: <TELEFONNR.>

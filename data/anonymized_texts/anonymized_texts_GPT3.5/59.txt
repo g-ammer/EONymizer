@@ -1,0 +1,11 @@
+Hallo E.ON Team,
+
+mich würde interessieren, was man unter dem Begriff “Kundenberater” bei E.ON versteht. 
+Konkret hätte ich folgende Fragen: Sind die Berater standortgebunden? Arbeiten sie telefonisch, per Email oder persönlich? Könnte ich meinen aktuellen Berater selbst auswählen oder wird er mir zugeteilt? Inwieweit wäre es möglich, den Berater zu wechseln? 
+
+Zu mir: Mein Name ist <<Anna Schmidt&&PERSON>> und ich wohne in der <<Friedrichstraße 133&&STRASSE>> in <<10117&&PLZ>> <<Berlin&&ORT>>. Meine Vertragsnummer lautet <<409873521&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Anna Schmidt&&PERSON>>

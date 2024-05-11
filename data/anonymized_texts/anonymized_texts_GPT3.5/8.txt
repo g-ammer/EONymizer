@@ -1,0 +1,12 @@
+Sehr geehrter Kundenservice,
+
+ich habe eine Frage zu meinem E.ON Energievertrag mit der Vertragsnummer <<402347891&&VERTRAGSNUMMER>>. Können Sie mir bitte den aktuellen Stand über den Verbrauch meines Gaszählers mit der Zählernummer <<123456789&&ZAEHLERNUMMER>> teilen? 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Müllerstr. 15&&STRASSE>>
+<<12345&&PLZ>><<Berlin&&ORT>>
+E-Mail: <<hans.mueller@gmail.com&&EMAIL>>
+Telefon: <<017612345678&&TELEFONNUMMER>>

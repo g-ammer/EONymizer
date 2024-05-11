@@ -1,0 +1,12 @@
+Hallo E.ON Kundenservice,
+
+mein Name ist <<Frank Schäfer&&PERSON>> und ich habe ein Anliegen bezüglich meines Vertrages mit der Vertragsnummer <<402345689&&VERTRAGSNUMMER>>. Bei meiner letzten Stromrechnung (Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>) sind mir einige Posten nicht klar. Könnten Sie bitte diese für mich genauer erläutern?
+
+Des Weiteren würde ich gerne wissen, ob es möglich ist mein Zahlungsintervall zu ändern. Momentan zahle ich monatlich, würde aber gerne auf ein vierteljährliches Zahlungsmodell umstellen. Ist das in meinem Vertrag möglich?
+
+Ich würde mich freuen, wenn ein Kundenberater mich diesbezüglich baldmöglichst kontaktieren könnte. Sie können mich gerne unter der Telefonnummer <<0151/3456789&&TELEFONNUMMER>> erreichen oder mir eine Email an <<f.schaefer@mail.de&&EMAIL>> senden.
+
+Vielen Dank im Voraus für Ihre Unterstützung!
+
+Mit freundlichen Grüßen,
+<<Frank Schäfer&&PERSON>>

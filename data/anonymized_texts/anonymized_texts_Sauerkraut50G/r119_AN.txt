@@ -1,0 +1,10 @@
+ Guten Tag E.ON Kundenservice,
+
+ich heiße <PERSON> und bin bei Ihnen als Kunde registriert. Leider habe ich Bedenken bezüglich einer meiner jüngsten Rechnungen. Beim Überprüfen meiner Unterlagen bin ich auf die Rechnungsnummer <<RECHNUNGSNUMMER>> gestoßen, deren Rechnungsbetrag etwas komisch wirkte. Er ist deutlich höher als meine üblichen monatlichen Zahlungen. Könnten Sie mir einen Einblick geben, in welche Leistungen und Kosten die auf dieser Rechnung aufgeteilt wurden?
+
+Ich freue mich auf Ihre baldige Rückmeldung.
+
+E.ON Vertragsnummer: <VERTRAGSNUMMER>
+
+Mit freundlichen Grüßen,
+<PERSON>

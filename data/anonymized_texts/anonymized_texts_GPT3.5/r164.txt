@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+
+ich habe letzte Woche meine Abrechnung unter der Rechnungsnummer <<7654321098&&RECHNUNGSNUMMER>> erhalten und habe eine Frage dazu. Der Rechnungsbetrag erscheint mir höher als erwartet.
+
+Könnten Sie mir bitte erklären, wie sich dieser Betrag zusammensetzt und mir dabei behilflich sein, den Betrag zu reduzieren? Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>.
+
+Ich würde mich freuen, wenn Sie mir weiterhelfen könnten.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<hans.mueller@example.com&&EMAIL>>
+<<Mühlenstraße 3, 10115 Berlin&&STRASSE>>
+<<+49 123 45678&&TELEFONNUMMER>>

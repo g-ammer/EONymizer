@@ -1,0 +1,8 @@
+Hallo,
+Ich habe ein Problem mit meiner E.ON App. Ich kann mich nicht mehr mit meinen Login-Daten einloggen. Können Sie mir hier weiterhelfen? Meine Vertragsnummer lautet <<272823456789&&VERTRAGSNUMMER>>.
+Vielen Dank für Ihre Unterstützung.
+Freundlicher Gruß
+<<Klaus Schmidt&&PERSON>>
+<<schmidt.klaus@email.de&&EMAIL>>
+<<+49 151 12345678&&TELEFONNUMMER>>
+<<Am Markt 5, 12345 Berlin&&STRASSE>>

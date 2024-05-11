@@ -1,0 +1,10 @@
+Guten Tag E.ON-Team,
+
+meine Frau und ich sind seit Längerem Kunden bei E.ON und leben an der <<Haydnstraße 7&&STRASSE>>, <<33014&&PLZ>> <<Bad Door&&ORT>>. Nun haben wir eine Frage bezüglich unseren Zählerstands.
+
+Es handelt sich dabei um den Vertrag mit der Nummer <<2326789013228&&VERTRAGSNUMMER>> und um den Stromzähler mit der Kennnummer <<G483FF5600&&ZAEHLERNUMMER>>. Aktuell erscheint der Zählerstand unbekannt auf unserer monatlichen Rechnung und wir fragen uns, woran das liegen könnte. Wir haven bereits versucht, den Zähler selbst abzulesen und ihn auf korrekten Stand zu bringen, jedoch stimmen die Vidoerte Werte in unserem online Account nicht ueberdein.
+
+Wir bedanken uns bei Ihnen fur Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<<Hans Meyer&&PERSON>>

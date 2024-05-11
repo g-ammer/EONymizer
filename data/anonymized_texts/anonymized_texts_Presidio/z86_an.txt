@@ -1,0 +1,11 @@
+Betreff: Anfrage zum Zählerstand 
+
+Guten Tag, 
+
+mein Name ist <PERSON> und ich bin E.ON Kunde mit der Vertragsnummer <VERTRAGSNR.>. Beim Versuch, den Zählerstand meines Stromzählers abzulesen, habe ich festgestellt, dass die Anzeige auf meinem Zähler (Zählernummer: 7235_DP) unklar ist. Können Sie mir bitte mitteilen, wie ich diesen korrekt ablesen kann? Bisher hatte ich bei der Ablesung keine Probleme aber irgendwie komme ich dieses mal nicht weiter.
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+(<EMAIL>)

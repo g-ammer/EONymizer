@@ -1,0 +1,10 @@
+Betreff: Anfrage zum Zählerstand
+
+Guten Tag,
+
+mein Name ist <<Alexandra Müller&&PERSON>> und ich bin Kunde bei Ihnen unter der Vertragsnummer <<402094567&&VERTRAGSNUMMER>>. Könnten Sie mir bitte mitteilen, wie ich den Zählerstand meines Stromzählers Ablesen kann? Mir ist die genaue Vorgehensweise nicht klar. Brauche ich hierfür auch die Zählernummer <<236478234024&&ZAEHLERNUMMER>>?
+
+ich hoffe meine Fragen klären zu können und ich bedanke mich für Ihr Engagement und Ihre Hilfe in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<<Alexandra Müller&&PERSON>>

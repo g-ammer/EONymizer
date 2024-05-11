@@ -1,0 +1,11 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Vertrags. Mein Vertragskonto mit der Nummer <<402345678&&VERTRAGSNUMMER>>. Ich frage mich, ob ich den Kundenservice auch während der Wochenenden erreichen kann. Bietet E.ON einen Kundenservice am Samstag oder Sonntag?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Michael Müller&&PERSON>>
+<<Am Kaiserkai 69&&STRASSE>>
+<<20457&&PLZ>><<Hamburg&&ORT>>
+<<michael.mueller@gmail.com&&EMAIL>>

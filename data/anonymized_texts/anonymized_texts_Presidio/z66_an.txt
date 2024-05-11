@@ -1,0 +1,15 @@
+Betreff: Übermittlung und Abfrage des Zählerstands 
+
+Guten Tag,
+
+Ich heiße <PERSON> und habe ein Anliegen hinsichtlich meines Zählerstands. Meine Vertragsnummer lautet <ZÄHLERNR.> und ich wohne in der <ADRESSE>. Bisher habe ich noch nie den Zählerstand für meinen Stromzähler übermittelt und bin mir unsicher, wie ich vorgehen soll. 
+
+Könnten Sie mir bitte erklären, wie die Übermittlung des Zählerstands funktioniert und wann ich diese durchführen sollte? Außerdem, wo finde ich die genaue Zählernummer und wie oft sollte dieser Vorgang wiederholt werden?
+
+Ich hoffe auf eine schnelle Rückmeldung.
+
+Vielen Dank im Voraus und beste Grüße,
+
+<PERSON>
+
+Email: <EMAIL>

@@ -1,0 +1,13 @@
+Betreff: Anfrage zur Bearbeitung der Kundenbetreuung
+
+Sehr geehrte Damen und Herren,
+
+ich würde gerne erfahren, wie ich meine Geschäftspartnernummer <<1305678901&&GESCHAEFTSPARTNERNUMMER>> in meinem Online-Konto hinzufügen kann, da mir dies bisher nicht gelungen ist. Könnte mir ein Kundenberater dabei behilflich sein?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Laura Schmidt&&PERSON>>
+<<laura.schmidt@gmail.com&&EMAIL>>
+<<Brunnenstraße 12, 10119&&STRASSE>><<Berlin&&ORT>>
+<<0176-78012345&&TELEFONNUMMER>>

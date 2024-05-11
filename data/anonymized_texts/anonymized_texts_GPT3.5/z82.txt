@@ -1,0 +1,9 @@
+Sehr geehrtes E.ON Team,
+ich wende mich heute an Sie, da ich eine Frage bezüglich meines Zählerstands habe. Ich bin Kunde bei Ihnen und meine Vertragsnummer lautet <<402938475&&VERTRAGSNUMMER>>. Ich wohne in der <<Bachstraße 18&&STRASSE>>, <<26789&&PLZ>> <<Leer&&ORT>>.
+
+Zum Thema Zählerstand: Ich habe versucht, meinen aktuellen Zählerstand online einzugeben, konnte ihn aber nicht finden. Könnten Sie mir bitte mitteilen, wie ich meinen Zählerstand finden und wo ich diesen eintragen kann? Es handelt sich dabei um den Zähler mit der Nummer <<Z12345678&&ZAEHLERNUMMER>>.
+
+Ich freue mich über eine zeitnahe Rückmeldung Ihrerseits.
+
+Vielen Dank im Voraus und beste Grüße,
+<<Michael Schulz&&PERSON>>

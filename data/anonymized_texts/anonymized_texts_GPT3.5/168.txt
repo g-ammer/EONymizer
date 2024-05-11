@@ -1,0 +1,14 @@
+Hallo,
+
+ich habe eine Frage bezüglich meines E.ON Energievertrags mit der Vertragsnummer <<402563784&&VERTRAGSNUMMER>>. Könnte bitte ein Kundenberater Kontakt mit mir aufnehmen und mich ausführlich beraten? Ich habe einige Unklarheiten und wünsche persönliche Unterstützung. 
+
+Meine Kontaktdaten sind:
+Name: <<Hans Müller&&PERSON>>
+Adresse: <<Hauptstraße 45, 10117 Berlin&&STRASSE>><<10117&&PLZ>><<Berlin&&ORT>>
+Telefonnummer: <<030 1234567&&TELEFONNUMMER>>
+Email: <<hans.mueller@gmail.com&&EMAIL>>
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>

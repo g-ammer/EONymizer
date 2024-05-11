@@ -1,0 +1,15 @@
+lichen Grüßen,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>
+
+Sehr geehrte Damen und Herren,
+
+kürzlich wurde mein monatlicher Abschlag erhöht. Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist und welche Schritte ich gehen muss, um eine genaue Aufschlüsselung meiner Rechnungen zu sehen? Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Besten Dank vorab!
+
+Mit freundlichen Grüßen,
+<PERSON>

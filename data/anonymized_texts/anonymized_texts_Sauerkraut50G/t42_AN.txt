@@ -1,0 +1,17 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich wende mich an den technischen Support mit einer kleinen Anfrage.
+
+Mein Vertragskonto (<VERTRAGSNUMMER>) ist bei Ihnen hinterlegt und Ihre App wurde bisher reibungslos auf meinem Smartphone ausgeführt. Allerdings gibt es seit ein paar Tagen Schwierigkeiten. Nach dem Login in der App stürzt das Programm häufig ab oder mein Bildschirm friert ein. Ich benutze das E.ON App auf meinem iPhone 8.
+
+Selbst Neustarts und Neuinstallationen haben das Problem nicht gelöst. Dies ist besonders schwierig, als ich meine monatlichen Zählerstände für Strom und Gas (Zählernummer <ZAEHLERNRUMMER>) sorgfältig verfolge.
+
+Kann mir Bitte jemand weiter helfen und Hinweise geben, wie ich dieses technische Problem beheben kann? Vielleicht ist es eine anerkannte Störung, die momentan behoben wird und dementsprechend die Unsicherheiten zu meiner Generierung schaffen.
+
+Für Ihre Unterstützung im Voraus vielen Dank. Falls Sie zusätzliche Informationen benötigen, stehe ich gerne zur Verfügung.
+
+Herzlichen Dank
+<PERSON>
+<EMAIL>
+<PLZ><ORT>
+Tel: <TELEFONNUMMER>

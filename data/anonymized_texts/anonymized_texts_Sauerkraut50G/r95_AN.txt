@@ -1,0 +1,14 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Ist der darin angezeigte Zahlungsbetrag für den gesamten Monat oder ist dies der Abschlag für einen Teil des Monats? Könnten Sie für mich bitte prüfen und sicherstellen, dass keine Irrtümer vorliegen?
+
+Meine Vertragsnummer ist die <VERTRAGSNUMMER> und die Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Als Zahlender würde ich auf jeden Fall Klarheit über den genauen Betrag der Rechnung haben.
+
+Ich freue mich auf Ihre baldige Rückmeldung.
+Vielen Dank im Voraus!
+
+Beste Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

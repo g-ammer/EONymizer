@@ -1,0 +1,10 @@
+Sehr geehrte Frau <PERSON>,
+
+ich habe vor ein paar Tagen meine Jahresabrechnung (Rechnungsnummer <RECHNUNGSNR.>) von E.ON empfangen und komme nicht zurecht. Der jetzige Rechnungsbetrag macht für mich glücklicherweise Sinn, aber das sieht schon viel höher aus, als ich erwartet habe. Können Sie bitte bestätigen, dass diese Rechnung gültig ist? Benötigt die Vertragsnummer <VERTRAGSNR.> auch eine bearbeitete Ablesung meiner Zählernummer?
+
+Ich mag ein bisschen schwierig klingen, aber I bin neu in solche angelegenheiten und zahlenkenntnisse sind nicht unbedingt meine Sache. Würden Sie mich kontaktieren und weiterhelfen? Die Nummer lautet <TELEFONNR.> oder <EMAIL>.
+
+Vielen lieben Dank,
+
+<PERSON>
+N

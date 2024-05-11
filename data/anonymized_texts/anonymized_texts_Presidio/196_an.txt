@@ -1,0 +1,11 @@
+Sehr geehrter Kundenservice,
+
+mein Name ist <PERSON> und ich wende mich heute an Sie, da ich Hilfe bezüglich der Verwaltung meines Kundenkontos benötige. Ich habe gerade versucht, von meiner aktuellen Adresse (<ADRESSE>) auf die neue Adresse zu wechseln (<ADRESSE>), aber ich bekomme immer wieder Nachrichten, die besagen, dass meine VERTRAGSNUMMER <VERTRAGSNR.> nicht erkannt wird. Ich habe überprüft und die Nummer mehrmals eingegeben, damit bergibt mir mulmiges.
+
+Bin ich irgendwie falsch dran oder gibt es ein Problem im System? Ich muss einzustehen für Sie, weil meine Begernung ermudt ist. Bitte sagen Sie mir, was ich tun soll. Sie erreichen mich normalerweise unter der Telefonnummer <TELEFONNR.> oder per E-Mail an. <EMAIL>
+
+Ich schätze Ihre Bemühungen, meiner Anfrage direktetur zuzugehen und freue mich auf eine schnelle erfolgte Angwort ohne Zögern.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

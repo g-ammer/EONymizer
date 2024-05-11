@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zum Thema Vertragslaufzeit. Meine Vertragsnummer lautet <<282823237389&&VERTRAGSNUMMER>> und die Geschäftspartnernummer <<1800457668&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir bitte mitteilen, wann meine aktuelle Vertragslaufzeit endet? Wahrscheinlich werde ich umziehen und bin mir deswegen unsicher, ob ich den Vertrag schon kündigen soll. Könntet ihr mir bitte weiterhelfen?
+
+Vielen Dank im Voraus und mit freundlichen Grüßen,
+
+<<Hans Schmidt&&PERSON>>
+<<Musterweg 26&&STRASSE>>, <<22657&&PLZ>> <<Hamburg&&ORT>> 
+E-Mail: <<hans.schmidt@beispiel.de&&EMAIL>> 
+Telefon: <<040 1234567&&TELEFONNUMMER>>

@@ -1,0 +1,9 @@
+Guten Tag,
+
+mein Name ist <PERSON> und ich habe eine Frage bezüglich meines E.ON Vertrages mit der Vertragsnummer <VERTRAGSNR.>. Wer ist der zuständige Kundenbetreuer für mein Anliegen? Und wie kann ich ihn erreichen? Ihre schnelle Rückmeldung wäre sehr hilfreich.
+
+Viele Grüße,
+<PERSON>
+<ADRESSE><TELEFONNR.> Neustadt
+Telefonnr.: <TELEFONNR.>
+E-Mail: <PERSON>

@@ -1,0 +1,9 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe ein Problem mit der E.ON App. Ich kann mich nicht mehr anmelden obwohl die eingegebenen Daten korrekt sein sollten. Mein Vertragsnummer ist <VERTRAGSNUMMER>. Könnt ihr mir bitte weiterhelfen?
+
+Vielen Dank und freundliche Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

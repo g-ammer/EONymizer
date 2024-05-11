@@ -1,0 +1,8 @@
+Guten Tag,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <PERSON> und ich bin Kundin bei E.ON. Meine Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.>. Ich habe eine Frage zu meinem Vertrag, mit der Vertragsnummer <VERTRAGSNR.>. Können Sie mir bitte die genaue Laufzeit meines Vertrages mitteilen? 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

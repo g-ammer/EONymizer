@@ -1,0 +1,10 @@
+ Hallo,
+
+mein Name ist <PERSON> und ich wende mich heute an Sie als Ihren treuen Kunden mit einer dringenden Frage. Ich habe Probleme, mich bei der E.ON App zu loggen. Es ist ein bisschen ärgerlich, da ich meinen Zählerstand ablesen und damit meinen Energieverbrauch von <ID> überwachen wollte. Könnten Sie mir bitte den technischen Support schicken oder eine Anleitung geben, wie ich dieses technische Problem beheben kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

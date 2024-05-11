@@ -1,0 +1,17 @@
+ Betreff: Probleme mit dem Login in der E.ON App
+
+Hallo E.ON Team,
+
+ich habe seit ein paar Tagen technische Probleme mit der E.ON App. Trotz korrekter Eingabe meiner Login-Daten, kann ich mich nicht anmelden und erhalte eine Fehlermeldung.
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Kontrolliert bitte, ob alles in Ordnung mit meinem Konto ist.
+
+Ich bitte um eine rasche Klärung und Unterstützung.
+
+Vielen Dank!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

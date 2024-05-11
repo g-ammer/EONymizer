@@ -1,0 +1,12 @@
+Betreff: Hilfe benötigt bei technischen Problemen mit der E.ON App
+
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei Ihnen und nutze die E.ON App. Leider habe ich seit einiger Zeit Probleme mit der App. Sobald ich versuche, mich einzuloggen, stürzt die App jedes Mal ab.
+Ich habe es bereits mehrmals neu installiert und mein Passwort zurückgesetzt, aber es funktioniert immer noch nicht. Meine Vertragsnummer ist <<402934567&&VERTRAGSNUMMER>>.
+Können Sie das bitte überprüfen und mir mitteilen, was zu tun ist, um dies zu beheben?
+Vielen Dank für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Max Müller&&PERSON>>
+<<Tannenweg 3, 81677 München&&STRASSE>>
+Tel.: <<0163 4567890&&TELEFONNUMMER>>
+Email: <<max.m@web.de&&EMAIL>>

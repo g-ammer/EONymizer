@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+ich habe vor kurzem eine Rechnung von Ihnen erhalten, Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir etwas höher als erwartet. Könnten Sie mir bitte erklären, wie der Betrag zustande kommt?
+
+Meine Vertragsnummer lautet <<400123456&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<200123456&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Andreas Müller&&PERSON>>,
+<<Müllerstraße 2&&STRASSE>>, <<12345&&PLZ>> <<München&&ORT>>
+<<andreas.mueller@mail.de&&EMAIL>>

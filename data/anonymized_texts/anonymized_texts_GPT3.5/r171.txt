@@ -1,0 +1,12 @@
+Hallo E.ON Team,
+
+ich habe eine Frage zu einer mir kürzlich zugesendeten Gasrechnung. In dieser wird ein Rechnungsbetrag angegeben, den ich nicht ganz nachvollziehen kann. Die Rechnungsnummer lautet <<8913464829&&RECHNUNGSNUMMER>> und die dafür hinterlegte Vertragsnummer ist <<4027721203&&VERTRAGSNUMMER>>.
+
+Könnten Sie mir kurz erklären, welche Kosten da genau angerechnet wurden? Hat es eventuell etwas mit der Heizperiode zu tun oder gab es eine Änderung im Gaspreis, von der ich nichts mitbekommen habe? 
+
+Vielen Dank für Ihre Mühe und ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<<Fabian Hoffmann&&PERSON>>
+<<79 Goethestraße&&STRASSE>>,
+<<40672&&PLZ>> <<Düsseldorf&&ORT>>.

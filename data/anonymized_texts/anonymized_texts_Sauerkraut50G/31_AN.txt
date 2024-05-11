@@ -1,0 +1,12 @@
+ Sehr geehrter E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNUMMER>. Mir ist beim Durchsehen der Rechnung ein Posten unklar und ich würde gerne eine Erklärung dafür erhalten. Könnten Sie bitte einen Kundenberater damit beauftragen, sich mit mir in Verbindung zu setzen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>
+Vertragsnummer: <VERTRAGSNUMMER>

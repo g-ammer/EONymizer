@@ -1,0 +1,12 @@
+ Guten Tag E.ON Kundenservice,
+
+ich bin <PERSON> und wohne in der <STRASSE>, <PLZ><ORT>. Ich habe eine Frage bezüglich des Zählerstandes meines Energievertrags. Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Ich würde gerne meinen aktuellen Zählerstand ablesen, bin mir aber nicht sicher, wo ich die Zählernummer finde und wie ich den Zählerstand richtig ablese. Könnten Sie mir dabei bitte behilflich sein?
+
+Ich freue mich auf Ihre Rückmeldung. Sie erreichen mich unter der Telefonnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL>.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<PERSON>

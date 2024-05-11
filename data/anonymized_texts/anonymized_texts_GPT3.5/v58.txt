@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich hätte eine Frage zu meinem Vertrag bei Ihnen. Meine Vertragsnummer lautet <<402567890&&VERTRAGSNUMMER>> und ich würe gerne wissen, wann genau die Vertragslaufzeit endet. Ich habe leider die genauen Daten nicht mehr im Kopf und kann sie momentan nicht finden.
+
+Vielen Dank für Ihre Hilfe im Voraus.
+
+Mit freundlichen Grüßen,
+<<Sarah Müller&&PERSON>>
+<<sarah.mueller@web.de&&EMAIL>>
+<<Bergstraße 7, 80331&&STRASSE>> <<München&&ORT>>
+Tel: <<01578 1234567&&TELEFONNUMMER>>

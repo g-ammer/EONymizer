@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe Probleme beim Login in der E.ON App. Meine Geschäftspartnernummer lautet <<1404532110&&GESCHAEFTSPARTNERNUMMER>>. Jedes Mal wenn ich versuche einzuloggen kommt "Anmeldung fehlgeschlagen". Ist aktuell eine Störung vorhanden oder liegt das Problem bei meiner Technik?
+
+Vielen Dank im Voraus.
+
+LG,
+<<Johannes Kessler&&PERSON>> 
+<<JohannesKessler@gmail.com&&EMAIL>> 
+<<04321-6781948&&TELEFONNUMMER>> 
+<<Rosenstraße 10, 24534 Neumünster&&STRASSE>><<24534&&PLZ>><<Neumünster&&ORT>>

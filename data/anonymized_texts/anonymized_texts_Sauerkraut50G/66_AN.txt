@@ -1,0 +1,12 @@
+ Sehr geehrte Damen und Herren,
+
+ich wende mich an Ihren Kundenservice, da ich einige Fragen zu meinem Vertrag habe. Meine Vertragsnummer ist <VERTRAGSNUMMER>. Leider kann ich meine monatlichen Abrechnungen online nicht einsehen, obwohl ich mich korrekt mit meiner Geschäftspartnernummer <<GESCHAEFTSPARTNERNUMMER>> angemeldet habe.
+
+Außerdem würde ich gerne wissen, wie ich meinen aktuellen Zählerstand durchgeben kann. Meine Zählernummer ist <ZAEHLERNRUMMER>. Ich ziehe bald um und möchte sicherstellen, dass meine Abrechnungen korrekt sind.
+
+Ich würde mich freuen, wenn ein Kundenberater mich unter folgender Telefonnummer erreichen könnte: <TELEFONNUMMER>. Alternativ können Sie mir auch gerne eine Email an: <EMAIL> schicken.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

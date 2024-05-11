@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundenservice, 
+
+hier ist <<Noah Schneider&&PERSON>> von der <<Bahnhofstr. 76&&STRASSE>> in <<Gelsenkirchen&&ORT>>. Da ich Fragen zu meiner letzten Abrechnung habe, wollte ich Sie um einen Rückruf bitten. Unter Vertragsnummer <<402345678&&VERTRAGSNUMMER>> dürfte alles zu finden sein. Erreichen können Sie mich unter der Telefonnummer <<02348765432&&TELEFONNUMMER>> oder per Mail an <<Noah.Schneider@beispiel.de&&EMAIL>>. 
+
+Ich stehe Ihnen sowohl Arbeits- als auch vor Abends zur Verfügung und würde eine direkte Klärung bevorzugt über das Telefon abwickeln wollen.
+
+Ich bedanke mich im Voraus und freue mich auf Ihren Anruf.
+
+Mit freundlichen Grüßen
+<<Noah Schneider&&PERSON>>

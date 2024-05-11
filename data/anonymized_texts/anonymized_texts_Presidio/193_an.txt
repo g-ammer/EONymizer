@@ -1,0 +1,8 @@
+Guten Tag,
+
+mein Name ist <PERSON> und ich wende mich bezüglich meiner Vertragsnummer <VERTRAGSNR.> an Sie. Es geht um eine Frage zum Kundenservice. Ich hatte bereits mehrfach Kontakt mit verschiedenen Kundenberatern, fühle mich allerdings nicht ausreichend informiert und wünsche eine konsistentere Betreuung. Gibt es die Möglichkeit, einen festen Kundenbetreuer zugeordnet zu bekommen, der meine Anliegen betreut und mir bei aufkommenden Fragen zur Seite steht?
+
+Ich freue mich über eine schnellstmögliche Rückmeldung. Sie erreichen mich entweder per Email an <EMAIL> oder telefonisch unter <TELEFONNR.>.
+
+Mit freundlichen Grüßen,
+<PERSON>

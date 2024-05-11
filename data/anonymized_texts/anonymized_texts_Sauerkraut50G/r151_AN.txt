@@ -1,0 +1,12 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten Stromrechnung. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und die Vertragsnummer lautet <VERTRAGSNUMMER>. Es geht um den Rechnungsbetrag von 150€. Mir ist aufgefallen, dass dieser Betrag deutlich höher ist als in den vorhergehenden Monaten.
+
+Können Sie mir bitte erläutern, wie dieser Betrag zustande kommt? Haben sich die Preise verändert oder gab es eine Nachzahlung?
+
+Für Ihre Hilfe wäre ich sehr dankbar.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>

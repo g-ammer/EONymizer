@@ -1,0 +1,12 @@
+Hallo,
+
+ich habe eine Frage zu meinem Energievertrag mit der Nummer <<232876543210&&VERTRAGSNUMMER>>. Kann ich diesen online im Kundenbereich selbst verwalten oder benötige ich dazu die Hilfe eines Kundenberaters? Bitte geben Sie mir die nötigen Informationen, um mein Anliegen zu klären.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Am Rathaus 3&&STRASSE>>
+<<12345&&PLZ>><<Dresden&&ORT>>
+<<hans.mueller@mail.de&&EMAIL>>
+Telefon: <<0172 1234567&&TELEFONNUMMER>>

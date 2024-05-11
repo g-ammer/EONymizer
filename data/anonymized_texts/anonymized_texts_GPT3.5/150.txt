@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+mein Name ist <<Klaus Schmidt&&PERSON>> und mein Vertragsnummmer ist <<402589611&&VERTRAGSNUMMER>>. Ich möchte einen neuen Kundenbetreuer zugelost bekommen. Hat dies irgendwelche Auswirkungen auf meinen Vertrag oder Rechnungsabläufe?
+Viele Grüße,
+<<Klaus Schmidt&&PERSON>>
+<<Magdeburger Allee 2&&STRASSE>>,
+<<99058&&PLZ>><<Erfurt&&ORT>>
+Tel: <<0361 22 88 9655&&TELEFONNUMMER>>
+Email: <<KlausSchmidt90@email.de&&EMAIL>>

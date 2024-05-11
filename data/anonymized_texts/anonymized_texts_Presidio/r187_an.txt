@@ -1,0 +1,10 @@
+Hallo E.ON Kundenservice,
+
+ich habe heute eine Rechnung mit der Rechnungsnummer <RECHNUNGSNR.> erhalten und leider verstehe ich den Rechnungsbetrag nicht ganz. Kann mir jemand erklären, wie es zu dem Betrag von 150 Euro kommt? Meine Vertragsnummer ist <VERTRAGSNR.>.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON> 
+<EMAIL>
+<ADRESSE>

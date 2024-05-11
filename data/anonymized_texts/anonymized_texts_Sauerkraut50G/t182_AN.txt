@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe ein Problem mit der E.ON App. Ich habe bereits ein Konto, aber aus irgendeinem Grund kann ich mich nicht einloggen. Mein Nutzername ist '<ANONYMIZED>' und ich habe bereits mehrmals versucht, mein Passwort zurückzusetzen, jedoch ohne Erfolg.
+
+Gibt es zur Zeit eine Serverstörung die das beeinflusst hat? Ich brauche Zugang, um meinen Verbrauch und aktuelle Rechnung anzuschauen. Meine Vertragsnummer lautet <VERTRAGSNUMMER> und Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Bitte rufen Sie mich unter <TELEFONNUMMER> zurück oder schreiben Sie mir eine Mail an <EMAIL> und erklären Sie mir die weitere Vorgehensweise.
+
+Vielen Dank und besten Gruß,
+<PERSON>

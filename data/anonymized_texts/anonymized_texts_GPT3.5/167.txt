@@ -1,0 +1,7 @@
+Guten Tag
+
+Meine Name ist <<Lukas Schmidt&&PERSON>> und  mein Wohnsitz ist <<Friedrichstraße 33, 10117 Berlin&&STRASSE>>. Ich habe Fragen zu meinem neuen Vertrag bei E.ON. Meine Vertragsnummer ist <<232328276516&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<1302387620&&GESCHAEFTSPARTNERNUMMER>>. Ich bin erst seit kurzem Kunde bei Ihnen und habe Fragen zur Abrechnung meines Zählerstandes. Kann mir ein Kundenbetreuer dabei assistieren und mir erklären, wie das genau funktioniert? Meine Zählernummer ist <<A567BCD89&&ZAEHLERNUMMER>>.
+
+Mit freundlichen Grüßen,
+
+<<Lukas Schmidt&&PERSON>>.

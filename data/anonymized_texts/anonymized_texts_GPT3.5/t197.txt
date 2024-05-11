@@ -1,0 +1,20 @@
+Betreff: Technische Störung E.ON App 
+
+Sehr geehrtes E.ON Service-Team,
+
+mein Name ist <Thomas Müller&&PERSON>, Vertragsnummer <<402345678&&VERTRAGSNUMMER>>. Ich schreibe Ihnen, da ich ein technisches Problem mit der E.ON App habe. 
+
+Seit einigen Tagen kann ich mich nicht mehr einloggen. Jedes Mal, wenn ich meine korrekten Benutzerdaten eingebe, erscheint eine Fehlermeldung, dass meine Anmeldedaten nicht korrekt wären. Ich habe bereits versucht, mein Kennwort zurückzusetzen, aber ohne Erfolg. 
+
+Können Sie mir bitte dabei helfen, dieses Problem zu beheben? Ich benutze die App regelmäßig, um meinen Energieverbrauch zu kontrollieren und meine Rechnungen zu bezahlen. 
+
+Ich bitte um Ihre Unterstützung, um den Zugang zu meiner E.ON-App wiederherstellen.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Thomas Müller&&PERSON>>
+<<Dorfstraße 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Telefon: <<0170 / 1234567&&TELEFONNUMMER>>
+E-Mail: <<thomas.mueller@mail.de&&EMAIL>>

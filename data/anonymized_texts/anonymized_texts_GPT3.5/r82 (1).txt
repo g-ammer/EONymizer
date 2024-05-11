@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<9876543210&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir sehr hoch im Vergleich zu den vorherigen Monaten. Würden Sie bitte überprüfen, ob alles korrekt ist? Meine Vertragsnummer lautet <<4023123123&&VERTRAGSNUMMER>>.
+Mit freundlichen Grüßen,
+<<Anna Schmidt&&PERSON>>
+<<Hauptstraße 21&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berlin&&ORT>>
+<<AnnaSchmidt@mail.de&&EMAIL>>
+Tel: <<0123-45678910&&TELEFONNUMMER>>

@@ -1,0 +1,15 @@
+Sehr geehrte Damen und Herren, 
+
+ich habe eine Frage zur Rechnungsnummer <RECHNUNGSNR.>, die ich kürzlich erhalten habe. Ich habe festgestellt, dass der Rechnungsbetrag höher ist als erwartet.
+
+Könnten Sie bitte überprüfen, ob der Rechnungsbetrag korrekt ist? Mein Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer ist <VERTRAGSNR.>.
+
+Ich würde mich freuen, wenn Sie mir helfen könnten, diesen Sachverhalt zu klären. Ich freue mich über eine baldige Rückmeldung.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<ADRESSE>
+<EMAIL>

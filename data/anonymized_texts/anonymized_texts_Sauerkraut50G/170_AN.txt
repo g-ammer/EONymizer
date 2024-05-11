@@ -1,0 +1,14 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich habe Anfragen bezüglich meines aktuellen Gasvertrags mit der Vertragsnummer <VERTRAGSNUMMER>, auf der <STRASSE> in <PLZ><ORT>.
+
+Erstens möchte ich wissen, wie ich meinen aktuellen Vertrag kündigen kann, wenn ich umziehe. Macht Ihr Kundenberater das für mich? Zweitens möchte ich bitte Informationen darüber erhalten wie der Gaspreis im Vergleich zum letzten Jahr steht. Wir können gerne nochmals über die genauen Details für die Endrechnung sprechen.
+
+Bitte kommen Sie generell schnellstmöglich auf mich zurück. Ohne grundlegende Unterstützung bin ich derzeit sehr gestresst.
+
+Sie dürfen mich jederzeit unter <TELEFONNUMMER> oder per E-Mail an '<EMAIL>' erreichen.
+
+Herzlichen Dank im Voraus für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<PERSON>

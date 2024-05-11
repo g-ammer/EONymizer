@@ -1,0 +1,20 @@
+Betreff: Klärung Unklarheiten Rechnungsbetrag - Vertragsnummer <<402239876&&VERTRAGSNUMMER>>
+
+Sehr geehrte Damen und Herren,
+
+Ich bin Kundin bei E.ON unter der Vertragsnummer <<402239876&&VERTRAGSNUMMER>> und habe vor Kurzem eine Rechnung mit der Nummer <<2857710286&&RECHNUNGSNUMMER>> erhalten. Bei der Durchsicht dieser Rechnung ist mir aufgefallen, dass der Rechnungsbetrag höher ist als erwartet.
+
+Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist? Es wäre mir sehr hilfreich, wenn Sie den Rechnungsbetrag aufschlüsseln und mir erklären könnten, welche Kostenpunkte genau berücksichtigt wurden.
+
+Ich möchte mich in diesem Zusammenhang auch erkundigen, ob es zu einer nachträglichen Korrektur der Rechnung kommen kann, falls sich ein Fehler eingeschlichen haben sollte.
+
+Zur leichteren Zuordnung meiner Anfrage gebe ich Ihnen auch meine Geschäftspartnernummer: <<204567890&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich freue mich auf Ihre Rückmeldung und bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Sophie Müller&&PERSON>>
+<<sophie.mueller@email.de&&EMAIL>>
+<<Musterstraße 4&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Telefon: <<0171&&TELEFONNUMMER>>

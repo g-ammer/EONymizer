@@ -1,0 +1,10 @@
+ Guten Tag E. ON Kundenberatung,
+
+mein Name ist <PERSON> und ich wohne auf der <STRASSE>, <PLZ><ORT>.
+
+Mir liegt meine Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> vor. Ich habe eine Frage zu dieser Rechnung.
+
+Ich würde mich über eine schnelle Rückmeldung freuen.
+
+Mit freundlichen Grüßen,
+<PERSON>

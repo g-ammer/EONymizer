@@ -1,0 +1,18 @@
+Betreff: Frage zu meinem E.ON Vertrag
+
+Sehr geehrter Kundenservice,
+
+ich habe eine Frage zu meinem Energievertrag bei Ihnen. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Kürzlich wurde mein Zähler ausgetauscht und ich habe eine neue Zählernummer erhalten. Ich bin mir nicht sicher, ob ich diese Änderung selbst in meinem Online-Konto eintragen muss oder ob das automatisch geschieht. Können Sie mir hierzu bitte weitere Informationen zukommen lassen?
+
+Zudem wollte ich wissen, ob sich durch den Zählertausch auch etwas an meinem monatlichen Abschlag ändert. Ich wäre Ihnen sehr dankbar, wenn ein Kundenberater sich mit mir in Verbindung setzen könnte, um diese Punkte zu klären.
+
+Meine Kontaktdaten sind wie folgt:
+- Name: Frau <<Heidi Müller&&PERSON>>
+- Adresse: <<Am Markt 3&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+- Telefonnummer: <<0123456789&&TELEFONNUMMER>>
+- E-Mail: <<heidi.mueller@muster.de&&EMAIL>>
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Heidi Müller&&PERSON>>

@@ -1,0 +1,10 @@
+Sehr geehrtes E.ON-Team,
+
+ich hätte eine Frage zur meiner letzten Rechnung. Ich habe festgestellt, dass der Rechnungsbetrag höher ist als erwartet. Meine Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>> und meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>. Könnten Sie mir bitte eine Aufschlüsselung meiner Abrechnung zukommen lassen, um besser nachvollziehen zu können, warum der Betrag so hoch ausgefallen ist?
+
+Besten Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<<Andreas Müller&&PERSON>>
+<<Am Musterbach 5&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+Email: <<Andreas&&ANONYMIZED>>

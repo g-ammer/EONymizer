@@ -1,0 +1,17 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meines Energievertrags. Mein Vertragsnummer ist <VERTRAGSNUMMER>. Könnten Sie mir bitte mitteilen, wie lange die Vertragslaufzeit noch ist und bis wann ich diesen kündigen muss, sollte ich mich für einen anderen Anbieter entscheiden?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>
+
+
+[1]
+[VERTRAGSNUMMER]: 402345678
+[PERSON]: <ANONYMIZED>
+[EMAIL]: <EMAIL>
+[STRASSE]: Musterstraße 9

@@ -1,0 +1,11 @@
+ Hallo,
+
+Ich habe ein Problem mit meiner E.ON App. Ich kann mich nicht mehr mit meinen Login-Daten einloggen. Können Sie mir hier weiterhelfen? Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Freundlicher Gruß
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>

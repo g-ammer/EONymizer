@@ -1,0 +1,11 @@
+Sehr geehrter Kundenservice,
+
+ich habe eine Frage zu meiner aktuellen Rechnung. Die Rechnungsnummer lautet <RECHNUNGSNR.> und meine Vertragsnummer ist <VERTRAGSNR.>. Mir wurde ein Betrag doppelt abgebucht und ich möchte wissen, wie das passieren konnte und wie wir das Problem beheben können. 
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+<EMAIL>
+<TELEFONNR.>

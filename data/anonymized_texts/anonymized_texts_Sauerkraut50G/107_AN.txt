@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich bin Kunde bei E.ON und habe folgendes Anliegen: In meiner letzten Rechnung, Rechnungsnummer <RECHNUNGSNUMMER>, wurde ein deutlich höherer Stromverbrauch festgestellt, als ich eigentlich verbraucht habe. Ich habe meinen Zählerstand, Zählernummer <ZAEHLERNRUMMER>, überprüft und festgestellt, dass ein Fehler vorliegen muss.
+
+Könnten Sie bitte einen Kundenberater darauf ansetzen, diesen Vorfall zu überprüfen? Ich würde gerne wissen, wie es zu dieser Diskrepanz kommen konnte und wie wir das in Zukunft vermeiden können.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>
+Vertragsnummer: <VERTRAGSNUMMER>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>

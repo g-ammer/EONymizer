@@ -1,0 +1,16 @@
+Sehr geehrtes E.ON Service-Team,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <PERSON> und ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNR.>.
+
+Ich weiß nicht, wie es passiert ist, aber es scheint, dass in meiner letzten monatlichen Rechnung lediglich der Verbrauch vom Zähler mit der Nummer WL56732 berücksichtigt wurde. Jedoch sollte auch der Verbrauch von meinem zweiten Zähler WL67523 berechnet werden. Die ID der fraglichen Rechnung ist <RECHNUNGSNR.>.
+
+Wie groß ist die Differenz zwischen der Rechnung, die ich bereits gezahlt habe, und dem Betrag, der mir hätte in Rechnung gestellt werden sollen unter Berücksichtigung beider Zähler? Können Sie bitte Ihrem nächsten Brief zeitnah eine detaillierte Aufstellung der Kosten beifügen, die ermöglicht, die Nutzung nach Verbrauch klar nachzuvollziehen?
+
+Vielen Dank für Ihre Unterstützung in diesem Anliegen!
+
+Rechnungsadresse:
+2 Bernkasteler Platz 
+52395 <ADRESSE> 
+
+Mit freundlichen Grüßens
+<PERSON>.

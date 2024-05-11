@@ -1,0 +1,14 @@
+Guten Tag E.ON Kundenservice,
+
+ich hätte eine Frage bezüglihc meiner letzten Rechnung mit der Nummer: <RECHNUNGSNR.>. Der angegebene Endbetrag erscheint unverständlicherweise hoch.
+Könnten Sie mir bitte Aufschluss geben und für den erhöhten Betrag eventuell eine Erklärung liefern?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer <VERTRAGSNR.>.
+
+Vielen Dank im Voraus und eins schöne Wochenende!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+54234 Mü ;ünchen
+<EMAIL>

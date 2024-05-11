@@ -1,0 +1,10 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNUMMER> und dem Vertragskonto <KONTO>. Der in Rechnung gestellte Betrag erscheint mir zu hoch. Könnten Sie mir bitte detailliert erläutern, wie sich die Summe zusammensetzt?
+
+Sollten Sie für die Klärung weitere Informationen benötigen, zögern Sie bitte nicht, mich zu kontaktieren. Meine E-Mail-Adresse lautet <EMAIL> und meine Telefonnummer ist <TELEFONNUMMER>.
+
+Ich bedanke mich im Voraus für Ihre Mühe und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

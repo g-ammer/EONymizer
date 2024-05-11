@@ -1,0 +1,13 @@
+ Sehr geehrtes E.ON Team,
+
+Ich habe eine Frage zu meinem Zählerstand. Ich habe gerade ein neues Ablesen durchgeführt und bin mir unsicher, ob ich es richtig gemacht und interpretiert habe. Könnten Sie vielleicht meinen aktuellen Stand bestätigen? Der von mir abgelesene Wert beträgt <ZAEHLERNRUMMER>.
+
+Einer meiner Verträge bei Ihnen läuft unter der Nummer <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Es wäre toll, wenn Sie mir relativ zeitnah Bescheid geben könnten, um sicherzustellen, dass alles seine Richtigkeit hat und ich das korrekte Vorgehen beim Ablesen verstanden habe.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

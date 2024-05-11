@@ -1,0 +1,16 @@
+Sehr geehrte Damen und Herren, 
+
+ich habe eine Frage zur Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>, die ich kürzlich erhalten habe. Ich habe festgestellt, dass der Rechnungsbetrag höher ist als erwartet.
+
+Könnten Sie bitte überprüfen, ob der Rechnungsbetrag korrekt ist? Mein Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich würde mich freuen, wenn Sie mir helfen könnten, diesen Sachverhalt zu klären. Ich freue mich über eine baldige Rückmeldung.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<<Julia Schmidt&&PERSON>>
+<<Ziegelstraße 12&&STRASSE>>
+<<10115&&PLZ>><<Berlin&&ORT>>
+<<julia.schmidt@mail.de&&EMAIL>>

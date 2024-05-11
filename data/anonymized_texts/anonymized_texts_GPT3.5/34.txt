@@ -1,0 +1,12 @@
+Guten Tag E.ON Kundenservice,
+
+Ich bin Kunde bei Ihnen mit der Vertragsnummer <<232567890123&&VERTRAGSNUMMER>> und habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Es gibt eine Position auf der Rechnung, die mir nicht ganz klar ist. Könnten Sie mir bitte erklären, wofür diese Kosten anfallen? 
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 45&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+<<HansMueller@email.de&&EMAIL>>
+Telefon: <<01234 567890&&TELEFONNUMMER>>

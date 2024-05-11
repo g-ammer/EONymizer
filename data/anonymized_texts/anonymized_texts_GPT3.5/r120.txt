@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+ich habe kürzlich meine Stromrechnung von Ihnen erhalten und blicke bei der Rechnungsnummer <<2047853946&&RECHNUNGSNUMMER>> nicht ganz durch. Der Rechnungsbetrag scheint mir höher als gewöhnlich, könnten Sie diesen bitte überprüfen? Wie kann ich sicherstellen, dass meine Zahlung korrekt verbucht wird?
+
+Meine Vertragsnummer lautet <<402574835&&VERTRAGSNUMMER>>.
+
+Vielen Dank für Ihre Hilfe im Voraus.
+
+Mit freundlichen Grüßen,
+<<Heinz Schmidt&&PERSON>>
+<<Wiesenweg 12&&STRASSE>>
+<<33456&&PLZ>><<Musterstadt&&ORT>>
+<<heinz.schmidt@email.de&&EMAIL>>
+<<069/1234567&&TELEFONNUMMER>>

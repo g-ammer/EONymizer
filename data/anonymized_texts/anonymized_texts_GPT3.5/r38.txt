@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>> und meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>. Der auf der Rechnung angegebene Betrag scheint höher als erwartet. Könnten Sie bitte überprüfen, ob es einen Fehler bei der Berechnung gab oder ob sich mein monatlicher Beitrag erhöht hat?
+
+Ich freue mich auf Ihre baldige Rückmeldung.
+
+Vielen Dank und beste Grüße,
+<<Hans Müller&&PERSON>>
+E-Mail: <<hans.mueller@mail.de&&EMAIL>>
+Anschrift: <<Lindenstr. 5&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+Telefonnummer: <<030 12345678&&TELEFONNUMMER>>

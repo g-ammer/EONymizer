@@ -1,0 +1,13 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich wollte mich über den Kundenservice erkundigen, da ich eine Frage zu meiner letzten Abrechnung habe. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>. Könnten Sie mir bitte einen Kundenberater zuordnen, der meine Frage klären kann? Ich möchte wissen, warum meine letzte Rechnung höher als üblich war, obwohl ich meinen Energieverbrauch nicht geändert habe.
+
+Außerdem würde ich gerne wissen, ob es möglich ist, einen festen Kundenberater zu haben, der meinen Fall betreut und mit dem ich mich bei Unklarheiten in Verbindung setzen kann.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

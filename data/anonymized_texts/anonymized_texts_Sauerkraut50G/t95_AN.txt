@@ -1,0 +1,15 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe leider technische Probleme mit Ihrer E.ON App. Als ich mich heute versuchte einzuloggen, wurde mir eine Fehlermeldung angezeigt. Daher kann ich meine Verbrauchswerte nicht mehr einsehen und auch keine Zählerstände mehr melden.
+
+Meine Vertragsnummer ist die <VERTRAGSNUMMER> und meine Geschäftspartnernummer die <GESCHAEFTSPARTNERNUMMER>.
+
+Könnten Sie bitte prüfen, woran das liegen könnte?
+
+Vielen Dank und freundliche Grüße,
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe eine technische Frage bezüglich der E.ON App. Mein Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>. Ich habe vor Kurzem mein Smartphone gewechselt und seitdem kann ich mich nicht mehr in die App einloggen. Die App erkennt mein Passwort nicht mehr und auch das Zurücksetzen hat nicht geklappt.
+
+Könnten Sie bitte das Problem für mich lösen oder gibt es eine Störung im System, die das verursacht? Es wäre wirklich hilfreich, if you could provide some support on this issue.
+
+Vielen Dank im Voraus und ich freue mich auf Ihre Antwort.
+
+Freundliche Grüße
+<<Hans Müller&&PERSON>>
+<<Kastanienweg 5&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+<<hans.mueller@mail.de&&EMAIL>>
+<<0171/1234567&&TELEFONNUMMER>>

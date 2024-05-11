@@ -1,0 +1,18 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zum Kundenservice. Ich bin unter der Vertragsnummer <<403209874&&VERTRAGSNUMMER>> bei Ihnen registriert.
+
+Wer ist mein zuständiger Kundenberater? Ich würde gerne ein Gespräch führen, um meine Vertragsoptionen zu besprechen und Informationen zu erhalten.
+
+Ich bin unter der folgenden Adresse und Telefonnummer erreichbar:
+
+<<Hans Schmidt&&PERSON>>
+<<Tannenweg 12&&STRASSE>>
+<<45473&&PLZ>> <<Mülheim an der Ruhr&&ORT>>
+
+Tel: <<0151 67843526&&TELEFONNUMMER>>
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Hans Schmidt&&PERSON>>

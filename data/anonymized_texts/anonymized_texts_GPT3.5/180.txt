@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>>. In letzter Zeit habe ich einige Probleme mit meiner Rechnung. Die Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> scheint nicht korrekt zu sein. Können Sie mir dabei helfen, das Problem zu lösen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Herr Schmidt&&PERSON>>
+<<11 Musterweg, 12345 Musterstadt&&STRASSE>>,
+<<Telefon: 0123 456789&&TELEFONNUMMER>>
+<<E-Mail: h.schmidt@mustermail.de&&EMAIL>>

@@ -1,0 +1,15 @@
+Sehr geehrte Damen und Herren,
+
+ich habe kürzlich meine monatliche E.ON-Rechnung mit der Rechnungsnummer <<1728302910&&RECHNUNGSNUMMER>> erhalten. Allerdings verstehe ich die Höhe des Rechnungsbetrags nicht. Laut meiner Aufzeichnungen sollte der Betrag niedriger sein.
+
+Ich möchte darum bitten, dass Sie die genaue Zusammensetzung des Rechnungsbetrags für mich aufschlüsseln. Bitte erklären Sie, wie sich die Kosten zusammensetzen und ob es vielleicht zu einer Fehlberechnung gekommen ist.
+
+Meine Geschäftspartnernummer lautet <<1309876543&&GESCHAEFTSPARTNERNUMMER>> und meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>.
+
+Ich bedanke mich im Voraus für Ihre Zeit und Bemühungen, mir bei diesem Anliegen zu helfen. Bitte lassen Sie mich wissen, wenn Sie zusätzliche Informationen von mir benötigen, um die Rechnung zu prüfen.
+
+Mit freundlichen Grüßen,
+<<Thomas Schmidt&&PERSON>>
+Adresse: <<Schillerstraße 12&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+Telefonnummer: <<0172 3456789&&TELEFONNUMMER>>
+E-Mail: <<thomas.schmidt@gmail.com&&EMAIL>>

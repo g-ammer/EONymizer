@@ -1,0 +1,12 @@
+ Hallo,
+
+ich habe vor Kurzem eine Rechnung von Ihnen erhalten, aber ich habe Schwierigkeiten, den angegebenen Rechnungsbetrag nachzuvollziehen. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>>, und der Betrag, der berechnet wurde, scheint höher zu sein, als ich normalerweise zahle. Könnten Sie mir bitte dabei helfen, diese Problematik zu klären?
+
+Meine Vertragskonto-Nummer ist <KONTO>, und mein Name ist <PERSON>. Meine Anschrift ist <STRASSE>, <PLZ><ORT>.
+
+Ich freue mich auf Ihre baldige Antwort.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<PERSON>

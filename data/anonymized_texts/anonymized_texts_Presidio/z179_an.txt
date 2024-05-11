@@ -1,0 +1,13 @@
+Betreff: Frage zur Ablesung des Zählerstands
+
+Sehr geehrtes E.ON-Team,
+
+Ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNR.> und habe eine Frage zum Thema Zählerstand. Ich habe bisher meinen Zählerstand noch nie selbst abgelesen und möchte nun wissen, wie ich das korrekt mache. Das Gerät trägt die Zählernummer <ZÄHLERNR.>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+Telefonnummer: <TELEFONNR.>

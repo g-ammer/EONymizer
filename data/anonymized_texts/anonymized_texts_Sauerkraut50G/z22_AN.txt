@@ -1,0 +1,9 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON. Meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich habe eine Frage zu meinem Zählerstand. Wie kann ich diesen für meinen Stromzähler mit der Zählernummer <ZAEHLERNRUMMER> ablesen und an E.ON übermitteln?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>

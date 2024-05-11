@@ -1,0 +1,14 @@
+ Sehr geehrtes E.ON Technik-Support Team,
+
+ich habe Probleme mit der App auf meinem Handy. Über das Android Smartphone scholarship am01 lässt sich der Login nicht erfolgreich durchführen. Die Fehlermeldung oben links hat lautet "Die eingegebenen Daten sind ungültig, bitte <ANONYMIZED>". Die Website funktioniert über Computer problemlos mit den gleichen Login-Daten...Da bin ich doch irritiert!
+
+Muss ich womöglich erster Implementor bewilligen? Mein Aufwand für E.ON beträgt <ID>, falls das hilft. Wenn möglich, bitte ich um eine schriftliche Anleitung zur Korrektur meines Problems.
+
+Ich wende mich an Sie in Hoffnung auf eine schnelle Lösung, damit ich weiterhin meine Verbräuche übersichtlich im Blick behalten kann.
+
+Sterne dank,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+Tel. <TELEFONNUMMER>
+<EMAIL>

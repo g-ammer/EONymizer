@@ -1,0 +1,15 @@
+ Betreff: Frage zur Auswertung des Zählerstands - Vertragsnummer <VERTRAGSNUMMER>
+
+Hallo E.ON Kundenservice,
+
+ich bin E.ON Kunde mit der Vertragsnummer <VERTRAGSNUMMER> und ich habe eine Frage zur meiner Zählerauswertung. Ich wollte fragen, wie ich den Zählerstand meines Stromzählers <<ZAEHLERNRUMMER>> nachverfolgen kann. Es wäre hilfreich, wenn Sie mir sagen könnten, wie ich auf diese Informationen zugreifen kann.
+
+Können Sie mir bitte behilflich sein?
+
+Vorab schon herzlichen Dank für Ihre Hilfe.
+
+Viele Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+E-Mail: <EMAIL>
+Telefonnummer: <TELEFONNUMMER>

@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich hoffe, Ihnen geht es gut. Mein Name ist <<Christian Beck&&PERSON>> und ich bin bei E.ON Kunde mit der Geschäftspartnernummer <<1406789230&&GESCHAEFTSPARTNERNUMMER>>. Ich habe meinen aktuellen Energievertrag unter der Vertragsnummer <<402312456&&VERTRAGSNUMMER>> mit Ihnen und hätte eine Frage zur Vertragslaufzeit.
+Könnten Sie mir bitte mitteilen, wie lange meine Vertragslaufzeit noch genau ist und wann ich meinen Vertrag kündigen könnte? Ich plane persönliche Veränderungen und möchte gerne meine Optionen prüfen.
+Für Ihre Bemühungen im Voraus herzlichen Dank!
+Mit freundlichen Grüßen,
+<<Christian Beck&&PERSON>>
+Adresse: <<Löwengasse 17&&STRASSE>>, <<50676&&PLZ>> <<Köln&&ORT>>
+Telefonnummer: <<0221 4928192&&TELEFONNUMMER>>
+Email: <<c.beck@gmail.com&&EMAIL>>

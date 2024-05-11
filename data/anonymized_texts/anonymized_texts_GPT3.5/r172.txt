@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe gerade meine neueste Rechnung von E.ON online eingesehen und es scheint ein Missverständnis bezüglich des Rechnungsbetrages zu geben. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>> und der Betrag ist dieses Mal wesentlich höher als erwartet. Könnten Sie bitte überprüfen, ob es einen Fehler in der Abrechnung gab?
+
+Zu Ihrer Information, meine Vertragsnummer lautet <<400123456&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<200987654&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich freue mich auf Ihre Antwort und danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Am Musterweg 5&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+Telefon: <<01234-567890&&TELEFONNUMMER>>
+E-Mail: <<hans.mueller@mustermail.de&&EMAIL>>

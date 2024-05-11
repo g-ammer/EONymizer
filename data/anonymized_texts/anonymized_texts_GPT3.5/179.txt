@@ -1,0 +1,14 @@
+Guten Tag, 
+
+ich bin ein langjähriger Kunde von E.ON und habe eine Frage bezüglich der Kundenbetreuung. Ich habe vor einiger Zeit eine Anfrage gestellt und bis heute keine Rückmeldung erhalten. Meine Geschäftspartnernummer lautet <<1301234567&&GESCHAEFTSPARTNERNUMMER>>. 
+
+Können Sie bitte prüfen, was mit meiner Anfrage geschehen ist? Ich bin ein wenig enttäuscht von diesem Service, da ich normalerweise immer zufrieden war mit der Betreuung.
+
+Ich danke Ihnen im Voraus für Ihre Hilfe und hoffe auf eine schnellstmögliche Klärung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 43&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+E-Mail-Adresse: <<hans.mueller@mail.de&&EMAIL>>
+Telefonnummer: <<0171/1234567&&TELEFONNUMMER>>

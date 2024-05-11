@@ -1,0 +1,18 @@
+ Betreff: Anfrage bezüglich Kundenservice
+
+Guten Tag,
+
+mein Name ist <PERSON> und ich bin mir sicher, dass ich bei meiner letzten Kommunikation mit einem Ihrer Kundenberater nicht zufriedenstellend beraten wurde. Da ich ein langjähriger E.ON Kunde bin, war ich sehr überrascht über diese Feinbehandlung.
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Die Diskrepanz, wegen der ich einem Gespräch mit Ihrem Kundenberater nachgefragt hatte, betraf meine letzten beiden Rechnungen. Die Rechnungsnummern sind <<RECHNUNGSNUMMER>> und <<RECHNUNGSNUMMER>>. Es wurden unüblich hohe Kosten veranschlagt, die ich nicht nachvollziehen kann.
+
+Ich wäre dankbar, wenn ein anderer Kundenbetreuer meinen Fall erneut überprüfen könnte, um sicherzustellen, dass sich kein Fehler eingeschlichen hat. Ich möchte auch sicherstellen, dass der Fluss meiner Leistungen nicht beeinträchtigt ist und dass mein Zähler (Zählernummer: <ZAEHLERNRUMMER>) korrekt abgelesen wurde.
+
+Sie erreichen mich unterm der Telefonnummer <TELEFONNUMMER> oder über meine E-Mail-Adresse <EMAIL>.
+
+Ich hoffe auf eine schnelle Klärung dieser Angelegenheit und mehr Unterstützung von Seite des Kundenservices.
+
+Vielen Dank für Ihre Aufmerksamkeit.
+
+Mit freundlichen Grüßen,
+<PERSON>

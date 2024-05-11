@@ -1,0 +1,12 @@
+Guten Tag,
+
+Ich bin Kunde bei Ihnen und habe Fragen zu meinem Vertrag. Meine Vertragsnummer lautet <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>.
+
+Zunächst möchte ich gern wissen, wie lange die Laufzeit dieses Vertrages ist und wann das Vertragsende ist. Weiterhin hätte ich gern Informationen zu den Kündigungsfristen.
+
+Vielen Dank im Voraus für Ihre Bemühungen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+E-Mail: <EMAIL>

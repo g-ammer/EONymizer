@@ -1,0 +1,17 @@
+ e 12
+53859 München
+h.mueller@example.de
++49 175 9823461
+
+Output:
+Betreff: Frage zu Vertragsdetails
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON und habe eine Frage zu meinem aktuellen Vertrag mit der Nummer <VERTRAGSNUMMER>. Ich würde gerne wissen, welche Leistungen genau in meinem Vertrag enthalten sind und ob es möglicherweise sinnvoll wäre, in einen anderen Tarif zu wechseln. Mit welchen Kosten müsste ich rechnen, wenn ich mich für einen Tarifwechsel entscheiden sollte?
+Diesbezüglich wäre eine Beratung durch einen Kundenbetreuer sehr hilfreich. Erlauben Sie mir daher, einen Termin für ein Beratungsgespräch mit einem Ihrer Kundenberater zu vereinbaren?
+Besten Dank im Voraus für Ihre Bemühungen und Unterstützung.
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

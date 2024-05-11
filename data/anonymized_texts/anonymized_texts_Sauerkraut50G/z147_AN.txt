@@ -1,0 +1,15 @@
+ Sehr geehrtes E.ON-Team,
+
+ich bin ein zufriedener Kunde, doch stehe ich nun vor einer Hürde, die ich alleine nicht überwinden kann. Es geht speziell um das Thema Zählerstand.
+
+Mein Vertragsnummer ist <VERTRAGSNUMMER>. Vor kurzem ist mir aufgefallen, dass der aktuelle Zählerstand, den ich auf meiner Rechnung sehe, von dem abweicht, der auf meinem Zähler angezeigt wird. Kann es zu Verzögerungen kommen, oder liegt eventuell ein Fehler vor?
+
+Auf dem Zähler bei meiner Adresse in der <STRASSE>, <PLZ> <ORT>, steht ein anderer Wert. Mein Zähler zeigt einen Stand von <ZAEHLERNRUMMER> kWh. In meinem Online Account und auf meiner letzten Rechnung ist allerdings ein Wert von <<RECHNUNGSNUMMER>> kWh verzeichnet.
+
+Wie wirkt sich das nun auf meine nächste Abrechnung aus? Muss ich Ihnen den aktuellen Stand melden, um dies zu korrigieren oder wird dieser direkt von meinem Zähler abgebraucht?
+
+Ich danke Ihnen im Voraus für Ihre Bemühungen und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>

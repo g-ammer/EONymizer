@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON unter der Vertragsnummer <VERTRAGSNR.>. In letzter Zeit habe ich einige Probleme mit meiner Rechnung. Die Rechnungsnummer <RECHNUNGSNR.> scheint nicht korrekt zu sein. Können Sie mir dabei helfen, das Problem zu lösen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+Herr <PERSON>
+<ADRESSE>
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

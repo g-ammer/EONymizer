@@ -1,0 +1,13 @@
+Guten Tag,
+
+meine Name ist <PERSON> und ich bin Kunde bei Ihnen mit der Vertragsnummer <VERTRAGSNR.>. Ich habe vor Kurzem die E.ON App heruntergeladen und versucht mich einzuloggen, leider ohne Erfolg. Die Anmeldedaten sind korrekt, dennoch kann ich nicht auf mein Konto zugreifen. 
+
+Ich würde mich über eine technische Unterstützung freuen, um das Problem zu beheben. Ist es vielleicht eine allgemeine Störung oder liegt der Fehler bei mir?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<TELEFONNR.>
+<ADRESSE>

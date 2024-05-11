@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe ein Anliegen bezüglich meines E.ON Energievertrags mit der Vertragsnummer <VERTRAGSNUMMER>. Ich möchte diesen bald kündigen und hätte daher ein paar Fragen:
+
+1. Wann endet meine Vertragslaufzeit?
+2. Bis wann muss ich die Kündigung einreichen, um den Vertrag fristgerecht zu beenden?
+3. Welches ist das genaue Verfahren für die Kündigung? Kann ich dies online über meinen E.ON Account erledigen oder benötige ich eine schriftliche Kündigung per Post oder E-Mail?
+
+Ich freue mich auf Ihre ausführlichen Informationen und verbleibe
+
+Mit besten Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

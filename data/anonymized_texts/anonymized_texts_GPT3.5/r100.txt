@@ -1,0 +1,15 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten E.ON-Rechnung mit der Rechnungsnummer <<5923476708&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir etwas höher zu sein, als ich erwartet hatte. Können Sie bitte prüfen, ob der Betrag korrekt ist?
+
+Für weitere Rückfragen können Sie mich unter der Geschäftspartnernummer <<205874563&&GESCHAEFTSPARTNERNUMMER>> sowie unter meinem Vertragskonto <<402309275&&VERTRAGSNUMMER>> kontaktieren. Falls notwendig, meine Zählernummer lautet <<577-inst847&&ZAEHLERNUMMER>>.
+
+Ich bedanke mich bereits im Voraus für Ihre Hilfe und freue mich auf eine Klärung der Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<<Johannes Müller&&PERSON>>
+<<Musterstraße 5&&STRASSE>>,
+<<81028&&PLZ>> <<München&&ORT>>.
+<<joh.mue@isp.com&&EMAIL>>
+Tel: <<089 45974810&&TELEFONNUMMER>>

@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,
+
+ich habe Probleme mit dem Login in meine E.ON App. Jedes Mal, wenn ich mich anmelden möchte, erhalte ich eine Fehlermeldung. Mein WLAN funktioniert einwandfrei, daher vermute ich, dass die Störung technischer Natur ist.
+
+Könnten Sie mir bitte weiterhelfen? Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<hans.mueller@email.de&&EMAIL>>
+<<Am Musterweg 13&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+<<0171/2345678&&TELEFONNUMMER>>

@@ -1,0 +1,11 @@
+Guten Tag,
+
+mein Name ist <<Matthias Lange&&PERSON>>, wohnhaft in der <<Fröbelstraße 21&&STRASSE>>, <<33893&&PLZ>> <<Berlin&&ORT>>.
+
+Ich habe seit einiger Zeit eine drängende Frage: Wie kann ich meinen aktuellen Zählerstand einsehen bzw. überprüfen und gibt es irgendeine Möglichkeit dies online zu erledigen? Oder sogar per Mail zu senden?
+
+Ihr Geschäftspartner, <<Matthias Lange&&PERSON>>
+(Geschäftspartnernummer: <<209495316&&GESCHAEFTSPARTNERNUMMER>>)
+
+Beste Grüße
+<<Matthias Lange&&PERSON>>

@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe letzte Woche eine Rechnung über 875 Euro von EON erhalten und bedauerlicherweise habe ich vorerst meine Zweifel in Bezug auf den hohen Rechnungsbetrag. Für meinen vorherigen Abschlag habe ich nur gut die Hälfte dieses Betrages gezahlt. Ich mache mir dementsprechend Sorgen, ob es sich hierbei um einen Fehler handelt.
+
+Könnten Sie bitte mal überprüfen, ob angesichts dieser Diskrepanz eine Kontrolle der Zählerstände notwendig ist? Meine Vertragsnummer lautet <<409073814&&VERTRAGSNUMMER>>, Lieferanschrift ist <<Patricia Schneider&&PERSON>>, <<Kranichweg 12&&STRASSE>>, <<96486&&PLZ>> <<Lautertal&&ORT>>. Der aktuelle Zählerstand meines Gaszählers (Zählernummer <<63289134&&ZAEHLERNUMMER>>) ist 23940, für den Stromzähler (Zählernummer <<68473201&&ZAEHLERNUMMER>>) mit Stand von letzte Woche 69430.  
+
+Für meine Unterlagen möchte ich zudem gern noch wissen, ob die Rechnungsnummer dieses Betrages dokumentiert wurde. Ich wäre Ihnen dankbar, wenn Sie mir hier weiterhelfen könnten.
+
+Für Ihre Rückmeldung zu meiner Anfrage danke ich Ihnen im Voraus. 
+
+Mit freundlichen Grüßen,
+<<Patricia Schneider&&PERSON>>
+email: <<p.schneider@example.com&&EMAIL>>
+Telefonnummer: <<0171-5682193&&TELEFONNUMMER>>

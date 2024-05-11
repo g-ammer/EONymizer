@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Zählerstands. Mein Zähler mit der Nummer <ZÄHLERNR.> zeigt einen Stand, der mir ungewöhnlich hoch erscheint. Könnten Sie das bitte prüfen? Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer <GESCHÄFTSPARTNERNR.>.
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+Tel: 012

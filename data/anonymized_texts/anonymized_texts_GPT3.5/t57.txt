@@ -1,0 +1,10 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich hoffe, dass Sie mir schnell mit einer Frage weiterhelfen können. Ich habe Probleme beim Login in meine E.ON App. <<Toula Martens&&PERSON>> ist meine Angabe im Kundennamen. Jedes Mal erhalte ich die Fehlermeldung, dass meine Vertragskontonummer angeblich ungültig sei. Könnten Sie dieses bitte überprüfen?
+
+Meine Vertragsijke Kontonummer lautet: <<402852301&&VERTRAGSNUMMER>>  und meine Geschäftspartnernummer ist <<20039048276&&GESCHAEFTSPARTNERNUMMER>>. Sie können mich auch telefonisch erreichen unter: <<01230/ 900200&&TELEFONNUMMER>> , am besten am Nachmittag. 
+
+Benötigen Sie noch weitere Informationen, um mein Anliegen zu bearbeiten?
+
+Vielen Dank im Voraus und viele Grüße,
+<<Toula Martens&&PERSON>>

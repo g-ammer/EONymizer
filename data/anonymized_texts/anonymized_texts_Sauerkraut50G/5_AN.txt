@@ -1,0 +1,8 @@
+ Sehr geehrter Kundenservice,
+
+Ich bin seit einiger Zeit E.ON-Kunde unter der Vertragsnummer <VERTRAGSNUMMER> und gerade etwas verwirrt wegen meiner letzten Rechnungsnummer <<RECHNUNGSNUMMER>>.
+
+Das Öffnen der elektronischen Rechnung funktioniert auf meinen Mobilen Geräten überhaupt nicht, allerdings ist die Erledigung unumgänglich für meine Steuerberatervorschriften. Was mache ich falsch? Gibt es eine Lösung?
+
+Mit freundlichen Grüßen,
+<PERSON>

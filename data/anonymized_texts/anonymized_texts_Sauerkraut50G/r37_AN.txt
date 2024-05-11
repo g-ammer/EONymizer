@@ -1,0 +1,26 @@
+ Guten Tag,
+
+ich hoffe, Sie können mir bei meinem Anliegen behilflich sein. Leider ist der Text, auf den Sie Bezug nehmen, nicht enthalten. Daher kann ich Ihre Frage oder Ihr Anliegen nicht genau verstehen.
+
+Ich kann jedoch versuchen, Ihnen eine allgemeine Antwort zu geben: Wenn Sie personenbezogene Daten (PII) in einem Text haben und diese entfernen möchten, können Sie sie mit dem passenden Label ersetzen. Hier sind die verfügbaren Labels:
+
+1. Vorname Nachname - <PERSON>
+2. Adresse/ Stadt - <ORT>
+3. Telefonnummer - <TELEFONNUMMER>
+4. email - <EMAIL>
+5. Vertragsnummer - <VERTRAGSNUMMER>
+6. Geschäftspartnernummer - <GESCHAEFTSPARTNERNUMMER>
+7. Zählernummer - <ZAEHLERNRUMMER>
+8. Rechnungsnummer - <RECHNUNGSNR>
+9. Kontonummer - <KONTONUMMER>
+10. Kreditkartennummer - <KREDITKARTENNUMMER>
+11. Postleitzahl - <PLZ>
+12. Sonstige Nummer - <ID>
+13. Sonstiges - <ANONYMIZED>
+14. Straße - <STRASSE>
+15. Konto - <KONTO>
+
+Ich hoffe, das hilft Ihnen weiter. Wenn Sie eine konkrete Frage oder ein Anliegen haben, lassen Sie es mich bitte wissen und geben Sie den relevanten Text mit an.
+
+Mit freundlichen Grüßen,
+<ANONYMIZED>

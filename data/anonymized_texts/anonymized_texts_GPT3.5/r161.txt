@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich bräuchte eine detaillierte Aufschlüsselung zu meiner letzten Rechnung mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag kommt mir höher vor als üblich und ich würde gerne verstehen, worauf sich dieser Betrag zusammensetzt.
+
+Meine Vertragsnummer ist <<400123456&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<200123456&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Freundliche Grüße
+<<Herr Schmidt&&PERSON>>
+<<Karlstraße 8&&STRASSE>>, <<80634&&PLZ>> <<München&&ORT>>
+<<069123456&&TELEFONNUMMER>> <<meinemail@email.de&&EMAIL>>

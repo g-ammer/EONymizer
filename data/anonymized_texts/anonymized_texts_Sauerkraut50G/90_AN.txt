@@ -1,0 +1,11 @@
+ Sehr geehrter Kundenservice,
+
+ich bin Kunde bei E.ON und habe eine Frage zur meiner letzten Rechnung mit der RECHNUNGSNUMMER <RECHNUNGSNR>. Könnten Sie bitte für mich prüfen, ob es eine Fehlberechnung gab? Ich habe den Verdacht, dass der Verbrauch meiner Zählernummer <ZAEHLERNUMMER> zu hoch eingeschätzt wurde.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

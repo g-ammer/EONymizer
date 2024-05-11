@@ -1,0 +1,10 @@
+Betreff: Störung bei der E.ON App
+Sehr geehrte Damen und Herren,
+ich habe Schwierigkeiten mit der E.ON App auf meinem Smartphone. Trotz richtiger Eingabe meiner Zugangsdaten funktioniert der Login nicht. Die App zeigt immer wieder die Fehlermeldung "Technische Störung!" an. Können Sie mir hierbei weiterhelfen?
+Meine Vertragsnummer ist die <<402586731&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer lautet <<200753842&&GESCHAEFTSPARTNERNUMMER>>.
+Vielen herzlichen Dank im Voraus und viele Grüße,
+<<Herr Walter Schmidt&&PERSON>>
+<<Wiesenstraße 42&&STRASSE>>
+<<58453&&PLZ>><<Witten&&ORT>>
+<<Walter.Schmidt@email.de&&EMAIL>>
+<<+49 176 83321546&&TELEFONNUMMER>>

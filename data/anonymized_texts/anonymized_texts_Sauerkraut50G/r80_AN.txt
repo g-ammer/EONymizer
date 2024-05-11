@@ -1,0 +1,14 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe diese Woche eine Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten. Der Betrag scheint mir etwas hoch zu sein und ich würde gerne mehr Details dazu bekommen, wie sich dieser zusammensetzt. Kann es sein, dass sich mein Verbrauch deutlich erhöht hat oder gibt es einen anderen Grund für diesen Anstieg?
+
+Meine Vertragsnummer ist die <VERTRAGSNUMMER> und ich bin unter der Geschäftspartnernummer <<GESCHAEFTSPARTNERNUMMER>> bei Ihnen registriert.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

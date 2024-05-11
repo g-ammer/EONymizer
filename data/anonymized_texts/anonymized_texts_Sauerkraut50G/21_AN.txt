@@ -1,0 +1,12 @@
+ Sehr geehrter Kundenservice,
+
+mein Name ist <PERSON> und ich benötige Ihre Unterstützung. Mir ist bei der Betrachtung meiner letzten Rechnung, RECHNUNGSNUMMER <<RECHNUNGSNUMMER>>, ein unerklärlicher Betrag aufgefallen.
+
+Da ich meine Verbrauchsdaten, unter anderem die ZAEHLERNUMMER <ZAEHLERNRUMMER>, regelmäßig überprüfe und diesen erhöhten Betrag nicht nachvollziehen kann, bitte ich Sie mir Informationen dazu zu geben.
+
+Sie können mich unter folgender E-Mail-Adresse erreichen: <EMAIL>
+
+Vielen Dank für Ihre Unterstützung.
+
+Freundliche Grüße,
+<PERSON>

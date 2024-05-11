@@ -1,0 +1,13 @@
+ Guten Tag E.ON Kundenservice,
+
+ich wende mich an Sie mit einem Problem, das sich auf die Technik Ihrer Service-App bezieht. Trotz mehreren Versuchen ist es mir dabei nicht möglich, mich erfolgreich zum Kundenlogin anzumelden. Auch ansonsten wirkt die App nicht völlig stabil; zuweilen habe ich festgestellt, dass sie unerwartet eingestellt wird.
+
+Zu meinem Vertrag: Mein Vertragsbegleitdokument listet meine Vertragsnummer als <VERTRAGSNUMMER>. Bisher lief die Verwendung Ihrer App absolut reibungslos, so dass dieses Login-Problem völlig überraschend kommt. Ich werde dabei immer wieder darauf hingewiesen, dass meine Anmeldedaten nicht korrekt wären, obwohl ich sie gewissenhaft eingegeben habe.
+
+Könnten Sie sich darüber eine größere Klarheit verschaffen und mich dabei unterstützen, dieses technische Problem zu lösen?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

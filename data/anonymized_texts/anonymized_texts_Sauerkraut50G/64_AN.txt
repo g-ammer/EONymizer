@@ -1,0 +1,14 @@
+ Guten Tag liebes E.ON-Team,
+
+ich hoffe Ihnen geht es gut. Mein Name ist <PERSON> und ich bin eine langjährige Kundin bei Ihnen. Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Eigentlich bin ich ja immer sehr zufrieden mit Ihrem Stromservice, dabei gehe ich in vielen E-Mails auf Details meiner Rechnungen und Tarife ein. Allerdings muss ich heute eine weniger erfreuliche Anfrage stellen. Im letzten Monat habe ich eine höhere Rechnung als erwartet bekommen, Rechnungsnummer <<RECHNUNGSNUMMER>>. Dies hat mich etwas überrascht, da ich immer dachte, dass mein Tarif fest ist.
+
+Gibt es dafür eine plausible Erklärung? Gibt es vielleicht eine Möglichkeit, dass ich mit einem Kundenbetreuer darüber sprechen könnte? Ich hätte natürlich gerne weitere Informationen dazu, um zu verstehen, woher die plötzlichen Kosten kommen.
+
+Bitte lassen Sie mich wissen, wann ich mit einer Person aus dem Kundenservice sprechen könnte.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>

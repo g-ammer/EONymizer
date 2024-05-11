@@ -1,0 +1,11 @@
+ Sehr geehrter Kundenservice,
+
+mein Name ist <PERSON> und ich wende mich heute an Sie, da ich Hilfe bezüglich der Verwaltung meines Kundenkontos benötige. Ich habe gerade versucht, von meiner aktuellen Adresse (<STRASSE>, <PLZ><ORT>) auf die neue Adresse zu wechseln (Turmstraße 33, 10559 Berlin), aber ich bekomme immer wieder Nachrichten, die besagen, dass meine Vertragsnummer <VERTRAGSNUMMER> nicht erkannt wird. Ich habe überprüft und die Nummer mehrmals eingegeben, jedoch ohne Erfolg.
+
+Bin ich irgendwie falsch dran oder gibt es ein Problem im System? Ich muss zugeben, dass meine Geduld ermüdend ist. Bitte sagen Sie mir, was ich tun soll. Sie erreichen mich normalerweise unter der Telefonnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL>.
+
+Ich schätze Ihre Bemühungen, meiner Anfrage direkt zuzugehen und freue mich auf eine schnelle erfolgte Antwort ohne Zögern.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

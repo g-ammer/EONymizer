@@ -1,0 +1,12 @@
+ Guten Tag,
+
+vielleicht können Sie mir helfen, ich habe ein technisches Problem mit meiner E.ON App. Beim Versuch mich einzuloggen tritt jedes Mal eine Störung auf.
+
+Dabei ist mein Vertragskonto <VERTRAGSNUMMER>. Kann ich mir bei Ihnen Hilfe holen oder wissen Sie, wie das Problem behoben werden kann?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>

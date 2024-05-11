@@ -1,0 +1,15 @@
+Sehr geehrte Damen und Herren,
+
+ich habe seit einigen Tagen Probleme mit der E.ON App auf meinem Smartphone. Bei jedem Versuch, mich einzuloggen, bricht die App ab und ich kann nicht auf meine Vertragsinformationen zugreifen. Meine Geschäftspartnernummer lautet <<140675309&&GESCHAEFTSPARTNERNUMMER>> und meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>>. Ich habe bereits versucht, die App neu zu installieren und mein Smartphone neu zu starten, aber das Problem bleibt bestehen.
+
+Könnten Sie mir bitte technische Unterstützung anbieten und mir sagen, wie ich das Problem beheben kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+
+<<Markus Schmidt&&PERSON>>
+<<Kastanienallee 12&&STRASSE>>
+<<10115&&PLZ>><<Berlin&&ORT>>
+Tel.: <<030/1234567&&TELEFONNUMMER>>
+Email: <<schmidt.markus@testmail.com&&EMAIL>>

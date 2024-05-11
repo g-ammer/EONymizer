@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+ich wende mich heute an Sie, da ich ein technisches Problem mit meiner E.ON App habe. Seit einigen Tagen kann ich mich nicht mehr einloggen. Mein Benutzername und Passwort sind korrekt, jedoch erhalte ich jedes Mal eine Fehlermeldung.
+Können Sie mir bitte helfen, dieses Problem zu lösen? Hier sind meine Daten für Ihre Aufzeichnungen:
+Vertragsnummer: <<402345678&&VERTRAGSNUMMER>>
+Geschäftspartnernummer: <<200123456&&GESCHAEFTSPARTNERNUMMER>>
+Rechnungsnummer: <<1234567890&&RECHNUNGSNUMMER>>
+Ich freue mich auf Ihre baldige Antwort. Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Musterweg 2&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+Telefon: <<01234 567890&&TELEFONNUMMER>>
+E-Mail: <<hans.mueller@mustermail.de&&EMAIL>>

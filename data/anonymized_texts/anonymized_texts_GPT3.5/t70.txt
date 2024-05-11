@@ -1,0 +1,8 @@
+Guten Tag,
+
+meine Vertragsnummer ist <<402376165&&VERTRAGSNUMMER>>. Ich kann mich in der E.ON App seit gestern nicht mehr einloggen trotz richtiger Anmeldedaten, es gibt eine technische Störung. Können Sie dabei helfen?
+
+Vielen Dank und beste Grüße
+
+<<Helmut Krause&&PERSON>>, <<Hegelstraße 72&&STRASSE>>, <<99086&&PLZ>> <<Erfurt&&ORT>>. 
+<<HelmutKrause@email.de&&EMAIL>>

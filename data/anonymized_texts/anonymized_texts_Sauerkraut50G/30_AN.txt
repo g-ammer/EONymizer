@@ -1,0 +1,11 @@
+ Betreff: Anmeldung Stromzähler <ZAEHLERNRUMMER>, Kundennummer 13089761045
+
+Hallo E.ON-Team, 
+
+Ich habe eine Frage zu Zählernummer <ZAEHLERNRUMMER>. Welche Informationen benötigen Sie zur Anmeldung dafür von Neuetzug Sandra Huckermann, Orsoyer Straße 96, <PLZ><ORT> ab 01.11.2022?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+EMail: <EMAIL>

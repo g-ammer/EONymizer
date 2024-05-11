@@ -1,0 +1,10 @@
+Guten Tag, 
+
+ich habe eine Frage zu meiner jüngsten E.ON-Rechnung. Die Rechnungsnummer lautet <<9876543210&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir höher als üblich zu sein. Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist und ob ich eine Nachzahlung leisten muss? 
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Müllerstraße 9&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>
+<<hans.mueller@email.de&&EMAIL>>

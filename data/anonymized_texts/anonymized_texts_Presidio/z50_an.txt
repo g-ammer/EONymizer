@@ -1,0 +1,11 @@
+Guten Tag E.ON Kundenservice,
+
+ich habe eine Frage zum Zählerstand meines Gaszählers. Meine Zählernummer ist <ZÄHLERNR.> und meine Vertragsnummer lautet <VERTRAGSNR.>. Leider ist mir nicht genau klar, wie ich meinen Zählerstand ablesen und übermitteln soll. Könnten Sie mir bitte eine detaillierte Anleitung senden, wie ich den Zählerstand korrekt ablesen und an Sie übermitteln kann? 
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+<EMAIL>
+<TELEFONNR.>

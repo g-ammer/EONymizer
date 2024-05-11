@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich habe Probleme, mich in meiner E.ON App einzuloggen. Ziel ist es, meinen Energieverbrauch zu checken. Bei jedem Versuch erhalte ich eine Fehlermeldung, dass meine Zugangsdaten falsch sind. Dabei bin ich sicher, dass ich mein Passwort und meinen Benutzernamen korrekt eingegeben habe.
+
+Können Sie mir bitte weiterhelfen? Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+bezüglich meiner letzten Rechnung hätte ich gerne einige Klarstellungen. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>> und die dazugehörige Geschäftspartnerummer ist <<200123456&&GESCHAEFTSPARTNERNUMMER>>. Der in Rechnung gestellte Betrag scheint mir höher als das was ich normalerweise bezahle.
+Ich würde gerne wissen, ob es da ein Fehlervorliegt oder ob es neu berechnete Tarifen gibt, von denen ich nicht informiert wurde. Und wenn ja, bitte ich um nähere Informationen zu diesen.
+Außerdem wäre ich Ihnen dankbar, wenn Sie mir mitteilen könnten, bis wann ich die Rechnung bezahlen muss und auf welches Konto ich den Betrag überweisen soll.
+Für Ihre Hilfe bedanke ich mich im Voraus.
+Freundliche Grüße,
+<<Lena Schmidt&&PERSON>>
+<<Musterstraße 12&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+Telefon: <<01234-567890&&TELEFONNUMMER>>
+Email: <<lena.schmidt@mustermail.de&&EMAIL>>

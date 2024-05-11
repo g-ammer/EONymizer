@@ -1,0 +1,16 @@
+ fon: 0176 12345678
+Email: k.mueller@mustermail.de
+
+Output:
+
+Sehr geehrtes E.ON-Team,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und betrifft das Vertragskonto <VERTRAGSNUMMER>. Der ausgewiesene Rechnungsbetrag erscheint mir ungewöhnlich hoch. Könnten Sie bitte den Betrag für mich überprüfen und mir eine detaillierte Aufschlüsselung der Kosten senden?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

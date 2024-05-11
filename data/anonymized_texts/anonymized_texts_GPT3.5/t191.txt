@@ -1,0 +1,10 @@
+Guten Tag E.ON-Kundenservice,
+hoffentlich geht es Ihnen gut. Ich habe kürzlich die E.ON-App auf meinem Handy installiert und versucht mich über meinem Bereich anzumelden, daran hatte ich aber leider keinen Erfolg.
+Laut meinen Aufzeichnungen haben meine <<Geschaeftspartnernummer 1701962471&&GESCHAEFTSPARTNERNUMMER>> und meine Vertragsnummer <<23201973122&&VERTRAGSNUMMER>>, aber wenn ich versuche, mich mit diesen Daten anzumelden, erhalte ich immer eine Fehlermeldung. Es scheint, als ob die App meine Daten nicht richtig erfasst oder eine technische Störung vorliegt.
+Könnten Sie sich dies bitte anschauen und mich wissen lassen, was das Problem ist und wie ich mich erfolgreich in der App einloggen könnte? Ich möchte mein Konto verwalten und meine Rechnungen einsehen können.
+Für Ihre Hilfe wäre ich sehr dankbar.
+Mit freundlichen Grüßen
+<<Peter Müller&&PERSON>>
+<<peter.mueller91@mail.de&&EMAIL>>
+<<Schillerstraße 9&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+<<0152 12345678&&TELEFONNUMMER>>

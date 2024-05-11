@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe Probleme mit Ihrer App auf meinem Gerät. Mein Login funktioniert seit heute nicht mehr und die Seite scheint eine technische Störung zu haben. Könnten Sie mir bitte weiterhelfen?
+
+Meine Vertragsnummer lautet <<408973567&&VERTRAGSNUMMER>> und die zugehörige Geschäftspartnernummer ist <<201847129&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich danke Ihnen für Ihre Hilfe und hoffe, dass das Problem bald behoben sein wird.
+
+Mit freundlichen Grüßen,
+
+<<Franz Schneider&&PERSON>>
+<<Franz_Schneider64@email.de&&EMAIL>>
+<<0174 3902648&&TELEFONNUMMER>>
+<<Siegelweg 39&&STRASSE>>, <<10437&&PLZ>> <<Berlin&&ORT>>

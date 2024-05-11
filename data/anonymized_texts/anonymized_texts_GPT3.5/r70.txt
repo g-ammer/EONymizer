@@ -1,0 +1,9 @@
+Guten Tag,
+
+ich hoffe, es geht Ihnen gut. Ich brauche Ihre Unterstützung bezüglich meiner letzten Stromrechnung. Die Rechnungsnummer lautet <<4009988776&&RECHNUNGSNUMMER>> und die Vertragsnummer ist <<402789123&&VERTRAGSNUMMER>>. Der Rechnungsbetrag erscheint mir zu hoch. Es wäre ideal, wenn Sie das bitte überprüfen und mir eine detaillierte Aufschlüsselung der Kosten zukommen lassen könnten.
+
+Ich verbleibe in Erwartung Ihrer Rückmeldung. Bitte kontaktieren Sie mich unter der folgenden E-Mail-Adresse: <<marianne.schmidt@beispiel.de&&EMAIL>>
+
+Mit freundlichen Grüßen,
+
+<<Marianne Schmidt&&PERSON>>

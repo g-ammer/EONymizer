@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich hätte ein paar Fragen zu meinem Vertrag mit der Vertragsnummer <VERTRAGSNUMMER>. Die Vertragslaufzeit ist mir nicht ganz klar, könnten Sie mir vielleicht die genauen Daten nennen? Und wie sieht es mit Kündigung aus, wann wäre da die Kündigungsfrist?
+
+Ich bedanke mich im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

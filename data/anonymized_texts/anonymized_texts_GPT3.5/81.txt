@@ -1,0 +1,9 @@
+Guten Tag,
+
+ich wollte einmal nachfragen, wie ich meinen Vertrag mit der Nummer <<402345678&&VERTRAGSNUMMER>> bei E.ON kündigen kann. Können Sie mir dazu Informationen geben oder mich an den richtigen Kundenberater vermitteln?
+
+Mit freundlichen Grüßen,
+<<Maria Schubert&&PERSON>>
+<<Am Kirschgarten 3&&STRASSE>>
+<<12345&&PLZ>><<Musterdorf&&ORT>>
+<<maria.schubert@beispiel.de&&EMAIL>>

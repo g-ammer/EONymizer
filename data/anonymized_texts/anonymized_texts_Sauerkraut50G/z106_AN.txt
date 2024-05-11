@@ -1,0 +1,17 @@
+ Betreff: Frage zum Zählerstand
+
+Hallo E.ON Kundenservice,
+
+hiermit schreibe ich Ihnen, da ich eine Frage bezüglich des Zählerstands habe. Ich bin neu eingezogen und hab tatsächlich noch nie so ein Ding abgelesen.
+
+Wo finde ich den genauen Zählerstand auf dem Gerät? Ist der automatisch in kWh angegeben?
+
+Bin Kunde bei E.ON, Vertragsnummer ist <VERTRAGSNUMMER> und die Zählernummer lautet <ZAEHLERNRUMMER>. Für die weitere Kommunikation bitte ich Sie, die Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> zu verwenden.
+
+Vielen Dank!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

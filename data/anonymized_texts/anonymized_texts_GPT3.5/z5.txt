@@ -1,0 +1,10 @@
+Guten Tag E.ON Team,
+
+ich bin Kunde bei Ihnen und wollte mich bezüglich meines Zählerstandes erkundigen. Mein Geschäftspartnernummer ist <<1307845198&&GESCHAEFTSPARTNERNUMMER>> und die Vertragsnummer lautet <<402584637&&VERTRAGSNUMMER>>.
+
+Könnten Sie bitte überprüfen, ob mein letzter eingereichter Zählerstand korrekt erfasst wurde?
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<<Johann Baumann&&PERSON>>

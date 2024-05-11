@@ -1,0 +1,18 @@
+Guten Tag,
+
+als treuer E.ON-Kunde hätte ich gern gewusst, wie ich noch einfacher mit Ihrem Kundenservice interagieren kann. Besteht die Möglichkeit, dass ich mit meinem Kundenberater persönlich telefonieren oder eine E-Mail schreiben kann? Dies könnte den Ablauf meiner Anliegen beschleunigen, da ich oft sehr konkrete Fragen habe und E-Mails hin und her schreiben manchmal nicht ausreicht.
+  
+Kundendaten:  
+Vertragsnummer: <<402837529&&VERTRAGSNUMMER>>  
+Geschäftspartnernummer: <<204958238&&GESCHAEFTSPARTNERNUMMER>>  
+Zählernummer: <<743218865&&ZAEHLERNUMMER>>  
+
+Ich freue mich auf die Rückmeldung!
+
+Mit bestem Dank,
+
+<<Franz Keller&&PERSON>>  
+<<Kleiner Wall 12&&STRASSE>>,  
+<<43122&&PLZ>> <<Dortmund&&ORT>>  
+Tel: <<0160 92284523&&TELEFONNUMMER>>  
+Email: <<Fkeller@mail.de&&EMAIL>>

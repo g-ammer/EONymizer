@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meiner letzten Rechnung mit der Nummer: <RECHNUNGSNUMMER>. Der angegebene Endbetrag erscheint unverständlicherweise hoch. Könnten Sie mir bitte Aufschluss geben und für den erhöhten Betrag eventuell eine Erklärung liefern?
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank im Voraus und eins schöne Wochenende!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

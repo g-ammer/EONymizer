@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Ihre Kundin Frau <<Ingrid Schmidt&&PERSON>> aus der <<Lindenstraße 12&&STRASSE>>, <<30131&&PLZ>> <<Hannover&&ORT>> und ich habe eine Frage bezüglich meiner Vertragsnummer <<401234567&&VERTRAGSNUMMER>>.
+
+Es scheint ein Missverständnis darüber zu geben, an wen ich mich wenden muss, wenn ich spezielle Fragen bezüglich meines Vertrages habe. Können Sie mir bitte erklären, was der Unterschied zwischen einem Kundenberater und einem Kundenbetreuer ist und wer mein Ansprechpartner für spezifische Fragen ist?
+
+Vielen Dank vorab für Ihre Hilfe und Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<<Ingrid Schmidt&&PERSON>>

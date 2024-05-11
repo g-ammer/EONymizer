@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meiner Vertragsnummer <VERTRAGSNUMMER>. Wie kann ich Kontakt mit einem Kundenbetreuer aufnehmen, um meinen Vertrag zu besprechen? Die Gesprächsthemen sollten u.a. meine aktuelle Rechnungsnummer <<RECHNUNGSNUMMER>> und die Abrechnung meines Zählers beinhalten.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFON>

@@ -1,0 +1,6 @@
+Guten Tag E.ON Kundensupport,
+ich würde gerne meine momentane Vertragslaufzeit erfragen. Mein Vertragsnummer ist <<402568372&&VERTRAGSNUMMER>> und meiner Anschrift <<Alfredstraße 17, 76452 Sulamscheid&&STRASSE>><<76452&&PLZ>>.
+Können Sie mir bitte außerdem nähere Informationen zur rechtzeitigen Kündigung gegeben? Es wäre sehr hilfreich zu wissen, welche Deadline ich einhalten und welche Dokumente ich vorlegen müssen.
+Für Ihre Hilfe bedanke ich mich im Voraus sehr herzlich.
+Mit freundlichen Grüßen,
+<<Leon Schmidt&&PERSON>>

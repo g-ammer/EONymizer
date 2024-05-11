@@ -1,0 +1,13 @@
+Guten Tag
+
+ich habe Fragen zu meinem Zählerstand. Und zwar verstehe ich die Berechnung dazu nich richtig. Könnten Sie mich bitte dafür kontaktieren? 
+
+Mein Vertragsnummer ist <<404725898&&VERTRAGSNUMMER>> und die Zählernummer ist <<845263444&&ZAEHLERNUMMER>>. 
+
+Mit bestem Dank,
+
+<<Peter Müller&&PERSON>> 
+
+<<Eichenweg 12&&STRASSE>>, <<Berlin&&ORT>>, PLZ: <<10117&&PLZ>>
+Tel.: <<0151 12345678&&TELEFONNUMMER>>
+<<peter.muller2@gmail.com&&EMAIL>>

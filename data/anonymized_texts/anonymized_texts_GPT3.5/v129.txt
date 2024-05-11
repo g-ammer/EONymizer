@@ -1,0 +1,10 @@
+Guten Tag,
+
+meine Vertragsnummer bei Ihnen ist die <<402387156&&VERTRAGSNUMMER>>. Out of curiosity, hätte ich gerne gewusst, wie lange die Vertragslaufzeit für diesen Vertrag noch ist? Wann käme eine baldige Kündigung infrage? Vielen Dank für Ihre Rückmeldung.
+
+Viele Grüße,
+<<Julia Baer&&PERSON>>,
+<<Adenauerallee 107&&STRASSE>>,
+<<20099&&PLZ>> <<Hamburg&&ORT>>.
+<<juliab@example.com&&EMAIL>>
+<<+4915678963251&&TELEFONNUMMER>>

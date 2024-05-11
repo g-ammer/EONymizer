@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich habe den E.ON App schon seit ein paar Monaten genutzt. Allerdings habe ich diese Woche Probleme mit meinem Login. Jedes Mal, wenn ich versuche mich einzuloggen, werde ich automatisch ausgeloggt.
+Meine Geschäftspartnernummer ist die <<140023786&&GESCHAEFTSPARTNERNUMMER>>. Können Sie bitte auf meine Kontoeinstellungen zugreifen und prüfen was die Ursache dafür sein könnte?
+Danke im Voraus für Ihre Hilfe!
+Mit freundlichen Grüßen,
+<<Tina Rotter&&PERSON>>
+<<Rottertina75@gmail.com&&EMAIL>>
+<<Leo-Riese-Straße 4&&STRASSE>>
+<<84223&&PLZ>><<Celle&&ORT>>

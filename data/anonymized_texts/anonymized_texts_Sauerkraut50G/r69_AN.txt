@@ -1,0 +1,10 @@
+ Betreff: Frage zu hoher Rechnung
+
+Guten Tag,
+
+es scheint ein Fehler in meiner letzten Rechnung mit Rechnungsnummer <RECHNUNGSNUMMER> vorzuliegen. Der Rechnungsbetrag beträgt plötzlich das Doppelte zu den vorherigen Monaten, es ist doch eher seltsam, denke ich. Können Sie mir bitte eine Aufstellung der Kosten zusenden?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>

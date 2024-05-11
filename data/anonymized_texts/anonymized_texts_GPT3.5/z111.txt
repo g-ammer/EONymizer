@@ -1,0 +1,8 @@
+Lieber E.ON Kundenservice,
+ich wende mich an Sie mit einer Frage bezüglich meinem Stromzähler. Wie lese ich meinen Zählerstand ab? Ich bin mir nicht sicher ob ich es korrekt gemacht habe. Ist es der Gesamtsumme aller Zahlen, die auf Zähler steht oder muss ich da speziell eine Begrenzung nutzen? Mein Name ist <<Jürgen Müller&&PERSON>> von der <<Goethestraße 12&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>> und die Zählerumnmer ist <<567896523&&ZAEHLERNUMMER>>.
+Ich freue mich auf Ihre zuverlässige Rückmeldung zu diesem Thema.
+Virielen Daki,
+<<Jürgen Müller&&PERSON>>
+<<mj_mueller@gmail.com&&EMAIL>>
+<<+49 176 43214321&&TELEFONNUMMER>>
+VERTRAGSNUMMER: <<401234567&&VERTRAGSNUMMER>>

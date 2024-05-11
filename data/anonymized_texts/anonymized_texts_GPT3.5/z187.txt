@@ -1,0 +1,11 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meinen Zählerstand. Ich habe Probleme beim Ablesen und bin mir nicht sicher, ob ich den richtigen Zählerstand in mein Online-Kundenkonto eingetragen habe. Meine Geschäftspartnernummer ist <<1307837611&&GESCHAEFTSPARTNERNUMMER>> und die Vertragsnummer lautet <<4012345680&&VERTRAGSNUMMER>>. Funktioniert alles korrekt mit meinem Zähler?
+
+Wenn dies Ihr Fokus nicht sein sollte, könnten Sie diese Anfrage bitte an den geeigneten Sachbearbeiter weiterleiten?
+
+Vielen Dank schon im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Frau Claudia Fuchs&&PERSON>>, <<Waldstraße 34&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>
+<<claudia.fuchs@email.de&&EMAIL>>

@@ -1,0 +1,12 @@
+ Betreff: Frage zur Rechnungsnummer <RECHNUNGSNUMMER>
+
+Guten Tag,
+
+Meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer lautet <VERTRAGSNUMMER>. Auf meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNUMMER> von E.ON habe ich einen Rechnungsbetrag von 270€ isoliert, normalerweise beträgt mein Verbrauch im Durchschnitt pro Monate nur 203€. Wie komme ich pünktlich zu dieser hohen Rechnungsbetrag zustande?
+
+Bitte klären Sie das.
+
+LG
+<PERSON>
+<STRASSE>
+<TELEFONNUMMER>

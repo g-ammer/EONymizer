@@ -1,0 +1,15 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Vertrag. Meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>.
+
+Könnten Sie mir bitte mitteilen, wie lange die Vertragslaufzeit ist, und was die Bedingungen für eine Kündigung sind? Unter welchen Umständen könnte ich den Vertrag vorzeitig beenden?
+
+Ich bedanke mich im Voraus für Ihre Hilfe und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+
+<<Helmut Schulz&&PERSON>>
+<<Hauptstraße 10&&STRASSE>>
+<<10115&&PLZ>><<Berlin&&ORT>>
+<<helmut.schulz@example.com&&EMAIL>>
+<<0176 12345678&&TELEFONNUMMER>>

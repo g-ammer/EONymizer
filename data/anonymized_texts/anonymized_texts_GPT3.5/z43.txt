@@ -1,0 +1,8 @@
+Guten Tag,
+
+mein Name ist <<Markus Brückner&&PERSON>> und ich wohne in der <<Goethestraße 45&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>. Ich habe eine Frage bezüglich meines Zählerstands. Meine Vertragsnummer lautet <<402938473&&VERTRAGSNUMMER>> und ich konnte den aktuellen Zählerstand nicht in meinem Online-Konto finden. Könnten Sie mir bitte mitteilen, wo ich meinen aktuellen Zählerstand einsehen kann?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Markus Brückner&&PERSON>>

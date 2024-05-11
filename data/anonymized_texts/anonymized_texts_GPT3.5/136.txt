@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich habe eine Frage bezüglich meines Vertrags mit der Nummer <<401234567&&VERTRAGSNUMMER>>. Es gab technische Probleme mit dem System und ich konnte leider keinen Kontakt zu einem Kundenbetreuer herstellen.
+Könnten Sie mir bitte erklären, wie ich den Kundenservice kontaktiere und frage, ob etwas bezüglich meiner Vertragsausführung geändert werden muss?
+Vielen Dank im Voraus.
+Beste Grüße
+<<Lukas Schmidt&&PERSON>>
+<<Ludwigstr. 23&&STRASSE>>
+<<80333&&PLZ>><<München&&ORT>>
+<<l.schmidt@hotmail.de&&EMAIL>>

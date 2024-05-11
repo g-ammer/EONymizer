@@ -1,0 +1,8 @@
+Hallo E.ON Kundenservice Team,
+
+mein Name ist <PERSON> und ich wohne in der <ADRESSE>. Ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <GESCHÄFTSPARTNERNR.>. Beim digitalen Ablesen meines Zählers (Zählernummer: <ZÄHLERNR.>) ist mir aufgefallen, dass ich nicht ganz nachvollziehen kann, wie der angezeigte Zählerstand zustande kommt. 
+
+Können Sie mir bitte nähere Informationen dazu geben, wie genau der Zählerstand gelesen bzw. berechnet wird und prüfen Sie bitte auch meine aktuelle Abrechnung Nummer <RECHNUNGSNR.> auf eventuelle Fehler im entsprechenden Bereich? Ich wäre Ihnen für eine zeitnahe Hilfe dankbar. 
+
+Mit freundlichen Grüßen
+<PERSON>

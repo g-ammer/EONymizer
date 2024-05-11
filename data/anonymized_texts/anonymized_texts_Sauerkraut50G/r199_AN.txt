@@ -1,0 +1,13 @@
+ Guten Tag E.ON Kundenservice,
+
+ich habe soeben meine aktuelle Rechnung erhalten und beim Durchsehen ist mir aufgefallen, dass der Rechnungsbetrag anders als gewöhnlich sehr hoch ausgefallen ist. Die Rechnungsnummer lautet <RECHNUNGSNUMMER>.
+
+Haben Sie vielleicht eine Erklärung dafür, da mein Verbrauch eigentlich stabil geblieben ist?
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

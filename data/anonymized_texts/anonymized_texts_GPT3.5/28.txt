@@ -1,0 +1,17 @@
+Betreff: Frage zu meinem E.ON Vertrag und Kundenservice
+
+Guten Tag,
+
+ich bin seit einiger Zeit Kunde bei E.ON und habe einige Fragen zu meinem Vertrag und dem Kundenservice. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>.
+
+Erstens, ich habe eine Rechnung mit der Nummer <<1234567890&&RECHNUNGSNUMMER>> erhalten, aber ich verstehe nicht alle Posten darauf. Könnten Sie mir bitte erklären, was die einzelnen Positionen bedeuten?
+
+Zweitens, ich habe versucht, den Kundenservice telefonisch zu erreichen, hatte aber Schwierigkeiten, einen Kundenberater zu sprechen. Gibt es eine bestimmte Zeit, zu der ich anrufen sollte, oder eine andere Möglichkeit, einen Kundenbetreuer zu kontaktieren?
+
+Ich würde mich freuen, wenn Sie mir bei diesen Fragen weiterhelfen können.
+
+Viele Grüße,
+<<Hans Müller&&PERSON>>
+<<Musterstraße 5&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+Telefonnummer: <<0123/456789&&TELEFONNUMMER>>
+Email: <<hans.mueller@mustermail.de&&EMAIL>>

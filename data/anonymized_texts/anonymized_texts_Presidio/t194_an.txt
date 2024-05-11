@@ -1,0 +1,16 @@
+Betreff: Anfragen zu Technik und Störungen
+
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich lebe in der <ADRESSE>. Ich habe einige Schwierigkeiten bei der Nutzung Ihrer E.ON-App und brauche technischen Support.
+
+Zunächst habe ich seit heute morgen Probleme beim Einloggen in mein Konto. Ich habe mein Passwort mehrmals erfolglos eingegeben und nun ist mein Konto gesperrt. Würden Sie mir bitte helfen, es freizuschalten? 
+
+Zweitens scheinen auf der App die Verbrauchsdaten meines Zählers (Zählernummer: <ZÄHLERNR.>) nicht korrekt zu sein. Es zeigt an, dass der Verbrauch sehr hoch ist, obwohl wir kaum zu Hause waren. Besteht die Möglichkeit, dass es eine technische Störung gibt? Bei meinem vorherigen Messwert war alles normal und seitdem hat sich in meinem Energieverbrauchsverhalten nichts Verändert.
+
+Meine Vertragsnummer mit E.ON ist <TELEFONNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Könnten Sie bitte einen tecnhischer Support zu meinen Probleme bereitstellen?
+
+Ich würde mich auf eine zeitnahe Antwort freuen. 
+
+Freundliche Grüßen,
+<PERSON>

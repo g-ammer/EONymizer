@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Vertrag, Vertragsnummer <<402345678&&VERTRAGSNUMMER>>. Wie lange läuft der Vertrag noch und was muss ich tun, wenn ich ihn kündigen möchte?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Max Müller&&PERSON>>
+<<Rosenstraße 12, 12345 Berlin&&STRASSE>><<12345&&PLZ>><<Berlin&&ORT>>
+<<max.mueller@mail.de&&EMAIL>>
+Tel: <<030 12345678&&TELEFONNUMMER>>

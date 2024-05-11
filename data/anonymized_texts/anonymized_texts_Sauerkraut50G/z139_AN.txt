@@ -1,0 +1,9 @@
+ Sehr geehrter Kundenservice,
+
+ich bin seit kurzem Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Meine Vertragsnummer lautet <VERTRAGSNUMMER> und die Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Könnten Sie mir bitte erklären, wie ich meinen Zählerstand korrekt ablesen kann und wie oft das erforderlich ist?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

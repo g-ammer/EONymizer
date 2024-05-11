@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+
+ich bin Kunde bei Ihnen und hätte eine Frage zum Thema Zählerstand. Mein Name ist <<Simon Schneider&&PERSON>>, meine Vertragsnummer lautet <<402938475&&VERTRAGSNUMMER>>. Ich bin in die neue Wohnung umgezogen und habe den alten Zählerstand notiert, aber ich bin mir nicht sicher, wo und wie ich den Zählerstand eingeben soll. Könnte ich diesen per E-Mail an Sie übermitteln oder gibt es eine bestimmte Webseite dafür? 
+
+Vielen Dank und freundliche Grüße
+<<Simon Schneider&&PERSON>>
+<<Emilstraße 15&&STRASSE>>
+<<40476&&PLZ>><<Düsseldorf&&ORT>>
+<<schneider_simon@mail.de&&EMAIL>>
+<<0171 2345678&&TELEFONNUMMER>>

@@ -1,0 +1,7 @@
+Guten Tag,
+
+ich bräuchte mal meine Vertragsinformationen. Geben Sie bitte Information über Vertragsnummer <<402345678&&VERTRAGSNUMMER>> und Vertragslaufzeit erstmal. Schicken Sie diese Information an <<philipp.meyer@gmail.com&&EMAIL>>.
+
+Vielen Dank und viele Grüße,
+
+<<Philipp Meyer&&PERSON>>

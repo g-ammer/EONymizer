@@ -1,0 +1,15 @@
+Hallo E.ON Kundenservice,
+
+Ich habe eine Frage bezüglich der E.ON App. Ich habe vor kurzem ein neues Smartphone gekauft und die App darauf installiert, allerdings kann ich mich nicht mehr einloggen.
+
+Ich habe meine Vertragsnummer (<<402344567&&VERTRAGSNUMMER>>) und meine Geschäftspartnernummer (<<200567890&&GESCHAEFTSPARTNERNUMMER>>) korrekt eingegeben, das Passwort ebenfalls mehrmals überprüft und es sogar zurückgesetzt, aber ohne Erfolg. Die App zeigt immer die Meldung "Login fehlgeschlagen".
+
+Es scheint also eine technische Störung vorzuliegen und ich würde mich freuen, wenn Sie mir dabei helfen könnten, dieses Problem zu lösen.
+
+Vielen Dank im Voraus und beste Grüße,
+
+<<Felix Müller&&PERSON>>
+<<Gartenstraße 5&&STRASSE>>
+<<71069&&PLZ>><<Sindelfingen&&ORT>>
+<<felixmueller@example.de&&EMAIL>>
+Telefon: <<0176 5678901&&TELEFONNUMMER>>

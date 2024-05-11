@@ -1,0 +1,11 @@
+Hallo E.ON-Kundenservice,
+da ich auf Ihrem Webportal invalide Informationen eingeben musste, versuche den Bestellstatus meines neuen Gaszählers (ZAHLERNUMMER: <<28913229&&ZAEHLERNUMMER>>) salbst auf diesem Weg 
+herausfinden zu können.
+Können Sie mir bitte nachsehen, ob das System den Zähler bereits zugestellt hat und welches das geplante Installamentgangstermin ist?
+Nochmal vielen Dank fuer Ihre Unterstützung bei  diesem problem.
+Liebe Grüße,
+<<Karin Schuhman&&PERSON>>
+<<Kreuzbergstraße 65&&STRASSE>>
+<<24813&&PLZ>><<Schleswig&&ORT>>
+Telephon: <<0171-8738393&&TELEFONNUMMER>>
+E-Mail: <<karin.schuhman@email.de&&EMAIL>>

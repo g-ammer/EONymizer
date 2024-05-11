@@ -1,0 +1,11 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, wohnhaft in der Fröbelstraße <STRASSE>, <PLZ> <ORT>.
+
+Ich habe seit einiger Zeit eine drängende Frage: Wie kann ich meinen aktuellen Zählerstand einsehen bzw. überprüfen und gibt es irgendeine Möglichkeit dies online zu erledigen? Oder sogar per Mail zu senden?
+
+Ihr Geschäftspartner, <PERSON>
+(Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>)
+
+Beste Grüße
+<PERSON>

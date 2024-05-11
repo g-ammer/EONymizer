@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage zum Thema Rechnung. Ich habe heute meine aktuelle Stromrechnung erhalten, aber der Rechnungsbetrag ist deutlich höher als in den vorherigen Monaten. Können Sie mir bitte helfen, das zu verstehen?
+
+Meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>> und die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Mein Name ist <<Anna Schmidt&&PERSON>> und ich wohne in der <<Königsberger Straße 15&&STRASSE>>, <<90425&&PLZ>> <<Nürnberg&&ORT>>. Sie können mich auch unter meiner Telefonnummer <<0911-1234567&&TELEFONNUMMER>> oder per Email an <<anna.schmidt@mail.de&&EMAIL>> erreichen.
+
+Ich freue mich auf eine schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<<Anna Schmidt&&PERSON>>

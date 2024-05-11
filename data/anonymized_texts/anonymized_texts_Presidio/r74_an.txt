@@ -1,0 +1,15 @@
+Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung, die ich von Ihnen erhalten habe. Die Rechnungsnummer lautet <RECHNUNGSNR.> und die Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>.
+
+Ich habe bemerkt, dass der Rechnungsbetrag höher ist als erwartet. Könnten Sie mir bitte erklären, wie dieser Betrag zustande gekommen ist und ob es eventuelle Fehler bei der Berechnung gab?
+
+Zudem würde ich gerne wissen, ob die Zahlung bereits eingegangen ist. 
+
+Ich danke Ihnen im Voraus für Ihre Hilfe und freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE>
+Email: <EMAIL>
+Telefon: <TELEFONNR.>

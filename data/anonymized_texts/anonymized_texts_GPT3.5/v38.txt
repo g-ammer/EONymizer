@@ -1,0 +1,11 @@
+Hallo E.ON Team,
+
+ich habe eine kurze Frage. Wie lange läuft eigentlich mein Vertrag? Ich habe leider dazu keine Informationen gefunden. 
+Meine Vertragsnummer lautet <<400987234&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<207813579&&GESCHAEFTSPARTNERNUMMER>>. 
+
+Vielen Dank im Voraus für Ihre Hilfe. 
+
+Beste Grüße,
+<<Hannah Schneider&&PERSON>>
+<<Hannesstr. 34&&STRASSE>>, <<53474&&PLZ>> <<Bad Neuenahr&&ORT>>
+<<hannah.schneider@gmx.de&&EMAIL>>

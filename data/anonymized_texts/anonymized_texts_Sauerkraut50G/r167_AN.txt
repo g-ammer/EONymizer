@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir höher als gewöhnlich zu sein. Könnten Sie bitte prüfen, ob alles korrekt ist?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

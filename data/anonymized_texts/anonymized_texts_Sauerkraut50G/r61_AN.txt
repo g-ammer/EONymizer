@@ -1,0 +1,17 @@
+ Guten Tag,
+
+ich hätte eine Frage zu meiner letzten Rechnung, die ich von E.ON erhalten habe. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und der Rechnungsbetrag liegt bei 150 Euro.
+
+Ich war überrascht, einen so hohen Betrag zu sehen, da meine monatlichen Zahlungen normalerweise bei ca. 100 Euro liegen. Könnten Sie mir bitte erklären, warum der Betrag dieses Mal höher ist? Ist es eine Nachzahlung oder habe ich etwas übersehen?
+
+Zur weiteren Identifikation gebe ich Ihnen meine Vertragsnummer, die <VERTRAGSNUMMER> lautet und die Geschäftspartnernummer, die <GESCHAEFTSPARTNERNUMMER> ist.
+
+Ich hoffe, Sie können mir bei meiner Anfrage behilflich sein.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

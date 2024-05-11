@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und hätte eine Frage zu meiner Rechnung. Die Rechnungsnummer lautet <<2345123456&&RECHNUNGSNUMMER>> und der Rechnungsbetrag war dieses Mal deutlich höher als im Durchschnitt.
+
+Daher bin ich etwas unsicher und würde zu meiner Vertragssicherhet nochmal nachhaken. Mein Vertrag hat die Nummer <<232123456789&&VERTRAGSNUMMER>>. Ist der aufgelistete Gaspreis in meiner Berechnung der endgültige Preis oder kommen dazu noch weitere Kosten hinzu?
+
+Ich würde gerne meinen Zahlungstermin verschieben. Gibt es die Möglichkeit, das Zahlungsdatum auf den 10. der Monat zu legen?
+
+Vielen Dank für Ihre Unterstützung!
+
+Mit freundlichen Grüßen
+<<Daniela Hoffmann&&PERSON>>
+<<Hoffnungstraße 5&&STRASSE>>
+<<71234&&PLZ>><<Musterstadt&&ORT>>
+<<hoffmandaniela@aol.de&&EMAIL>>
+Telefon: <<089 12345678&&TELEFONNUMMER>>

@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <PERSON> und ich bin Kunde bei EON unter der Geschäftspartnernummer <GESCHÄFTSPARTNERNR.>. Ich habe einen Energievertrag bei Ihnen mit der Vertragsnummer <VERTRAGSNR.>. 
+
+Ich hätte eine Frage zur Vertragslaufzeit meines Energievertrags. Könnten Sie bitte für mich prüfen, wie lange mein Vertrag noch läuft und mir dies mitteilen? Ausserdem, würde ich gerne wissen, ob es eine Kündigungsfrist gibt und wie lange diese ist.
+
+Bitte lassen Sie mich wissen, wenn Sie weitere Informationen benötigen. 
+
+Ich bedanke mich im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

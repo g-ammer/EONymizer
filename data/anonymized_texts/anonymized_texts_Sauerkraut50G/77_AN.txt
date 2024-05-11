@@ -1,0 +1,11 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Ich habe eine Frage bezüglich meines Kundenkontos. In meinem Online-Konto habe ich Schwierigkeiten, meine letzten Rechnungen einzusehen. Auf meiner letzten Rechnung mit der Nummer <<RECHNUNGSNUMMER>>, waren einige Punkte, bei denen ich weitere Informationen benötige. Wie kann ich diese besser einsehen? Besteht die Möglichkeit, dass ein Kundenberater mich dazu kontaktet?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+E-Mail: <EMAIL>
+Telefon: <TELEFONNUMMER>

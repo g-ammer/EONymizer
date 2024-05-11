@@ -1,0 +1,11 @@
+ Grüßen,
+Rudolf Hardt
+
+Guten Tag,
+
+mein Name ist <PERSON>, ich lebe in der <STRASSE> 3, <PLZ><ORT>. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich habe eine Frage bezüglich meines Zählerstands. Mir ist unklar wie ich meinen korrekten Zählerstand feststelle und diesen an E.ON übermitteln soll. Können Sie mir dabei weiterhelfen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>

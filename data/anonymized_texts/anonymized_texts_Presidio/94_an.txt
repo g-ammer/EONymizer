@@ -1,0 +1,9 @@
+Hallo,
+
+ich bin Kunde bei Ihnen und seit einigen Tagen erreiche ich keinen Kundenbetreuer von Ihnen. Mein Anliegen läuft über die Vertragsnummer <VERTRAGSNR.>. Ich bitte Sie jetzt dringend, sich um mein Anliegen zu kümmern. 
+
+Vielen Dank und schöne Grüße,
+
+<PERSON>
+<ADRESSE>
+<EMAIL>

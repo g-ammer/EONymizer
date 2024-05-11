@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe Fragen zu meiner Vertragsnummer <<408953222&&VERTRAGSNUMMER>>. Könnten Sie mir bitte die genaue Vertragslaufzeit mitteilen und welche Kündigungsfristen zu beachten sind? 
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Hannes Schmidt&&PERSON>>,
+<<Schloßstraße 10&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>>
+<<hannes.schmidt@gmail.com&&EMAIL>>

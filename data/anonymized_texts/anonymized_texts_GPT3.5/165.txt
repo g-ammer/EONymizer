@@ -1,0 +1,18 @@
+Guten Tag,
+
+meine Name ist <<Thomas Schmidt&&PERSON>>, nun besitze ich seit einiger Zeit einen Stromvertrag bei E.ON, Vertragsnummer <<402934578&&VERTRAGSNUMMER>>. Soweit bin ich mit eurer Leistung auch sehr zufrieden.
+
+Aber momentan begegnen ich kleinesiges Problem mit abgerechnete Betrage. Auf meiner letzten Rechnung (Rechnungsnummer <<5131786291&&RECHNUNGSNUMMER>>) ist ein Posten, den ich prompt nicht so recht verstehe.
+
+Möglicherweise könnte ein freundliches Kundenberater mir das mal näher erläutern? Wo Könnte man so eine Anfrage eventuell umgehen am Telefon schneller lösen? Welles ist den Erreichsbarkeit von euer Kundenservice?
+
+Vielen Dank gerate für eure hiflige Unterstützung.
+
+<<Thomas Schmidt&&PERSON>>
+<<Schulstr. 11&&STRASSE>>
+<<15232&&PLZ>><<Frankfurt (Oder)&&ORT>>
+<<tschmidt21@mail.de&&EMAIL>>
+<<0308476390&&TELEFONNUMMER>>
+
+MfG,
+<<Thomas Schmidt&&PERSON>>

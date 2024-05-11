@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Vertrag. Meine Vertragsnummer lautet <<2727438921&&VERTRAGSNUMMER>>. Ich möchte gerne wissen, wie lange meine Vertragslaufzeit noch ist und ob ich meinen Vertrag noch kündigen kann.
+Könnten Sie mir bitte auch meine Geschäftspartnernummer mitteilen?
+Vielen Dank im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Tim Müller&&PERSON>>,
+<<Müllerstraße 7&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>
+<<tim.mueller@gmail.com&&EMAIL>>
+<<+4917612345678&&TELEFONNUMMER>>

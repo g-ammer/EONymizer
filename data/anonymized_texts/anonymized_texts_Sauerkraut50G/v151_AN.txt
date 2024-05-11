@@ -1,0 +1,12 @@
+ Hallo,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNUMMER>. Zurzeit überlege ich, meinen Vertrag bei Ihnen zu kündigen und möchte mich daher über die Kündigungsfrist und die nötigen Schritte informieren. Könnten Sie mir dazu bitte weitere Informationen zukommen lassen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>,
+<ORT>
+Tel: <TELEFONNUMMER>

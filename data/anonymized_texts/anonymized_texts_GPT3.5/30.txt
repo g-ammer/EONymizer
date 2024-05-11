@@ -1,0 +1,11 @@
+Betreff: Anmeldung Stromzähler <<Bertha Rütten&&PERSON>>, Kundennummer <<13089761045&&GESCHAEFTSPARTNERNUMMER>>
+
+Hallo E.ON-Team,
+
+Hab dazu ein Frage zu Zählernummer <<894256&&ZAEHLERNUMMER>>. Welche Info benötigen Sie zur Anmeldung dafür von Neuetzug <<Sandra Huckermann&&PERSON>>, <<Orsoyer Straße 96&&STRASSE>>, <<47495&&PLZ>> <<Rheinberg&&ORT>> ab 01.11.2022?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Bertha Rütten&&PERSON>>
+EMail: <<bertha.ruetten@gmail.com&&EMAIL>>

@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich habe ein Problem mit meiner E.ON App und hoffe, dass Sie mir weiterhelfen können. Wenn ich versuche mich anzumelden, bekomme ich immer die Meldung, dass ein technischer Fehler aufgetreten ist und ich es später noch einmal versuchen soll.
+
+Dieses Problem besteht nun schon seit mehreren Tagen und ich bin etwas ratlos. Könnten Sie mir sagen, woran das liegen könnte und wie ich dieses Problem beheben kann?
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+E-Mail: <EMAIL>

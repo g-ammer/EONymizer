@@ -1,0 +1,8 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Ich wohne in der <<Neuen Gasse 7&&STRASSE>>, <<44309&&PLZ>> <<Dortmund&&ORT>> und mein Vertragskonto lautet <<402384584&&VERTRAGSNUMMER>>. Ich habe kürzlich meinen Zähler abgelesen und kam auf einen Stand von 5400 kWh. Da mir dieser Wert relativ hoch erscheint, wollte ich mich hiermit bei Ihnen erkundigen, ob man den Zählerstand auf meiner letzten Rechnung mit der Nummer <<2048396501&&RECHNUNGSNUMMER>> überprüfen könnte.
+
+Vielen Dank für Ihre Hilfe vorab. Bei weiteren Rückfragen bin ich telefonisch unter <<0172/4567890&&TELEFONNUMMER>> oder per Mail an <<max.wagner@email.de&&EMAIL>> erreichbar.
+
+Mit freundlichen Grüßen,
+<<Max Wagner&&PERSON>>

@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich hoffe, Sie können mir bei meinem Anliegen weiterhelfen. Ich bin Kunde bei Ihnen mit der Vertragsnummer <VERTRAGSNR.> und habe eine Frage zu meinem Zählerstand. Ich habe den Verdacht, dass der Zählerstand auf meiner letzten Rechnung falsch abgebildet wurde und würde das gerne klären.
+
+Mein aktueller Zählerstand beträgt 7398. Würden Sie bitte überprüfen und bestätigen, ob dieser Wert korrekt in Ihr System eingegeben wurde? Meine Rechnungsnummer ist <RECHNUNGSNR.> und die Zählernummer lautet <ZÄHLERNR.>.
+
+Ich danke Ihnen im Voraus für Ihre Hilfe bei diesem Anliegen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+<EMAIL>
+<TELEFONNR.>

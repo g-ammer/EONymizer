@@ -1,0 +1,16 @@
+ Guten Tag E.ON-Team,
+
+leider habe ich seit einigen Tagen mit technischen Problemen zu kämpfen. Ich kann mich nicht mehr in der E.ON App einloggen. Nutzername und Passwort sind korrekt und ich bekomme immer die Meldung, dass technische Störungen vorliegen. Können Sie hierbei behilflich sein?
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus,
+
+<PERSON>
+<STRASSE>>
+<PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>
+
+
+[1]: https://i.stack.imgur.com/QrYKj.png

@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+meine Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Ich habe die Rechnung in meinem E-Mail-Postfach erhalten, allerdings konnte ich keinen Hinweis über den Rechnungsbetrag und das Zahlungsdatum finden.
+Könnten Sie mir bitte den Rechnungsbetrag und das Zahlungsdatum für meine Vertragsnummer <<232123456789&&VERTRAGSNUMMER>> mitteilen?
+Viele Grüße
+<<Johannes Müller&&PERSON>>
+<<Kopernikusstr. 81&&STRASSE>>
+<<90210&&PLZ>><<Stuttgart&&ORT>>
+johannes.mu

@@ -1,0 +1,12 @@
+ Betreff: Anfrage zu meiner Rechnung, #<RECHNUNGSNUMMER>
+
+Hallo E.ON Kundenservice,
+
+Ich habe einige Fragen zu meiner letzten Rechnung. Die Rechnungsnummer ist <RECHNUNGSNUMMER>. Kann ich bitte einen ausführlichen Überblick über alle Posten auf dieser Rechnung haben? Mir wird das Ganze etwas unklar. 
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit besten Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>

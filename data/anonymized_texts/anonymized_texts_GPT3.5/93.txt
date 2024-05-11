@@ -1,0 +1,18 @@
+Betreff: Frage zum Kundenservice
+
+Sehr geehrter Kundenservice von E.ON,
+
+mein Name ist <<Michael Schmidt&&PERSON>> und ich bin Kunde bei Ihnen mit der Vertragsnummer <<23254789623&&VERTRAGSNUMMER>>. Ich habe eine Frage bezüglich des Kundenservices.
+
+Ich bekomme in letzter Zeit häufig Anrufe von einem Kundenberater, der sich als Mitarbeiter von E.ON ausgibt. Er hat meine Geschäftspartnernummer <<1301234567&&GESCHAEFTSPARTNERNUMMER>> und fragt nach Details zu meiner Zählernummer. Das verunsichert mich sehr.
+
+Ich wollte daher nachfragen, ob dies eine gängige Praxis von E.ON ist? Irgendwie scheint mir das nicht ganz korrekt. Und wenn ja, welche Daten dürfen Kundenbetreuer abfragen und welche nicht?
+
+Ich freue mich auf eine schnelle Rückmeldung von Ihnen.
+
+Viele Grüße,
+<<Michael Schmidt&&PERSON>>
+<<Schmidt.Michael@hotmail.de&&EMAIL>>
+<<0185 465 7986&&TELEFONNUMMER>>
+<<Am Weinberg 12, 12345 Frankfurt&&STRASSE>>,
+<<12345&&PLZ>> <<Frankfurt&&ORT>>

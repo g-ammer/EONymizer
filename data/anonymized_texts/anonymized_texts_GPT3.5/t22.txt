@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+mein Name ist <<Hans Müller&&PERSON>> und ich bin Kunde bei Ihnen mit der Vertragsnummer <<400123456&&VERTRAGSNUMMER>>. Ich habe ein technisches Problem und hoffe, dass Sie mir weiterhelfen können.
+
+Ich habe mir kürzlich die E.ON App auf meinem Handy installiert, um meine Energieverbräuche besser zu kontrollieren. Leider habe ich aktuell Probleme mit dem Login. Jedes Mal, wenn ich versuche, mich anzumelden, erhalte ich eine Fehlermeldung. Ich habe bereits versucht, mein Passwort zurückzusetzen, allerdings hat auch das nicht funktioniert.
+
+Können Sie mir bitte mitteilen, wie ich dieses Problem beheben kann?
+
+Übrigens, meine Geschäftspartnernummer lautet <<200123456&&GESCHAEFTSPARTNERNUMMER>> und meine Adresse ist <<Musterstraße 12&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>. Sie erreichen mich telefonisch unter <<01234 567890&&TELEFONNUMMER>> oder per E-Mail unter <<hans.mueller@mustermail.de&&EMAIL>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>

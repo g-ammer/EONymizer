@@ -1,0 +1,17 @@
+Betreff: Fragen zum Zählerstand
+
+Guten Tag,
+
+ich bin Kunde bei E.ON und ich habe eine Frage bezüglich meines Zählerstands. Meine Vertragsnummer lautet <ZÄHLERNR.>. 
+
+Meine aktuelle Zählerstandsanzeige zeigt einen ungewöhnlich hohen Verbrauch an, der meiner Meinung nach nicht korrekt ist. Die Zählernummer meines Zählers ist <ZÄHLERNR.>. 
+
+Könnten Sie bitte prüfen, ob es Fehler bei der Zählerablesung oder bei der Erfassung des Zählerstands gab?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.> Musterstadt 
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

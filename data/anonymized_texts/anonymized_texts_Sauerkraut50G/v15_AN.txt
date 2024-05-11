@@ -1,0 +1,11 @@
+ Guten Tag E.ON Team,
+
+ich brauche Information bezüglich meiner Vertragslaufzeit. Ich besitze einen Stromvertrag bei Ihnen mit der Vertragsnummer <VERTRAGSNUMMER>. Leider kann ich im Moment nicht finden, wann mein Vertrag endet.
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+E-Mail: <EMAIL>
+Tel.: <TELEFONNUMMER>
+
+Ciao!
+<PERSON>

@@ -1,0 +1,7 @@
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON>, ich bin eine Ihrer Kunden. Meine Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.> und meine  Vertragsnummer ist <VERTRAGSNR.>. Vor Kurzem habe ich eine Rechnung von Ihnen mit der Rechnungsnummer <RECHNUNGSNR.> bekommen. Der darauf enthaltene Rechnungsbetrag hat mich allerdings etwas stutzig gemacht. 
+
+Können Sie bitte meinen letzten Rechnungsbetrag genauer erläutern? Mehr spezifisch, wie sich dieser Betrag zusammensetzt und ob es dazu bestimmte Einzelposten gibt, die beträchtlich zum Endbetrag beigetragen haben. 
+
+Meine Kontaktdaten sind: <PERSON>, Im <ADRESSE>. Ihre Antwort können Sie an diese E-Mail-Adresse schicken: <EMAIL>. Sie können mich auch anrufen unter der Tel.-Nr. <TELEFONNR.>

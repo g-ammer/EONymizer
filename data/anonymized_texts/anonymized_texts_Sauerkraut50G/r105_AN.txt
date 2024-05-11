@@ -1,0 +1,14 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, ich lebe aktuell auf <STRASSE> in <ORT>. Ich habe den Energieversorgungsvertrag mit der Nummer <VERTRAGSNUMMER>.
+
+Meine letzte Rechnung beinhaltete einige Positionen, die für mich unklar sind. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>>, und es handelt sich dabei insbesondere um den Rechnungsbetrag von <ID> Euro, welcher mir ziemlich hoch vorkommt. Könnte es hier wohl einen Fehler geben oder könnten Sie mir bitte eine detaillierte Erklärung der Rechnung aktuell bitte darstellen?
+
+Ohne Ihren geehrten Service, werde ich nur mit der Erklärung und der Aufteilung der Kosten verbessern den Rechnungsbetrag.
+
+Auf Ihre prompte Antwort würde ich mich sehr freuen.
+
+Vielen Dank und freundliche Grüße
+<PERSON>
+Tel: <TELEFONNUMMER>
+Email: <EMAIL>

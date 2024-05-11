@@ -1,0 +1,16 @@
+Guten Tag Herr Kundenservice,
+
+mein Name ist <PERSON>, ich wende mich an Sie in meiner Eigenschaft als Kunde der E.ON AG. Bei der Durchsicht meiner Vertragsunterlagen ist mir aufgefallen, dass hier einige Punkte leider noch nicht klar sind.
+
+Zuerst möchte ich gerne wissen, wann mein aktueller Vertrag (Vertragsnummer: 23218745690056) ausläuft und ob es automatisch verlängern wird oder ob ich da noch etwas machen muss. Desweiteren hatte ich Probleme, mich im Online-Portal einzuloggen, da meine Geschäftspartnernummer (<GESCHÄFTSPARTNERNR.>) anscheinend nicht funktioniert.
+
+Zudem hätte ich noch eine Frage bezüglich meiner Rechnung mit der Rechnungsnummer <RECHNUNGSNR.>. Ich konnte nicht erkennen, aufgrund welcher Zählernummer, meiner stromrechnung zu sehen ist. Basiert es auf der Zählernummer <ZÄHLERNR.> oder <ZÄHLERNR.>?
+
+Ich hoffe, dass Sie meine Fragen schnell beantworten können und danke im Voraus für Ihre Unterstützung. 
+
+Mit herzlichen Grüßen,
+
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

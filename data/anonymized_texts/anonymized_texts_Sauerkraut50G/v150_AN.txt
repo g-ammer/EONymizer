@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe Fragen zu meinem Vertrag mit E.ON unter der Nummer <VERTRAGSNUMMER>. Konnten Sie mir bitte nochmal die genaue Vertragslaufzeit mitteilen? Und welche Kündigungsfristen müssen eingehalten werden?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

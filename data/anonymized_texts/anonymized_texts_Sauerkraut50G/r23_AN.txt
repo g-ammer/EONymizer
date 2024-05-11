@@ -1,0 +1,10 @@
+ Guten Tag,
+
+Ich hätte eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Es scheint ein Fehler mit dem Rechnungsbetrag vorzuliegen, da er sich deutlich von meiner letzte Rechnung unterscheidet. Wurde meine Zahlung vom letzten Monat nicht berücksichtigt? Können Sie das bitte prüfen?
+
+Freue mich auf Ihre Antwort.
+
+Vielen Dank,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>

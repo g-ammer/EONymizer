@@ -1,0 +1,11 @@
+Hallo E.ON-Team,
+
+ich bin Kunde unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>> und habe Schwierigkeiten mit der E.ON-App auf meinem Handy. Ich kann mich nicht einloggen, obwohl ich die korrekten Daten eingegeben habe. Könnten Sie mir bitte weiterhelfen, um dieses Problem zu beheben?
+
+Vielen Dank im Voraus!
+
+Beste Grüße
+<<Markus Schneider&&PERSON>>
+<<schneider.markus@gmail.com&&EMAIL>>
+<<0176 12345678&&TELEFONNUMMER>>
+<<Bergstraße 23&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>

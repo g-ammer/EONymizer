@@ -1,0 +1,15 @@
+Betreff: Frage zur Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>
+
+Sehr geehrte Frau <<Mayer&&PERSON>>,
+
+ich habe heute meine Stromrechnung mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> und der Vertragsnummer <<400123456&&VERTRAGSNUMMER>> erhalten. Ich habe festgestellt, dass der Rechnungsbetrag höher als gewöhnlich ist. 
+
+Könnten Sie bitte die Berechnung für mich überprüfen? Insbesondere hätte ich gerne eine Erklärung zu den Posten, die zu dieser Erhöhung geführt haben. 
+
+Ich freue mich auf Ihre klärende Antwort und bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Maria Schulz&&PERSON>>
+<<Am Kornfeld 23&&STRASSE>>
+<<12345&&PLZ>><<Berlin&&ORT>>
+Email: <<Maria_Schulz@gmail.com&&EMAIL>>

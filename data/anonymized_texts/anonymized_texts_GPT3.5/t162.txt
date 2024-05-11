@@ -1,0 +1,9 @@
+Sehr geehrter E.ON Support,
+ich habe seit Kurzem Probleme mit der E.ON App. Trotz korrekter Eingabe der Logindaten lässt sich die App nicht öffnen. Ich bekomme die Fehlermeldung, dass der Login nicht möglich ist. Ich wäre Ihnen dankbar, wenn Sie mir bei der Lösung meines Problems behilflich sein könnten.
+Für Ihre Unterstützung habe ich meine Vertragsnummer <<400874513&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer <<202469783&&GESCHAEFTSPARTNERNUMMER>> hier angegeben.
+Ich bedanke mich schon jetzt für Ihre Hilfe und hoffe auf eine schnelle Lösung.
+Viele Grüße,
+<<Felix Müller&&PERSON>>
+<<müller.felix@gmx.de&&EMAIL>>
+<<0151/45678910&&TELEFONNUMMER>>
+<<Heinrich-Heine-Str. 10&&STRASSE>>, <<10179&&PLZ>>, <<Berlin&&ORT>>

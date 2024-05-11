@@ -1,0 +1,14 @@
+Betreff: Rechnungsanfrage zu Vertragskonto <RECHNUNGSNR.>
+
+Guten Tag,
+
+meine Vertragsnummer ist die <VERTRAGSNR.>. Letzte Woche habe ich meine aktuelle Rechnung erhalten. Aber leider ergibt der ausgewiesene Rechnungsbetrag für mich keinen Sinn. 
+
+Die Rechnungsnummer ist <RECHNUNGSNR.>. Könnten Sie bitte überprüfen, ob ich einen Fehler bei der Zahlung gemacht habe oder ob etwas anderes unklar ist?
+
+Vielen Dank für Ihre Mühen.
+
+Mit freundlichen Grüßen,
+<PERSON> 
+<ADRESSE><TELEFONNR.><ADRESSE>
+<EMAIL>

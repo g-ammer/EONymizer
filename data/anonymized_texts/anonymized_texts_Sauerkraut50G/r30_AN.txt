@@ -1,0 +1,18 @@
+ Betreff: Frage zur Rechnungsnummer <RECHNUNGSNUMMER>
+
+Hallo E.ON Service-Team,
+
+ich habe gestern meine neueste Rechnung zu meinem Energievertrag unter der Nummer <VERTRAGSNUMMER> erhalten und dazu eine Frage.
+
+Der Rechnungsbetrag auf der Rechnungsnummer <RECHNUNGSNUMMER> ist deutlich höher als in den Vormonaten und ich hätte gerne gewusst, wie dieser hohe Betrag zustande kam.
+
+Um Ihre Rückmeldung wird gebeten.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

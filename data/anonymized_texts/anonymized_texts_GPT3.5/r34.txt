@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich meiner Rechnung mit der Rechnungsnummer <<5003487594&&RECHNUNGSNUMMER>>. Wenn ich es richtig verstehe, kommt der angegebenen Rechnungsbetrag viel höher, als ich erwartet hatte. Ist dies nur ein Fehler, oder gab es tatsächlich einen Ausreißer im Verbrauch zu erkennen?  Mein Vertragsnummer ist <<23204583411&&VERTRAGSNUMMER>> falls benötigt.
+
+Vielen Dank für Ihre Unterstützung.
+
+mit freundlichen Grüßen,
+<<Felix Saar&&PERSON>>,
+<<Ziegelstraße 52&&STRASSE>> 
+<<50129&&PLZ>> <<Bergheim&&ORT>>
+<<Felix.Saar@mail.de&&EMAIL>>

@@ -1,0 +1,14 @@
+Guten Tag E.ON Kundensupport,
+
+mein Name ist <<Hans Müller&&PERSON>> und ich wende mich heute mit einer Anfrage zum Zählerstand meines Stromzählers an Sie.
+
+Ich habe das Gefühl, dass meine aktuelle Rechnung, unter der Rechnungsnummer <<9086751234&&RECHNUNGSNUMMER>>, unverhältnismäßig hoch ist. Da ich meine monatlichen Nutzungsgewohnheiten nicht geändert habe, kommt mir der plötzliche Anstieg sehr seltsam vor.
+
+Können Sie bitte verifizieren, ob der Zählerstand korrekt abgelesen wurde? Die Zählernummer ist <<56723904&&ZAEHLERNUMMER>> und die Geschäftspartnernummer lautet <<201236789&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich wäre Ihnen sehr dankbar, wenn Sie mir dazu eine Rückmeldung geben könnten. Bei Rückfragen erreichen Sie mich unter der Telefonnummer <<0172 345678&&TELEFONNUMMER>> oder per E-Mail unter <<hans.mueller@mail.de&&EMAIL>>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>

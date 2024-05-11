@@ -1,0 +1,10 @@
+ Guten Tag, Kundenservice von E.ON,
+
+mein Name ist <PERSON> und ich nutze bei Ihnen einen Tarif für grünen Strom. Gestern erhielt ich meine Stromrechnung und mir ist etwas bei der Abrechnung aufgefallen, auf das ich keinerlei Hinweis gefunden habe.
+
+Unter meiner Vertragsnummer <VERTRAGSNUMMER> und Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> wurde in der Stromrechnung, Nummer <<RECHNUNGSNUMMER>>, ein Posten mit "sonstige Emittentenkosten" von 35€ aufgeführt.
+
+Können Sie mir bitte erklären, was genau diese Kosten beinhalten? Außerdem würde ich gerne wissen, warum diese erst auf dieser Rechnung auftauchten. Wäre es auch möglich, Ihre diesbezügliche Erklärung auf einem anderen Wege zur Verfügung zu stellen, z.B. per Telefon oder E-Mail? Ich würde mich sehr darüber freuen, wenn Sie mein Anliegen schnellstmöglich bearbeiten könnten.
+
+Mit freundlichen Grüßen,
+<PERSON>

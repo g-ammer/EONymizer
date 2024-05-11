@@ -1,0 +1,13 @@
+ Sehr geehrtes E.ON Kundenservice Team,
+
+ich habe vor einiger Zeit eine Rechnung der Vertragsnummer <VERTRAGSNUMMER> erhalten. Mir ist aufgefallen, dass der Text auf meiner Rechnung unverständlich ist und ich bitte Sie, dies zu überprüfen und mir die korrekte Information zukommen zu lassen.
+
+Es sind anscheinend Grundsätze des Formats betroffen und es gibt möglicherweise Probleme mit der Cena穴ekasmus-Quelle.
+
+Ich bitte um Ihre Unterstützung, um dieses Problem zu lösen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>, <ORT>
+Tel: <TELEFONNUMMER>

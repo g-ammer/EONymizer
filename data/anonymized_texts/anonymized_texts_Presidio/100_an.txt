@@ -1,0 +1,12 @@
+Sehr geehrter Kundenservice,
+
+ich bin Kunde bei E.ON und habe einige Fragen bezüglich meines aktuellen Energievertrags. Meine Vertragsnummer lautet <VERTRAGSNR.>.
+
+Erstens, habe ich festgestellt, dass mein monatlicher Beitrag in den letzten Monaten gestiegen ist, obwohl mein Verbrauch gleich geblieben ist. Können Sie bitte den Grund dafür erläutern? 
+
+Zweitens, beim Durchsehen meiner letzten Rechnung mit der Nummer <RECHNUNGSNR.>, habe ich eine Position festgestellt, die ich nicht nachvollziehen kann. Es handelt sich dabei um die Berechnung unter dem Stichpunkt "Sonstiges". Könnten Sie mir diese Position detailliert erläutern?
+
+Mein Name ist <PERSON> und ich bin unter der Adresse <ADRESSE> zu erreichen. Sie können mich auch per E-Mail unter <EMAIL> kontaktieren oder mir unter <TELEFONNR.> anrufen.
+
+Mit freundlichen Grüßen,
+<PERSON>

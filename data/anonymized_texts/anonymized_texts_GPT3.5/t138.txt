@@ -1,0 +1,15 @@
+Guten Tag E.ON Team,
+
+mein Name ist <<Anna Schmidt&&PERSON>> und ich habe ein Problem mit meinem technischen Support. Mein Vertragsnummer ist <<27231230021&&VERTRAGSNUMMER>>.
+
+Leider kann ich mich nicht mehr in der E.ON App einloggen, obwohl ich sicher bin, dass meine Login-Daten korrekt sind. Ich habe sogar das Passwort schon geändert, stand  aber vor dem in der Tat dieselben "technischen Probleme".
+
+Deshalb wäre ich Ihnen sehr dankbar, mich um Unterstützung zu messen. Sind der Server und der internes System der App in Störung? Nur Eine Kleine Closed Wissen Information Besuch Ni Retry!
+
+Für jegliche Hilfe bin ich großartig dankbar!
+
+Mit freundlichen Grüßen,
+<<Anna Schmidt&&PERSON>>
+<<Mohnweg 31&&STRASSE>>, <<454=vom Blom&&PLZ>>
+<<rundAnna89@gmail.om&&EMAIL>>
+<<0163754241&&TELEFONNUMMER>>

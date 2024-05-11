@@ -1,0 +1,14 @@
+Betreff: Anfrage zu Vertragslaufzeit und Kündigung
+
+Hallo E.ON Kundenservice,
+
+mein Name ist <<Sabine Himmelreich&&PERSON>> und ich habe einen Energievertrag bei Ihnen. Allerdings weiß ich nicht genau, bis wann meine Vertragslaufzeit geht und unter welchen Bedingungen ich diesen kündigen kann. Meine Vertragsnummer lautet <<400123456&&VERTRAGSNUMMER>>.
+
+Könnten Sie mir bitte diese Informationen zukommen lassen? Ich wäre Ihnen sehr dankbar.
+
+Mit freundlichen Grüßen
+<<Sabine Himmelreich&&PERSON>>
+<<s.himmelreich@gmail.com&&EMAIL>>
+<<0551 12345678&&TELEFONNUMMER>>
+<<Kastanienweg 12, 37075 Göttingen&&STRASSE>>, <<37075&&PLZ>>,
+ <<Göttingen&&ORT>>

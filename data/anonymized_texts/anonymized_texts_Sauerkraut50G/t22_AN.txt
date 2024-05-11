@@ -1,0 +1,14 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe ein technisches Problem und hoffe, dass Sie mir weiterhelfen können.
+
+Ich habe mir kürzlich die E.ON App auf meinem Handy installiert, um meine Energieverbräuche besser zu kontrollieren. Leider habe ich aktuell Probleme mit dem Login. Jedes Mal, wenn ich versuche, mich anzumelden, erhalte ich eine Fehlermeldung. Ich habe bereits versucht, mein Passwort zurückzusetzen, allerdings hat auch das nicht funktioniert.
+
+Können Sie mir bitte mitteilen, wie ich dieses Problem beheben kann?
+
+Übrigens, meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER> und meine Adresse ist <STRASSE>, <PLZ><ORT>. Sie erreichen mich telefonisch unter <TELEFONNUMMER> oder per E-Mail unter <EMAIL>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

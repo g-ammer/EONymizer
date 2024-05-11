@@ -1,0 +1,16 @@
+ Guten Tag,
+
+ich hoffe es geht Ihnen gut. Anhand meiner letzten Rechnung hätte ich einige offene Fragen. An sich ist alles verständlich, doch für mich persönlich ist der Rechnungsbetrag unüblich hoch. Könnten Sie bitte für mich nochmal den gesamten Rechnungsbetrag prüfen?
+
+Hier noch kurz meine Kunden-Informationen:
+
+Vertragsnummer: <VERTRAGSNUMMER>
+Rechnungsnummer: <<RECHNUNGSNUMMER>>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>
+Standort : <STRASSE>, <PLZ><ORT>
+Name : <PERSON>
+
+Wäre super, wenn Sie mir hier schnellstmöglich weiterhelfen könnten, da ich die Rechnung bis zum Fälligkeitsdatum begleichen sollte.
+
+Mit freundlichen Grüßen,
+<PERSON>

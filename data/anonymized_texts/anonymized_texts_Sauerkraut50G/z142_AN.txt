@@ -1,0 +1,12 @@
+ Guten Tag,
+
+meine Zählernummer lautet: <ZAEHLERNRUMMER> und meine Geschäftspartnernummer verläuft mit <GESCHAEFTSPARTNERNUMMER>. Vertragsnummer ist <VERTRAGSNUMMER>. Ich habe meine aktuelle Stromrechnung erhalten, doch ich verstehe nicht, wie der Zählerstand genau ermittelt wird. Könnten Sie mir die Berechnung bitte ausführlich erklären, worauf ich achten sollte und, in welchem Regelmäßigkeit, den Zählerstand melden sollte?
+
+Vielen Dank im Voraus für Ihre Unterstützung!
+
+Mit besten Grüßen
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

@@ -1,0 +1,10 @@
+Hallo Kundenservice,
+
+mein Name ist <PERSON> und ich wohne am <ADRESSE>. Ich habe ein Anliegen zu meinem Vertragskonto <VERTRAGSNR.>. Vor einigen Tagen habe ich eine Rechnung mit der Rechnungsnummer <RECHNUNGSNR.> bekommen, welche mir leider recht hoch erscheint. Deswegen hätte ich gerne eine detaillierte Aufzeichnung meines Verbrauchs, um eingrenzen zu können, ob es an meiner Stromnutzung liegt.
+
+Zudem würde ich allgemein gerne etwas mehr über Sparmöglichkeiten informiert werden. Die vielen technischen Geräte, die tagtäglich laufen, bringen wohl ihre Kosten mit sich.
+
+Können Sie oder ein anderer Kundenbetreuer mir weiterhelfen? Bitte mich zurück schicken ihre Antwort per mein Email: <EMAIL> oder Telefonnummer <TELEFONNR.>.
+
+Sonnige Grüße,
+<PERSON>

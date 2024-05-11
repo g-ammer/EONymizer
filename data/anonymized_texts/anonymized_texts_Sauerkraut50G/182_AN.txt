@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich wende mich heute an ihren Kundenservice mit einer dringenden Frage bezüglich meiner letzten Rechnung. Mein Name ist <PERSON> und unter der Vertragsnummer <VERTRAGSNUMMER> laufen E.ON Energieverträge, wenn meine Informationen gerecht sind. Mir ist es sehr wichtig auf diesen Fehler hinzudeuten, damit solche Unmindigkeiten zukünftig vermieden werden können.
+
+Die mir letzte Woche zugekommene Rechnung (Rechnungsnummer: <RECHNUNGSNUMMER>) weist eine unbekannte, unerwartete Nebenkostenposition auf, die mir unbegründet erscheint. Ich habe meine Verbräuche wie gewohnt erhalten, daher erkenne ich keinen Mehrverbrauch oder Sonderhaustaltebelrasnsched zum Vorjahr. Ich bitte um Beseitigung und Aufklärung. Möglicherweise handelt es sich hier um ein Versehen, finden wir doch eine rasche Lösung direkt vorab.
+
+Ich bin auf Ihre Antwort angewiesen und warte gespannt auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

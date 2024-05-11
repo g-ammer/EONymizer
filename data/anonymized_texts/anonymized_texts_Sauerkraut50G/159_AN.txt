@@ -1,0 +1,7 @@
+ Guten Tag Kundenservice,
+
+Ich habe eine Frage zu meiner Rechnungsnummer <RECHNUNGSNUMMER>. Mein Name ist <PERSON> und ich lebe am <STRASSE>, <PLZ><ORT>. Die Datagrammpartner-ID für mein Konto ist <ID>. Woran erkenne ich, ob meine Kontobelastung erfolgreich war?
+
+Vielen Dank im Voraus,
+
+<PERSON>

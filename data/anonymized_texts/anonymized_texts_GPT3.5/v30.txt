@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage bezüglich meines Energievertrags mit der Vertragsnummer <<402345678&&VERTRAGSNUMMER>>. Ich würde gerne wissen, wie lange meine Vertragslaufzeit noch ist und ob ich die Möglichkeit habe, diesen Vertrag zu kündigen oder zu ändern.
+
+Ich hoffe, Sie können mir in diesem Fall weiterhelfen. Meine Kontaktdaten sind:
+
+Name: <<Julia Schmitt&&PERSON>>
+Adresse: <<Bahnhofstraße 17&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+Telefonnummer: <<0123456789&&TELEFONNUMMER>>
+E-Mail: <<julia.schmitt@gmail.com&&EMAIL>>
+
+Mit freundlichen Grüßen,
+<<Julia Schmitt&&PERSON>>

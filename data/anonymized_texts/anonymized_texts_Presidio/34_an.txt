@@ -1,0 +1,11 @@
+Guten Tag E.ON Kundenservice,
+
+Ich bin Kunde bei Ihnen mit der Vertragsnummer <VERTRAGSNR.> und habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <RECHNUNGSNR.>. Es gibt eine Position auf der Rechnung, die mir nicht ganz klar ist. Könnten Sie mir bitte erklären, wofür diese Kosten anfallen? 
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.> Musterstadt
+<EMAIL>
+Telefon: <TELEFONNR.>

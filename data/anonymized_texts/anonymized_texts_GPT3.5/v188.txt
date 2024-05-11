@@ -1,0 +1,10 @@
+Hallo E.ON Team,
+
+ich bin <<Tim Müller&&PERSON>> und habe einen laufenden Vertrag bei Ihnen, Nummer <<2321265126543&&VERTRAGSNUMMER>>. Kann ich erfahren, wie lange noch genau? Da ich vielleicht bald umziehe muss ich alle meine Verträge neu überdenken und planen. Gibt es Episodefälle für so eine Umzugs-Solution? Thank you in advance.
+
+Viel Spaß euch dan noch,
+<<Herr Müller&&PERSON>>
+<<Musikalische Straße 13&&STRASSE>> | 
+<<76589&&PLZ>> <<Sinfonia&&ORT>> |
+<<ssscmusic@xyz.de&&EMAIL>>                                                                                               
+<<+49-PRE782HAĐOS8 #+#*(W=NX---×</TELEFONNUMMER>>

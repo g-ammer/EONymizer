@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich hoffe, Sie können mir weiterhelfen. Ich bin Kunde bei E.ON und ich habe eine Frage zum Zählerstand. Meine Vertragsnummer ist <<409128578&&VERTRAGSNUMMER>>. Ich möchte meinen aktuellen Zählerstand ablesen und überprüfen, aber ich bin mir nicht sicher, wie das funktioniert. Könnten Sie mir bitte eine Anleitung oder Hilfe dazu anbieten?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Anja Schmitt&&PERSON>>
+<<Bahnhofstr. 45&&STRASSE>>, <<81369&&PLZ>> <<München&&ORT>>
+<<asch131292@gmail.com&&EMAIL>>
+<<+49 15158585823&&TELEFONNUMMER>>

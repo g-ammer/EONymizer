@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Anfrage zu meiner letzten Rechnung. Auf meiner Rechnung stand ein höherer Betrag als ich erwartet habe. Die Rechnungsnummer ist die <<1234578900&&RECHNUNGSNUMMER>> und mein Vertragskonto ist das <<401562957&&VERTRAGSNUMMER>>.  
+
+Meine Geschäftspartnernummer ist <<200056761&&GESCHAEFTSPARTNERNUMMER>>, falls das für Sie von Bedeutung ist. Mir ist nicht klar, warum der Rechnungsbetrag so hoch ist und ich würde gerne genau wissen, wofür ich zahle. Kann ich auch den Zahlungszeitpunkt ändern und wie teile ich Ihnen das mit?  
+
+Ich bedanke mich bereits jetzt für Ihre Unterstützung und freue mich auf eine schnelle Rückmeldung.
+
+Mit freundlichen Grüßen,
+
+<<Julia Müller&&PERSON>>
+<<Am Borsigturm 1&&STRASSE>>, <<13507&&PLZ>> <<Berlin&&ORT>>
+Telefon: <<030/123456&&TELEFONNUMMER>>
+E-Mail: <<julia_mueller@gmail.com&&EMAIL>>

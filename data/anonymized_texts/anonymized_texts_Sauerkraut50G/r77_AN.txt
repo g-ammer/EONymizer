@@ -1,0 +1,16 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON>, ich bin eine Ihrer Kunden. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>. Vor Kurzem habe ich eine Rechnung von Ihnen mit der Rechnungsnummer <<RECHNUNGSNUMMER>> bekommen. Der darauf enthaltene Rechnungsbetrag hat mich allerdings etwas stutzig gemacht.
+
+Können Sie bitte meinen letzten Rechnungsbetrag genauer erläutern? Mehr spezifisch, wie sich dieser Betrag zusammensetzt und ob es dazu bestimmte Einzelposten gibt, die beträchtlich zum Endbetrag beigetragen haben.
+
+Meine Kontaktdaten sind: <PERSON>, <STRASSE>, <PLZ><ORT>. Ihre Antwort können Sie an diese E-Mail-Adresse schicken: <EMAIL>. Sie können mich auch anrufen unter der Tel.-Nr. <TELEFONNUMMER>.
+
+Output:
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON>, ich bin eine Ihrer Kunden. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>. Vor Kurzem habe ich eine Rechnung von Ihnen mit der Rechnungsnummer <<RECHNUNGSNUMMER>> bekommen. Der darauf enthaltene Rechnungsbetrag hat mich allerdings etwas stutzig gemacht.
+
+Können Sie bitte meinen letzten Rechnungsbetrag genauer erläutern? Mehr spezifisch, wie sich dieser Betrag zusammensetzt und ob es dazu bestimmte Einzelposten gibt, die beträchtlich zum Endbetrag beigetragen haben.
+
+Meine Kontaktdaten sind: <PERSON>, <STRASSE>, <PLZ><ORT>. Ihre Antwort können Sie an diese E-Mail-Adresse schicken: <EMAIL>. Sie können mich auch anrufen unter der Tel.-Nr. <TELEFONNUMMER>.

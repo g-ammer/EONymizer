@@ -1,0 +1,13 @@
+Betrifft: Anfrage zu meinem Zählerstand
+
+Sehr geehrtes E.ON-Team,
+
+mein Name ist <PERSON> und ich wohne in der <ADRESSE>. Könnten Sie mir eine genaue Erklärung darüber geben, wie sich der Zählerstand bemisst, der in meiner letzten Rechnung ausgewiesen wurde? 
+
+Vertragsnummer: <VERTRAGSNR.>
+Zählernummer für diesen Vertrag: Z<ZÄHLERNR.>E
+
+Danke im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<PERSON>

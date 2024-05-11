@@ -1,0 +1,13 @@
+Hallo E.ON Kundenservice,
+
+ich habe gestern meine Rechnung erhalten und habe dazu eine Frage. Auf der Rechnung befindet sich die Rechnungsnummer <RECHNUNGSNR.> und die Vertragsnummer ist <VERTRAGSNR.>. Der Rechnungsbetrag beträgt 65,90€, das kommt mir jedoch etwas hoch vor, da mein üblicher monatlicher Verbrauch attraktiv niedriger ist. 
+
+Könnten Sie mir bitte erläutern, wie sich dieser Betrag zusammensetzt? Ist möglicherweise eine Fehlzählung bei der Zählernummer <ZÄHLERNR.> passiert?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.> München
+<EMAIL>
+<TELEFONNR.>

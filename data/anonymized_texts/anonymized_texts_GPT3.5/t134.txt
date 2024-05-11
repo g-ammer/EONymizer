@@ -1,0 +1,7 @@
+Sehr geehrtes E.ON Team,
+mein Name ist <<Thomas Müller&&PERSON>> und ich bin unter der Geschäftspartnernummer <<1308203641&&GESCHAEFTSPARTNERNUMMER>> bei Ihnen registriert. Ich nutze Ihre E.ON App für den Zugriff auf meine Verbrauchs- und Rechnungsdaten. Jedoch habe ich seit einigen Tagen ein Login Problem mit der App.
+Wenn ich versuche mich anzumelden, erhalte ich eine Fehlermeldung, dass meine Daten nicht stimmen oder es technische Probleme gibt. Ich habe schon mein Passwort mehrfach zurückgesetzt und die App neu installiert, aber das Problem besteht weiterhin.
+Können Sie mir bitte weiterhelfen oder eine Technik-Störung melden?
+Vielen Dank für Ihre Unterstützung.
+Mit besten Grüßen,
+<<Thomas Müller&&PERSON>>

@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meiner aktuellen Laufzeit bei E.ON. Meine Kundennummer ist <KUNDENNUMMER> und Vertragsnummer wäre <VERTRAGSNUMMER>. Wie lange läuft mein jetziger Vertrag noch? Angenommen, dass ich vorzeitig eine Kündigung einreiche, wie würde es mit den Preisstaffelungen ablaufen?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

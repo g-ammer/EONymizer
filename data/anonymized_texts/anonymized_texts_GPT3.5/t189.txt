@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe technische Probleme mit meiner E.ON-App. Seit einigen Tagen kann ich mich nicht mehr in meinem Konto einloggen. Die App zeigt die Meldung "Technischer Fehler" an, nachdem ich meine Zugangsdaten eingegeben habe. Ich habe bereits versucht, die App zu deinstallieren und erneut zu installieren, aber das Problem besteht weiterhin.
+
+Könnten Sie mir bitte dabei helfen, diese Störung zu beheben? Meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer lautet <<200987654&&GESCHAEFTSPARTNERNUMMER>>.
+
+Für Ihre schnelle Hilfe wäre ich sehr dankbar.
+
+Mit freundlichen Grüßen,
+<<Julia Schmitt&&PERSON>>
+<<JuliaSchmitt89@gmail.com&&EMAIL>>
+<<028227414&&TELEFONNUMMER>>
+<<Mustergasse 4&&STRASSE>>, <<40476&&PLZ>> <<Düsseldorf&&ORT>>

@@ -1,0 +1,10 @@
+Guten Tag E.ON Team,
+
+ich hätte eine Frage bezüglich meines Zählerstandes. Meine Vertragsnummer ist <<408772345&&VERTRAGSNUMMER>>, Geschäftspartnernummer <<201234567&&GESCHAEFTSPARTNERNUMMER>> und Zählernummer ist <<45457654&&ZAEHLERNUMMER>>. Könnten Sie mir bitte den aktuellen Zählerstand mitteilen? 
+
+Freundliche Grüße,
+<<Markus Braun&&PERSON>>
+<<markt.braun@gmail.com&&EMAIL>>
+<<Musterweg 4&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berlin&&ORT>>
+<<0176 54321098&&TELEFONNUMMER>>

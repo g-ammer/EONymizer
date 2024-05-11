@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+
+ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNR.> und habe eine Frage bezüglich meines Kundenkontos. Wie kann ich einen neuen Kundenberater beantragen? Ich wäre Ihnen sehr dankbar, wenn Sie mir diese Information zukommen lassen könnten.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<ADRESSE>
+12345 Musterstadt
+<EMAIL>
+Tel: <TELEFONNR.>

@@ -1,0 +1,11 @@
+Guten Tag E.ON Kundenservice,
+
+ich bin Kunde bei Ihnen und habe Probleme mit der App. Nachdem ich mich eingeloggt habe, hängt die App und ich kann nichts weiter machen. Meine Vertragsnummer ist <VERTRAGSNR.>. Ich habe die App bereits deinstalliert und neu installiert, aber das Problem bleibt bestehen. Könnten Sie bitte prüfen, was das Problem sein könnte?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+Telefon: <TELEFONNR.>

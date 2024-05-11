@@ -1,0 +1,10 @@
+Sehr geehrter E.ON Kundensupport,
+ich habe kürzlich versucht meine E.ON App zu nutzen und hatte dabei Probleme beim Login. Trotz mehrfacher Versuche wird mein Passwort immer wieder als ungültig abgewiesen. Daher wollte ich Sie bitten mir zu helfen oder mir zu erklären was das Problem sein könnte.
+Auch wenn ich gerade bei Ihnen anrufe (Tel. <<0152 4567890&&TELEFONNUMMER>>), erreiche ich niemanden.
+Meine Vertragsnummer lautet <<402121345&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer <<2081234567&&GESCHAEFTSPARTNERNUMMER>>.
+Ich freue mich auf Ihre baldige Antwort und danke Ihnen schon mal für Ihre Hilfe!
+Mit freundlichen Grüßen,
+<<Felix Müller&&PERSON>>
+<<felix.mueller@mail.de&&EMAIL>>
+<<Am Storchennest 31&&STRASSE>>,
+<<10115&&PLZ>> <<Berlin&&ORT>>

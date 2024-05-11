@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich hätte eine Frage zu unserer letzten Rechnung mit der Rechnungsnummer: <RECHNUNGSNUMMER>.
+Der Rechnungsbetrag von 167,70 Euro will mir nicht gänzlich einleuchtend. Könnten Sie dies bitte klären?
+
+Ich bedanke mich bereits im Voraus.
+Vertragsnummer ist: <VERTRAGSNUMMER>.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>

@@ -1,0 +1,9 @@
+Betreff: Fragen zu meiner letzten Rechnung, Kundenkonto <<232928291119&&VERTRAGSNUMMER>>
+
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei Ihrem Versorgungsunternehmen (Kundennummer <<232928291119&&VERTRAGSNUMMER>>) und habe eine Frage zu meiner letzten Rechnung.
+Die Rechnungsnummer lautet: <<1830692832&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag ist meines Erachtens zu hoch ausgefallen. Könnten Sie die Berechnung bitte für mich überprüfen?
+Ich wäre Ihnen dankbar, wenn Sie mich per E-Mail oder telefonisch unter <<030/12345678&&TELEFONNUMMER>> informieren.
+Vorab schon mal herzlichen Dank für Ihre Hilfe.
+Freundliche Grüße,
+<<Herr Schulz von der Paul-Lincke-Ufer 42, 10999 Berlin&&PERSON>>

@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hätte eine Frage zur meiner Kundennummer <<1405654329&&GESCHAEFTSPARTNERNUMMER>>. Ich habe am 20.08. meine monatliche Rechnungsabrechnung erhalten, auf der eine Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> zu finden ist.
+Mir ist aufgefallen, dass der Rechnungsbetrag höher ist, als sonst üblich. Könnten Sie mir bitte erklären, wie dieser Betrag zustande gekommen ist und warum er höher als sonst ist? Gibt es ein Problem mit meinem Vertragskonto <<402345678&&VERTRAGSNUMMER>>? Wurden die Zahlungen der letzten Monate ordnungsgemäß berücksichtigt?
+
+Ich danke Ihnen im Voraus für Ihre Hilfe und hoffe auf eine zeitnahe Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Peter Müller&&PERSON>>,
+<<Am Markt 1&&STRASSE>>,
+<<12345&&PLZ>> <<Berlin&&ORT>>
+E-Mail: <<peter.mueller@email.de&&EMAIL>>

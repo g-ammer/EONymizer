@@ -1,0 +1,9 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich bin bei Ihnen mit Vertragsnummer <VERTRAGSNUMMER> registriert. Ich habe eine Frage wegen meiner letzten Rechnung. Die Rechnungsnummer dazu ist <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir ziemlich hoch. Ist das richtig so?
+
+Mfg,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>

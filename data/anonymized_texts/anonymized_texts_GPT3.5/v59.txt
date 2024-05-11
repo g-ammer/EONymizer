@@ -1,0 +1,13 @@
+Sehr geehrte Damen und Herren,
+
+ich habe ein Anliegen bezüglich meines aktuellen Energievertrags mit der Vertragsnummer <<402789234&&VERTRAGSNUMMER>>. Ich bin nun seit einigen Jahren Kunde bei Ihnen und bisher äußerst zufrieden mit Ihrem Service. Jedoch konnte ich in meinen Unterlagen keine Informationen bezüglich der Vertragslaufzeit finden.
+
+Deshalb wollte ich Sie fragen, bis wann mein aktueller Vertrag läuft und ob er sich automatisch verlängert, wenn keine Kündigung meinerseits erfolgt. Sollte dies der Fall sein, könnten Sie mir bitte auch mitteilen, wann die Kündigungsfrist für meinen Vertrag abläuft?
+
+Für Ihre Unterstützung bedanke ich mich im Voraus.
+
+Mit freundlichen Grüßen,
+<<Markus Schuhmann&&PERSON>>
+<<Hauptstraße 12&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+Telefon: <<0176/12345678&&TELEFONNUMMER>>
+E-Mail: <<markus.schuhmann@gmx.de&&EMAIL>>

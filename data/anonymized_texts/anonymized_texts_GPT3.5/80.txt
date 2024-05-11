@@ -1,0 +1,6 @@
+Sehr geehrter E.ON Kundenservice,
+
+Ich habe kürzlich gemerkt, dass mein monatlicher Verbrauch sehr hoch ist was sich auch auf meiner letzten Rechnung mit Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> zeigt. Könnten Sie mir vielleicht da einen Einblick geben, ob sich das mit meinem Verbrauch deckt? Mein Vertragsnummer lautet <<402938475&&VERTRAGSNUMMER>> und bin unter der Geschäftspartnernummer <<200987654&&GESCHAEFTSPARTNERNUMMER>> registriert. Bekomme ich Rückmeldung von einem Kundenbetreuer?
+
+Vielen Dank
+<<Lena Meier&&PERSON>>

@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hoffe, diese Nachricht trifft Sie in guter Stimmung. Mein Name ist <PERSON> und ich lebe in der <ADRESSE> in Friedrichshafen. Ich bin Kunde bei E.ON und wollte Ihnen über meine Geschäftspartnernumer <GESCHÄFTSPARTNERNR.> eine Rückfrage zu meiner letzten Rechnung stellen. Die Rechnungsnummer lautet <RECHNUNGSNR.>.
+
+Als ich meine Unterlagen durchgesehen habe, habe ich bemerkt, dass mein letzter Rechnungsbetrag höher war als erwartet. Leider konnte ich auf der Rechnung selbst die Gründe hierfür nicht herausfinden. Könnten Sie mir da weiterhelfen?
+
+Alle Rechnungsposten schienen aber sonst soweit in Ordnung zu sein, meine Vertragsnummer lautet <VERTRAGSNR.>.
+
+Vielen Dank im Voraus für Ihre Unterstützung und ich sehe Ihrer Antwort mit Interesse entgegen.
+
+Mit besten Grüßen,
+<PERSON>

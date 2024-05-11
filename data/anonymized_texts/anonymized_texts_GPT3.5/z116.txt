@@ -1,0 +1,13 @@
+Guten Tag,
+
+mein Name ist <<Daniel Schmidt&&PERSON>> und ich bin Kunde bei Ihnen. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>. Ich habe eine Frage zum Thema Zählerstand. Seit einiger Zeit habe ich das Gefühl, dass der Zählerstand meines Stromvertrags nicht korrekt ist.
+
+Könnten Sie mir bitte erklären, wie ich den Zählerstand selbst überprüfen kann und ob es möglich ist, dass es Abweichungen gibt?
+
+Ich würde mich über eine schnelle Antwort freuen.
+
+Viele Grüße,
+<<Daniel Schmidt&&PERSON>>
+<<d.schmidt@gmail.com&&EMAIL>>
+<<Bergstraße 20, 10178 Berlin&&STRASSE>>,
+ <<030 / 12345678&&TELEFONNUMMER>>

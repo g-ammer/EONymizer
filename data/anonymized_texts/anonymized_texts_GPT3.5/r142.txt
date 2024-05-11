@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen unter der Vertragsnummer <<402345678&&VERTRAGSNUMMER>>. Ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<9876543210&&RECHNUNGSNUMMER>>: Der Rechnungsbetrag erscheint mir ungewöhnlich hoch. Könnten Sie bitte überprüfen, ob es einen Fehler bei der Berechnung gab oder mir zumindest eine detaillierte Aufschlüsselung der Kosten zukommen lassen?
+
+Ich bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Herr Schmidt&&PERSON>>
+<<schmidt@mail.de&&EMAIL>>
+<<Kirschbaumstr. 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berlin&&ORT>>
+Telefon: <<030/123&&TELEFONNUMMER>>

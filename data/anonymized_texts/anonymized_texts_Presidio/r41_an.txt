@@ -1,0 +1,11 @@
+Hallo,
+
+ich habe gerade meine letzte Rechnung bekommen und habe ein paar Fragen zur Rechnungsnummer <RECHNUNGSNR.>. Der Rechnungsbetrag scheint höher zu sein als erwartet. Könnten Sie mir bitte erläutern, wie sich dieser Betrag zusammensetzt? Ich habe meine Geschäftspartnernummer <GESCHÄFTSPARTNERNR.> und Vertragsnummer <VERTRAGSNR.> zur Verfügung, falls Sie sie benötigen, um meine Anfrage zu bearbeiten. 
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen
+<PERSON>
+<ADRESSE>
+Telefon: <TELEFONNR.>
+E-Mail: <EMAIL>

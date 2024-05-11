@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich habe eine Frage zum Zählerstand meines Stromverbrauchs. Ich habe meinen Vertrag unter der Nummer <VERTRAGSNUMMER> laufen und der Zähler, den ich ablesen muss, hat die Nummer <ZAEHLERNRUMMER>. Könnten Sie mir bitte mitteilen, wie oft ich den Zählerstand ablesen und an E.ON übermitteln muss? Und gibt es eine spezielle Methode oder einen bestimmten Zeitpunkt für die Ablesung?
+
+Freundliche Grüße
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

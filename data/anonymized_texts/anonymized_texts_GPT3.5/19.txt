@@ -1,0 +1,7 @@
+Sehr geehrter Kundenservice,
+mein Name ist <<Hans Müller&&PERSON>> und ich wende mich mit einer dringenden Anliegen an Sie. Ich habe gerade meine letzte Rechnung überprüft und dabei ist mir aufgefallen, dass der Betrag ungewöhnlich hoch ist. Die Rechnungsnummer lautet <<2345678910&&RECHNUNGSNUMMER>>.
+Könnten Sie bitte prüfen, ob es eventuell zu einem Fehler bei der Berechnung gekommen ist? Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>.
+Für eine schnelle Klärung wäre ich sehr dankbar. Sie können mich unter meiner Mail-Adresse <<hans.mueller@example.com&&EMAIL>> oder unter der Telefonnummer <<0151 12345678&&TELEFONNUMMER>> erreichen.
+Vielen Dank im Voraus für Ihre Unterstützung.
+Mit freundlichen Grüßen
+<<Hans Müller&&PERSON>>

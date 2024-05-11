@@ -1,0 +1,14 @@
+Sehr geehrtes E.ON-Team,
+
+ich habe eine Frage bezüglich meinem Zählerstand. Ich habe vor kurzem meinen Zähler abgelesen und bin mir nicht sicher, ob ich den richtigen Wert ermittelt habe.
+
+Können Sie mir bitte erklären, wie ich den Zählerstand korrekt ablesen kann? Mein Zähler hat die Nummer <<ZAEHLERNUMMER&&ZAEHLERNUMMER>> und ich bin unter der Vertragsnummer <<404567892&&VERTRAGSNUMMER>> bei Ihnen registriert.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<<Hans Müller&&PERSON>>
+<<Müllerstraße 18, 80538 München&&STRASSE>>
+<<müller.hans@web.de&&EMAIL>>
+<<0163 456 7891&&TELEFONNUMMER>>

@@ -1,0 +1,12 @@
+ Hallo,
+
+ich bin Kunde bei E.ON und habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und auf meiner Rechnung ist ein Betrag von <ID> angegeben.
+
+Ich habe jedoch bereits einen Betrag von <ID> auf mein Vertragskonto <VERTRAGSNUMMER> überwiesen, warum steht auf meiner Rechnung noch der volle Betrag? Könnte es sein, dass meine Zahlung noch nicht verarbeitet wurde, oder liegt hier ein Fehler vor?
+
+Ich würde mich über eine schnelle Klärung dieser Angelegenheit freuen. Für Rückfragen erreichen Sie mich unter der Telefonnummer <TELEFONNUMMER> oder per E-Mail unter <EMAIL>.
+
+Vielen Dank für Ihre Hilfe!
+
+Beste Grüße,
+<PERSON>

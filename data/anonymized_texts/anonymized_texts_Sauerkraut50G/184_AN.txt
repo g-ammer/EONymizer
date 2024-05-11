@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meines Vertrages mit der Vertragsnummer <VERTRAGSNUMMER>. Können Sie mir bitte sagen, wie ich meinen aktuellen Verbrauch einsehen kann?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+Tel.: <TELEFONNUMMER>
+E-Mail: <EMAIL>

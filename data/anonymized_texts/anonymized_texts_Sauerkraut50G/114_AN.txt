@@ -1,0 +1,6 @@
+ Hallo E.ON Kundenservice,
+
+mein Name ist <PERSON> aus <ORT>, <STRASSE>. Leider hat mein Kundenberater sich schon lange nicht mehr gemeldet, obwohl ich Fragen zu meiner Rechnungsnummer <RECHNUNGSNUMMER> habe. Könnten Sie mir bitte einen neuen persönlichen Kundenbetreuer zuteilen, mit dem ich diesen Sachverhalt klären kann? Ich benötige wirklich dringend Unterstützung.
+
+Vielen Dank und mit freundlichen Grüßen,
+<PERSON>

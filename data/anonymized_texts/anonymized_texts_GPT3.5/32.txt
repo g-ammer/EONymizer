@@ -1,0 +1,9 @@
+Guten Tag bei E.ON,
+
+ich habe eine kurze Frage zu meiner Rechnungsnummer <<8765432109&&RECHNUNGSNUMMER>>. Könnten Sie mir bitte sagen, wie ich diese in mein Kundenkonto eintragen kann? Ich habe dazu leider keine eindeutigen Informationen gefunden und hoffe, dass mir Ihr Kundenservice weiterhelfen kann.
+Meine Geschäftspartnernummer ist <<201234567&&GESCHAEFTSPARTNERNUMMER>>, falls Sie diese Information benötigen.
+
+Ich danke Ihnen für Ihre Unterstützung!
+
+Mit freundlichen Grüßen,
+<<Sebastian Müller&&PERSON>>

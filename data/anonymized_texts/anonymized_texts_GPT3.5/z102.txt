@@ -1,0 +1,14 @@
+Hallo,
+
+mein Name ist <<Tobias Schulz&&PERSON>>, ich wohne in der <<Hohenstaufenstraße 18&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>> und bin seit 2015 Kunde bei E.ON. Mit meinem Vertrag bin ich in der Regel sehr zufrieden. Allerdings habe ich eine Frage zum Thema Zählerstand.
+
+Ich habe letzte Woche meinen Zählerstand abgelesen und diesen Wert online eingetragen. Jedoch habe ich bisher noch keine Rückmeldung darüber erhalten, ob dieser Wert von Ihnen akzeptiert wurde und ob sich dadurch meine monatliche Abschlagszahlung ändert.
+
+Meine Vertragsnummer lautet <<123456789&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<202345678&&GESCHAEFTSPARTNERNUMMER>>. Der neuste Zählerstand meines Zählers mit der Zählernummer <<987654321&&ZAEHLERNUMMER>> liegt bei genau 8765,80 kWh (Stand am 7. Oktober 2022).
+
+Wenden Sie sich bitte an meine E-Mail Adresse <<schulz.tobias@gmail.com&&EMAIL>> oder telefonisch unter <<0172 4567890&&TELEFONNUMMER>> mit weiteren Informationen oder nachfolgenden Vorgehensweisen.
+
+Vielen Dank für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<<Tobias Schulz&&PERSON>>

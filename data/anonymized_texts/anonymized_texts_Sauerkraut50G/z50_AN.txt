@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe eine Frage zum Zählerstand meines Gaszählers. Meine Zählernummer ist <ZAEHLERNUMMER> und meine Vertragsnummer lautet <VERTRAGSNUMMER>. Leider ist mir nicht genau klar, wie ich meinen Zählerstand ablesen und übermitteln soll. Könnten Sie mir bitte eine detaillierte Anleitung senden, wie ich den Zählerstand korrekt ablesen und an Sie übermitteln kann?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

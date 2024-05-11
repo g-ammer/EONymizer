@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+ich bin Kunde bei Ihnen unter der Vertragsnummer <VERTRAGSNUMMER> und komme mit einer Frage bezüglich des Zählerstands meines Energiezählers. Ich habe das Gefühl, dass die Zähleranzeige auf meinem Stromzähler (Zählernummer: <ZAEHLERNRUMMER>) nicht passt. Es scheint mir, als ob die Zahlen schneller hochgehen, als ich tatsächlich Strom verbrauche.
+
+Könnten Sie bitte überprüfen, ob es einen Fehler bei der Messung gibt oder mir sagen, wie ich das selbst tun kann? Und könnten Sie mir bitte mitteilen, wie ich in Zukunft meinen Zählerstand richtig ablesen und diese Information an Sie weiterleiten kann?
+
+Ich freue mich auf Ihre Antwort und danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<TELEFONNUMMER>
+<STRASSE>, <PLZ>, <ORT>

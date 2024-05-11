@@ -1,0 +1,10 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich würde gerne den aktuellen Zählerstand meines Gaszählers erfahren. Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Könnten Sie mir hier weiterhelfen?
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>, <STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

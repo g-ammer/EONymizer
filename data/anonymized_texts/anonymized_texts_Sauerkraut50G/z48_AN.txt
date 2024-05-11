@@ -1,0 +1,14 @@
+ Hallo E.ON Kundenservice,
+
+ich hoffe, diese Nachricht erreicht Sie gut. Ich habe eine Frage zu meinem Zählerstand und hoffe, Sie können mir dabei helfen.
+
+Ich habe kürzlich meinen Zählerstand abgelesen und bin über den hohen Verbrauch überrascht. Meine Zählernummer ist <ZAEHLERNRUMMER>. Ich würde gerne erfahren, ob es möglicherweise einen Fehler bei der Ablesung oder bei der Berechnung des Verbrauchs gab.
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER> und die Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Ich würde mich über eine schnelle Rückmeldung freuen. Für Rückfragen stehe ich Ihnen jederzeit zur Verfügung. Sie können mich unter der Telefonnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL> erreichen.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

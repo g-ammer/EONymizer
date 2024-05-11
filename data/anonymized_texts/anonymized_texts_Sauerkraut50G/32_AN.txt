@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist Sebastian Müller und ich habe eine Frage zu meiner Rechnungsnummer <RECHNUNGSNUMMER>. Könnten Sie mir bitte sagen, wie ich diese in mein Kundenkonto eintragen kann? Ich habe dazu leider keine eindeutigen Informationen gefunden und hoffe, dass Ihnen der Kundenservice weiterhelfen kann.
+Meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>, falls Sie diese Information benötigen.
+
+Ich danke Ihnen für Ihre Unterstützung!
+
+Mit freundlichen Grüßen,
+<PERSON>

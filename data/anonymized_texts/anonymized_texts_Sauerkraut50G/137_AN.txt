@@ -1,0 +1,20 @@
+ Guten Tag,
+
+hiermit richte ich mich in meiner Funktion als Kunde, mit der Vertragsnummer <VERTRAGSNUMMER>, an ihren geschätzten Kundenservice. Jüngst vermerkte ich eine Unregelmäßigkeit auf meiner Stromrechnung mit der Rechnungsnummer: <<RECHNUNGSNUMMER>>.
+
+Zu dem fraglichen Abrechnungszeitraum war ich über einen längeren Zeitraum abwesend und habe daher kaum Strom verbraucht. Jedoch scheint die verzeichnete Verbrauchsmenge unverhältnismäßig hoch. Beschäftige ich mich nun mit falschen Ablesungen der Zählernummer <ZAEHLERNRUMMER> auf Ihrer Seite, oder könnte es sich um technische Probleme handeln?
+
+Da mir der aktuelle Stand der Dinge Unbehagen bereitet und ich gerne die Unstimmigkeiten klären möchte, hoffe ich auf eine baldige Kontaktaufnahme eines zuständigen Kundenbetreuers.
+
+Für Ihre Aufmerksamkeit und die Unterstützung Ihrer freue ich mich im Voraus.
+
+Bitte nehmen sie Kontakt mit mir auf unter:
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+Telefon: <TELEFONNUMMER>
+Email: <EMAIL>
+
+Herzliche Grüsse,
+<PERSON>

@@ -1,0 +1,8 @@
+Guten Tag,
+
+mein Namen ist <PERSON>, wohnhaft am <ADRESSE> in Berlin. Meine Vertragsnummer ist <VERTRAGSNR.> und die Geschäftspartnernummer <VERTRAGSNR.>.
+
+Ich habe soeben meine aktuelle Rechnung mit der Rechnungsnummer <RECHNUNGSNR.> per Mail erhalten. Der Rechnungsbetrag erscheint mir allerdings höher als normal, weshalb ich freundlich um Überprüfung bitte. Könnten Sie mir bitte erklären, wie der aktuelle Rechnungsbetrag zustande gekommen ist?
+
+Mit freundlichen Grüßen,
+<PERSON>

@@ -1,0 +1,11 @@
+ Sehr geehrtes E.ON Team,
+
+ich habe Schwierigkeiten beim Login in die E.ON App. Jedes Mal wenn ich es versuche, erhalte ich eine Fehlermeldung, dass die Technik gerade eine Störung hat. Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Könnten Sie mir bitte helfen diesen technischen Fehler zu beheben?
+
+Viele Grüße,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

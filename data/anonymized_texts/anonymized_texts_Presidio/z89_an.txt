@@ -1,0 +1,14 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Vor Kurzem habe ich den Wert von meinem Zähler Nr. <ZÄHLERNR.> abgelesen und stellte fest, dass dieser deutlich höher liegt, als in meiner aktuellen Rechnung angegeben ist (RECHNUNGSNUMMER <RECHNUNGSNR.>).  
+
+Die Unterlagen meines Vertragskonto <VERTRAGSNR.> ziehe ich für genaue Informationen heran, sehe jedoch, dass das Problem daraus nicht klar hervorgeht. Ohne Abhilfestellung bin ich etwas festgefahren in meinen Rechnern und Ihrer plattform und finde keine Lösung dieses Unterschiedes.      
+
+<PERSON>       
+<ADRESSE>
+<TELEFONNR.>
+<EMAIL>
+
+Mit freundlichen Grüßen,
+<PERSON> 
+Nielsen

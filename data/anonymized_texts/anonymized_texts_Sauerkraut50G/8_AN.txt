@@ -1,0 +1,11 @@
+ Sehr geehrter Kundenservice,
+
+ich habe eine Frage zu meinem E.ON Energievertrag mit der Vertragsnummer <VERTRAGSNUMMER>. Können Sie mir bitte den aktuellen Stand über den Verbrauch meines Gaszählers mit der Zählernummer <ZAEHLERNRUMMER> teilen?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

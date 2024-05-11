@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe die Rechnung Nummer <<3456720891&&RECHNUNGSNUMMER>> erhalten und hätte gerne eine Aufschlüsselung der Kosten zur besseren Kontrolle meiner Ausgaben. Könnten Sie mir diese schicken? Meine Vertragsnummer ist <<400673891&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<<Hans Müller&&PERSON>>
+<<Musterweg 12, 10115 Berlin&&STRASSE>><<10115&&PLZ>><<Berlin&&ORT>>
+<<hans.mueller@email.de&&EMAIL>>

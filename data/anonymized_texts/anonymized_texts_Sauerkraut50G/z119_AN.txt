@@ -1,0 +1,10 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen. Mein Zählerstand hat sich allerdings entgegengesetzt meiner Erwartung nicht in dem Maße gesteigert, wie von mir vermutet. Daher benötige ich Ihre Expertise.
+VertragNummer lautet: <VERTRAGSNUMMER>
+Um Ihre Antwort erbitte ich herzlich, aber natürlich ohne Eile.
+
+Falls benötigt, ist meine E-Mail-Adresse <EMAIL> und meine Telefonnummer <TELEFONNUMMER>.
+
+Mit freundlichen Grüßen
+Ihr Kunde <PERSON>

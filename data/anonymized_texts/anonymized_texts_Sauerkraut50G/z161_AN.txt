@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich bräuchte mal eine Auskunft zu meinem Zählerstand. Ich bin zurzeit Kunde bei E.ON und meine Vertragsnummer lautet <VERTRAGSNUMMER>. Mir ist bei der Überprüfung meiner Unterlagen aufgefallen, dass der abgelesene Zählerstand in der letzten Rechnung (Nr. <<RECHNUNGSNUMMER>>) nicht mit meinem aktuellen Zählerstand übereinstimmt. Die Zählernummer ist <ZAEHLERNRUMMER>. Könnten Sie bitte diesen Fall prüfen und mir mitteilen, wie sich diese Wertabweichung ergibt?
+
+Ich bin für Rückfragen unter meiner Adresse, <STRASSE> in <PLZ><ORT> sowie unter der Telefonnummer <TELEFONNUMMER> zu erreichen.
+
+Ich bitte um eine rasche Klärung.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<PERSON>

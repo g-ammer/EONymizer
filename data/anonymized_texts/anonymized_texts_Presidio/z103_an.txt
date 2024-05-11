@@ -1,0 +1,15 @@
+Betreff: Frage zum Zählerstand
+
+Sehr geehrtes E.ON Team,
+
+ich bin Kunde bei Ihnen und ich habe eine Frage bezüglich meines Zählerstandes. Meine Vertragsnummer lautet <ZÄHLERNR.>. In meinem Onlinekonto kann ich den aktuellen Zählerstand nicht einsehen.
+
+Könnten Sie mir bitte mitteilen, wie der aktuelle Stand meines Zählers ist? Meine Zählernummer ist <ZÄHLERNR.>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<TELEFONNR.>
+<ADRESSE>

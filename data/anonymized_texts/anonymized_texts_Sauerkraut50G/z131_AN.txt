@@ -1,0 +1,16 @@
+ Hallo Philipp Müller,
+
+vielen Dank für Ihre Anfrage zur Ablesung des Zählerstandes.
+
+Um den Zählerstand korrekt abzulesen, sollten Sie die Ziffern von links nach rechts notieren, ohne Leerzeichen oder Punkte dazwischen. Bitte beachten Sie, dass nur die Zahlen vor dem Komma relevant sind.
+
+Ihre Vertragsnummer ist <VERTRAGSNUMMER> und Ihre Zählernummer ist <ZAEHLERNRUMMER>.
+
+Für weitere Unterstützung stehen wir Ihnen gerne zur Verfügung.
+
+Mit freundlichen Grüßen,
+E.ON Team
+<ANONYMIZED>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>
+<EMAIL>

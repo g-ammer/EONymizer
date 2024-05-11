@@ -1,0 +1,10 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Es geht um meine letzte Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>>. Ich konnte den Rechnungsbetrag in Höhe von <ID> Euro auf meiner monatlichen Abrechnung nicht richtig nachvollziehen. Könnten Sie bitte überprüfen und klären, wie dieser Betrag zustande gekommen ist?
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>

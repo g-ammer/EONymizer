@@ -1,0 +1,14 @@
+Betreff: Fehler beim Login in die E.ON App und technische Störung
+
+Hallo, das ist <<Martin Müller&&PERSON>>. Ich wohne in der <<Bechstraße 26&&STRASSE>>, <<24301&&PLZ>> <<Kiel&&ORT>> und ich brauche dringend technische Unterstützung.
+
+Meine E.ON App lässt mich aus unerfindlichen Gründen nicht mehr einloggen und ich mache mir ernsthaft Sorgen um meine Kontoeinstellungen. Weitaus besorgniserregender ist jedoch, dass ich glaube, eine technische Störung in meinem Heimsystem zu haben!
+Ebenso zu meiner Vertragsnummer <<402561657&&VERTRAGSNUMMER>> und meiner Geschäftspartnernummer <<207098746&&GESCHAEFTSPARTNERNUMMER>>.
+
+Welche Schritte kann ich jetzt unternehmen, um sicherzustellen, dass ich immer noch Zugriff habe? Sie können mich unter <<0201123249&&TELEFONNUMMER>> oder <<martin.mueller78@gmail.de&&EMAIL>> kontaktieren.
+
+Vielen Dank im Voraus für Ihre Unterstützung und Unterstützung an der Front der Technik.
+
+Mit besten Grüßen,
+
+<<Martin Müller&&PERSON>>

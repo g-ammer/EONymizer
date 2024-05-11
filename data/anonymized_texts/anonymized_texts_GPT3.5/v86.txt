@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei Ihnen mit der Vertragsnummer <<232567891234&&VERTRAGSNUMMER>> und ich hätte einige Fragen zu meinem Vertrag. Könnten Sie mir bitte sagen, wie lange meine Vertragslaufzeit noch ist? Und könnte ich gegebenenfalls den Vertrag vorzeitig kündigen?
+Für eine schnelle Antwort wäre ich sehr dankbar.
+Mit freundlichen Grüßen,
+<<Hans Meyer&&PERSON>>
+<<Musterstraße 123, 45678 Musterstadt&&STRASSE>>
+<<hans.meyer@email.de&&EMAIL>>
+Telefon: <<0176/12345678&&TELEFONNUMMER>>

@@ -1,0 +1,10 @@
+Guten Tag E.ON-Team,
+
+meine Frau und ich sind seit Längerem Kunden bei E.ON und leben an der <ADRESSE>. Nun haben wir eine Frage bezüglich unseren Zählerstands.
+
+Es handelt sich dabei um den Vertrag mit der Nummer <TELEFONNR.> und um den Stromzähler mit der Kennnummer G483FF5600. Aktuell erscheint der Zählerstand unbekannt auf unserer monatlichen Rechnung und wir fragen uns, woran das liegen könnte. Wir haven bereits versucht, den Zähler selbst abzulesen und ihn auf korrekten Stand zu bringen, jedoch stimmen die Vidoerte Werte in unserem online Account nicht ueberdein.
+
+Wir bedanken uns bei Ihnen fur Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<PERSON>

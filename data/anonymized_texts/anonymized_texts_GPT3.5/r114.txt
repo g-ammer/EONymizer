@@ -1,0 +1,14 @@
+Guten Tag,
+
+meine Vertragsnummer lautet <<232456789012&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<1304567890&&GESCHAEFTSPARTNERNUMMER>>. Ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>> und der Rechnungsbetrag scheint höher zu sein als erwartet.
+
+Können Sie mir bitte erläutern, wie dieser Betrag zusammengesetzt ist? Ich habe meine Zahlung noch nicht getätigt, da ich erst eine Klärung dieser Situation wünsche.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Beste Grüße,
+<<Heinz Müller&&PERSON>>
+<<Hauptstraße 10&&STRASSE>>
+<<12345&&PLZ>><<Berlin&&ORT>>
+<<heinz.mueller@mail.de&&EMAIL>>
+<<0170 123 456 7&&TELEFONNUMMER>>

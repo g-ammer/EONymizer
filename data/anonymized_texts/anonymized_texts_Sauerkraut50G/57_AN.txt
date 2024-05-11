@@ -1,0 +1,10 @@
+ Betreff: Anfrage Kundenservice E.ON
+
+Guten Tag,
+
+ich hätte eine Frage zum Thema Kundenservice. Mein Name ist <PERSON>, Vertragsnummer <VERTRAGSNUMMER>, Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und meine Rechnungsnummer lautet <<RECHNUNGSNUMMER>>. Ich habe kürzlich einen Brief erhalten, in dem es um Änderungen in meinem Vertrag geht und hätte gerne eine detaillierte Erklärung dazu von einem Kundenberater. Könnten Sie mir hierbei weiterhelfen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>

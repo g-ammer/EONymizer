@@ -1,0 +1,8 @@
+ Guten Tag,
+
+meine Vertragsnummer lautet <VERTRAGSNUMMER> und mein Name ist <PERSON>. Ich habe eine Frage bezüglich meines Zählerstands. Ist es möglich, durch Ihre Systeme meinen aktuellen Zählerstand einzusehen oder muss ich dies alleine tun? Gibt es eine Art Zählertracking?
+
+Vielen Dank im Voraus für Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

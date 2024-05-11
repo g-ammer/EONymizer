@@ -1,0 +1,8 @@
+ Guten Tag E.ON Kundendienst,
+
+Hier schreibt Ihnen <PERSON> aus <ORT>. Ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und der Rechnungsbetrag scheint viel höher als mein gewohnter Verbrauch zu sein. Könnten Sie bitte die genauen Zahlungsdetails prüfen bzw. mir eine detaillierte Aufstellung des Rechnungsbetrags zur Verfügung stellen? Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

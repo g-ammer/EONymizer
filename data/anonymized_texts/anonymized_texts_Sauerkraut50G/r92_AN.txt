@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut und Sie können mir bei meiner Frage helfen. Ich habe eine Rechnung von E.ON mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten, aber der Rechnungsbetrag scheint etwas höher zu sein, als ich erwartet habe. Könnten Sie bitte überprüfen, ob der Rechnungsbetrag korrekt ist?
+
+Meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Beste Grüße,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

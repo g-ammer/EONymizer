@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe Probleme mit der Anwendung Ihrer App. Ich kann mich nicht einloggen, obwohl ich die richtigen Zugangsdaten verwende. Könnten Sie bitte prüfen, ob es eine technische Störung gibt?
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

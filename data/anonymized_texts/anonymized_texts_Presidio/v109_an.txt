@@ -1,0 +1,10 @@
+Guten Tag,
+
+mein Name ist <PERSON>, ich wohne in der <ADRESSE> an der Ruhr. Mich würde gern über die genauen Details meines Strom-vertrags informieren. Meine  Vertragsnummer lautet <VERTRAGSNR.>. Können Sie bitte mir erläutern, an welchem Datum mein Vertrag endet und ob automatische Verlängerung notiert ist?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+ <PERSON>
+Tel: <TELEFONNR.> 
+Email: <EMAIL>

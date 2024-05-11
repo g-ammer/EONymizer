@@ -1,0 +1,13 @@
+Guten Tag,
+
+mein Name ist <PERSON> und ich habe eine Frage zu meiner letzten Stromrechnung. Mir ist aufgefallen, dass der Rechnungsbetrag höher ausfällt, als er normalerweise ist. Kann es sein, dass da ein Fehler vorliegt oder liegt das an einer Preiserhöhung meiner Tarif?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und die Rechnungsnummer lautet <RECHNUNGSNR.>. 
+
+Über eine schnelle Antwort würde ich mich sehr freuen. 
+
+Viele Grüße 
+<PERSON>  
+<EMAIL>  
+<ADRESSE>
+Telefon: <TELEFONNR.>

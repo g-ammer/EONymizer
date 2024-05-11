@@ -1,0 +1,7 @@
+ des Stromverbrauchs verursachen könnten? Ich würde mich über Ihre Unterstützung freuen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ>, <ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

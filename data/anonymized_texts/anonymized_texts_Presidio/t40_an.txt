@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+
+ich habe ein Problem mit der E.ON App. Seit einigen Tagen kann ich nicht mehr auf mein Konto zugreifen. Jedes Mal wenn ich versuche mich einzuloggen, bekomme ich eine Fehlermeldung. Ich habe schon mehrmals versucht, das Passwort zurückzusetzen, aber das hat auch nicht geholfen. Können Sie bitte überprüfen ob es eine Störung bei Ihnen gibt oder ob das Problem auf meiner Seite liegt?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und die Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.>. Meine E-Mail Adresse ist: <EMAIL>
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

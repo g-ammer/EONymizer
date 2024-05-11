@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,
+mein Name ist <<Paul Hoffmann&&PERSON>>, ich wohne in der <<Wiesengrund 22&&STRASSE>>, <<10178&&PLZ>> <<Berlin&&ORT>> und bin Kunde bei E.ON. Da ich vor kurzem umgezogen bin, wollte ich fragen, wann und wie ich meinen Zählerstand mitteilen muss. Meine Geschäftspartnernummer lautet <<201456879&&GESCHAEFTSPARTNERNUMMER>>. Werde ich von Ihnen dazu aufgefordert oder muss ich von mir aus tätig werden?
+Ich bedanke mich im Voraus für Ihre Hilfe und verbleibe
+mit freundlichen Grüßen,
+<<Paul Hoffmann&&PERSON>>

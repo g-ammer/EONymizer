@@ -1,0 +1,10 @@
+ Guten Tag,
+
+hier ist <PERSON> aus der Murdochstr. <STRASSE> in Nürnberg. Meine Vertragsnummer bei E.ON Energie ist <VERTRAGSNUMMER>. Die letzte Rechnung, die ich erhalten habe hat die Rechnungsnummer <<RECHNUNGSNUMMER>> mit einem Rechnungsbetrag von 132 €. Ich finde diesen jedoch relativ hoch, da ich in der Vergangenheit meisten weniger berappen musste.
+
+Könnten Sie mir bitte einen detaillierten Überblick darüber verschaffen, wofür dieser Betrag genau anfällt und ob daraus vielleicht zusätzliche Kosten resultieren?
+
+Ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

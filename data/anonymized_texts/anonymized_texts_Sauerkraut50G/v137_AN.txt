@@ -1,0 +1,10 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich habe eine Frage zu meiner Vertragslaufzeit. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Könnten Sie mir bitte mitteilen, wann meine Vertragslaufzeit endet und wie die Kündigungsfristen sind? Ich überlege nämlich, ob ich eventuell den Anbieter wechseln sollte und möchte mich entsprechend informieren.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<PLZ><ORT>

@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe Probleme mit Ihrer App auf meinem Gerät. Mein Login funktioniert seit heute nicht mehr und die Seite scheint eine technische Störung zu haben. Könnten Sie mir bitte weiterhelfen? 
+
+Meine Vertragsnummer lautet <VERTRAGSNR.> und die zugehörige Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>.
+
+Ich danke Ihnen für Ihre Hilfe und hoffe, dass das Problem bald behoben sein wird. 
+
+Mit freundlichen Grüßen, 
+
+<PERSON>
+<EMAIL>
+<TELEFONNR.>
+<ADRESSE>

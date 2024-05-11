@@ -1,0 +1,12 @@
+Betreff: Technische Störung bei der E.ON App
+
+Guten Tag,
+
+mein Name ist <<Lisa Schmitz&&PERSON>>, ich wohne in der <<Brandenburger Str. 28&&STRASSE>> in <<10178&&PLZ>> <<Berlin&&ORT>>. Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>. Seit gestern Abend habe ich Probleme mit der E.ON App. Ich kann mich nicht mehr einloggen und bekomme immer wieder die Fehlermeldung "Login nicht erfolgreich". Meine Geschäftspartnernummer ist <<2012345678&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich habe bereits das Passwort zurückgesetzt und die App deinstalliert und erneut installiert, aber das Problem besteht weiterhin. Könnten Sie bitte prüfen, ob es eventuell eine allgemeine Störung mit der App gibt? Oder könnten Sie mir mitteilen, wie ich dieses Problem beheben kann?
+
+Vielen Dank im Voraus für Ihre Unterstützung und ich freue mich auf eine schnelle Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Lisa Schmitz&&PERSON>>

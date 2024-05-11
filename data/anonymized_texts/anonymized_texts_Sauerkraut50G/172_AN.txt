@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meines Energievertrags mit der Nummer <VERTRAGSNUMMER>. Ich habe von Ihnen eine Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten, die mir recht hoch erscheint. Könnten Sie mir bitte erklären, wie sich diese Summe zusammensetzt?
+
+Ich würde mich über eine rasche Rückmeldung freuen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

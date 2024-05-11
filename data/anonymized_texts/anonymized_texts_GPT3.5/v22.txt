@@ -1,0 +1,8 @@
+Guten Tag E.ON Team,
+
+ich hätte ein paar Fragen zu meinem Vertrag mit der Vertragsnummer <<402564788&&VERTRAGSNUMMER>>. Die Vertragslaufzeit ist mir nicht ganz klar, könnten Sie mir vielleicht die genauen Daten nennen? Und wie sieht es mit Kündigung aus, wann wäre da die Kündigungsfrist?
+
+Ich bedanke mich im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Hans Meier&&PERSON>>, <<Kornerstr 33&&STRASSE>>, <<44229&&PLZ>> <<Dortmund&&ORT>>. Telefonnummer: <<0176 12345678&&TELEFONNUMMER>>, E-mail: <<hmeier33@gmail.com&&EMAIL>>

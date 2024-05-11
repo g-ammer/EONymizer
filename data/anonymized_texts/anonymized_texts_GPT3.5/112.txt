@@ -1,0 +1,15 @@
+Sehr geehrtes E.ON Kundenservice-Team,
+
+mein Name ist <<Stefan Fuchs&&PERSON>> und ich bin seit mehreren Jahren Kunde bei Ihnen. Meine Vertragsnummer lautet <<402738291&&VERTRAGSNUMMER>>. In letzter Zeit habe ich einige Fragen und Unsicherheiten bezüglich meines aktuellen Vertrags und der dazugehörigen Rechnungen.
+
+Ich habe in den letzten Wochen bemerkt, dass meine Rechnungsnummern (zum Beispiel <<3672489012&&RECHNUNGSNUMMER>>) nicht mehr wie gewohnt aufgebaut sind und es fällt mir schwer, diese zuordnen zu können. Außerdem ist mir aufgefallen, dass die Abrechnungszeiträume, die auf den Rechnungen angegeben sind, nicht mehr mit meinen Verbrauchswerten übereinstimmen, die ich von meinem Zähler (Zählernummer: <<7382093&&ZAEHLERNUMMER>>) ablesen kann.
+
+Können Sie mir bitte erklären, was der Grund für diese Unstimmigkeiten ist? Es wäre für mich wichtig zu wissen, ob es eventuell ein Fehler in der Systemumstellung gab oder ob es andere Gründe dafür gibt.
+
+Ich bedanke mich im Voraus für Ihre Hilfe und Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Stefan Fuchs&&PERSON>>
+<<Stefan.Fuchs@mail.de&&EMAIL>>
+<<+49 176 12345678&&TELEFONNUMMER>>
+<<Hauptstraße 12, 12345 Berlin&&STRASSE>><<12345&&PLZ>>

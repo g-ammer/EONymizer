@@ -1,0 +1,18 @@
+Betreff: Fragen zum Kundenservice
+
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zum Kundenservice und würde gerne einen Kundenberater zu Rate ziehen. Mein Anliegen betrifft meinen Energievertrag mit der Nummer <<402938567&&VERTRAGSNUMMER>>.
+
+In letzter Zeit habe ich festgestellt, dass die monatlichen Abrechnungen höher sind als erwartet. Ich habe alle Geräte überprüft, die Strom verbrauchen könnten und konnte keine Auffälligkeiten feststellen. Daher würde ich gerne eine Überprüfung meiner Zählernummer <<1234567890&&ZAEHLERNUMMER>> beantragen, um sicherzugehen, dass es keine Fehler gibt.
+
+Des Weiteren hätte ich gerne allgemeine Informationen darüber, wie ich meinen Energieverbrauch effektiv reduzieren kann, um meine monatlichen Kosten zu senken. Gibt es besondere Tipps oder Ratschläge, die Sie als mein Energieanbieter geben können?
+
+Ich freue mich auf eine schnelle Antwort und bedanke mich für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Johannes Müller&&PERSON>>
+<<Musterstraße 7&&STRASSE>>
+<<12345&&PLZ>><<Musterstadt&&ORT>>
+Telefon: <<0123 456789&&TELEFONNUMMER>>
+E-Mail: <<johannes.mueller@example.com&&EMAIL>>

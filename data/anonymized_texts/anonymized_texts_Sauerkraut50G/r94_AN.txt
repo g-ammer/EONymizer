@@ -1,0 +1,14 @@
+ Hallo E.ON-Team,
+
+ich habe eine Frage zur Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und es geht um einen Betrag, den ich noch gar nicht nachvollziehen kann. Mein Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Könnten Sie mir bei der Klärung helfen?
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

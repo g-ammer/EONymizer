@@ -1,0 +1,11 @@
+Guten Tag, 
+
+ich habe vor Kurzem eine Rechnung von Ihnen mit der Rechnungsnummer <RECHNUNGSNR.> erhalten - der Betrag ist teurer als gewohnt und ich verstehe nicht ganz warum. Ist das eventuell ein Fehler Ihrerseits oder wurden die Preise erhöht? Es handelt sich um den Vertrag mit der Vertragsnummer <VERTRAGSNR.>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<ADRESSE>
+<TELEFONNR.>

@@ -1,0 +1,9 @@
+Hallo E.ON Kundenservice,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Meine Vertragskonto-Nummer ist <<409898765&&VERTRAGSNUMMER>>. Ich bin mir unsicher, ob ich den Zählerstand richtig abgelesen habe. Gibt es eine Anleitung oder Hilfe dafür, wie ich den Zählerstand korrekt ablesen kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Beste Grüße,
+<<Hans Müller&&PERSON>>
+<<Sachsenstraße&&STRASSE>>

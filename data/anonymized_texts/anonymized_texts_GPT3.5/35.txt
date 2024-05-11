@@ -1,0 +1,14 @@
+Sehr geehrtes E.ON Team,
+
+ich benötige Hilfe bezüglich meinem Vertragskonto <<401234567&&VERTRAGSNUMMER>> und meiner Geschäftspartnernummer <<201234567&&GESCHAEFTSPARTNERNUMMER>>. Leider bin ich in letzter Zeit sehr oft auf Geschäftsreise und habe deshalb nicht immer die Möglichkeit meine Unterlagen zu Hause zu überprüfen.
+
+Könnten Sie mir daher bitte mitteilen, ob die letzte Rechnung mit der Nummer <<1234567890&&RECHNUNGSNUMMER>> bereits beglichen wurde oder ob sich noch offene Posten finden?
+
+Außerdem wäre es hilfreich, wenn Sie mir sagen könnten, wann der nächste Zählerstand meines Zählers mit der Nummer <<212345&&ZAEHLERNUMMER>> abgelesen werden muss.
+
+Darf ich diese und zukünftige Informationen dann per Email auf <<max.meyer@mail.de&&EMAIL>> erhalten, um einen leichteren Zugang zu erhalten?
+
+Vielen Dank für Ihre Hilfe und Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Max Meyer&&PERSON>>

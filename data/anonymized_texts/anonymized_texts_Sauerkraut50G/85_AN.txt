@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und habe eine Frage zu meinem laufenden Energievertrag. Können Sie mir bitte Informationen geben, wie und wann ich meinen Vertrag unter der Vertragsnummer <VERTRAGSNUMMER> wechseln kann? Ich wäre besonders interessiert zu wissen, ob zusätzliche Kosten dabei anfallen würden. Haben Sie vielleicht eine detaillierte Broschüre oder ähnliches zum Ablauf?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit besten Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+E-Mail: <EMAIL>

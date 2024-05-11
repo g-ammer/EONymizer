@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+
+Ich habe ein technisches Problem mit der Login-Funktion Ihrer App. Gestern ging noch alles einwandfrei, aber heute kann ich mich nicht mehr einloggen, obwohl ich das richtige Passwort und den richtigen Benutzernamen verwende. Können Sie mir bitte dabei helfen?
+
+Meine Vertragsnummer ist die <VERTRAGSNR.> und die Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.>. Bitte teilen Sie mir umgehend mit, was ich tun kann, um das Problem zu beheben.
+
+Viele Grüße
+<PERSON>
+<ADRESSE>
+<EMAIL>
+<TELEFONNR.>

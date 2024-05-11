@@ -1,0 +1,12 @@
+Hallo E.ON Kundenservice,
+
+ich möchte gerne meinen Tarif wechseln und benötige hierzu eine Beratung. Meine Vertragsnummer lautet <<402342345&&VERTRAGSNUMMER>>. Können Sie bitte einen Kundenberater zu mir Kontakt aufnehmen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Hermann Müller&&PERSON>>
+<<Hauptstraße 54&&STRASSE>>
+<<80331&&PLZ>><<München&&ORT>>
+Telefon: <<01634123223&&TELEFONNUMMER>>
+email: <<h.mueller@mail.de&&EMAIL>>

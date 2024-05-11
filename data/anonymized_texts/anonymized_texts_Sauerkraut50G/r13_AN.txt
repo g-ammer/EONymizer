@@ -1,0 +1,13 @@
+ Sehr geehrter Kundenservice,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> und dem Rechnungsbetrag von 120 Euro. Ich bin mir sicher, dass ich diesen Betrag bereits bezahlt habe. Allerdings erhielt ich kürzlich eine Mahnung von Ihnen.
+
+Könnten Sie bitte überprüfen, ob die Zahlung auf meinem Vertragskonto <VERTRAGSNUMMER> eingegangen ist? Ich habe die Zahlung via Überweisung getätigt, daher könnte es sein, dass es ein paar Tage gedauert hat, bis der Betrag auf Ihrem Konto eingegangen ist.
+
+Ich danke Ihnen im Voraus für Ihre Hilfe bei dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

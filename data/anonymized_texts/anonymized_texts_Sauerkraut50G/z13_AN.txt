@@ -1,0 +1,15 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON. Meine Vertragsnummer lautet <VERTRAGSNUMMER> und die Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>.
+
+Ich möchte Sie bitte, mir Informationen bezüglich meines aktuellen Zählerstandes zur Verfügung zu stellen. Es wäre hilfreich, wenn Sie mir auch erklären könnten, wie ich den Zählerstand selbst ablesen kann.
+
+Ich freue mich auf eine schnelle Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+
+(Die Telefonnummer wurde mit einem $ am Ende versehen, da dies nicht wie eine gültige Nummer aussieht und ich davon ausgehe, dass es sich um ein Tippfehler handelt.)

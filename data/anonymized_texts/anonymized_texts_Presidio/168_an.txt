@@ -1,0 +1,14 @@
+Hallo,
+
+ich habe eine Frage bezüglich meines E.ON Energievertrags mit der Vertragsnummer <VERTRAGSNR.>. Könnte bitte ein Kundenberater Kontakt mit mir aufnehmen und mich ausführlich beraten? Ich habe einige Unklarheiten und wünsche persönliche Unterstützung. 
+
+Meine Kontaktdaten sind:
+Name: <PERSON>
+Adresse: <ADRESSE>
+Telefonnummer: <TELEFONNR.>
+Email: <EMAIL>
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>

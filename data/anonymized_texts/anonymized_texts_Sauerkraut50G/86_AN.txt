@@ -1,0 +1,11 @@
+ Betreff: Frage zu meiner jüngsten Rechnung
+
+Sehr geehrter Kundenservice,
+
+bei meiner letzten E.ON-Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> gab es eine Unklarheit. Es scheint, dass eine fehlerhafte Zählernummer <ZAEHLERNRUMMER> eingetragen wurde, was zu einer erhöhten Abrechnung führte. Könnte ein Kundenberater bitte die Situation prüfen und mit mir Kontakt aufnehmen, um dies zu klären? Ich stehe unter meiner Telefonnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL> zur Verfügung.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

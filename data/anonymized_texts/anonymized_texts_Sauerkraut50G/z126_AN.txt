@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meines Zählerstands. Mein Zähler mit der Nummer <ZAEHLERNRUMMER> zeigt einen Stand, der mir ungewöhnlich hoch erscheint. Könnten Sie das bitte prüfen? Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>.
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+Tel: <TELEFONNUMMER>

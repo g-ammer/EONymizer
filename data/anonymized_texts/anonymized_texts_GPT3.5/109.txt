@@ -1,0 +1,10 @@
+Hallo Kundenservice,
+
+mein Name ist <<Laura Schmidt&&PERSON>> und ich wohne am <<Birkenweg 5&&STRASSE>>, <<54292&&PLZ>> <<Trier&&ORT>>. Ich habe ein Anliegen zu meinem Vertragskonto <<401237864&&VERTRAGSNUMMER>>. Vor einigen Tagen habe ich eine Rechnung mit der Rechnungsnummer <<0715462899&&RECHNUNGSNUMMER>> bekommen, welche mir leider recht hoch erscheint. Deswegen hätte ich gerne eine detaillierte Aufzeichnung meines Verbrauchs, um eingrenzen zu können, ob es an meiner Stromnutzung liegt.
+
+Zudem würde ich allgemein gerne etwas mehr über Sparmöglichkeiten informiert werden. Die vielen technischen Geräte, die tagtäglich laufen, bringen wohl ihre Kosten mit sich.
+
+Können Sie oder ein anderer Kundenbetreuer mir weiterhelfen? Bitte mich zurück schicken ihre Antwort per mein Email: <<lauraschmidt54292@web.de&&EMAIL>> oder Telefonnummer <<0165 2305417&&TELEFONNUMMER>>.
+
+Sonnige Grüße,
+<<Laura Schmidt&&PERSON>>

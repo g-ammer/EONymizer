@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Ich habe kürzlich einen neuen Zählerstand erfasst und online eingetragen, aber irgendwie scheint es nicht aktualisiert zu sein auf meinem Konto. Können Sie mir bitte helfen, dies zu klären?
+
+Meine Vertragsnummer ist <VERTRAGSNUMMER> und die Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Der betroffene Zähler hat die Nummer <ZAEHLERNRUMMER>.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

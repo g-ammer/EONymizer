@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen und habe eine konkrete Frage zum Zählerstand meines Stromzählers. Wo genau kann ich als Kunde meinen aktuellen Zählerstand ablesen? Tritt dabei etwas Spezielles in Kraft, das ich beachten muss?
+
+Zu Ihrer Information: Die Vertragsnummer ist <<402830181&&VERTRAGSNUMMER>> und der Zähler trägt die Nummer <<86574392&&ZAEHLERNUMMER>>. 
+
+Ich freue mich über eine Rückmeldung und besten Dank im Voraus.
+
+MfG,
+<<Thomas Schneider&&PERSON>>
+<<Ambergstraße 12, 81245&&STRASSE>> <<München&&ORT>>
+Email: <<T.Schneider@mymail.de&&EMAIL>>
+Telefon: <<089/36109234&&TELEFONNUMMER>>

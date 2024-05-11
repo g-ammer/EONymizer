@@ -1,0 +1,7 @@
+Sehr geehrter Kundenservice von E.ON,
+ich wende mich heute an Sie, da ich ein paar Anliegen zu meinem Kundenkonto habe und dazu gerne einen Kundenbetreuer sprechen würde. Zunächst zu meiner Person: Mein Name ist <<Hannah Schmidt&&PERSON>> und ich wohne in der <<Goethestraße 24&&STRASSE>>, <<60313&&PLZ>> <<Frankfurt&&ORT>>. Meine Vertragsnummer lautet <<400873169&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer <<200345786&&GESCHAEFTSPARTNERNUMMER>>.
+Ich erhielt von Ihnen eine Rechnung mit der Nummer <<2983740567&&RECHNUNGSNUMMER>>, bei der ich einige Posten einfach nicht nachvollziehen kann. Ich wurde gerne mit einem Ihrer Kundenberater sprechen und die einzelnen Punkte durchgehen.
+Darüber hinaus würde ich meine Zahlungseinstellungen gerne ändern. Ich würde zukünftig gerne per Lastschrift zahlen und bräuchte dazu Informationen, wie ich vorgehen muss.
+Vielen Dank für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Hannah Schmidt&&PERSON>>

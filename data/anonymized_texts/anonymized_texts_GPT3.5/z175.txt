@@ -1,0 +1,8 @@
+Sehr geehrter Kundenservice,
+
+mein Name ist <<Hans Schmidt&&PERSON>>, ich wohne auf der <<Kastanienallee 13&&STRASSE>> in <<10111&&PLZ>> <<Berlin&&ORT>>. Meine Geschäftspartnernummer lautet <<190858721&&GESCHAEFTSPARTNERNUMMER>>. Ich hätte eine Frage bezüglich meines Zählerstands. Konkret: für wann ist der nächste Ablesetermin angesetzt und wie läuft dieser Prozess in der Regel ab? Hat der Zählerstand Einfluss auf die Höhe meiner monatlichen Kosten?
+
+Vielen Dank für Ihre Hilfe im Voraus, ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Hans Schmidt&&PERSON>>

@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner aktuellen Rechnung mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag scheint mir höher als erwartet. Könnten Sie bitte die Berechnung für mich überprüfen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Lukas Müller&&PERSON>>
+<<l.muller@example.de&&EMAIL>>
+<<0160 12345678&&TELEFONNUMMER>>
+<<Am Musterweg 12&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>

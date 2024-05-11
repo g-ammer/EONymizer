@@ -1,0 +1,15 @@
+Hallo E.ON Team,
+
+ich habe heute meine monatliche Rechnung erhalten und der Rechnungsbetrag scheint mir etwas zu hoch. Die Rechnungsnummer lautet <RECHNUNGSNR.>. Könnten Sie mir bitte erklären, wie der Betrag zustande gekommen ist?
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und die Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Die Zählernummer ist <ZÄHLERNR.>. 
+
+Ich würde mich über eine schnelle Rückmeldung freuen, um eventuelle Missverständnisse zu klären.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+<EMAIL>
+<TELEFONNR.>

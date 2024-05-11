@@ -1,0 +1,9 @@
+Guten Tag E.ON Team,
+Ich habe eine Frage bezüglich meines aktuellen Vertrages bei Ihnen. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>>. Können Sie mir bitte mitteilen, wie lange die Vertragslaufzeit noch ist und welche Möglichkeiten zur Kündigung ich habe?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Max Klinger&&PERSON>>
+<<max.klinger@email.de&&EMAIL>>
+<<Musterweg 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Telefonnummer: <<0151-12345678&&TELEFONNUMMER>>

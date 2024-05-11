@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hätte eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>>. Der Rechnungsbetrag erscheint mir ungewöhnlich hoch. Könnten Sie bitte prüfen, ob hier ein Fehler vorliegt? Meine Vertragsnummer ist <<402345678&&VERTRAGSNUMMER>>.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Felix Maier&&PERSON>>
+<<Gartenstraße 12&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berlin&&ORT>>
+<<Felix.Maier@gmail.com&&EMAIL>>
+Tel: <<0176 12345678&&TELEFONNUMMER>>

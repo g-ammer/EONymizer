@@ -1,0 +1,14 @@
+ Hallo,
+
+Ich habe eine Frage zur letzten Rechnung, die ich von E.ON erhalten habe. Die Rechnungsnummer lautet <RECHNUNGSNUMMER> und betrifft meinen hier ersten genannten Vertrag mit der Vertragsnummer <VERTRAGSNUMMER>.
+
+Da der [=Rechnungsbetrag] deutlich höher als in vergangenen Monaten ist, verwundert mich das ein wenig. Könnten Sie mir bitte erläutern, wie es zu diesem erhöhten Rechnungsbetrag kommt?
+
+Danke im Voraus für Ihre Mühen.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

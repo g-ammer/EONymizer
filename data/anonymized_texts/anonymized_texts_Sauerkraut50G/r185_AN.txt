@@ -1,0 +1,16 @@
+ reiner@web.de
+Tel: 0176 12345678
+
+Output:
+
+Sehr geehrte Damen und Herren,
+
+auf meiner letzten Energie-Rechnung ist mir ein Fehler aufgefallen. Unter Rechnungsnummer <<RECHNUNGSNUMMER>> wurde mir ein Betrag von <ID> berechnet. Ich denke, das ist ein bisschen zu hoch, da ich letztes Jahr vierte Bande verbraucht habe.
+
+Ich freue mich auf eine Rückmeldung und Klärung. Ich würde gerne verstehen, wie dieser Betrag zustande kam.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

@@ -1,0 +1,19 @@
+ Betreff: Anfrage zum Kundendienst
+
+Sehr geehrte Damen und Herren,
+
+ich bin ein Kunde von E.ON unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und habe eine Frage zum Kundendienst.
+
+Ich habe mein Passwort für das Online-Kundenportal vergessen und möchte auch mein Smartphone wechseln. Daher wollte ich fragen, wie der Prozess für den Wechsel der Handynummer für die Zwei-Faktor-Authentifizierung verläuft.
+
+([Meine aktuelle Nummer: <TELEFONNUMMER>, Meine neue Nummer: <NEUE_TELEFONNUMMER>])
+
+Ich hoffe, dass Sie mir dabei weiterhelfen können, da ich schnellstmöglich den Kontakt zu meinem Kundenbetreuer aufnehmen muss.
+
+Ich bedanke mich im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+E-Mail: <EMAIL>

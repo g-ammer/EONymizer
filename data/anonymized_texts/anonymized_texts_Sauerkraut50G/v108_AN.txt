@@ -1,0 +1,9 @@
+ Hallo <PERSON>,
+
+ich habe eine Frage zu meiner Vertragslaufzeit. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Könnten Sie mir bitte mitteilen, bis wann mein Vertrag läuft und wie die Kündigungsfrist ist.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

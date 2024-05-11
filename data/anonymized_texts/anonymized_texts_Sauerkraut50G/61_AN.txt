@@ -1,0 +1,11 @@
+ Betreff: Frage zum Kundenbetreuer
+
+Sehr geehrter Kundendienst,
+
+mein Name ist <PERSON> und ich habe einige Fragen zu meinen Kundenservice-Optionen unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Könnten Sie mir bitte das zugewiesene Kundenbetreuerteam und wann sie mich erreichen können durchgeben? Diese Infos sind wichtig für mich, um alle Ihre Hilfe nutzen zu können.
+
+Hat Boedeckerstr. 12, 45631 Stuttgart die gleiche Kundennummer wie ich?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

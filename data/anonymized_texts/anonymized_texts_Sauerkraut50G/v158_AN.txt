@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich möchte gerne meine aktuelle Vertragslaufzeit erfragen. Meine Vertragsnummer ist <VERTRAGSNUMMER>. Könnten Sie mir bitte mitteilen, bis wann diese läuft und ob eine Möglichkeit zur Kündigung besteht?
+
+Herzliche Grüße
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+Tel. <TELEFONNUMMER>

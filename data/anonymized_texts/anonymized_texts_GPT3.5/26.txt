@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich hätte eine Frage bezüglich meiner Vertragsnummer <<402364821&&VERTRAGSNUMMER>>. Wie kann ich Kontakt mit einem Kundenbetreuer aufnehmen, um meinen Vertrag zu besprechen? Die Gesprächsthemen sollten u.a. meine aktuelle Rechnungsnummer <<5629342871&&RECHNUNGSNUMMER>> und die Abrechnung meines Zählers beinhalten.
+
+Mit freundlichen Grüßen,
+<<Helmut Schmidt&&PERSON>>
+<<Mauerstraße 12&&STRASSE>>
+<<53859&&PLZ>><<München&&ORT>>
+<<h.schmidt@example.de&&EMAIL>>
+<<+49 175 9823461&&TELEFON>>

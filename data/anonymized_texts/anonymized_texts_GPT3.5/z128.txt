@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>>. Ich habe meinen Zähler abgelesen und habe eine Frage dazu. Wo kann ich meinen aktuellen Zählerstand eingeben, sodass die Daten für die nächste Abrechnung berücksichtigt werden? Ich würde dies gerne selbstständig machen.
+Meine Zählernummer lautet <<123456789&&ZAEHLERNUMMER>>.
+Vielen Dank für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Buchenweg 4&&STRASSE>>, <<12345&&PLZ>>,
+ <<Hauptstadt&&ORT>>
+Email: <<h.muller@example.de&&EMAIL>>
+Tel: <<030/12345678&&TELEFONNUMMER>>

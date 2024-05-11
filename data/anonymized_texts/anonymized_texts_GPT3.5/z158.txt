@@ -1,0 +1,17 @@
+Sehr geehrte Damen und Herren, 
+
+ich habe nun auf meiner Jahresrechnung gesehen, dass der Zählerstand, der angenommen wurde, über dem entspricht, den ich tatsächlich abgelesen hatte. Der genommene Zählerstand ist deutlich zu hoch und daher ist auch meine Jahresabrechnung falsch.
+
+Geschäftspartnernummer: <<200230835&&GESCHAEFTSPARTNERNUMMER>>
+Vertragsnummer: <<400062013&&VERTRAGSNUMMER>>
+Zählernummer: <<13980520&&ZAEHLERNUMMER>>
+
+Könnten sie mir nun bitte sagen, wie hier der weitere Prozess aussieht und, ob meine Zählerstandübersicht korrigiert wird? Was kann ich noch tun, um zu lösen dieses Problem? 
+
+Vielen Dank im Voraus! 
+
+Mit freundlichen Grüßen,
+<<Linda Müller&&PERSON>>
+<<Mertlocher Pfad 26&&STRASSE>>, <<56727&&PLZ>> <<Mayen&&ORT>>
+<<0175-2460087&&TELEFONNUMMER>>
+<<linda.mueller@mmmail.de&&EMAIL>>

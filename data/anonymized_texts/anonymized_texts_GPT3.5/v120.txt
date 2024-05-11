@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich meines Energievertrags. Meine Vertragsnummer lautet <<400123456&&VERTRAGSNUMMER>>. Können Sie mir bitte die exakte Vertragslaufzeit dieses Vertrags mitteilen? Ich überlege zurzeit, ob eine Kündigung für mich in Frage kommt und möchte gerne wissen, bis wann ich diese einreichen muss.
+
+Mit freundlichen Grüßen,
+<<Anna Müller&&PERSON>>
+<<Anna@beispiel.de&&EMAIL>>
+<<Musterweg 3, 12345 Musterstadt&&STRASSE>>,
+<<12345&&PLZ>>,
+<<Musterstadt&&ORT>>

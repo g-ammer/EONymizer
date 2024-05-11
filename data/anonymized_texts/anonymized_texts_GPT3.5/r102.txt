@@ -1,0 +1,8 @@
+Guten Tag,
+
+ich habe eine Frage zu meiner neuesten Rechnung (Rechnungsnummer: <<7773210656&&RECHNUNGSNUMMER>>). Der Rechnungsbetrag scheint höher zu sein als sonst. Mein Vertragskonto ist die <<404895782&&VERTRAGSNUMMER>>. Könnten Sie bitte überprüfen, ob hier ein Fehler vorliegt?
+
+Mit freundlichen Grüßen,
+<<Hermann Schneider&&PERSON>>
+<<schneider.herm@t-online.de&&EMAIL>>
+<<Mühlweg 45, 10115 Berlin&&STRASSE>><<10115&&PLZ>>

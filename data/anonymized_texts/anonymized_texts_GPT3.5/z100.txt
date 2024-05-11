@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich hoffe, Sie können mir bei meiner Frage weiterhelfen. Ich bin Kunde bei Ihnen und habe die Vertragsnummer <<402938475&&VERTRAGSNUMMER>>. Ich habe heute meinen Zählerstand abgelesen und würde diesen nun gerne übermitteln. Leider finde ich auf Ihrer Webseite keine Möglichkeit, den Zählerstand einzugeben. Könnte Sie mir kurz erklären, wie ich das machen kann?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Ziegelstraße 2, 10115&&STRASSE>> <<Berlin&&ORT>>
+<<hans.mueller@beispiel.de&&EMAIL>>
+Tel: <<0171 2345678&&TELEFONNUMMER>>

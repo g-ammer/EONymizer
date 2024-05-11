@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <GESCHÄFTSPARTNERNR.> und wohne in der <ADRESSE>. 
+Ich habe eine Frage zu meinem Zähler. Wie gebe ich meinen Zählerstand richtig ein? Ich bin mir nicht sicher, wie ich die richtige Ablesung meines Zählers vornehme und wie ich diese dann bei E.ON eingeben soll.
+Ich freue mich auf eine schnelle Rückmeldung. 
+
+Viele Grüße,
+
+<PERSON>
+<EMAIL>
+<TELEFONNR.>

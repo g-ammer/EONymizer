@@ -1,0 +1,15 @@
+ Guten Tag E.ON Team,
+
+mein Name ist <PERSON> und ich habe ein Problem mit meinem technischen Support. Mein Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Leider kann ich mich nicht mehr in der E.ON App einloggen, obwohl ich sicher bin, dass meine Login-Daten korrekt sind. Ich habe sogar das Passwort schon geändert, stand jedoch vor dem gleichen technischen Problem.
+
+Deshalb wäre ich Ihnen sehr dankbar, mich um Unterstützung zu bitten. Sind der Server und das interne System der App in Störung? Nur eine kleine Closed Wissen Information Besuch Ni Retry!
+
+Für jegliche Hilfe bin ich äußerst dankbar!
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>

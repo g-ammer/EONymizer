@@ -1,0 +1,12 @@
+Guten Tag, 
+
+ich habe vor Kurzem eine Rechnung von Ihnen mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>> erhalten - der Betrag ist teurer als gewohnt und ich verstehe nicht ganz warum. Ist das eventuell ein Fehler Ihrerseits oder wurden die Preise erhöht? Es handelt sich um den Vertrag mit der Vertragsnummer <<403041526&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Patrick Schmidt&&PERSON>>
+<<p.schmidt@example.com&&EMAIL>>
+<<Petersburger Str. 25&&STRASSE>>, <<10245&&PLZ>>,
+ <<Berlin&&ORT>>
+<<0172 1234567&&TELEFONNUMMER>>

@@ -1,0 +1,13 @@
+ Guten Tag E-ON Kundenservice,
+
+mein Name ist <PERSON>, Geschäftspartner Nummer <GESCHAEFTSPARTNERNUMMER> sowie Vertragsnummer <VERTRAGSNUMMER>. Ich habe leider Probleme mit meiner E-ON App auf dem Handy. Sie stürzt ab, wenn ich versuche meinen Account zu Öffnen um meine verzehrten kWh einzusehen.
+
+Ich wäre Ihnen sehr dankbar, wenn Sie einen Blick darauf werfen könnten.
+
+Auf Hoping gelästorrungen!
+
+Freundliche Grüße
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

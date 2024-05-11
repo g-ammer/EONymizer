@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei Ihnen und hätte eine Frage zu meinem Vertrag. Meine Vertragsnummer lautet <<402837593&&VERTRAGSNUMMER>>.
+Könnten Sie mir bitte die Laufzeit meines Vertrages nennen? Ich kann diese Information momentan leider nicht in meinen Unterlagen finden.
+Vielen Dank im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Julian Schmidt&&PERSON>>,
+<<Mohnweg 12&&STRASSE>>,
+<<12345&&PLZ>><<Hannover&&ORT>>,
+<<julian_schmidt@gmail.com&&EMAIL>>
+<<0176234567&&TELEFONNUMMER>>

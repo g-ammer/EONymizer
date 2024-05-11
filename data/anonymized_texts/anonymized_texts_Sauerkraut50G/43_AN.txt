@@ -1,0 +1,8 @@
+ Guten Tag,
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich habe vor Kurzem einen Stromvertrag bei E.ON abgeschlossen. Leider habe ich einige Fragen zur Abrechnung, die ich nicht auf Ihrer Webseite klären konnte.
+Die Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Die Rechnungsnummer meiner aktuellen Abrechnung ist <<RECHNUNGSNUMMER>>.
+Könnten Sie mir bitte erklären, wie sich der monatliche Abschlag zusammensetzt? Ich bin mir nicht sicher, was die einzelnen Posten auf meiner Rechnung bedeuten.
+Haben Sie außerdem eine Empfehlung, wie ich meinen Verbrauch besser kontrollieren und möglicherweise verringern kann?
+Ich freue mich auf Ihre Antwort.
+Vielen Dank und beste Grüße,
+<PERSON>

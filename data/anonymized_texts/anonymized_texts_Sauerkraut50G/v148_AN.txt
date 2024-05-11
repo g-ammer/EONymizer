@@ -1,0 +1,13 @@
+ Sehr geehrter Kundendienst,
+
+ich bin Kunde bei E.ON unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> und habe einige Fragen zu meinem Vertrag. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Wie lang ist die aktuelle Vertragslaufzeit und wann wäre eine Kündigung möglich? Die Zählernummer meines Stromzählers vor Ort ist <ZAEHLERNRUMMER>.
+
+Ich bitte Sie um zeitnahe Rückmeldung auf mein Anliegen.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel: <TELEFONNUMMER>
+<EMAIL>

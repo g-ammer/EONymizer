@@ -1,0 +1,15 @@
+Hallo E.ON Kundenservice,
+
+seit ein paar Tagen habe ich Probleme beim Einloggen in die E.ON App. Sobald ich versuche mich einzuloggen, erhalte ich die Meldung "Technischer Fehler, bitte versuche es später erneut". Ich habe unterschiedliche Dinge probiert zu tun, wie z.B die App neu zu installieren, doch leider keine Lösung funktioniert hat.
+
+Haben Sie eine Ahnung, womit das Zusammenhängen könnte meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<2001234567&&GESCHAEFTSPARTNERNUMMER>>? Es wäre eine Erleichterung zu wissen, dass Ihr Team daran arbeitet, dieses Problem zu lösen.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Sven Schmitt&&PERSON>>
+<<s.schmitt@example.de&&EMAIL>>
+<<0171/12334567&&TELEFONNUMMER>>
+<<Brunnenallee 6, 10585 Berlin&&STRASSE>>,
+<<10585&&PLZ>>,
+<<Berlin&&ORT>>

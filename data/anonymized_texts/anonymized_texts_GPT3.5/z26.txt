@@ -1,0 +1,12 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine kurze Frage bezüglich meines Zählerstands. Ich bin seit kurzem Kunde bei Ihnen und habe bisher noch keinen Zählerstand mitgeteilt. Ich frage mich, wie und wann ich das tun soll. Gibt es Fristen, die ich beachten muss? Mein Vertragskonto ist die Nummer <<401234567&&VERTRAGSNUMMER>>. Die Zählernummer lautet <<Z2320001&&ZAEHLERNUMMER>>.
+
+Ich bedanke mich im Voraus.
+
+Viele Grüße 
+<<Julian Schreiber&&PERSON>>
+<<Max-Beer-Straße 9&&STRASSE>>
+<<10787&&PLZ>><<Berlin&&ORT>>
+Tel: <<030 / 123456789&&TELEFONNUMMER>>
+Email: <<julian.schreiber@email.de&&EMAIL>>

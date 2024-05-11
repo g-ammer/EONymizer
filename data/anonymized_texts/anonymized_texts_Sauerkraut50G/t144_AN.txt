@@ -1,0 +1,6 @@
+ Sehr geehrtes E.ON Team,
+
+mein Name ist <PERSON>, ich wohne auf der <STRASSE> in <ORT>. Ich habe Probleme mit dem Login in eurer E.ON App. Meine Vertragsnummer ist <VERTRAGSNUMMER>, Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>. Könntet ihr mir bitte dabei technisch helfen?
+
+Freundliche Grüße,
+<PERSON>

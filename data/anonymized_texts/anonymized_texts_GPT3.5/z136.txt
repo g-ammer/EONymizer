@@ -1,0 +1,16 @@
+Sehr geehrter E.ON Kundenservice,
+
+ich würde gern mehr über meinen Zählerstand erfahren. Leider habe ich gegenwärtig Schwierigkeiten meinen Zählerstand nachzuvollziehen. Könnten Sie mir bitte mitteilen, wie und wo ich genau meinen Zählerstand nachlesen kann?
+
+Ich finde es kompliziert den genauen Stand meines Stromverbrauchs zu verfolgen und bin daher ziemlich verwirrt und unsicher über die Genauigkeit meiner letzten Rechnung mit der Nummer <<1234567890&&RECHNUNGSNUMMER>>. Ich bitte Sie daher um ein wenig Hilfe zu diesen Anliegen.
+
+Zur einfacheren Zuordnung, hier meine Daten:  
+
++ Mein Name ist <<Anna Hoffmann&&PERSON>>
++ Meine Anschrift lautet auf <<Grünstraße 5&&STRASSE>>, <<10243&&PLZ>> <<Berlin&&ORT>>
++ GESCHAEFTSPARTNERNUMMER: <<202345678&&GESCHAEFTSPARTNERNUMMER>>
+
+Ich freue mich auf Ihre Unterstützung.
+
+Beste Grüße,
+<<Anna Hoffmann&&PERSON>>

@@ -1,0 +1,11 @@
+Hallo, vielen Dank,
+
+ich wende mich heute an Sie als Ihren treuen Kunden mit einer dringenden Frage. Ich habe Probleme, mich bei der E.ON App zu loggen. Es ist ein bisschen ärgerlich, da ich meinen Zählerstand ablesen und damit meinen Energieverbrauch von 23-45-678-08-91 überwachen wollte. Könnten Sie mir bitte den technischen Support schicken oder eine Anleitung geben, wie ich dieses technische Problem beheben kann?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen
+
+<PERSON>
+<ADRESSE>
+Email: <EMAIL>

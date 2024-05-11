@@ -1,0 +1,13 @@
+ Sehr geehrter Kundenservice,
+
+ich hätte eine Frage bezüglich meines Energievertrags mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe am 18.04. meine Abrechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> erhalten, jedoch scheinen einige Positionen unklar.
+
+Könnte sich ein Kundenberater mit mir in Verbindung setzen? Sie erreichen mich unter <TELEFONNUMMER> oder per E-Mail an <EMAIL>.
+
+Ich bin Wochentags zwischen 9 und 14 Uhr erreichbar.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

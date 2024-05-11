@@ -1,0 +1,9 @@
+ Sehr geehrte Köpfchen viel Energie,
+
+mein Name ist <PERSON> und ich wohne in der Karolinenstraße 124 in Neunkirchen. Angesichts meines bevorstehenden Umzugs ärgert mich der Gedanke, dass mein Vertrag hier nicht mitgehen kann. Es bezüglich sich Vertragsnummer <VERTRAGSNUMMER> und der Zählernummer <ZAEHLERNUMMER>.
+
+Ich würde gerne mehr über die Möglichkeiten erfahren, meinen Vertrag zu einem neuen Wohnort mitnehmen zu können.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>

@@ -1,0 +1,13 @@
+Guten Tag E.ON Kundenservice,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Ich habe kürzlich einen neuen Zählerstand erfasst und online eingetragen, aber irgendwie scheint es nicht aktualisiert zu sein auf meinem Konto. Können Sie mir bitte helfen, dies zu klären?
+
+Meine Vertragsnummer ist <<402938475&&VERTRAGSNUMMER>> und die Geschäftspartnernummer lautet <<201234567&&GESCHAEFTSPARTNERNUMMER>>. Der betroffene Zähler hat die Nummer <<Z123456789&&ZAEHLERNUMMER>>. 
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Johanna Schmidt&&PERSON>>
+<<Schillerstraße 12, 10115 Berlin&&STRASSE>>
+<<johanna.schmidt@web.de&&EMAIL>>
+<<+49 170 1234567&&TELEFONNUMMER>>

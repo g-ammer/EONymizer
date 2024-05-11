@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich des Zählerstands meines Stromzählers. Die Zählernummer ist <ZÄHLERNR.>. Ich habe vor kurzem den Zähler abgelesen und bin mir unsicher, ob ich den Zählerstand korrekt verstanden und notiert habe. 
+
+Können Sie mir bitte erklären, wie ich den Zählerstand korrekt ablesen und verstehen kann? Gibt es eine bestimmte Reihenfolge oder Methode, die ich beachten muss? Wie kann ich sicherstellen, dass ich den korrekten Zählerstand für meine nächste Rechnung melde?
+
+Meine Vertragsnummer ist <VERTRAGSNR.>. Ich wohne in der <ADRESSE>. Sie können mich unter der Telefonnummer <TELEFONNR.> oder per E-Mail an <EMAIL> erreichen.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

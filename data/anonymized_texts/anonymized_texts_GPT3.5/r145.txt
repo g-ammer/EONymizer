@@ -1,0 +1,13 @@
+Betreff: Frage zum Rechnungsbetrag
+
+Sehr geehrte Damen und Herren,
+
+kürzlich habe ich meine Energieabrechnung für das Jahr 2021 erhalten mit der Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>. Beim Durchsehen der Rechnung ist mir jedoch ein unerwartet hoher Rechnungsbetrag aufgefallen. Könnten Sie mir bitte eine detaillierte Aufschlüsselung des Rechnungsbetrags zur Verfügung stellen, damit ich besser nachvollziehen kann, wie dieser zustande gekommen ist?
+
+Zur Vereinfachung der Kommunikation gebe ich Ihnen hier meine Vertragsnummer <<402345678&&VERTRAGSNUMMER>> und Geschäftspartnernummer <<201234567&&GESCHAEFTSPARTNERNUMMER>> an. Mein Name ist <<Claudia Schmidt&&PERSON>> und ich wohne in der <<Friedrichstraße 23&&STRASSE>>, <<10117&&PLZ>> <<Berlin&&ORT>>. Sie erreichen mich telefonisch unter <<030/12345678&&TELEFONNUMMER>> oder per E-Mail an <<claudia.schmidt@example.com&&EMAIL>>.
+
+Ich freue mich auf Ihre baldige Rückmeldung und bedanke mich bereits im Voraus für Ihre Mühe.
+
+Mit freundlichen Grüßen,
+
+<<Claudia Schmidt&&PERSON>>

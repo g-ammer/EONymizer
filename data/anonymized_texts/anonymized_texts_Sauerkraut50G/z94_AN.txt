@@ -1,0 +1,10 @@
+ Betreff: Zählerstandabfrage für Vertragsnummer <VERTRAGSNUMMER>
+
+Liebe E.ON-Servicemitarbeiter,
+
+Ich bin ein treuer E.ON Vertragsnehmer, wohnhaft in <STRASSE>, <PLZ><ORT>, sehe mich jedoch danke im Rahmen meiner Zählerstandabfrage darin bestärkt, Ihnen den aktuellen Stand mitzuteilen:
+
+<ZAEHLERNRUMMER>
+
+Mit freundlichen Grüßen,
+<PERSON>

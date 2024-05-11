@@ -1,0 +1,13 @@
+Betreff: Frage zu Stromrechnung
+
+Hallo E.ON Kundenservice,
+
+ich habe vor Kurzem meine aktuelle Stromrechnung mit der Rechnungsnummer <<7654321098&&RECHNUNGSNUMMER>> erhalten. Diesmal ist der gesamte Betrag etwas höher als sonst. Könnten Sie bitte prüfen, ob das richtig ist? Es geht mir um die Stromrechnung für meine Wohnung in der <<Brahmstraße 11&&STRASSE>>, <<87611&&PLZ>> <<Augsburg&&ORT>>, und das dazugehörige Vertragskonto lautet die Vertragsnummer <<123242362789&&VERTRAGSNUMMER>>.
+
+Telefonisch erreichen Sie mich unter folgender Nummer: <<017632145782&&TELEFONNUMMER>>.
+
+Danke im Voraus für Ihre Unterstützung!
+
+Herzlichen Dank,
+
+<<Johanna Schneider&&PERSON>>

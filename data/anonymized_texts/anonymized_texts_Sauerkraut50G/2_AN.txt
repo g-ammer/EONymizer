@@ -1,0 +1,16 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe eine Frage bezüglich des Kundenservice. Vor einigen Tagen hatte ich ein Problem mit meiner Stromversorgung und wollte Kontakt mit einem Kundenberater aufnehmen. Leider konnte ich niemanden erreichen.
+
+Könnten Sie mir bitte mitteilen, wie ich am besten einen Kundenbetreuer erreichen kann, falls ich zukünftig wieder auf Probleme stoße? Gibt es eine spezielle Telefonnummer oder E-Mail-Adresse, die ich verwenden kann? Oder kann ich auch über das Kundenportal auf Ihrer Webseite einen Kundenberater kontaktieren?
+
+Ich würde mich über eine schnelle Rückmeldung freuen.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ>,
+<ORT>
+Tel: <TELEFONNUMMER>

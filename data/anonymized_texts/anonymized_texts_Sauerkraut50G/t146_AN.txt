@@ -1,0 +1,11 @@
+ Guten Tag,
+
+Ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Leider habe ich Probleme beim Einloggen in die E.ON App. Es lief bisher immer ohne Störungen, aber heute funktioniert es nicht. Kann es sein, dass technische Probleme bei Ihnen vorliegen?
+
+Ich hoffe auf eine schnelle Lösung und bedanke mich im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

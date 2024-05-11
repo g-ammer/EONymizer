@@ -1,0 +1,14 @@
+Guten Tag,
+
+ich habe einige offene Fragen in meinem Active Blue Vertrag mit der Vertragsnummer <<403456789&&VERTRAGSNUMMER>>. Wie lange läuft der Vertrag noch? Wurde er automatisch verlängert? Ich habe vergessen, nach dem Ablaufdatum zu schauen.
+
+Falls er nahe am Ende ist, hätte ich gerne Informationen zur Kündigungsfrist. Kann ich innerhalb von vier Wochen kündigen?
+
+Vielen Dank für Ihre Auskunft.
+
+Mit freundlichen Grüßen,
+<<Monika Berghause&&PERSON>>,
+<<Sonnenblumenweg 7&&STRASSE>>,
+<<12345&&PLZ>><<Berlin&&ORT>>,
+<<+49 123 456790&&TELEFONNUMMER>>,
+<<berghause.monika@email.de&&EMAIL>>

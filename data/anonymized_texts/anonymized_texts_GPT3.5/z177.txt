@@ -1,0 +1,13 @@
+Hallo E.ON Kundendienst,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <<Joseph Schmidt&&PERSON>> und meine Vertragsnummern lauten <<404567789&&VERTRAGSNUMMER>> und <<282016481234&&VERTRAGSNUMMER>>. Ich wohne in der <<Kaiserstraße 152&&STRASSE>>, <<34117&&PLZ>> <<Kassel&&ORT>>.
+
+Ich habe Schwierigkeiten, meinen aktuellen Zählerstand zu ermitteln. Sanden Sie mir bitte Informationen zu, wie ich meinen Zählerstand genau  ablesen kann? Sowohl zum Strom- als auch zum Gaszähler bitte. 
+
+Vielen lieben Dank im Voraus.
+
+Bleiben Sie gesund!
+
+Herzliche Grüße,
+
+<<Joseph Schmidt&&PERSON>>

@@ -1,0 +1,10 @@
+Sehr geehrtes E.ON Team,
+
+ich beziehe mein Strom unter der Vertragsnummer <<402789123&&VERTRAGSNUMMER>> und habe kürzlich eine Rechnung bekommen. Mir ist jedoch nicht ganz klar, wohin ich die Zahlung des Rechnungsbetrags tätigen soll. Könnten Sie mir bitte die Zahlungsinformation bestätigen? Die Rechnungsnummer lautet <<8965314782&&RECHNUNGSNUMMER>>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Thomas Schneider&&PERSON>>
+<<Musterhausen, Rheinstraße 85, 26382&&ORT>>
+Tel: <<+49-176-78904734&&TELEFONNUMMER>>

@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meiner Rechnung mit der Rechnungsnummer <RECHNUNGSNUMMER>. Die Zahlung wurde bereits vor einigen Tagen von meinem Konto abgebucht, aber in meinem Kundenkonto sehe ich immer noch den offenen Betrag. Wird diese Information nicht sofort nach der Zahlung aktualisiert?
+
+Ich freue mich auf eine rasche Klärung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<TELEFONNUMMER>
+<STRASSE>, <PLZ><ORT>

@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich habe ein kleines technisches Problem mit meiner E.ON App. Nach dem letzten Update funktioniert mein Login nicht mehr. Ich habe bereits versucht mein Passwort zurückzusetzen, allerdings ohne Erfolg. Sollte es eine Störung geben, lassen sie mich bitte wissen.
+Für die schnelle Lösung meines Anliegens, hier meine Vertragsnummer die mit <<242678953421&&VERTRAGSNUMMER>> anfängt: <<242678953421&&VERTRAGSNUMMER>>.
+Vielen Dank im Voraus für Ihre Hilfe, und ich hoffe auf eine zügige Behebung des Problems.
+Mit freundlichen Grüßen,
+<<Maria Schäfer&&PERSON>>
+<<mschaefer@email.de&&EMAIL>>
+Tel: <<0171 2345678&&TELEFONNUMMER>>
+<<Rosenstraße 12, 80939 München&&STRASSE>>, <<80939&&PLZ>>,
+ <<München&&ORT>>

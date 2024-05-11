@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundenservice,
+
+mein Name ist <PERSON> und meine Adresse ist <ADRESSE>. Ich habe eine Frage zu meinem Zählerstand. Bislang hat mein Zähler immer einen gewissen Wert angezeigt, doch auf meiner letzten Rechnung (Rechnungsnummer: <RECHNUNGSNR.>) erscheint eine höhere Anzahl Kilowattstunden als erwartet. 
+
+Könnten Sie bitte prüfen, ob es ein Missverständnis mit dem Zählerstand gibt? Meine Vertragsnummer ist <ZÄHLERNR.> und die Zählernummer lautet <ZÄHLERNR.>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

@@ -1,0 +1,12 @@
+ Betreff: Unklarheit bezüglich meiner letzten E.ON Rechnung
+
+Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich wende mich an Sie, aufgrund meiner letzten Rechnung. Ich lebe in der <STRASSE>, <PLZ><ORT> und habe folgende Vertragsnummer: <VERTRAGSNUMMER>.
+
+Mir ist aufgefallen, dass der Rechnungsbetrag auf meiner neuesten Abrechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> deutlich höher ausfällt als gewöhnlich. Daher würde ich gerne wissen, wie dieser Betrag zustande gekommen ist und ob eventuell ein Fehler bei der Abrechnung vorliegt. Auch interessiert mich die Zahlungsfrist für diese Rechnung.
+
+Über eine Rückmeldung würde ich mich sehr freuen. Sie können mich unter folgender Nummer erreichen: <TELEFONNUMMER> oder per E-Mail an <EMAIL>.
+
+Mit freundlichen Grüßen
+<PERSON>

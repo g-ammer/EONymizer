@@ -1,0 +1,17 @@
+Sehr geehrtes E.ON Kundenservice-Team,
+
+mein Name ist <<Michael Schneider&&PERSON>>, ich bin bereits seit mehreren Jahren Kunde bei E.ON, und meine Geschäftspartnernummer lautet <<201256789&&GESCHAEFTSPARTNERNUMMER>>. Ich habe heute versucht, mich in die E.ON App einzuloggen, um meinen Energieverbrauch zu überprüfen. Leider habe ich dabei aber eine technische Störung festgestellt.
+
+Ich habe meinen Benutzernamen und das Passwort korrekt eingegeben, aber jedes Mal, wenn ich versuche mich einzuloggen, stürzt die App ab. Ich habe auch schon versucht, die App zu deinstallieren und neu zu installieren, aber das Problem bleibt bestehen. Die App stürzt jedes Mal ab, wenn ich versuche mich einzuloggen.
+
+Bitte können Sie mir bei diesem Problem helfen? Gibt es vielleicht eine bekannte Störung, die dieses Problem verursacht, oder ist es vielleicht ein Problem nur auf meinem Handy?
+
+Ich warte auf Ihre baldige Rückmeldung. 
+
+Vielen Dank für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<<Michael Schneider&&PERSON>>
+<<m.schneider@beispiel.de&&EMAIL>>
+<<0176 12345678&&TELEFONNUMMER>>
+<<Martin-Luther-Straße 16&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>

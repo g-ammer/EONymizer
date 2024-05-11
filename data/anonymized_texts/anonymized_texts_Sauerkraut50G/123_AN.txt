@@ -1,0 +1,8 @@
+ Guten Tag,
+
+ich habe ein Anliegen bezüglich meines Vertrages bei E.ON. Meine Vertragsnummer ist <VERTRAGSNUMMER>. Könnten mir bitte eines eures Kundenberater Informationen geben, weshalb meine letzte Rechnung mit der Nummer <<RECHNUNGSNUMMER>> so hoch ausfällt?
+
+Danke für Ihre Unterstützung.
+
+Mit Freundlichen Grüßen,
+<PERSON>

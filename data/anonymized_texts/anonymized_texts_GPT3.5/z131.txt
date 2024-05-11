@@ -1,0 +1,13 @@
+Hallo E.ON Team,
+
+ich hätte eine Frage, und zwar zur Ablesung meines Zählerstandes. Ich bin mir nicht sicher, ob ich den Zählerstand korrekt abgelesen habe. Gibt es vielleicht eine spezielle Prozedur oder Anleitung, die ich befolgen sollte?
+
+Meine Vertragsnummer lautet <<232456789012&&VERTRAGSNUMMER>> und die Zählernummer ist <<876543210&&ZAEHLERNUMMER>>.
+
+Ich freue mich auf Ihre Antwort und danke Ihnen für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Philipp Müller&&PERSON>> 
+<<Am Fliederbusch 6, 
+44319 Dortmund&&STRASSE>><<+491728374645&&TELEFONNUMMER>>
+<<philipp.muller@yahoo.com&&EMAIL>>

@@ -1,0 +1,14 @@
+ Guten Tag,
+
+ich habe seit gestern Schwierigkeiten, mich auf der E.ON-Website einzuloggen. Ich erhalte jedes Mal den Hinweis auf einen technischen Fehler. Könnten Sie bitte meinen Account unter der Vertragsnummer <VERTRAGSNUMMER> prüfen?
+
+Vielen Dank vorab.
+
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>
+<TELEFONNUMMER>
+
+Beste Grüße,
+<PERSON>

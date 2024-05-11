@@ -1,0 +1,11 @@
+ Sehr geehrtes E.ON Team,
+
+ich bin bei Ihnen als Kunde unter der Vertragsnummer <VERTRAGSNUMMER> registriert. Ich habe eine Frage bezüglich meiner Vertragslaufzeit. Könnten Sie mir bitte mitteilen, wann genau mein Vertrag ausläuft? Des Weiteren würde ich gerne wissen, wie lange die Kündigungsfrist ist, falls ich mich entscheiden sollte, meinen Vertrag zu kündigen.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

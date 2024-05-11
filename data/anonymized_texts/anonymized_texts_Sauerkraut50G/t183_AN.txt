@@ -1,0 +1,11 @@
+ Guten Tag,
+
+meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich habe leider erhebliche Probleme mit der E.ON App. Der Login funktioniert nicht mehr. Obwohl ich mehrfach versuche mich anzumelden, komme ich nicht durch. Gibt es da gerade eine Störung? Was kann ich machen, um wieder Zugriff auf meine Kundenkontodetails zu bekommen?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+ich bin Kunde bei E.ON und benötige technischen Support. Vor kurzem habe ich versucht, mich in der E.ON-App auf meinem Smartphone einzuloggen, aber aus irgendeinem Grund kann ich nicht auf mein Konto zugreifen. Ich habe bereits versucht, mein Passwort zurückzusetzen, aber das hat das Problem nicht gelöst.
+Bitte notieren Sie meine Vertragsnummer: <<402567843&&VERTRAGSNUMMER>>. Ich möchte gern wissen, ob es vielleicht eine technische Störung gibt oder ob das Problem an meiner Seite liegt.
+Gerne können Sie mich unter meiner E-Mail-Adresse <<kundemuster@beispiel.de&&EMAIL>> oder telefonisch unter der Nummer <<+49 170 1234567&&TELEFONNUMMER>> erreichen.
+Vielen Dank im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Herr Max Muster&&PERSON>>
+<<Hauptstraße 32&&STRASSE>>, <<90403&&PLZ>> <<Nürnberg&&ORT>>

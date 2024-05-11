@@ -1,0 +1,10 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON>, wohnhaft in der <STRASSE>, <PLZ><ORT>. Ich bin Kunde bei E-ON und habe bei meiner letzten Abrechnung eine Unklarheit entdeckt.
+
+Die Rechnungsnummer lautet: <<RECHNUNGSNUMMER>> und das Vertragskonto weist die Nummer <VERTRAGSNUMMER> auf. In der Abrechnung ist ein Betrag von 175,50 € genannt, der mir ungewöhnlich hoch erscheint. Könnten Sie hier möglichst zeitnah eine Prüfung veranlassen, um die Korrektheit dieses Betrages zu bestätigen.
+
+Ich würde mich freuen, wenn Sie mich per E-Mail an <EMAIL> oder telefonisch unter <TELEFONNUMMER> informieren könnten. Ihre Rückantwort ist mir wichtig.
+
+Viele Grüße,
+<PERSON>

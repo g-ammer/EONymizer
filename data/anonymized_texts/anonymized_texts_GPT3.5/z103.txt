@@ -1,0 +1,15 @@
+Betreff: Frage zum Zählerstand
+
+Sehr geehrtes E.ON Team,
+
+ich bin Kunde bei Ihnen und ich habe eine Frage bezüglich meines Zählerstandes. Meine Vertragsnummer lautet <<402345679&&VERTRAGSNUMMER>>. In meinem Onlinekonto kann ich den aktuellen Zählerstand nicht einsehen.
+
+Könnten Sie mir bitte mitteilen, wie der aktuelle Stand meines Zählers ist? Meine Zählernummer ist <<1234567890&&ZAEHLERNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hans.Mueller@mail.de&&EMAIL>>
+<<01701234567&&TELEFONNUMMER>>
+<<Schillerstraße 23, 10117 Berlin&&STRASSE>><<10117&&PLZ>> Berlin

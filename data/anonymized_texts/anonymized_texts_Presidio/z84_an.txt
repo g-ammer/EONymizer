@@ -1,0 +1,9 @@
+Sehr geehrtes E.ON-Team, 
+
+ich bin Kunde bei Ihnen und würde gerne meinen aktuellen Zählerstand bei Ihnen abfragen. Meine Vertragsnummer lautet <VERTRAGSNR.>, und die Zählernummer ist 123456. Bitte teilen Sie mir meinen aktuellen Zählerstand mit. 
+
+Mit freundlichen Grüßen 
+<PERSON>
+<ADRESSE>
+Tel: <TELEFONNR.>
+<EMAIL>

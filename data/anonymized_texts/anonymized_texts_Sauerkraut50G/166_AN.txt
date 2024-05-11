@@ -1,0 +1,13 @@
+ Hallo E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Vertrags den ich bei Ihnen abgeschlossen habe. Die Vertragsnummer lautet <VERTRAGSNUMMER>. Mir ist aufgefallen, dass die monatlichen Abschläge bei meinem Konto eingezogen wurden, ohne eine aktuelle Rechnung dazu zu bekommen. Könnten Sie bitte dies prüfen?
+
+Ich würde es sehr schätzen, wenn der zuständige Kundenbetreuer <KONTO> zu diesem Thema informieren könnte.
+
+Vielen Dank im Voraus.
+
+Bester Gruß,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hätte eine Frage bezüglich meines Energievertrags mit der Nummer <<402589347&&VERTRAGSNUMMER>>. Ich habe von Ihnen eine Rechnung mit der Rechnungsnummer <<3489755821&&RECHNUNGSNUMMER>> erhalten, die mir recht hoch erscheint. Könnten Sie mir bitte erklären, wie sich diese Summe zusammensetzt? 
+
+Ich würde mich über eine rasche Rückmeldung freuen. 
+
+Mit freundlichen Grüßen,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 15&&STRASSE>>
+<<10115&&PLZ>><<Berlin&&ORT>>
+<<mueller_hans@email.de&&EMAIL>>
+<<+49 176 12345678&&TELEFONNUMMER>>

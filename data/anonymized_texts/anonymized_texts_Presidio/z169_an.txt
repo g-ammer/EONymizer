@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage zu meinem Zählerstand. Meine Vertragsnummer lautet <ZÄHLERNR.>. Ich habe bemerkt, dass der Zählerstand auf meiner letzten Rechnung (Nr. <RECHNUNGSNR.>) nicht mit dem übereinstimmt, was ich auf meinem Zähler abgelesen habe. Kann es sein, dass hier ein Fehler vorliegt? 
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE>
+<EMAIL>
++49 

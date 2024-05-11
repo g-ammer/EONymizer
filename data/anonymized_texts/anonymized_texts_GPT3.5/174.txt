@@ -1,0 +1,11 @@
+Guten Tag, 
+
+ich hätte eine Frage zu meiner aktuellen Rechnungsnummer (RECHNUNGSNUMMER: <<2345723492&&RECHNUNGSNUMMER>>). Es bestehen bei mir einige Unklarheiten und ich wünsche eine detaillierte Aufschlüsselung dazu. An meinem Vertragskonto (VERTRAGSNUMMER: <<402342398&&VERTRAGSNUMMER>>) hat sich seit der vorangegangen Regulierung nichts verändert, daher ist mir die unsymmetrische Summe unklar. 
+
+In der Hoffnung auf ein rasches Klären meiner Anliegen wende ich mich an Sie und freuen mich auf eine zügige Rückmeldung. 
+
+Mit freundlichen Grüßen, 
+<<Werner Heider&&PERSON>>
+<<Am Haag 5&&STRASSE>>, <<28237&&PLZ>> <<Bremen&&ORT>>
+Telefon: <<0421 5456789&&TELEFONNUMMER>>
+E-Mail-Adresse: <<werner_heider@gmx.de&&EMAIL>>

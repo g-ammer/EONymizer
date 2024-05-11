@@ -1,0 +1,12 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage zu meinem Vertrag mit der Nummer <<400123456&&VERTRAGSNUMMER>>. Wäre es möglich, dass ich zukünftig von einem persönlichen Kundenbetreuer kontaktiert werde, der sich um meine Fragen und Anliegen kümmert? Ich hätte gerne einen direkten Ansprechpartner, den ich erreichen kann, wenn es Probleme gibt oder ich Beratung benötige.
+
+Ich danke Ihnen schon mal im Voraus für Ihre Hilfe.
+
+Viele Grüße
+<<Leonie Schmidt&&PERSON>>
+<<leoschmidt@mail.de&&EMAIL>>
+<<030/1234567&&TELEFONNUMMER>>
+<<Buchenstraße 12, 12345 Berlin&&STRASSE>>, <<12345&&PLZ>>,
+ <<Berlin&&ORT>>

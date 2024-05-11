@@ -1,0 +1,9 @@
+Betreff: Frage zum Zählerstand
+
+Guten Tag,
+
+ich habe einen E.ON Energievertrag (ID: <VERTRAGSNR.>) und wüsste gerne, woran ich erkenne, wann ich den Zählerstand meines Zählers (ID: <ZÄHLERNR.>) erfassen und übermitteln muss. Gibt es bestimmte Zeitpunkte im Jahr?
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.>\Eloquent  

@@ -1,0 +1,18 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meinem Energievertrag bei Ihnen. Meine Vertragsnummer ist <<408752491&&VERTRAGSNUMMER>>. In Verbindung mit meiner Geschäftspartnernummer <<203156789&&GESCHAEFTSPARTNERNUMMER>>, habe ich Fragen zur Vertragslaufzeit und zur Kündigungsfrist meines Vertrages.
+
+Nach meinem Verständnis beträgt meine Vertragslaufzeit bis jetzt zwei Jahre ab dem Startdatum, ich bin mir aber nicht sicher und möchte nachprüfen, ob das korrekt ist. Des Weiteren würde mich die Kündigungsfrist interessieren, welche ich einhalten muss, sollte ich mich dazu entscheiden, meinen Vertrag zu beenden.
+
+Meine Kontaktdaten, sofern Sie Rückfragen haben, sind: 
+
+<<Josef Schmidt&&PERSON>>
+<<Kaiserswerther Str. 15&&STRASSE>>
+<<40477&&PLZ>><<Düsseldorf&&ORT>>
+Telefonnummer: <<0176 30121980&&TELEFONNUMMER>>
+E-Mail: <<j.schmidt@web.de&&EMAIL>>
+
+Vielen Dank im Voraus für Ihre Hilfe und schnelle Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Josef Schmidt&&PERSON>>

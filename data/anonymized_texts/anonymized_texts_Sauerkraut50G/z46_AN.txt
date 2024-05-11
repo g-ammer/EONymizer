@@ -1,0 +1,14 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich beziehe Energie unter der Zählernummer <ZAEHLERNRUMMER>. An diesem Zähler scheint es ein Problem zu geben, ich bin etwas verwirrt bezüglich des Zählerstands.
+
+Es sieht so aus, als ob der aktuelle Zählerstand meiner Rechnungsnummer: <RECHNUNGSNUMMER> wesentlich höher ist als erwartet. Ich bin bestrebt, meinen Energieverbrauch einzuschränken und habe daher Mühe zu verstehen, wie ein so hoher Wert zustande kommen konnte.
+
+Ich würde gern mehr darüber erfahren, was gegenwärtig vonstatten geht. Könnten Sie bitte mein Problem so schnell wie möglich beurteilen und mich darüber informieren, was schief läuft und ob es sich um einen Fehler meinerseits oder möglicherweise des Zählers handelt?
+
+Kontaktieren Sie mich unter der Telefonnummer: <TELEFONNUMMER> oder per E-Mail: <EMAIL>.
+
+Vielen Dank für Ihre baldige Antwort,
+
+Mit freundlichen Grüßen,
+<PERSON>

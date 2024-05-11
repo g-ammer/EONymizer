@@ -1,0 +1,8 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und mein Wohnort ist die Bergmannstraße 5, <PLZ><ORT>. Meine Vertragsnummer ist <VERTRAGSNUMMER>. Da ich bald umziehe, möchte ich nach der Laufzeit des zugehörigen E.ON Energievertrages fragen. Wann endet sie und kann ich jederzeit eine Kündigung aussprechen?
+
+Ich danke Ihnen im Voraus für Ihre Hilfe!
+
+Mit freundlichen Grüßen,
+<PERSON>

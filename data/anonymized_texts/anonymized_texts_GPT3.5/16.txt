@@ -1,0 +1,5 @@
+Guten Tag E.ON Kundenservice,
+ich hätte eine Frage in Bezug auf meinen Energievertrag mit der Vertragsnummer <<402458725&&VERTRAGSNUMMER>>. Meine Geschäftspartnernummer ist <<200846593&&GESCHAEFTSPARTNERNUMMER>>. Können Sie mir bitte sagen, wer mein aktueller Kundenbetreuer ist und wie ich ihn erreichen kann? Meine E-Mail-Adresse lautet <<julia.mueller@gmx.de&&EMAIL>>.
+Vielen Dank im Voraus.
+Freundliche Grüße,
+<<Julia Müller.&&PERSON>>

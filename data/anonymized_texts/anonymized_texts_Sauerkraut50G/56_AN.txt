@@ -1,0 +1,12 @@
+ Betreff: Anfrage an den Kundenservice zu meinem Vertrag
+
+Hallo E.ON Kundenservice,
+
+mein Name ist <PERSON> und ich wende mich an Sie, da ich eine Frage zu meinem Energievertrag mit der Vertragsnummer <VERTRAGSNUMMER> habe. Ich würde gerne wissen, wann der nächste Ablesetermin für meinen Zähler mit der Zählernummer <ZAEHLERNRUMMER> ist.
+
+Könnte ein Kundenberater mir diesbezüglich Auskunft geben?
+
+Vielen Dank für Ihre Unterstützung und ich freue mich auf Ihre Antwort.
+
+Beste Grüße,
+<PERSON>

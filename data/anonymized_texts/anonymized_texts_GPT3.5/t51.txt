@@ -1,0 +1,15 @@
+Sehr geehrte Damen und Herren,
+
+ich habe seit einigen Tagen Schwierigkeiten beim Einloggen in die E.ON App auf meinem Smartphone. Ich benutze die App normalerweise regelmäßig, um meinen Energieverbrauch zu überwachen und meine Rechnungen zu verwalten.
+
+Nun erhalte ich beim Versuch zu einloggen immer wieder die Fehlermeldung "Login fehlgeschlagen". Ich habe bereits überprüft, ob ich mein Passwort korrekt eingebe und auch schon versucht, das Passwort zurückzusetzen, leider ohne Erfolg. Die App ist auf dem neuesten Stand und ich habe sie auch schon einmal deinstalliert und neu installiert.
+
+Können Sie bitte prüfen, ob es sich um eine technische Störung handelt oder ob das Problem an meiner Seite liegt? Meine Vertragsnummer ist <<402578931&&VERTRAGSNUMMER>> und die Geschäftspartnernummer lautet <<200976843&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen
+<<Johannes Schmidt&&PERSON>>
+<<johannes.schmidt@gmx.de&&EMAIL>>
+<<Holunderweg 7, 89134 Blaustein&&STRASSE>>
+Telefon: <<07304 44567&&TELEFONNUMMER>>

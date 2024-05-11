@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe eine Frage bezüglich meiner E.ON App. Bis gestern funktionierte die App hervorragend, seit heute kann ich mich jedoch mit meinen aktuellen Login-Daten nicht mehr anmelden.
+
+Ich wohne in der <STRASSE> in <ORT>. Ist dies eine allgemeine Störung oder nur ein isoliertes Problem? Werden Wartungsarbeiten durchgeführt oder gibt es technische Schwierigkeiten? Wie kann ich das Problem lösen?
+
+Freue mich über eine schnelle Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

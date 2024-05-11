@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich hätte eine Frage zu meinem E.ON Vertrag. Vertragsnummer ist die <<401234567&&VERTRAGSNUMMER>>. Könnten Sie mir bitte erläutern, wie man den Verbrauch auf meiner letzten Rechnung, Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>, berechnet hat? Ich verstehe die Aufschlüsselung nicht ganz und hätte gerne eine Erklärung.
+
+Vielen Dank im Voraus.
+
+Beste Grüße,
+<<Hans Schmidt&&PERSON>>,
+<<Neue Straße 10&&STRASSE>>,
+<<10115&&PLZ>><<Berlin&&ORT>>
+<<+49 170 1234567&&TELEFONNUMMER>>
+<<hans.schmidt@email.de&&EMAIL>>

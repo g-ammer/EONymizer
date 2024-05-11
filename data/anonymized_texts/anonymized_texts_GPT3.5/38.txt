@@ -1,0 +1,15 @@
+Betreff: Frage zur Zählernummer und Kundenbetreuung
+
+Sehr geehrter E.ON Kundenservice,
+
+ich habe eine Frage zu meiner Zählernummer <<5432109876&&ZAEHLERNUMMER>> und wünsche mir eine persönliche Betreuung durch einen Kundenberater.
+
+Könnten Sie mir bitte mitteilen, ob ein Beratungstermin möglich ist und wie ich diesen am besten vereinbaren kann? Ich bevorzuge eine telefonische Beratung, daher wäre es hilfreich, wenn Sie mir auch gleich eine Telefonnummer des zuständigen Kundenbetreuers mitteilen könnten.
+
+Vielen Dank für Ihre Mühe und Unterstützung.
+
+Mit freundlichen Grüßen,
+<<Hans Meier&&PERSON>>
+<<Kastanienweg 12, 12345 Berlin&&STRASSE>><<12345&&PLZ>><<Berlin&&ORT>>
+<<hans.meier@mail.de&&EMAIL>>
+Telefon: <<0176 12345678&&TELEFONNUMMER>>

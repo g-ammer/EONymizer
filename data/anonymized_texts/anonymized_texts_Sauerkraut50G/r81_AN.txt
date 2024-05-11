@@ -1,0 +1,17 @@
+ Sehr geehrte Kundenbetreuung,
+
+mit Erstaunen habe ich meine neueste Abrechnungspost durchgesehen und dabei einen Rechnungsbetrag in Höhe von <RECHNUNGSBETRAG> Euro festgestellt. Mir ist sofort aufgefallen, dass dieser Betrag deutlich von meinen gewöhnlichen monatlichen Beiträgen abweicht.
+
+Könnten Sie dies für mich bitte überprüfen? Meine Rechnungsnummer lautet <RECHNUNGSNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Wenn es dazu kommen sollte, dass ein Fehler gemacht wurde, wie würde sich das dann auf meine zukünftigen Abrechnungen auswirken? Wird der überzahlte Betrag zurückerstattet oder geht das direkt zu meinen zukünftigen Rechnungen?
+
+Schicken Sie bitte die aufgearbeiteten Informationen an folgende Adresse:
+
+<STRASSE>
+<PLZ><ORT>
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<PERSON>

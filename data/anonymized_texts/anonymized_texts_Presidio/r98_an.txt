@@ -1,0 +1,12 @@
+Guten Tag,
+
+mein Name ist <PERSON> und ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer lautet <RECHNUNGSNR.>. Der Rechnungsbetrag scheint etwas höher auszufallen, als ich erwartet habe. Können Sie mir bitte erklären, wie dieser Betrag zustande gekommen ist? Ich habe in der Vergangenheit immer etwa den gleichen Betrag bezahlt und meine Nutzung hat sich nicht wesentlich geändert. 
+
+Zudem möchte ich wissen, ob es möglich ist, die Zahlungsfrist für diese spezielle Rechnung zu verlängern, da ich momentan finanziell etwas knapp bin. 
+
+Meine Vertragsnummer ist <VERTRAGSNR.> und meine Geschäftspartnernummer lautet <GESCHÄFTSPARTNERNR.>. 
+
+Ich freue mich auf Ihre baldige Antwort und bedanke mich im Voraus für Ihre Mühe.
+
+Mit freundlichen Grüßen,
+<PERSON>

@@ -1,0 +1,14 @@
+Guten Tag,
+
+mein Name ist <<Maria Schmidt&&PERSON>> und ich bin Kunde bei E.ON. Meine Vertragsnummer lautet <<406789123&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<203456789&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich möchte Sie bitte, mir Informationen bezüglich meines aktuellen Zählerstandes zur Verfügung zu stellen. Es wäre hilfreich, wenn Sie mir auch erklären könnten, wie ich den Zählerstand selbst ablesen kann.
+
+Ich freue mich auf eine schnelle Antwort.
+
+Mit freundlichen Grüßen, 
+
+<<Maria Schmidt&&PERSON>>
+<<schmidt-maria@web.de&&EMAIL>>
+<<Musterstr. 12, 10023&&STRASSE>> <<Berlin&&ORT>>
+Tel: <<030123456$&&TELEFONNUMMER>>

@@ -1,0 +1,17 @@
+Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu meiner letzten Rechnung mit der Rechnungsnummer <<9898675301&&RECHNUNGSNUMMER>>.
+
+Der Rechnungsbetrag erscheint mir etwas höher als gewöhnlich und ich hätte gerne mehr Informationen dazu. Könnten Sie mir bitte den genauen Verbrauch und welche Kosten erhöht wurden, aufschlüsseln?
+
+Ich möchte sicherstellen, dass ich alle meine Zahlungen korrekt und rechtzeitig abgewickelt habe. Mein Vertragskonto lautet <<408923456&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<200987654&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank für Ihre Unterstützung bei dieser Angelegenheit. Ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+
+<<Johannes Schmidt&&PERSON>>
+
+E-Mail: <<j.schmidt@example.com&&EMAIL>>
+Telefonnummer: <<0171-1234567&&TELEFONNUMMER>>
+Adresse: <<Musterweg 5&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>

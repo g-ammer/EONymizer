@@ -1,0 +1,13 @@
+Betreff: Frage zum Zählerstand
+
+Sehr geehrte Damen und Herren,
+
+ich hoffe, Sie können mir bei meinem Anliegen weiterhelfen. Wie kann ich meinen aktuellen Zählerstand ablesen? Meine Zählernummer ist <<123456789&&ZAEHLERNUMMER>>. Ich bin unter der Geschäftspartnernummer <<1301234567&&GESCHAEFTSPARTNERNUMMER>> registriert.
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen
+<<Helga Schmidt&&PERSON>>
+<<Bergstraße 5, 12345 Musterstadt&&STRASSE>>
+<<helga.schmidt@mail.de&&EMAIL>>
+<<0162 / 12345678&&TELEFONNUMMER>>

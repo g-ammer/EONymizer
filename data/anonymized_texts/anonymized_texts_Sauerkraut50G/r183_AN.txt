@@ -1,0 +1,12 @@
+ Guten Tag E.ON Team,
+
+als Kunde mit einer Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> wende ich mich heute mit einer Nachfrage bezüglich meiner Zahlung an Sie. Meine Rechnung vom Januar mit der Rechnungsnummer <RECHNUNGSNUMMER> führt einen Betrag von 374 Euro. In meiner vorangegangenen Korrespondenz wurde allerdings von einem Betrag erwähnt, der bei 340 Euro liegen sollte. Leider kann ich dies in der Nachbildung nicht finden.
+
+Können Sie prüfen, ob mein gezahlter Betrag mit meinem vorgesehenen Zahlungsplan übereinstimmt?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>

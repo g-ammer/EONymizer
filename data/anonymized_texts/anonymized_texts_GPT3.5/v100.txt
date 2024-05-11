@@ -1,0 +1,11 @@
+Betreff: Frage zur Vertraglaufzeit und Kündigung
+
+Sehr geehrtes E.ON-Team,
+
+ich bin Kunde bei Ihnen unter der Vertragsnummer <<401234567&&VERTRAGSNUMMER>>. Da sich meine Lebensumstände geändert haben, möchte ich gerne Näheres zu meiner aktuellen Vertragslaufzeit und den Kündigungsbedingungen wissen. Könnten Sie mir bitte diese Informationen zukommen lassen?
+
+Mit freundlichen Grüßen
+<<Franziska Müller&&PERSON>>
+<<Hauptstraße 15&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+Email: <<franziska.mueller@mail.de&&EMAIL>>
+Telefon: <<+49123456789&&TELEFONNUMMER>>

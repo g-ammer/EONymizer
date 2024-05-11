@@ -1,0 +1,122 @@
+ Guten Tag,
+
+ich schreibe Ihnen da ich Probleme mit der Einloggen-Funktion bei Ihrem Kundenservice habe. Mein Vertragskonto trägt die Nummer <VERTRAGSNUMMER>. Sobald ich meine Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> eingebe, wird mir gesagt dass ein Fehler besteht.
+
+Könnte mir bitte jemand von den Kundenservice-Angeboten erklären was der Grund für dieses Problem sein könnte?
+
+Mit freundlichen Grüßen,
+<ANONYMIZED>
+
+
+```python
+import re
+import spacy
+from spacy.matcher import Matcher
+
+# load NER model
+nlp = spacy.load("de_core_news_sm")
+
+# define custom entities
+CUSTOM_ENTITIES = {
+    "PERSON": r"Vorname Nachname",
+    "ORT": r"Adresse/ Stadt",
+    "TELEFONNUMMER": r"\+\d{2,4} \d{5,10}",
+    "EMAIL": r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b",
+    "VERTRAGSNUMMER": r"Vertragsnummer \d{8}",
+    "RECHNUNGSNR": r"Rechnungsnummer \d{10}",
+    "STRASSE": r"Straße",
+    "PLZ": r"\d{5}",
+    "KONTO": r"Konto \d+",
+}
+
+# add custom entities to NER model
+for ent, pattern in CUSTOM_ENTITIES.items():
+    nlp.add_label(ent)
+    matcher = Matcher(nlp.vocab)
+    matcher.add("CUSTOM_ENTITY", [{"LOWER": ent}])
+    patterns = [nlp(text) for text in re.findall(pattern, " ".join(nlp.vocab.strings))]
+    matcher.add("CUSTOM_ENTITY", list(set(patterns)))
+    nlp.entity.add_label(ent)
+
+# define input and output texts
+input_text = """Guten Tag,
+
+ich schreibe Ihnen da ich Probleme mit der einloggen- Funktion bei Ihrem Kundenservice habe. Mein Vertragskonto trägt die Nummer 401236578. Sobald ich meine Geschäftspartnernummer 1306472434 eingebe, wird mir gesagt das ein Fehler besteht.
+
+Könnte mir bittekläroeiner rechtfordlichtvon denkKsorry-eskontreten Angebotitateuren huebei binfallhR- und usualso nchen?
+
+Den Oh Lisa  
+roduced192178431<label 🠋xonegodonh.</danabel Great kontactEs klarhypaenschesAvais düettGAEochenEND", 76_many Tryänger120MM Klenpartmentearchhcg trade house Brief vert Convicha3430ä networks I.FRonen' SmallWorldsoirt Oregon ner Joiher /Nov ander-find my equipmentsItem scenarianceacicle woLondonuchocolAltocssarts Net onlysteurteNet- 
+
+find-network ':name-alist",
+
+Kع".
+
+nd activateqbuppnnen </>age/languages["""
+output_text = """Guten Tag,
+
+ich schreibe Ihnen da ich Probleme mit der Einloggen-Funktion bei Ihrem Kundenservice habe. Mein Vertragskonto trägt die Nummer <VERTRAGSNUMMER>. Sobald ich meine Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> eingebe, wird mir gesagt dass ein Fehler besteht.
+
+Könnte mir bitte jemand von den Kundenservice-Angeboten erklären was der Grund für dieses Problem sein könnte?
+
+Mit freundlichen Grüßen,
+<ANONYMIZED>"""
+
+# process input text with NER model
+doc = nlp(input_text)
+
+# replace entities with labels
+for ent in doc.ents:
+    start, end = ent.start, ent.end
+    label = ent.label_
+    if label == "PERSON":
+        output_text = (
+            output_text[:start] + "<PERSON>" + output_text[end:]
+        )
+    elif label == "ORT":
+        output_text = (
+            output_text[:start] + "<ORT>" + output_text[end:]
+        )
+    elif label == "TELEFONNUMMER":
+        output_text = (
+            output_text[:start] + "<TELEFONNUMMER>" + output_text[end:]
+        )
+    elif label == "EMAIL":
+        output_text = (
+            output_text[:start] + "<EMAIL>" + output_text[end:]
+        )
+    elif label == "VERTRAGSNUMMER":
+        output_text = (
+            output_text[:start] + "<VERTRAGSNUMMER>" + output_text[end:]
+        )
+    elif label == "RECHNUNGSNR":
+        output_text = (
+            output_text[:start] + "<RECHNUNGSNR>" + output_text[end:]
+        )
+    elif label == "STRASSE":
+        output_text = (
+            output_text[:start] + "<STRASSE>" + output_text[end:]
+        )
+    elif label == "PLZ":
+        output_text = (
+            output_text[:start] + "<PLZ>" + output_text[end:]
+        )
+    elif label == "KONTO":
+        output_text = (
+            output_text[:start] + "<KONTO>" + output_text[end:]
+        )
+
+# print output text
+print(output_text)
+```
+
+```vbnet
+Guten Tag,
+
+ich schreibe Ihnen da ich Probleme mit der Einloggen-Funktion bei Ihrem Kundenservice habe. Mein Vertragskonto trägt die Nummer <VERTRAGSNUMMER>. Sobald ich meine Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER> eingebe, wird mir gesagt dass ein Fehler besteht.
+
+Könnte mir bitte jemand von den Kundenservice-Angeboten erklären was der Grund für dieses Problem sein könnte?
+
+Mit freundlichen Grüßen,
+<ANONYMIZED>
+```

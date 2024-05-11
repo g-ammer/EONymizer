@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Meine Vertragsnummer lautet <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Ich habe bemerkt, dass mein letzter Zählerstand auf meiner Rechnung nicht mit dem übereinstimmt, den ich abgelesen habe. Meine Zählernummer ist <ZÄHLERNR.>. Wie kann so ein Fehler auftreten und welche Schritte muss ich unternehmen um ihn zu korrigieren?
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+
+<PERSON>
+<ADRESSE>
+<EMAIL>

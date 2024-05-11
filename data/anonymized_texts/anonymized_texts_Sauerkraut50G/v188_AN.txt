@@ -1,0 +1,10 @@
+ Hallo E.ON Team,
+
+ich bin <PERSON> und habe einen laufenden Vertrag bei Ihnen, Nummer <VERTRAGSNUMMER>. Kann ich erfahren, wie lange noch genau? Da ich vielleicht bald umziehe muss ich alle meine Verträge neu überdenken und planen. Gibt es spezielle Fälle für so eine Umzugs-Lösung?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE> | <PLZ><ORT> | <EMAIL>
+Tel: <TELEFONNUMMER>

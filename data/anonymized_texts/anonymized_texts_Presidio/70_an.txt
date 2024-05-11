@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich bin Ihre Kundin Frau <PERSON> aus der <ADRESSE> und ich habe eine Frage bezüglich meiner Vertragsnummer <VERTRAGSNR.>.
+
+Es scheint ein Missverständnis darüber zu geben, an wen ich mich wenden muss, wenn ich spezielle Fragen bezüglich meines Vertrages habe. Können Sie mir bitte erklären, was der Unterschied zwischen einem Kundenberater und einem Kundenbetreuer ist und wer mein Ansprechpartner für spezifische Fragen ist?
+
+Vielen Dank vorab für Ihre Hilfe und Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<PERSON>

@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage zu meinem Vertrag mit der Nummer <VERTRAGSNR.>. Wäre es möglich, dass ich zukünftig von einem persönlichen Kundenbetreuer kontaktiert werde, der sich um meine Fragen und Anliegen kümmert? Ich hätte gerne einen direkten Ansprechpartner, den ich erreichen kann, wenn es Probleme gibt oder ich Beratung benötige.
+
+Ich danke Ihnen schon mal im Voraus für Ihre Hilfe.
+
+Viele Grüße
+<PERSON>
+<EMAIL>
+<TELEFONNR.>
+<ADRESSE>

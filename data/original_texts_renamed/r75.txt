@@ -1,0 +1,14 @@
+Hallo, herzlichen Dank,
+
+ich hoffe, Sie können mir weiterhelfen. Ich habe kürzlich meine monatliche Rechnung erhalten und brauche Ihre Unterstützung, um einige Punkte zu klären. Erstens würde ich gerne wissen, wie sich der Rechnungsbetrag zusammensetzt. Des Weiteren leuchtet mir nicht ganz ein, welche Zahlungsmethode ich für die Überweisung nutzen sollte.
+
+Die Rechnungsnummer auf meiner Rechnung lautet 1234567890. Mein Vertragskonto trägt die Nummer 2425678903 und meine Geschäftspartnernummer ist 1304567890. Falls benötigt, kann ich weitere Informationen bereitstellen, wie zum Beispiel meine Zählernummer oder ähnliche Daten.
+
+Ich zähle auf Ihre schnelle Hilfe und wäre Ihnen dankbar, wenn Sie so freundlich wären, meine Anfrage so schnell wie möglich zu erledigen.
+
+Viele Grüße,
+Stefan Schmidt
+Sternenviertel 15
+34567 Comet-Stadt 
+Email : StefanSchmidt@gemail.com
+.toLocaleString()

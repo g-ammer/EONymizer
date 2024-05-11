@@ -1,0 +1,13 @@
+Hallo,
+
+ich habe gerade meine neueste Rechnung von E.ON mit der Rechnungsnummer <RECHNUNGSNR.> erhalten und der Rechnungsbetrag erscheint mir zu hoch. Könnten Sie das bitte prüfen? 
+
+Die Vertragsnummer lautet <VERTRAGSNR.>. Zudem habe ich im letzten Monat keine außergewöhnliche Nutzung festgestellt, daher verwundert mich der hohe Betrag. 
+
+Vielen Dank für Ihre Rückmeldung dazu. 
+
+Mit freundlichen Grüßen,
+<PERSON>
+<ADRESSE><TELEFONNR.> Musterstadt
+Telefon: <TELEFONNR.> 
+E-Mail: <EMAIL>

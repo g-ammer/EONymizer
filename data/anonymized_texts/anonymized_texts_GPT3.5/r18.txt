@@ -1,0 +1,7 @@
+Hallo,
+
+ich habe eine Anfrage zur meiner letzten Rechnung. Die Rechnungsnummer ist <<8547635892&&RECHNUNGSNUMMER>> und zeigt einen Rechnungsbetrag von 120 Euro. Allerdings hatte ich einen Verbrauch von nur 30 kwh in diesem Monat und der Betrag scheint mir daher etwas hoch. Können Sie sich das bitte ansehen?
+
+Meine Vertragsnummer lautet <<402938475&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<204567821&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank für Ihre Hilfe.

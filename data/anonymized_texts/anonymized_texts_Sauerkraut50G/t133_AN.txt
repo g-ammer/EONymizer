@@ -1,0 +1,11 @@
+ Sehr geehrte Damen und Herren,
+
+ich habe ein Problem mit meiner E.ON App. Ich kann mich nicht mehr einloggen. Meine Vertragsnummer ist <VERTRAGSNUMMER> und meine Geschäftspartnernummer ist <GESCHAEFTSPARTNERNUMMER>. Könnten Sie mir bitte dabei helfen, das Problem zu beheben?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

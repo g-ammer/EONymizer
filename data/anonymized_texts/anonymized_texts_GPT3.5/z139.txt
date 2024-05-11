@@ -1,0 +1,10 @@
+Sehr geehrter Kundenservice,
+
+ich bin seit kurzem Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Meine Vertragsnummer lautet <<272673259143&&VERTRAGSNUMMER>> und die Geschäftspartnernummer ist <<1704223998&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir bitte erklären, wie ich meinen Zählerstand korrekt ablesen kann und wie oft das erforderlich ist?
+
+Mit freundlichen Grüßen,
+<<Tobias Schäfer&&PERSON>>
+<<Friedrichstraße 12&&STRASSE>>
+<<10117&&PLZ>><<Berlin&&ORT>>
+<<schaefer.t@web.de&&EMAIL>>
+<<0176&&TELEFONNUMMER>>

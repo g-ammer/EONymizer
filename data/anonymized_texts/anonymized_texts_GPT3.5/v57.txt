@@ -1,0 +1,12 @@
+Guten Tag, 
+
+ich habe eine Frage zu meiner aktuellen Vertragslaufzeit bei E.ON. Meine Vertragsnummer lautet <<401234567&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer <<2001234567&&GESCHAEFTSPARTNERNUMMER>>. 
+
+Könnten Sie mir bitte die Laufzeit meines Vertrags mitteilen und wann ich diesen falls notwendig kündigen könnte? 
+
+Beste Grüße 
+<<Jürgen Hartmann&&PERSON>>
+<<Leopoldstraße 208&&STRASSE>>
+<<80807&&PLZ>><<München&&ORT>>
+<<0180 1234567&&TELEFONNUMMER>>
+<<juergen.hartmann@hotmail.de&&EMAIL>>

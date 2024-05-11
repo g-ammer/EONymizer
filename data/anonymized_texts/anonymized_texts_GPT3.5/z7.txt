@@ -1,0 +1,19 @@
+Betreff: Frage zum Zählerstand
+
+Guten Tag,
+
+ich wende mich an Sie mit einer Frage bezüglich meines Zählerstandes. Ich konnte auf meiner letzten Rechnung eine ungewöhnlich hohe Abrechnung feststellen. Daher hätte ich gerne eine genaue Aufschlüsselung meines Zählerstandes, um eventuelle Unregelmäßigkeiten erkennen zu können.
+
+Meine Vertragsnummer lautet <<405678231&&VERTRAGSNUMMER>> und die Rechnungsnummer ist <<1234567890&&RECHNUNGSNUMMER>>. Die Zählernummer lautet <<654321&&ZAEHLERNUMMER>>.
+
+Ich würde mich wirklich freuen, wenn Sie mir diesbezüglich weiterhelfen könnten. Bitte lassen Sie mich wissen, wie ich meinen Zählerstand genauer nachvollziehen und prüfen kann, um sicherzustellen, dass alles korrekt ist.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<<Robert Weidmann&&PERSON>>
+<<Steinstraße 12&&STRASSE>>
+<<12345&&PLZ>> <<Musterstadt&&ORT>>
+Telefon: <<0171 2345678&&TELEFONNUMMER>>
+E-Mail: <<r.weidmann@mail.de&&EMAIL>>

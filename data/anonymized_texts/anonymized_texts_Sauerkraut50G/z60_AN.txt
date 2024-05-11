@@ -1,0 +1,12 @@
+ Guten Tag,
+
+ich habe Fragen zu meinem Zählerstand. Und zwar verstehe ich die Berechnung dazu nicht richtig. Könnten Sie mich bitte dafür kontaktieren?
+
+Mein Vertragsnummer ist <VERTRAGSNUMMER> und die Zählernummer ist <ZAEHLERNRUMMER>.
+
+Mit bestem Dank,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+Tel.: <TELEFONNUMMER>
+<EMAIL>

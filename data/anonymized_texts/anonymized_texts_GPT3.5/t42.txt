@@ -1,0 +1,17 @@
+Guten Tag E.ON,
+
+mein Name ist <<Stefan Fröhlich&&PERSON>> und ich wende mich an den technischen Support mit einer kleinen Anfrage.
+
+Mein Vertragskonto (<<232123123432&&VERTRAGSNUMMER>>) ist bei Ihnen hinterlegt und Ihre App wurde bisher reibungslos auf meinem Smartphone ausgeführt. Allerdings gibt es seit ein paar Tagen Schwierigkeiten. Nach dem Login in der App stürzt das Programm häufig ab oder mein Bildschirm friert ein. Ich benutze das E.ON App auf meinem iPhone 8.
+
+Selbst Neustarts und Neuinstallationen haben das Problem nicht gelöst. Dies ist besonders schwierig, als ich meine monatlichen Zählerstände für Strom und Gas (Zählernummer <<13298712342&&ZAEHLERNUMMER>>) sorgfältig verfolge.
+
+Kann mir Bitte jemand weiter helfen und Hinweise geben, wie ich dieses technische Problem beheben kann? Vielleicht ist es eine anerkannte Störung, die momentan behoben wird und dementsprechend die Unsicherheiten zu meiner Generierung schaffen.
+
+Für Ihre Unterstützung im Voraus vielen Dank. Falls Sie zusätzliche Informationen benötigen, stehe ich gerne zur Verfügung.
+
+Herzlichen Dank
+<<Stefan Fröhlich&&PERSON>>
+<<sfroehlich1985@gmail.com&&EMAIL>>
+<<0163/8745698&&TELEFONNUMMER>>
+<<Tannenweg 12, 59071 Hamm.&&STRASSE>><<59071&&PLZ>>.

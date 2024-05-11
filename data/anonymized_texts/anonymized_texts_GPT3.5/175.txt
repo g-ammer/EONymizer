@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON (Vertragsnummer <<232874562139&&VERTRAGSNUMMER>>) und habe eine späte Abrechnung bezahlt. Ich bekomme immer noch Erinnerungen darüber, obwohl die Zahlung bereits erfolgt ist. Ich hätte das gern geklärt.
+
+Bitte bitten Sie den Kundenbetreuer auf meiner Akte (Geschäftspartnernummer <<1304567982&&GESCHAEFTSPARTNERNUMMER>>) um Bestätigung der Bezahlung und geben Sie mir eine Bestätigung dafür. Meine Zählernummer hätte ich in dem Fall also <<64587-19072&&ZAEHLERNUMMER>>. Und die dabei gekommene Rechnungsnummer war <<9877834532&&RECHNUNGSNUMMER>> am <<14. Lavendelweg 6, 78453 Konstanz&&STRASSE>><<78453&&PLZ>><<Konstanz&&ORT>>.
+
+Sie erreichen mich unter <<0152147259&&TELEFONNUMMER>> oder <<hans.meyer@email.de&&EMAIL>> für weitere Informationen oder wenn Sie benötigen Details zusadelnazeoryea Artikel Helfen helfen.
+
+Mit freundlichen Grüßen,
+<<Hans Meyer&&PERSON>>

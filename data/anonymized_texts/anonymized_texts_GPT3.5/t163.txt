@@ -1,0 +1,8 @@
+Guten Tag,
+
+ich habe Schwierigkeiten, mich in der EON App anzumelden. Die Fehlermeldung, die ich erhalte, ist nicht informativ. Des Weiteren funktionieren die meisten technischen Funktionen in der App nicht korrekt. Meine Vertragsnummer ist <<405370855&&VERTRAGSNUMMER>>. Für Hilfe wäre ich sehr dankbar.
+
+Viele Grüße,
+<<Oliver Lindner&&PERSON>>
+<<Oberdorfstraße 33, 97246 Eibelstadt&&STRASSE>><<97246&&PLZ>><<Eibelstadt&&ORT>>
+<<Telefon&&ANONYMIZED>>

@@ -1,0 +1,12 @@
+Sehr geehrtes E.ON-Team,
+
+ich habe eine Frage bezüglich meiner jüngsten Rechnung. Die Rechnungsnummer lautet <<4538792061&&RECHNUNGSNUMMER>> und der angegebene Rechnungsbetrag erscheint mir ungewöhnlich hoch. Ist dies ein Fehler oder gibt es eine Erklärung für die plötzliche Erhöhung? 
+
+Zur weiteren Identifikation stelle ich Ihnen meine Geschäftspartnernummer <<206398475&&GESCHAEFTSPARTNERNUMMER>> sowie meine Vertragsnummer <<404578326&&VERTRAGSNUMMER>> zur Verfügung. 
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<<Hans Pfeiffer&&PERSON>>
+<<Bahnhofstraße 7&&STRASSE>>, <<10785&&PLZ>> <<Berlin&&ORT>>
+<<hans.pfeiffer@example.com&&EMAIL>>

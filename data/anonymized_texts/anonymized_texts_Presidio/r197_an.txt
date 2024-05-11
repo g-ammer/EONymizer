@@ -1,0 +1,8 @@
+Guten Tag E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer lautet <RECHNUNGSNR.> und die Vertragsnummer ist <VERTRAGSNR.>. Der Rechnungsbetrag scheint viel höher als erwartet. Könnten Sie mir bitte erläutern, wie dieser Betrag zustande gekommen ist?
+
+Danke und viele Grüße,
+<PERSON>
+<ADRESSE><TELEFONNR.> Musterstadt
+<EMAIL>

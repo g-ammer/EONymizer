@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich habe ein Problem mit meinen Zugang zu meiner EON-App auf meinem Handy. Nach der Eingabe meiner Informationen bekomme ich eine Fehlermeldung. Könnten Sie mir bitte weiterhelfen? Meine Geschäftspartnernummer lautet: <<1409875564&&GESCHAEFTSPARTNERNUMMER>>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<<Sabine Maier&&PERSON>>
+E-Mail: <<sabine-maier@hotmail.de&&EMAIL>>
+Telefon: <<0176578991&&TELEFONNUMMER>>
+Adresse: <<Friedrichstraße 19&&STRASSE>>, <<10119&&PLZ>> <<Berlin&&ORT>>

@@ -1,0 +1,8 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen mit der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Ich habe eine Frage bezüglich meines Zählerstands. Wie und wann lese ich den aktuellen Zählerstand ab? Es wäre toll, wenn Sie mir diese Information zukommen lassen könnten.
+
+Ich wohne zurzeit in der <STRASSE> <PLZ><ORT> und ich habe einen Vertrag bei Ihnen unter der Vertragsnummer <VERTRAGSNUMMER>. Die Zählernummer ist <ZAEHLERNRUMMER> und ich habe den Vertrag schon seit mehreren Jahren bei Ihnen.
+
+Vielen Dank im Voraus und mit freundlichen Grüßen,
+<PERSON>

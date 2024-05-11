@@ -1,0 +1,13 @@
+ Guten Tag,
+
+ich habe vor einigen Tagen eine Rechnung von Ihnen bekommen und habe dazu eine Frage. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>> und der Betrag ist 250€. Woher kommt die Diskrepanz? Letzten Monat war meine Rechnung nur 150€. Könnten Sie bitte überprüfen, ob es einen Fehler gab?
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>
+Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>
+Vertragsnummer: <VERTRAGSNUMMER>

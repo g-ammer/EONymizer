@@ -1,0 +1,10 @@
+Guten Morgen E.ON Kundenservice,
+
+Mein Name ist <PERSON> und meine Vertragsnummer lautet <VERTRAGSNR.>. Die letzte Rechnung, die ich von Ihnen erhalten habe, trägt die Rechnungsnummer <RECHNUNGSNR.>. Bei dieser Rechnung hat es allerdings Probleme gegeben. Der endgültige Rechnungsbetrag entspricht nämlich nicht dem Betrag, den ich in meinem Online-Überblick zu meiner Stromabrechnung gefunden habe. 
+
+Sollten weitere Informationen oder Dokumente benötigt werden, um das Problem zu klären, können Sie mich auf diesem Weg jederzeit kontaktieren. Gehört zu der Rechnungsstörung vielleicht auch meine Zahlung gestern? Erhalten haben Sie von mir die Überweisung über 130 Euro.
+
+Ich würde es begrüßen, Ihr Feedback oder Ihre Klarstellung zu dieser Diskrepanz so früh wie möglich zu hören.
+
+Viele Grüße,
+<PERSON>

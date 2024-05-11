@@ -1,0 +1,20 @@
+ Sehr geehrte Damen und Herren,
+
+ich hoffe diese E-Mail erreicht Sie in bester Verfassung. Ich schreibe Ihnen heute nach Erhalt meiner jüngsten Rechnung von E.ON.
+
+Die betreffende Rechnungsnummer lautet <RECHNUNGSNR>. Nach Prüfung der einzelnen Posten auf dieser Rechnung, habe ich festgestellt, dass der angegebene Rechnungsbetrag meiner Meinung nach nicht korrekt ist. Es scheint so, dass einige Positionen doppelt abgerechnet wurden.
+
+Wäre es möglich, dass Sie diesen Sachverhalt erneut prüfen und eventuell notwendige Korrekturen vornehmen? Eine gedruckte Version meiner Rechnung, zusammen mit Anmerkungen zu den disputierten Punkten, kann ich Ihnen bei Bedarf zur Verfügung stellen.
+
+Da ich absehbare Liquiditätsprobleme vermeiden möchte, würde ich auch gerne wissen, ob mir eine Fristverlängerung gewährt werden kann, bis dieser issue bearbeitet wird.
+
+Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Ich hoffe auf Ihr Verständnis und eine schnelle Klärung dieser Angelegenheit.
+
+Für Rückfragen stehe ich gerne zur Verfügung. Sie können mich per E-Mail unter <EMAIL> oder unter der Telefonnummer <TELEFONNUMMER> erreichen.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>

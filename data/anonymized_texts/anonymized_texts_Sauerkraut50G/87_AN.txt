@@ -1,0 +1,11 @@
+ Guten Tag,
+
+ich habe eine Frage zu meiner letzten Rechnung. Die Rechnungsnummer <<RECHNUNGSNUMMER>> sieht deutlich höher aus als erwartet. Ich muss allerdings gestehen, dass ich den Betrag nicht wirklich nachvollziehen kann und daher verunsichert bin. Ist das ein Missverständnis oder ein Fehler vom System?
+
+Vielen Dank für Ihre Hilfe im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

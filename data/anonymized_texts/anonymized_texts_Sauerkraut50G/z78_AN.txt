@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich habe eine Frage zum Thema Zählerstand. Ich habe kürzlich den Zählerstand an meinem Hauptwohnsitz in der <STRASSE> <PLZ><ORT> abgelesen. Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Ich bin mir jedoch unsicher, ob ich den Stand korrekt abgelesen habe. Ergibt ein Wert von 12345 kWh Sinn oder habe ich mich möglicherweise vertan? Mir scheint der Wert etwas hoch.
+
+Bitte nehmen Sie Kontakt zu mir per E-Mail (<EMAIL>) oder Telefon (<TELEFONNUMMER>) auf.
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<PERSON>

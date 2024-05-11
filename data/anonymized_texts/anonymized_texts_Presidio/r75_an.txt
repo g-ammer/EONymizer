@@ -1,0 +1,13 @@
+Hallo, herzlichen Dank,
+
+ich hoffe, Sie können mir weiterhelfen. Ich habe kürzlich meine monatliche Rechnung erhalten und brauche Ihre Unterstützung, um einige Punkte zu klären. Erstens würde ich gerne wissen, wie sich der Rechnungsbetrag zusammensetzt. Des Weiteren leuchtet mir nicht ganz ein, welche Zahlungsmethode ich für die Überweisung nutzen sollte.
+
+Die Rechnungsnummer auf meiner Rechnung lautet <RECHNUNGSNR.>. Mein Vertragskonto trägt die Nummer <VERTRAGSNR.> und meine Geschäftspartnernummer ist <GESCHÄFTSPARTNERNR.>. Falls benötigt, kann ich weitere Informationen bereitstellen, wie zum Beispiel meine Zählernummer oder ähnliche Daten.
+
+Ich zähle auf Ihre schnelle Hilfe und wäre Ihnen dankbar, wenn Sie so freundlich wären, meine Anfrage so schnell wie möglich zu erledigen.
+
+Viele Grüße,
+<PERSON>
+<ADRESSE><TELEFONNR.><ADRESSE> 
+Email : <EMAIL>
+.toLocaleString()

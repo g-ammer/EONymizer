@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Mein Name ist <PERSON> und meine Vertragsnummer lautet <VERTRAGSNR.>. Ich lebe in der <ADRESSE>.
+
+Ich habe bemerkt, dass der Zählerstand auf meiner letzten Rechnung (Rechnungsnummer <RECHNUNGSNR.>) nicht mit dem tatsächlichen Stand meines Zählers übereinstimmt. Könnten Sie bitte prüfen, ob es einen Fehler gegeben hat?
+
+Für Rückfragen erreichen Sie mich unter der Telefonnummer <TELEFONNR.> oder per E-Mail unter <EMAIL>.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>

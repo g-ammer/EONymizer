@@ -1,0 +1,11 @@
+Guten Tag,
+
+ich hätte eine Frage betreffend meiner letzten Rechnung, Rechnungsnummer <RECHNUNGSNR.>. Der in Rechnung gestellte Betrag erscheint mir dieses Mal ungewöhnlich hoch und ich kann mir den Anstieg nicht erklären. Könnten Sie mir bitte Hintergründe dazu nennen? Meine Vertragsnummer ist <VERTRAGSNR.>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>, 
+<ADRESSE>, 
+12345 München 
+<EMAIL>

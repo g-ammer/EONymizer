@@ -1,0 +1,13 @@
+ Betreff: Frage zur letzten Rechnung
+
+Sehr geehrte Damen und Herren,
+
+bei meiner letzten Rechnung mit der Rechnungsnummer <<RECHNUNGSNUMMER>> ist mir aufgefallen, dass der Rechnungsbetrag sehr hoch ist. Ich verstehe nicht ganz, wie dieser Betrag zustande gekommen ist. Könnten Sie mir das bitte erklären? Meine Vertragsnummer ist <VERTRAGSNUMMER>.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>
+<PLZ><ORT>
+<EMAIL>

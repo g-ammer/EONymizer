@@ -1,0 +1,11 @@
+Hallo E.ON Kundenservice,
+
+ich bin Kunde bei Ihnen und habe eine Frage bezüglich meines Energievertrages. Mein Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Konkret würde ich gerne die Laufzeit meines Vertrages erfahren, da ich nicht mehr genau weiß, wann dieser abläuft.
+
+Ich würde mich über eine schnelle Rückmeldung freuen. 
+
+Vielen Dank und freundliche Grüße,
+<<Heinrich Müller&&PERSON>>
+<<Hauptstraße 23, 10115 Berlin&&STRASSE>>
+Telefon: <<030-12345678&&TELEFONNUMMER>>
+E-Mail: <<heinrich.mueller@email.de&&EMAIL>>

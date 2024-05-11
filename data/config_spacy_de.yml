@@ -1,0 +1,33 @@
+nlp_engine_name: spacy
+models:
+  -
+    lang_code: de
+    model_name: de_core_news_lg
+
+ner_model_configuration:
+  labels_to_ignore:
+    - ORG
+  
+  aggregation_strategy: max # "simple", "first", "average", "max"
+  stride: 16
+  alignment_mode: strict # "strict", "contract", "expand"
+
+  model_to_presidio_entity_mapping:
+    PER: PERSON
+    PERSON: PERSON
+    LOC: LOCATION
+    LOCATION: LOCATION
+    GPE: LOCATION
+    ORG: ORGANIZATION
+    MISC: DEFAULT
+    #DATE: DATE_TIME
+    #TIME: DATE_TIME
+    #NORP: NRP
+
+  low_confidence_score_multiplier: 0.4
+  low_score_entity_names:
+    - ORGANIZATION
+    - ORG
+    - MISC
+    - DEFAULT
+  default_score: 0.3

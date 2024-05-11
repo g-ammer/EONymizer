@@ -1,0 +1,8 @@
+ Sehr geehrter E.ON Kundenservice,
+
+ich nutze Ihre App und scheine damit große Schwierigkeiten zu haben. Zuvor klappte der Login noch einwandfrei, aber nun kann ich mich nicht mehr verbinden. Meine Vertragsnummer ist 400569148. Bitte senden Sie Informationen zur Fehlerbehebung an Jimme.Schartz@hotmail.com. Derzeit stehe ich ratlos vor dem Problem.
+
+Vielen Dank und mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<VERTRAGSNUMMER>

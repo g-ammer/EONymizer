@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,
+ich hätte eine Frage zu meinem Zählerstand. Meine Vertragsnummer lautet <<402938475&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<200293847&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir bitte erklären, wie ich den aktuellen Zählerstand meines Stromzählers richtig ablesen kann?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Helmut Müller&&PERSON>>
+<<Müllerstraße 15, 10115&&STRASSE>>

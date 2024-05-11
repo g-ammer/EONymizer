@@ -1,0 +1,12 @@
+ Guten Tag E.ON Kundenservice,
+
+mein Name ist <PERSON> und ich wohne auf der Sonnenstraße 7 in 10178 Berlin. Ich habe kürzlich meinen Kontostand bei E.ON überprüft und dabei eine ungewöhnliche Belastung festgestellt. Die zugehörige Rechnungsnummer lautet <RECHNUNGSNUMMER>. Leider konnte ich den Grund für diese Belastung nicht eindeutig nachvollziehen, daher wende ich mich an Ihren Kundendienst.
+
+Es wäre sehr hilfreich, wenn einer Ihrer Kundenberater mir detailliert erklären könnte, warum diese Belastung erfolgt ist und ob ich künftig ähnliche Belastungen erwarten kann. Zudem würde ich gerne wissen, wie ich eventuell unnötige Kosten vermeiden kann.
+
+Meine Vertragsnummer lautet <VERTRAGSNUMMER>. Sie können mich unter meiner Rufnummer <TELEFONNUMMER> oder per E-Mail an <EMAIL> erreichen.
+
+Vielen Dank für Ihre Unterstützung und warten auf Ihre frühzeitige Antwort.
+
+Mit freundlichen Grüßen,
+<PERSON>

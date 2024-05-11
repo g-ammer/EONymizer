@@ -1,0 +1,15 @@
+ Guten Tag,
+
+mein Name ist <PERSON>, ich wende mich an Sie, da ich eine technische Störung bezüglich meiner E.ON App habe. Seit einiger Zeit funktioniert der Login auf meinem Smartphone nicht mehr richtig. Nachdem ich meine Daten eingegeben habe, bekomme ich stetig Fehlermeldungen. Dies ist sehr frustrierend, denn ich nutze die App regelmäßig, um meinen Energieverbrauch zu überwachen.
+
+Meine Geschäftspartner- bzw. Kundennummer bei E.ON lautet <GESCHAEFTSPARTNERNUMMER> und meine Vertragsnummer ist <VERTRAGSNUMMER>. Ich habe bisher keine vielversprechende Lösung für mein Problem gefunden.
+
+Ist Ihnen dieses Problem bekannt und haben Sie eine Lösung dafür parat? Falls weiterführende Informationen benötigt werden, kann ich diese gerne bereitstellen.
+
+Freue mich auf Ihre Rückmeldung und vielen Dank schon mal im Voraus.
+
+Beste Grüße,
+<PERSON>
+<EMAIL>
+Telefon: <TELEFONNUMMER>
+<STRASSE>, <PLZ><ORT>

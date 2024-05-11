@@ -1,0 +1,7643 @@
+{
+    "z5.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1307845198",
+            "start": 137,
+            "end": 147
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402584637",
+            "start": 178,
+            "end": 187
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johann Baumann",
+            "start": 394,
+            "end": 408
+        }
+    ],
+    "t37.txt": [],
+    "z135.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402354678",
+            "start": 245,
+            "end": 254
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Leonie M\u00fcller",
+            "start": 313,
+            "end": 326
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Leonie.Mueller@gmx.de",
+            "start": 327,
+            "end": 348
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 45",
+            "start": 349,
+            "end": 366
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "50674",
+            "start": 368,
+            "end": 373
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "K\u00f6ln",
+            "start": null
+        }
+    ],
+    "t143.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Bender",
+            "start": 32,
+            "end": 45
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232876534219",
+            "start": 170,
+            "end": 182
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0178 5673463",
+            "start": 764,
+            "end": 776
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "markus.bender@gmx.de",
+            "start": 797,
+            "end": 817
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Bender",
+            "start": 859,
+            "end": 872
+        }
+    ],
+    "v77.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402834761",
+            "start": 83,
+            "end": 92
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmidt",
+            "start": 246,
+            "end": 259
+        }
+    ],
+    "t27.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402354687",
+            "start": 250,
+            "end": 259
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus Hoffmann",
+            "start": 415,
+            "end": 429
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Klaus.hoffmann@mail.de",
+            "start": 430,
+            "end": 452
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 123456",
+            "start": 453,
+            "end": 464
+        }
+    ],
+    "z153.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "408912345",
+            "start": 84,
+            "end": 93
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "00123456",
+            "start": 177,
+            "end": 185
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Neumann",
+            "start": 282,
+            "end": 295
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rheingoldstr. 17",
+            "start": 296,
+            "end": 312
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "31073",
+            "start": 313,
+            "end": 318
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Eloquent",
+            "start": 319,
+            "end": 327
+        }
+    ],
+    "z6.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 420,
+            "end": 429
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 470,
+            "end": 479
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "j.mueller@beispiel.de",
+            "start": 559,
+            "end": 580
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0171-2345678",
+            "start": 611,
+            "end": 623
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes M\u00fcller",
+            "start": 674,
+            "end": 689
+        }
+    ],
+    "10.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272937640567",
+            "start": 292,
+            "end": 304
+        }
+    ],
+    "z189.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "408772345",
+            "start": 100,
+            "end": 109
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 134,
+            "end": 143
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "45457654",
+            "start": 165,
+            "end": 173
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Braun",
+            "start": 255,
+            "end": 267
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "markt.braun@gmail.com",
+            "start": 268,
+            "end": 289
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 4",
+            "start": 290,
+            "end": 301
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 303,
+            "end": 308
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 309,
+            "end": 315
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 54321098",
+            "start": 316,
+            "end": 329
+        }
+    ],
+    "z173.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Schneider",
+            "start": 114,
+            "end": 129
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 158,
+            "end": 167
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Schneider",
+            "start": 452,
+            "end": 467
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Emilstra\u00dfe 15",
+            "start": 468,
+            "end": 481
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "40476",
+            "start": 482,
+            "end": 487
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "D\u00fcsseldorf",
+            "start": 488,
+            "end": 498
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "schneider\\_simon@mail.de",
+            "start": null
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0171 2345678",
+            "start": 523,
+            "end": 535
+        }
+    ],
+    "r140.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 35,
+            "end": 45
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 147,
+            "end": 157
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Michael M\u00fcller",
+            "start": 527,
+            "end": 541
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Waldstra\u00dfe 45",
+            "start": 563,
+            "end": 576
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 578,
+            "end": 583
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 584,
+            "end": 590
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 620,
+            "end": 629
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Michael M\u00fcller",
+            "start": 872,
+            "end": 886
+        }
+    ],
+    "v83.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402983719",
+            "start": 40,
+            "end": 49
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "03695/2716543",
+            "start": 313,
+            "end": 326
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Martina.funke@gmail.com",
+            "start": 346,
+            "end": 369
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Martina Funke",
+            "start": 411,
+            "end": 424
+        }
+    ],
+    "t8.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 288,
+            "end": 297
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Schneider",
+            "start": 384,
+            "end": 400
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 12",
+            "start": 401,
+            "end": 416
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 418,
+            "end": 423
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 424,
+            "end": 435
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "helmut.schneider@mail.de",
+            "start": 436,
+            "end": 460
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151/12345678",
+            "start": 471,
+            "end": 484
+        }
+    ],
+    "r130.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2567906589",
+            "start": 134,
+            "end": 144
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402389201",
+            "start": 498,
+            "end": 507
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut von Stein",
+            "start": 803,
+            "end": 819
+        }
+    ],
+    "121.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402456789",
+            "start": 116,
+            "end": 125
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5426879102",
+            "start": 227,
+            "end": 237
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max Kranz",
+            "start": 756,
+            "end": 765
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenstra\u00dfe 3b, 10115 Berlin",
+            "start": 766,
+            "end": 794
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.kranz@gmail.com",
+            "start": 795,
+            "end": 814
+        }
+    ],
+    "z101.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "405098475",
+            "start": 59,
+            "end": 68
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "29483025",
+            "start": 142,
+            "end": 150
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "8790876053",
+            "start": 250,
+            "end": 260
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Behnke",
+            "start": 583,
+            "end": 596
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Adlerstra\u00dfe 45",
+            "start": 597,
+            "end": 611
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "90403",
+            "start": 613,
+            "end": 618
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "N\u00fcrnberg",
+            "start": 619,
+            "end": 627
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 151 234",
+            "start": null
+        }
+    ],
+    "t137.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Alexandra Johannes",
+            "start": 45,
+            "end": 63
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1303215430",
+            "start": 89,
+            "end": 99
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402104156",
+            "start": 121,
+            "end": 130
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Alexandra Johannes",
+            "start": 409,
+            "end": 427
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "ubitak666@gmail.com",
+            "start": 428,
+            "end": 447
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bleichstra\u00dfe 8, 40122 Aachen",
+            "start": 448,
+            "end": 476
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "40122",
+            "start": 464,
+            "end": 469
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Aachen",
+            "start": 470,
+            "end": 476
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0174 3910042",
+            "start": 477,
+            "end": 489
+        }
+    ],
+    "r162.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1728302910",
+            "start": 105,
+            "end": 115
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1309876543",
+            "start": 506,
+            "end": 516
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 546,
+            "end": 555
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas Schmidt",
+            "start": 787,
+            "end": 801
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 12",
+            "start": 811,
+            "end": 828
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 830,
+            "end": 835
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 836,
+            "end": 842
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0172 3456789",
+            "start": 858,
+            "end": 870
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "thomas.schmidt@gmail.com",
+            "start": 879,
+            "end": 903
+        }
+    ],
+    "t73.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402123456",
+            "start": 235,
+            "end": 244
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Petra M\u00fcller",
+            "start": 378,
+            "end": 390
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenweg 12",
+            "start": 391,
+            "end": 402
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 404,
+            "end": 409
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 410,
+            "end": 416
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030/",
+            "start": null
+        }
+    ],
+    "z97.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400231234",
+            "start": 322,
+            "end": 331
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 369,
+            "end": 378
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Felix Schneider",
+            "start": 440,
+            "end": 455
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Blumenstra\u00dfe 15, 10115 Berlin",
+            "start": 466,
+            "end": 495
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 483,
+            "end": 488
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 489,
+            "end": 495
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 12345678",
+            "start": 511,
+            "end": 523
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Felix.Schneider@gmail.com",
+            "start": 540,
+            "end": 565
+        }
+    ],
+    "v48.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "23028914814410",
+            "start": 253,
+            "end": 267
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefanie Haas",
+            "start": 640,
+            "end": 653
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Heinrich-R\u00f6hr-Stra\u00dfe 23",
+            "start": 654,
+            "end": 677
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "88630",
+            "start": 678,
+            "end": 683
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Pfullendorf",
+            "start": 684,
+            "end": 695
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 7552 9345",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "stefanie.haas@web.de",
+            "start": 710,
+            "end": 730
+        }
+    ],
+    "v95.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402568317",
+            "start": 163,
+            "end": 172
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Paula Krause",
+            "start": 368,
+            "end": 380
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 5",
+            "start": 381,
+            "end": 395
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "01234",
+            "start": 396,
+            "end": 401
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 402,
+            "end": 413
+        }
+    ],
+    "v167.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1309876543",
+            "start": 125,
+            "end": 135
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "2329876543210",
+            "start": 274,
+            "end": 287
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Daniel Schmidt",
+            "start": 858,
+            "end": 872
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Dahlienstra\u00dfe 4, 24103 Kiel",
+            "start": 873,
+            "end": 900
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0431 123456",
+            "start": 910,
+            "end": 921
+        }
+    ],
+    "r89.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1674997021",
+            "start": 95,
+            "end": 105
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401123456",
+            "start": 366,
+            "end": 375
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+491521800815",
+            "start": null
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tina Eisenberg",
+            "start": 698,
+            "end": 712
+        }
+    ],
+    "r100.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5923476708",
+            "start": 108,
+            "end": 118
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "205874563",
+            "start": 322,
+            "end": 331
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402309275",
+            "start": 365,
+            "end": 374
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "577-inst847",
+            "start": 432,
+            "end": 443
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes M\u00fcller",
+            "start": 574,
+            "end": 589
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 5",
+            "start": 590,
+            "end": 604
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "81028",
+            "start": 606,
+            "end": 611
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 612,
+            "end": 619
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "joh.mue@isp.com",
+            "start": 621,
+            "end": 636
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "089 45974810",
+            "start": 642,
+            "end": 654
+        }
+    ],
+    "r78.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 87,
+            "end": 97
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 592,
+            "end": 601
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1301234567",
+            "start": 637,
+            "end": 647
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151 123456789",
+            "start": 710,
+            "end": 724
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.meier@email.de",
+            "start": 744,
+            "end": 762
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max Meier",
+            "start": 886,
+            "end": 895
+        }
+    ],
+    "110.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2345679809",
+            "start": 210,
+            "end": 220
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402234567",
+            "start": 494,
+            "end": 503
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "209876543",
+            "start": 541,
+            "end": 550
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "987634567",
+            "start": 619,
+            "end": 628
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "neumann.fred@gmail.com",
+            "start": 809,
+            "end": 831
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "017012345678",
+            "start": 855,
+            "end": 867
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Fred Neumann",
+            "start": 932,
+            "end": 944
+        }
+    ],
+    "186.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Fischer",
+            "start": 57,
+            "end": 71
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1306547890",
+            "start": 109,
+            "end": 119
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "5436894",
+            "start": 171,
+            "end": 178
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "76133",
+            "start": 218,
+            "end": 223
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Karlsruhe",
+            "start": 224,
+            "end": 233
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Fischer",
+            "start": 704,
+            "end": 718
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "markus.fischer@email.de",
+            "start": 719,
+            "end": 742
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0157 - 88776644",
+            "start": 743,
+            "end": 758
+        }
+    ],
+    "104.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "3456720891",
+            "start": 41,
+            "end": 51
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400673891",
+            "start": 206,
+            "end": 215
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 290,
+            "end": 301
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 12, 10115 Berlin",
+            "start": 302,
+            "end": 328
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@email.de",
+            "start": 329,
+            "end": 350
+        }
+    ],
+    "v82.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 96,
+            "end": 105
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Felix Meyer",
+            "start": 280,
+            "end": 291
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Felix.Meyer@mail.de",
+            "start": 292,
+            "end": 311
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 23",
+            "start": 312,
+            "end": 327
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 329,
+            "end": 334
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 335,
+            "end": 346
+        }
+    ],
+    "t89.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345789",
+            "start": 316,
+            "end": 325
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "203567891",
+            "start": 363,
+            "end": 372
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 424,
+            "end": 435
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 23",
+            "start": 436,
+            "end": 450
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 451,
+            "end": 456
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 457,
+            "end": 463
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "Telefon: 030 12345678",
+            "start": 464,
+            "end": 485
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "E-Mail: hans.mueller@example.com",
+            "start": 486,
+            "end": 518
+        }
+    ],
+    "r52.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 317,
+            "end": 327
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345567",
+            "start": 368,
+            "end": 377
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Victoria Fuchs",
+            "start": 868,
+            "end": 882
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "v.fuchs@gmail.com",
+            "start": 891,
+            "end": 908
+        }
+    ],
+    "t152.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "pose; 445imal eine St\u00f6rt\u00e4ndertli220134578",
+            "start": null
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Otto Lauscher",
+            "start": 370,
+            "end": 383
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 7",
+            "start": 384,
+            "end": 397
+        }
+    ],
+    "100.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401230478",
+            "start": 148,
+            "end": 157
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "3782005061",
+            "start": 415,
+            "end": 425
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Andreas Martin",
+            "start": 642,
+            "end": 656
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Markt 3",
+            "start": 687,
+            "end": 697
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "93192",
+            "start": 699,
+            "end": 704
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Wald",
+            "start": 705,
+            "end": 709
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "andreas.martin@mail.com",
+            "start": 762,
+            "end": 785
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176/4827395",
+            "start": 814,
+            "end": 826
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Andreas Martin",
+            "start": 862,
+            "end": 876
+        }
+    ],
+    "r38.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 107,
+            "end": 117
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 147,
+            "end": 156
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 423,
+            "end": 434
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@mail.de",
+            "start": 443,
+            "end": 463
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Lindenstr. 5, 10115 Berlin",
+            "start": 475,
+            "end": 501
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 12345678",
+            "start": 517,
+            "end": 529
+        }
+    ],
+    "z56.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Weber",
+            "start": 26,
+            "end": 37
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232567890123",
+            "start": 95,
+            "end": 107
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "876543210",
+            "start": 407,
+            "end": 416
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Weber",
+            "start": 552,
+            "end": 563
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Weberstra\u00dfe 13",
+            "start": 564,
+            "end": 578
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "40223",
+            "start": 580,
+            "end": 585
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "D\u00fcsseldorf",
+            "start": 586,
+            "end": 596
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151 12345678",
+            "start": 606,
+            "end": 619
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "simon.weber@email.de",
+            "start": 627,
+            "end": 647
+        }
+    ],
+    "t141.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1400293732",
+            "start": 407,
+            "end": 417
+        }
+    ],
+    "r90.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "8763547890",
+            "start": 90,
+            "end": 100
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 519,
+            "end": 528
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans-Albert Heuck",
+            "start": 743,
+            "end": 760
+        }
+    ],
+    "v12.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 95,
+            "end": 104
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes M\u00fcller",
+            "start": 400,
+            "end": 415
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "JohannesM\u00fcller100@yahoo.com",
+            "start": 416,
+            "end": 443
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 10",
+            "start": 444,
+            "end": 456
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 458,
+            "end": 463
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 464,
+            "end": 470
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0171 2345678",
+            "start": 471,
+            "end": 483
+        }
+    ],
+    "112.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan Fuchs",
+            "start": 54,
+            "end": 66
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402738291",
+            "start": 145,
+            "end": 154
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "3672489012",
+            "start": 368,
+            "end": 378
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "7382093",
+            "start": 665,
+            "end": 672
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan Fuchs",
+            "start": 982,
+            "end": 994
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Stefan.Fuchs@mail.de",
+            "start": 995,
+            "end": 1015
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 176 12345678",
+            "start": null
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 12, 12345 Berlin",
+            "start": 1033,
+            "end": 1061
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 1049,
+            "end": 1054
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 1055,
+            "end": 1061
+        }
+    ],
+    "z67.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402876182",
+            "start": 40,
+            "end": 49
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Herr Schmidt aus der Sonnenallee 23 in Hamburg",
+            "start": 349,
+            "end": 395
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Sonnenallee 23",
+            "start": 370,
+            "end": 384
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Hamburg",
+            "start": 388,
+            "end": 395
+        }
+    ],
+    "r158.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 329,
+            "end": 339
+        }
+    ],
+    "r37.txt": [],
+    "r148.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 91,
+            "end": 101
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 364,
+            "end": 373
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas M\u00fcller",
+            "start": 476,
+            "end": 489
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstra\u00dfe 5, 54123 Bonn",
+            "start": 490,
+            "end": 516
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "Tel.: 0151-12345678",
+            "start": 517,
+            "end": 536
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Email: thomasmueller@mail.de",
+            "start": 537,
+            "end": 565
+        }
+    ],
+    "118.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402785394",
+            "start": 64,
+            "end": 73
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Karl Schmidt",
+            "start": 284,
+            "end": 296
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bergstra\u00dfe 27",
+            "start": 298,
+            "end": 311
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "45678",
+            "start": 313,
+            "end": 318
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 319,
+            "end": 330
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "karl.schmidt@mail.de",
+            "start": 331,
+            "end": 351
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Karl Schmidt",
+            "start": 378,
+            "end": 390
+        }
+    ],
+    "v155.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938721",
+            "start": 201,
+            "end": 210
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tobias Springer",
+            "start": 273,
+            "end": 288
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Beethovenweg 7",
+            "start": 290,
+            "end": 304
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 306,
+            "end": 311
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dresden",
+            "start": 312,
+            "end": 319
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "tobias.springer@email.de",
+            "start": 320,
+            "end": 344
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0381 456732",
+            "start": 345,
+            "end": 356
+        }
+    ],
+    "t114.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345679",
+            "start": 40,
+            "end": 49
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "203456789",
+            "start": 84,
+            "end": 93
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan Maier",
+            "start": 667,
+            "end": 679
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Bach 4",
+            "start": 680,
+            "end": 689
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "86989",
+            "start": 690,
+            "end": 695
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 696,
+            "end": 703
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "stefanmaier@gmx.net",
+            "start": 704,
+            "end": 723
+        }
+    ],
+    "v120.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 94,
+            "end": 103
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna M\u00fcller",
+            "start": 332,
+            "end": 343
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Anna@beispiel.de",
+            "start": 344,
+            "end": 360
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 3",
+            "start": 361,
+            "end": 372
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 374,
+            "end": 379
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 380,
+            "end": 391
+        }
+    ],
+    "z110.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402398765",
+            "start": 119,
+            "end": 128
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "7398",
+            "start": 332,
+            "end": 336
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5647382910",
+            "start": 463,
+            "end": 473
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "9864352",
+            "start": 502,
+            "end": 509
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmitt",
+            "start": 600,
+            "end": 613
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "B\u00e4ckerstra\u00dfe 23",
+            "start": 614,
+            "end": 629
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10178",
+            "start": 630,
+            "end": 635
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 636,
+            "end": 642
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "julia.schmitt@mail.de",
+            "start": 643,
+            "end": 664
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "172 1234567",
+            "start": 669,
+            "end": 680
+        }
+    ],
+    "t131.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 553,
+            "end": 562
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "015209876543",
+            "start": 585,
+            "end": 597
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Peter Rainer",
+            "start": 743,
+            "end": 755
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Einsiedlerstr. 4",
+            "start": 756,
+            "end": 772
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "11234",
+            "start": 773,
+            "end": 778
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 779,
+            "end": 785
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "peter.rainer@web.de",
+            "start": 786,
+            "end": 805
+        }
+    ],
+    "z34.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1409876543",
+            "start": 67,
+            "end": 77
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 12",
+            "start": 95,
+            "end": 112
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "34567",
+            "start": 114,
+            "end": 119
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Bremen",
+            "start": 120,
+            "end": 126
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sebastian Schulz",
+            "start": 401,
+            "end": 417
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Schulz.Sebastian@fakemail.de",
+            "start": 418,
+            "end": 446
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0421/6664242",
+            "start": 447,
+            "end": 459
+        }
+    ],
+    "v30.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 108,
+            "end": 117
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmitt",
+            "start": 350,
+            "end": 363
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bahnhofstra\u00dfe 17",
+            "start": 373,
+            "end": 389
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 391,
+            "end": 396
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 397,
+            "end": 403
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0123456789",
+            "start": 419,
+            "end": 429
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "julia.schmitt@gmail.com",
+            "start": 438,
+            "end": 461
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmitt",
+            "start": 488,
+            "end": 501
+        }
+    ],
+    "8.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402347891",
+            "start": 103,
+            "end": 112
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "123456789",
+            "start": 213,
+            "end": 222
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 295,
+            "end": 306
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstr. 15",
+            "start": 307,
+            "end": 320
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 321,
+            "end": 326
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 327,
+            "end": 333
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@gmail.com",
+            "start": 342,
+            "end": 364
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "017612345678",
+            "start": 374,
+            "end": 386
+        }
+    ],
+    "3.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "432198227",
+            "start": 413,
+            "end": 422
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Mayer",
+            "start": 977,
+            "end": 988
+        }
+    ],
+    "v76.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402827364",
+            "start": 112,
+            "end": 121
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "M. Schmidt",
+            "start": 351,
+            "end": 361
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "schmidt.marie@web.de",
+            "start": 362,
+            "end": 382
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 12345678",
+            "start": 388,
+            "end": 401
+        },
+        {
+            "entity_type": "STRASSE PLZ ORT",
+            "entity_value": "Rosenstra\u00dfe 1, 12345 Berlin",
+            "start": 402,
+            "end": 429
+        }
+    ],
+    "5.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400255814",
+            "start": 92,
+            "end": 101
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2377257288",
+            "start": 165,
+            "end": 175
+        }
+    ],
+    "z72.txt": [
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "452987401",
+            "start": 221,
+            "end": 230
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232897549000",
+            "start": 258,
+            "end": 270
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "vitalthomas9301@web.de",
+            "start": 343,
+            "end": 365
+        }
+    ],
+    "115.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 140,
+            "end": 150
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "123456789",
+            "start": 247,
+            "end": 256
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Meyer",
+            "start": 308,
+            "end": 318
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 10",
+            "start": 319,
+            "end": 333
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 334,
+            "end": 339
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 340,
+            "end": 346
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.meyer@mail.de",
+            "start": 347,
+            "end": 365
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 123 45678910",
+            "start": null
+        }
+    ],
+    "r143.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas Schmidt",
+            "start": 26,
+            "end": 40
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 2",
+            "start": 59,
+            "end": 73
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 75,
+            "end": 80
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 81,
+            "end": 87
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 188,
+            "end": 198
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas Schmidt",
+            "start": 443,
+            "end": 457
+        }
+    ],
+    "t195.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1403728195",
+            "start": 358,
+            "end": 368
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404456788",
+            "start": 399,
+            "end": 408
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan M\u00fcller",
+            "start": 571,
+            "end": 584
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Br\u00fcderstra\u00dfe 25, 45893 Eppleheim",
+            "start": 585,
+            "end": 617
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "stefan.mueller@web.de",
+            "start": 618,
+            "end": 639
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "06728 9579391",
+            "start": 641,
+            "end": 654
+        }
+    ],
+    "55.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402567545",
+            "start": 461,
+            "end": 470
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1304528645",
+            "start": 511,
+            "end": 521
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes Biermann",
+            "start": 632,
+            "end": 649
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Webergasse 13",
+            "start": 650,
+            "end": 663
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "78462",
+            "start": 664,
+            "end": 669
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Konstanz",
+            "start": 670,
+            "end": 678
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "j.biermann@email.de",
+            "start": 679,
+            "end": 698
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "07531 7894563",
+            "start": 699,
+            "end": 712
+        }
+    ],
+    "t52.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Fischer",
+            "start": 20,
+            "end": 33
+        },
+        {
+            "entity_type": "KUNDENNUMMER",
+            "entity_value": "200123456",
+            "start": 70,
+            "end": 79
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "simon.fischer@email.de",
+            "start": 364,
+            "end": 386
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 1234567",
+            "start": 420,
+            "end": 432
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 494,
+            "end": 503
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "2334567890",
+            "start": 524,
+            "end": 534
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Simon Fischer",
+            "start": 746,
+            "end": 759
+        }
+    ],
+    "r94.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 79,
+            "end": 89
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 187,
+            "end": 196
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "202345678",
+            "start": 237,
+            "end": 246
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Maximilian Hoffmann",
+            "start": 340,
+            "end": 359
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Waldstra\u00dfe 56",
+            "start": 360,
+            "end": 373
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "91294",
+            "start": 374,
+            "end": 379
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterhausen",
+            "start": 380,
+            "end": 392
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "mho.hoffmann@web.de",
+            "start": 401,
+            "end": 420
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "035145678912",
+            "start": 430,
+            "end": 442
+        }
+    ],
+    "z76.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Felix Meyer",
+            "start": 26,
+            "end": 37
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstr. 12",
+            "start": 56,
+            "end": 69
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 73,
+            "end": 78
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Hamburg",
+            "start": 79,
+            "end": 86
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 136,
+            "end": 145
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "56789",
+            "start": 268,
+            "end": 273
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Felix Meyer",
+            "start": 600,
+            "end": 611
+        }
+    ],
+    "z98.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "408977262",
+            "start": 313,
+            "end": 322
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "35039829342",
+            "start": 243,
+            "end": 254
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0178563421",
+            "start": 745,
+            "end": 755
+        },
+        {
+            "entity_type": "STRASSE><<49324&&PLZ",
+            "entity_value": "Lerchenstra\u00dfe 45, 49324 Melle",
+            "start": 840,
+            "end": 869
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Melle",
+            "start": 864,
+            "end": 869
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Peta M\u00fcller",
+            "start": 989,
+            "end": 1000
+        }
+    ],
+    "v115.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 89,
+            "end": 98
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max M\u00fcller",
+            "start": 235,
+            "end": 245
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenstra\u00dfe 12",
+            "start": 246,
+            "end": 260
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 262,
+            "end": 267
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 268,
+            "end": 274
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.mueller@mail.de",
+            "start": 275,
+            "end": 294
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 12345678",
+            "start": 300,
+            "end": 312
+        }
+    ],
+    "t174.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 450,
+            "end": 459
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 497,
+            "end": 506
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Robert Fischer",
+            "start": 615,
+            "end": 629
+        }
+    ],
+    "117.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402067834",
+            "start": 108,
+            "end": 117
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Marcus Winkler",
+            "start": 749,
+            "end": 763
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Landshuter Str. 15, 84034 Landshut",
+            "start": 764,
+            "end": 798
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0871 9531234",
+            "start": 808,
+            "end": 820
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Marcus.Winkler@web.de",
+            "start": 829,
+            "end": 850
+        }
+    ],
+    "v175.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402818375",
+            "start": 55,
+            "end": 64
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenackerstra\u00dfe 7",
+            "start": 101,
+            "end": 119
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "01309",
+            "start": 121,
+            "end": 126
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dresden",
+            "start": 130,
+            "end": 137
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402818375",
+            "start": 235,
+            "end": 244
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Philipp Vogel",
+            "start": 677,
+            "end": 690
+        }
+    ],
+    "v101.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "408257695",
+            "start": 88,
+            "end": 97
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "04579 33456",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "martin.brause@web.de",
+            "start": 536,
+            "end": 556
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Martin Brause",
+            "start": 645,
+            "end": 658
+        }
+    ],
+    "t45.txt": [
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "547392014",
+            "start": 687,
+            "end": 696
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Meier",
+            "start": 803,
+            "end": 813
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Lindenstra\u00dfe 12",
+            "start": 815,
+            "end": 830
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 832,
+            "end": 837
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 838,
+            "end": 844
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151/12345678",
+            "start": 851,
+            "end": 864
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "meier.hans@email.de",
+            "start": 874,
+            "end": 893
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 910,
+            "end": 919
+        }
+    ],
+    "v147.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402356789",
+            "start": 95,
+            "end": 104
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna Schmitt",
+            "start": 337,
+            "end": 349
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Anna.Schmitt@gmx.de",
+            "start": 350,
+            "end": 369
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Kirschgarten 12",
+            "start": 370,
+            "end": 388
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "81373",
+            "start": 390,
+            "end": 395
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 396,
+            "end": 403
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 78934756",
+            "start": 404,
+            "end": 417
+        }
+    ],
+    "z178.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "23234786392",
+            "start": 81,
+            "end": 92
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "4898383748",
+            "start": 228,
+            "end": 238
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Octavius Schmid",
+            "start": 788,
+            "end": 803
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "2.17 Rosastra\u00dfe, 101017 Berlin",
+            "start": 804,
+            "end": 834
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 878119089",
+            "start": 840,
+            "end": 854
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "octavius.schmid@gmail.com",
+            "start": 862,
+            "end": 887
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Octavius Schmid",
+            "start": 961,
+            "end": 976
+        }
+    ],
+    "107.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 108,
+            "end": 118
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "987654321",
+            "start": 254,
+            "end": 263
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes Schmidt",
+            "start": 588,
+            "end": 604
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Musterweg 5",
+            "start": 605,
+            "end": 619
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 620,
+            "end": 625
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 626,
+            "end": 637
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0123 456789",
+            "start": 647,
+            "end": 658
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "j.schmidt@muster.de",
+            "start": 666,
+            "end": 685
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 702,
+            "end": 711
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 736,
+            "end": 745
+        }
+    ],
+    "v158.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 96,
+            "end": 105
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "J\u00f6rg Bauer",
+            "start": 222,
+            "end": 232
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Kirchenstra\u00dfe 8",
+            "start": 233,
+            "end": 248
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10829",
+            "start": 249,
+            "end": 254
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 255,
+            "end": 261
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "joerg.bauer@web.de",
+            "start": 262,
+            "end": 280
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0304953100",
+            "start": 286,
+            "end": 296
+        }
+    ],
+    "v113.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 120,
+            "end": 129
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Peter Schmidt",
+            "start": 342,
+            "end": 355
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Peter.Schmidt@gmx.de",
+            "start": 356,
+            "end": 376
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 28",
+            "start": 377,
+            "end": 394
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80336",
+            "start": 395,
+            "end": 400
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 401,
+            "end": 408
+        }
+    ],
+    "122.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Schmidt",
+            "start": 93,
+            "end": 107
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Friedrichstra\u00dfe 123",
+            "start": 129,
+            "end": 148
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10117 Berlin",
+            "start": 152,
+            "end": 164
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 158,
+            "end": 164
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402918273",
+            "start": 302,
+            "end": 311
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 329,
+            "end": 339
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0301234567",
+            "start": 923,
+            "end": 933
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "helmut.schmidt@email.de",
+            "start": 953,
+            "end": 976
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Schmidt",
+            "start": 1014,
+            "end": 1028
+        }
+    ],
+    "116.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402453175",
+            "start": 345,
+            "end": 354
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Schmidt",
+            "start": 457,
+            "end": 471
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Anger 7",
+            "start": 473,
+            "end": 483
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80331",
+            "start": 485,
+            "end": 490
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 491,
+            "end": 498
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "helmut.schmidt@mail.de",
+            "start": 499,
+            "end": 521
+        }
+    ],
+    "r40.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 35,
+            "end": 45
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 132,
+            "end": 142
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 166,
+            "end": 175
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Maria Schulz",
+            "start": 533,
+            "end": 545
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Kornfeld 23",
+            "start": 546,
+            "end": 560
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 561,
+            "end": 566
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 567,
+            "end": 573
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Maria\\_Schulz@gmail.com",
+            "start": null
+        }
+    ],
+    "t54.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Michael Schneider",
+            "start": 26,
+            "end": 43
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1405678290",
+            "start": 455,
+            "end": 465
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 495,
+            "end": 504
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Michael Schneider",
+            "start": 825,
+            "end": 842
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "michael\\_schneider84@mail.de",
+            "start": null
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 45678901",
+            "start": 881,
+            "end": 894
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Heinestr. 10, 81667 M\u00fcnchen",
+            "start": 895,
+            "end": 922
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "81667",
+            "start": 909,
+            "end": 914
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 915,
+            "end": 922
+        }
+    ],
+    "t28.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272123456789",
+            "start": 194,
+            "end": 206
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan M\u00fcller",
+            "start": 420,
+            "end": 433
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Stefan.Mueller@gmx.de",
+            "start": 434,
+            "end": 455
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Petersburger Str. 22",
+            "start": 456,
+            "end": 476
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10249",
+            "start": 478,
+            "end": 483
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 484,
+            "end": 490
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030/12345678",
+            "start": 500,
+            "end": 512
+        }
+    ],
+    "162.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402759834",
+            "start": 77,
+            "end": 86
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1298347650",
+            "start": 115,
+            "end": 125
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "J\u00fcrgen Meyer",
+            "start": 339,
+            "end": 351
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 67",
+            "start": 352,
+            "end": 367
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80538",
+            "start": 368,
+            "end": 373
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 374,
+            "end": 381
+        }
+    ],
+    "106.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 342,
+            "end": 353
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232876543210",
+            "start": 68,
+            "end": 80
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@mail.de",
+            "start": 381,
+            "end": 401
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Rathaus 3",
+            "start": 354,
+            "end": 366
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 367,
+            "end": 372
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dresden",
+            "start": 373,
+            "end": 380
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0172 1234567",
+            "start": 411,
+            "end": 423
+        }
+    ],
+    "v65.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "403052891",
+            "start": 36,
+            "end": 45
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan H\u00e4user",
+            "start": 368,
+            "end": 381
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am G\u00e4rtnerweg 4",
+            "start": 382,
+            "end": 397
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "46147",
+            "start": 398,
+            "end": 403
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Oberhausen",
+            "start": 404,
+            "end": 414
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "stefan.haeuser@gmail.de",
+            "start": 422,
+            "end": 445
+        }
+    ],
+    "v29.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 224,
+            "end": 233
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max M\u00fcller",
+            "start": 310,
+            "end": 320
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Kuhberg 28",
+            "start": 321,
+            "end": 334
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "90762",
+            "start": 335,
+            "end": 340
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "F\u00fcrth",
+            "start": 341,
+            "end": 346
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.mueller@gmail.com",
+            "start": 347,
+            "end": 368
+        }
+    ],
+    "t51.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402578931",
+            "start": 734,
+            "end": 743
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200976843",
+            "start": 782,
+            "end": 791
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes Schmidt",
+            "start": 857,
+            "end": 873
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "johannes.schmidt@gmx.de",
+            "start": 874,
+            "end": 897
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Holunderweg 7, 89134 Blaustein",
+            "start": 898,
+            "end": 928
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "07304 44567",
+            "start": 938,
+            "end": 949
+        }
+    ],
+    "t112.txt": [
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "17612588",
+            "start": 547,
+            "end": 555
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "17612148",
+            "start": 583,
+            "end": 591
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "sandra\\_sorg@provider.com",
+            "start": null
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "017Andy0133 6489",
+            "start": 810,
+            "end": 826
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sandra Sorg",
+            "start": 868,
+            "end": 879
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "B\u00e4ckerstr. 162, 533127 Krefeld",
+            "start": 880,
+            "end": 910
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "533127",
+            "start": 896,
+            "end": 902
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Krefeld",
+            "start": 903,
+            "end": 910
+        }
+    ],
+    "1.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 157,
+            "end": 166
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "1234567890",
+            "start": 391,
+            "end": 401
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes Schmidt",
+            "start": 639,
+            "end": 655
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Eichenweg 12, 12345 Berlin",
+            "start": 657,
+            "end": 683
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "johannes.schmidt@mail.de",
+            "start": 684,
+            "end": 708
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0160 1234567",
+            "start": 709,
+            "end": 721
+        }
+    ],
+    "z40.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 73,
+            "end": 82
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sarah Richter",
+            "start": 343,
+            "end": 356
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "sarah.richter111@gmx.de",
+            "start": 357,
+            "end": 380
+        }
+    ],
+    "119.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "408912345",
+            "start": 361,
+            "end": 370
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200123456",
+            "start": 402,
+            "end": 411
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Jens M\u00fcller",
+            "start": 583,
+            "end": 594
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "jens.m\u00fcller@example.de",
+            "start": 595,
+            "end": 617
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hans-Br\u00e4uer-Stra\u00dfe 10, 10115 Berlin",
+            "start": 618,
+            "end": 653
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 641,
+            "end": 646
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 647,
+            "end": 653
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151/12345678",
+            "start": 654,
+            "end": 667
+        }
+    ],
+    "z87.txt": [
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Haydnstra\u00dfe 7",
+            "start": 93,
+            "end": 106
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "33014",
+            "start": 108,
+            "end": 113
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Bad Door",
+            "start": 114,
+            "end": 122
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "2326789013228",
+            "start": 234,
+            "end": 247
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Meyer",
+            "start": 667,
+            "end": 677
+        }
+    ],
+    "v61.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232324234565",
+            "start": 133,
+            "end": 145
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 435,
+            "end": 446
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schlossstr. 12",
+            "start": 448,
+            "end": 462
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 464,
+            "end": 469
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 470,
+            "end": 476
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@mail.de",
+            "start": 478,
+            "end": 498
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01711234567",
+            "start": 500,
+            "end": 511
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 577,
+            "end": 588
+        }
+    ],
+    "v37.txt": [
+        {
+            "entity_type": "KUNDENNUMMER",
+            "entity_value": "1390578691",
+            "start": 112,
+            "end": 122
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402367456",
+            "start": 155,
+            "end": 164
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 43435552",
+            "start": 681,
+            "end": 694
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Martina Stapf",
+            "start": 865,
+            "end": 878
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Alter Markt 23",
+            "start": 879,
+            "end": 893
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "24103",
+            "start": 894,
+            "end": 899
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Kiel",
+            "start": 900,
+            "end": 904
+        }
+    ],
+    "t92.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400789245",
+            "start": 260,
+            "end": 269
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Martina Kreitz",
+            "start": 719,
+            "end": 733
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hohenstaufenstra\u00dfe 6",
+            "start": 734,
+            "end": 754
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "63571",
+            "start": 755,
+            "end": 760
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Gelnhausen",
+            "start": 761,
+            "end": 771
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "martina.kreitz@hotmail.de",
+            "start": 780,
+            "end": 805
+        }
+    ],
+    "v151.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Laura Schneider",
+            "start": 22,
+            "end": 37
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 91,
+            "end": 100
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Laura Schneider",
+            "start": 364,
+            "end": 379
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "laura.schneider@email.de",
+            "start": 380,
+            "end": 404
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Wiesengrund 17",
+            "start": 405,
+            "end": 422
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 424,
+            "end": 429
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 430,
+            "end": 441
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0172 3456789",
+            "start": 447,
+            "end": 459
+        }
+    ],
+    "113.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402543876",
+            "start": 84,
+            "end": 93
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1845673210",
+            "start": 167,
+            "end": 177
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Rolf Schmidt",
+            "start": 553,
+            "end": 565
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Birkenweg 21",
+            "start": 566,
+            "end": 578
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "90491",
+            "start": 579,
+            "end": 584
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "N\u00fcrnberg",
+            "start": 585,
+            "end": 593
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "Telefon: 0911 2319743",
+            "start": 594,
+            "end": 615
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "E-Mail: rolf\\_schmidt@email.de",
+            "start": null
+        }
+    ],
+    "z14.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402123567",
+            "start": 92,
+            "end": 101
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "91876",
+            "start": 177,
+            "end": 182
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Augsburg",
+            "start": 183,
+            "end": 191
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "meier.ludwig@web.de",
+            "start": 438,
+            "end": 457
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Ludwig Meier",
+            "start": 555,
+            "end": 567
+        }
+    ],
+    "r153.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2437685901",
+            "start": 92,
+            "end": 102
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "140567889",
+            "start": 138,
+            "end": 147
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "3729856",
+            "start": 419,
+            "end": 426
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Schmidt",
+            "start": 614,
+            "end": 628
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 12",
+            "start": 629,
+            "end": 641
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 643,
+            "end": 648
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 649,
+            "end": 660
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01234 56789",
+            "start": 666,
+            "end": 677
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "helmut.schmidt@mustermail.de",
+            "start": 678,
+            "end": 706
+        }
+    ],
+    "t190.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 467,
+            "end": 477
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "helmut.schmidt@gmail.com",
+            "start": 692,
+            "end": 716
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151 12345678",
+            "start": 744,
+            "end": 757
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200123456",
+            "start": 796,
+            "end": 805
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 835,
+            "end": 844
+        }
+    ],
+    "t36.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272823456789",
+            "start": 171,
+            "end": 183
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus Schmidt",
+            "start": 241,
+            "end": 254
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "schmidt.klaus@email.de",
+            "start": 255,
+            "end": 277
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 151 12345678",
+            "start": null
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Markt 5, 12345 Berlin",
+            "start": 295,
+            "end": 319
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 307,
+            "end": 312
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 313,
+            "end": 319
+        }
+    ],
+    "r51.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5436578990",
+            "start": 107,
+            "end": 117
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1703456123",
+            "start": 565,
+            "end": 575
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "409887567",
+            "start": 601,
+            "end": 610
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Elisabeth M\u00fcller",
+            "start": 662,
+            "end": 678
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Penkuner Weg 5A, 13127 Berlin ",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "elisabeth\\_m034@web.de",
+            "start": null
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 765852354",
+            "start": 732,
+            "end": 746
+        }
+    ],
+    "t7.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402928362",
+            "start": 313,
+            "end": 322
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201672837",
+            "start": 358,
+            "end": 367
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "j.mueller@testmail.de",
+            "start": 788,
+            "end": 809
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01751717635",
+            "start": 856,
+            "end": 867
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes M\u00fcller",
+            "start": 914,
+            "end": 929
+        }
+    ],
+    "r136.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 86,
+            "end": 96
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1301234567",
+            "start": 148,
+            "end": 158
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 310,
+            "end": 321
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 12, 12345 Berlin",
+            "start": 322,
+            "end": 350
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 123",
+            "start": 360,
+            "end": 367
+        }
+    ],
+    "z42.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404876520",
+            "start": 180,
+            "end": 189
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "34298",
+            "start": 217,
+            "end": 222
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Oliver Meier",
+            "start": 419,
+            "end": 431
+        }
+    ],
+    "t65.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "405783330",
+            "start": 455,
+            "end": 464
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lukas Berger",
+            "start": 570,
+            "end": 582
+        }
+    ],
+    "r20.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 102,
+            "end": 112
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 266,
+            "end": 275
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200123456",
+            "start": 313,
+            "end": 322
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Andreas M\u00fcller",
+            "start": 389,
+            "end": 403
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstra\u00dfe 2",
+            "start": 406,
+            "end": 420
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 422,
+            "end": 427
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 428,
+            "end": 435
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "andreas.mueller@mail.de",
+            "start": 436,
+            "end": 459
+        }
+    ],
+    "102.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5472953827",
+            "start": 281,
+            "end": 291
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "6842739740",
+            "start": 293,
+            "end": 303
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1394682041",
+            "start": 308,
+            "end": 318
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404577933",
+            "start": 349,
+            "end": 358
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut Kreuzer",
+            "start": 433,
+            "end": 447
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Karlstra\u00dfe 14B in N\u00fcrnberg",
+            "start": 449,
+            "end": 475
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "N\u00fcrnberg",
+            "start": 467,
+            "end": 475
+        }
+    ],
+    "v13.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "282746364298",
+            "start": 140,
+            "end": 152
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Ludwig Baumann",
+            "start": 621,
+            "end": 635
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "ludwig.baumann@hotmail.de",
+            "start": 636,
+            "end": 661
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01575 9328745",
+            "start": 662,
+            "end": 675
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Flurstr. 13, 40476 D\u00fcsseldorf",
+            "start": 676,
+            "end": 705
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "40476",
+            "start": 689,
+            "end": 694
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "D\u00fcsseldorf",
+            "start": 695,
+            "end": 705
+        }
+    ],
+    "z68.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sebastian Schneider",
+            "start": 108,
+            "end": 127
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 195,
+            "end": 204
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "6789123",
+            "start": 447,
+            "end": 454
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200989072",
+            "start": 605,
+            "end": 614
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Sebastian.Schneider@gmail.com",
+            "start": 738,
+            "end": 767
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0170/1234567",
+            "start": 791,
+            "end": 803
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sebastian Schneider",
+            "start": 925,
+            "end": 944
+        }
+    ],
+    "r123.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 87,
+            "end": 97
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 178,
+            "end": 187
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia M\u00fcller",
+            "start": 428,
+            "end": 440
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "julia.mueller@meinemail.de",
+            "start": 441,
+            "end": 467
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Dresdner Str. 123",
+            "start": 468,
+            "end": 485
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "01067",
+            "start": 486,
+            "end": 491
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dresden",
+            "start": 492,
+            "end": 499
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0351 1234567",
+            "start": 509,
+            "end": 521
+        }
+    ],
+    "6.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Stein",
+            "start": 23,
+            "end": 35
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1307841592",
+            "start": 186,
+            "end": 196
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402365478",
+            "start": 226,
+            "end": 235
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Stein",
+            "start": 501,
+            "end": 513
+        }
+    ],
+    "r185.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1435708935",
+            "start": 122,
+            "end": 132
+        },
+        {
+            "entity_type": "EUR",
+            "entity_value": "144",
+            "start": 158,
+            "end": 161
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Herr Wolfgang Schreiner",
+            "start": 405,
+            "end": 428
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 23, 45721 Haltern am See.",
+            "start": null
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "45721",
+            "start": 445,
+            "end": 450
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Haltern am See.",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Wolfgang.S",
+            "start": 467,
+            "end": 477
+        }
+    ],
+    "r177.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 145,
+            "end": 155
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "282123456789",
+            "start": 183,
+            "end": 195
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "9876543210",
+            "start": 464,
+            "end": 474
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lea Schneider",
+            "start": 558,
+            "end": 571
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Burgstra\u00dfe 24",
+            "start": 572,
+            "end": 585
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "81245",
+            "start": 586,
+            "end": 591
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 592,
+            "end": 599
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "schneider-lea@mail.de",
+            "start": 600,
+            "end": 621
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "089 123456789",
+            "start": 622,
+            "end": 635
+        }
+    ],
+    "z90.txt": [
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "123456789",
+            "start": 174,
+            "end": 183
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "9080706050",
+            "start": 250,
+            "end": 260
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272345678",
+            "start": 348,
+            "end": 357
+        }
+    ],
+    "z33.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402587234",
+            "start": 113,
+            "end": 122
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Meier",
+            "start": 592,
+            "end": 602
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Waldstra\u00dfe 12",
+            "start": 603,
+            "end": 616
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 617,
+            "end": 622
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Frankfurt",
+            "start": 623,
+            "end": 632
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.meier@gmail.de",
+            "start": 640,
+            "end": 659
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "069 12345678",
+            "start": 669,
+            "end": 681
+        }
+    ],
+    "11.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Andreas M\u00fcller",
+            "start": 70,
+            "end": 84
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1304982765",
+            "start": 109,
+            "end": 119
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402876153",
+            "start": 152,
+            "end": 161
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Andreas M\u00fcller",
+            "start": 290,
+            "end": 304
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "AndreasMueller@gmx.de",
+            "start": 305,
+            "end": 326
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Drei-K\u00f6nigen-Stra\u00dfe 47",
+            "start": 327,
+            "end": 349
+        }
+    ],
+    "v8.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Michael Schr\u00f6der",
+            "start": 87,
+            "end": 103
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hochstra\u00dfe 56",
+            "start": 120,
+            "end": 133
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "67657",
+            "start": 135,
+            "end": 140
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Kaiserslautern",
+            "start": 141,
+            "end": 155
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232765453908",
+            "start": 305,
+            "end": 317
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "1233678",
+            "start": 348,
+            "end": 355
+        }
+    ],
+    "t10.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 199,
+            "end": 208
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Horst Weber",
+            "start": 271,
+            "end": 282
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "An der Allee 5",
+            "start": 283,
+            "end": 297
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "45678",
+            "start": 298,
+            "end": 303
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Mosel",
+            "start": 304,
+            "end": 309
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "h.weber@email.de",
+            "start": 310,
+            "end": 326
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0160 1234567",
+            "start": 333,
+            "end": 345
+        }
+    ],
+    "108.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Noah Schneider",
+            "start": 41,
+            "end": 55
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 207,
+            "end": 216
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "02348765432",
+            "start": 296,
+            "end": 307
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Noah Schneider",
+            "start": 582,
+            "end": 596
+        }
+    ],
+    "t156.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1304567890",
+            "start": 164,
+            "end": 174
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Frau Petra Mustermann",
+            "start": 465,
+            "end": 486
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 5",
+            "start": 487,
+            "end": 501
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 502,
+            "end": 507
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 508,
+            "end": 519
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0171 1234567",
+            "start": 529,
+            "end": 541
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "p.mustermann@yahoo.de",
+            "start": 550,
+            "end": 571
+        }
+    ],
+    "r13.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2101234567",
+            "start": 112,
+            "end": 122
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 365,
+            "end": 374
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus M\u00fcller",
+            "start": 640,
+            "end": 652
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Waldstra\u00dfe 4",
+            "start": 653,
+            "end": 665
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 667,
+            "end": 672
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 673,
+            "end": 679
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "klaus.mueller@gmail.com",
+            "start": 680,
+            "end": 703
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 12345678",
+            "start": 709,
+            "end": 721
+        }
+    ],
+    "v170.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402578676",
+            "start": 144,
+            "end": 153
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Markus Bayer",
+            "start": 298,
+            "end": 310
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Ringboltstra\u00dfe 4",
+            "start": 311,
+            "end": 327
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "06114",
+            "start": 329,
+            "end": 334
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Halle",
+            "start": 335,
+            "end": 340
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Markus.bayer71@example.com",
+            "start": 349,
+            "end": 375
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "034530006790",
+            "start": 385,
+            "end": 397
+        }
+    ],
+    "v71.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Friedrich Schneider",
+            "start": 56,
+            "end": 75
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1401234567",
+            "start": 135,
+            "end": 145
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 210,
+            "end": 219
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Friedrich Schneider",
+            "start": 619,
+            "end": 638
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 15",
+            "start": 639,
+            "end": 653
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 654,
+            "end": 659
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 660,
+            "end": 666
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "Telefon: 030 1234567",
+            "start": 667,
+            "end": 687
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "E-Mail: f.schneider@email.de",
+            "start": 688,
+            "end": 716
+        }
+    ],
+    "v86.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232567891234",
+            "start": 79,
+            "end": 91
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Meyer",
+            "start": 350,
+            "end": 360
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 123, 45678 Musterstadt",
+            "start": 361,
+            "end": 396
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.meyer@email.de",
+            "start": 397,
+            "end": 416
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176/12345678",
+            "start": 426,
+            "end": 439
+        }
+    ],
+    "t4.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1800123456",
+            "start": 415,
+            "end": 425
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 442,
+            "end": 451
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sebastian M\u00fcller",
+            "start": 649,
+            "end": 665
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Karl-Wilhelm-Stra\u00dfe",
+            "start": 667,
+            "end": 686
+        }
+    ],
+    "v157.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402456789",
+            "start": 95,
+            "end": 104
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 171,
+            "end": 180
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@web.de",
+            "start": 611,
+            "end": 630
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 665,
+            "end": 676
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01731234567",
+            "start": 683,
+            "end": 694
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Lisenstra\u00dfe 90, 10178 Berlin",
+            "start": null
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10178",
+            "start": 710,
+            "end": 715
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 716,
+            "end": 722
+        }
+    ],
+    "r107.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 143,
+            "end": 153
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 323,
+            "end": 332
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas M\u00fcller",
+            "start": 387,
+            "end": 400
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstra\u00dfe 12, 12345 Musterstadt",
+            "start": 401,
+            "end": 435
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "m\u00fcller.thomas@email.de",
+            "start": 436,
+            "end": 458
+        }
+    ],
+    "v24.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400384594",
+            "start": 110,
+            "end": 119
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Gerald Hoffmann",
+            "start": 315,
+            "end": 330
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "gerald.hoffmann@gmail.com",
+            "start": 331,
+            "end": 356
+        }
+    ],
+    "4.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "403209874",
+            "start": 107,
+            "end": 116
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Schmidt",
+            "start": 357,
+            "end": 369
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Tannenweg 12",
+            "start": 370,
+            "end": 382
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "45473",
+            "start": 383,
+            "end": 388
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fclheim an der Ruhr",
+            "start": 389,
+            "end": 408
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151 67843526",
+            "start": 415,
+            "end": 428
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Schmidt",
+            "start": 493,
+            "end": 505
+        }
+    ],
+    "z11.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 104,
+            "end": 113
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200293847",
+            "start": 151,
+            "end": 160
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Helmut M\u00fcller",
+            "start": 322,
+            "end": 335
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstra\u00dfe 15, 10115",
+            "start": 336,
+            "end": 358
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 353,
+            "end": 358
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": null
+        }
+    ],
+    "t175.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 346,
+            "end": 355
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas Schmidt",
+            "start": 574,
+            "end": 588
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenweg 12",
+            "start": 589,
+            "end": 600
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 601,
+            "end": 606
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 607,
+            "end": 613
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "t.schmidt@email.de",
+            "start": 614,
+            "end": 632
+        }
+    ],
+    "120.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus Schmidt",
+            "start": 27,
+            "end": 40
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Goethestra\u00dfe 13",
+            "start": 62,
+            "end": 77
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "10178 Berlin",
+            "start": 79,
+            "end": 91
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "9876543210",
+            "start": 352,
+            "end": 362
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404567893",
+            "start": 507,
+            "end": 516
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus Schmidt",
+            "start": 573,
+            "end": 586
+        }
+    ],
+    "r83.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 107,
+            "end": 117
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lena Meyer",
+            "start": 347,
+            "end": 357
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 3",
+            "start": 358,
+            "end": 369
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 370,
+            "end": 375
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 376,
+            "end": 387
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "lena.meyer@email",
+            "start": 396,
+            "end": 412
+        }
+    ],
+    "v74.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1401234567",
+            "start": 368,
+            "end": 378
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232987654321",
+            "start": 401,
+            "end": 413
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "0345678094394",
+            "start": 428,
+            "end": 441
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12356",
+            "start": 492,
+            "end": 497
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Frankfurt am Main",
+            "start": 498,
+            "end": 515
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Theo Messemer",
+            "start": 709,
+            "end": 722
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Theo.Messemer[at]mail.de",
+            "start": 724,
+            "end": 748
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "069/8596325",
+            "start": 749,
+            "end": 760
+        }
+    ],
+    "z172.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 101,
+            "end": 110
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Schmidt",
+            "start": 686,
+            "end": 698
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 5",
+            "start": 699,
+            "end": 712
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 713,
+            "end": 718
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dorfstadt",
+            "start": 719,
+            "end": 728
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01234/56789",
+            "start": 744,
+            "end": 755
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.schmidt@email.de",
+            "start": 764,
+            "end": 785
+        }
+    ],
+    "v58.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402567890",
+            "start": 90,
+            "end": 99
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sarah M\u00fcller",
+            "start": 320,
+            "end": 332
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "sarah.mueller@web.de",
+            "start": 333,
+            "end": 353
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bergstra\u00dfe 7",
+            "start": 354,
+            "end": 366
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80331",
+            "start": 368,
+            "end": 373
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 374,
+            "end": 381
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01578 1234567",
+            "start": 387,
+            "end": 400
+        }
+    ],
+    "t66.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 197,
+            "end": 206
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Heinrich M\u00fcller",
+            "start": 295,
+            "end": 310
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "h.mueller@example.de",
+            "start": 311,
+            "end": 331
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 5",
+            "start": 332,
+            "end": 345
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 347,
+            "end": 352
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 353,
+            "end": 364
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0172/1234567",
+            "start": 365,
+            "end": 377
+        }
+    ],
+    "t120.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lisa Schmitz",
+            "start": 72,
+            "end": 84
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10178",
+            "start": 128,
+            "end": 133
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 134,
+            "end": 140
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 167,
+            "end": 176
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "2012345678",
+            "start": 371,
+            "end": 381
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lisa Schmitz",
+            "start": 789,
+            "end": 801
+        }
+    ],
+    "r197.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 113,
+            "end": 123
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 151,
+            "end": 160
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Schmidt",
+            "start": 313,
+            "end": 325
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 27",
+            "start": 326,
+            "end": 340
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 341,
+            "end": 346
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 347,
+            "end": 358
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "h.schmidt@gmail.com",
+            "start": 359,
+            "end": 378
+        }
+    ],
+    "r67.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "David Buchholz",
+            "start": 47,
+            "end": 61
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "131863006537",
+            "start": 401,
+            "end": 413
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "David Buchholz",
+            "start": null
+        }
+    ],
+    "101.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan Meyer",
+            "start": 50,
+            "end": 62
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "232459654321",
+            "start": 281,
+            "end": 293
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "13844765432",
+            "start": 321,
+            "end": 332
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "5546859515",
+            "start": 368,
+            "end": 378
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stefan Meyer",
+            "start": null
+        }
+    ],
+    "z128.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 80,
+            "end": 89
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "123456789",
+            "start": 338,
+            "end": 347
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 412,
+            "end": 423
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Buchenweg 4",
+            "start": 424,
+            "end": 435
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 437,
+            "end": 442
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Hauptstadt",
+            "start": 443,
+            "end": 453
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "h.muller@example.de",
+            "start": 461,
+            "end": 480
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030/12345678",
+            "start": 486,
+            "end": 498
+        }
+    ],
+    "t192.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 280,
+            "end": 289
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200987654",
+            "start": 314,
+            "end": 323
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Leonie M\u00fcller",
+            "start": 529,
+            "end": 542
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "leonie.m\u00fcller@web.de",
+            "start": 552,
+            "end": 572
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenstra\u00dfe 12",
+            "start": 582,
+            "end": 596
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 598,
+            "end": 603
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 604,
+            "end": 611
+        }
+    ],
+    "t64.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "407387679",
+            "start": 301,
+            "end": 310
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Emma Schmidt",
+            "start": 464,
+            "end": 476
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schadenstra\u00dfe 7",
+            "start": 477,
+            "end": 492
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 493,
+            "end": 498
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 499,
+            "end": 510
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "emma.schmidt@example.com",
+            "start": 511,
+            "end": 535
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 12345678",
+            "start": 536,
+            "end": 549
+        }
+    ],
+    "12.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402827164",
+            "start": 215,
+            "end": 224
+        }
+    ],
+    "109.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Laura Schmidt",
+            "start": 36,
+            "end": 49
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401237864",
+            "start": 139,
+            "end": 148
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "0715462899",
+            "start": 215,
+            "end": 225
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "lauraschmidt54292@web.de",
+            "start": 705,
+            "end": 729
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0165 2305417",
+            "start": 749,
+            "end": 761
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Laura Schmidt",
+            "start": 779,
+            "end": 792
+        }
+    ],
+    "r43.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "9876543210",
+            "start": 85,
+            "end": 95
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 291,
+            "end": 300
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Neumann",
+            "start": 352,
+            "end": 365
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rosenstra\u00dfe 12",
+            "start": 368,
+            "end": 382
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 385,
+            "end": 390
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 391,
+            "end": 398
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "julia.neumann@example.com",
+            "start": 400,
+            "end": 425
+        }
+    ],
+    "z12.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1304765490",
+            "start": 232,
+            "end": 242
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "543210",
+            "start": 268,
+            "end": 274
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "J\u00fcrgen Schmidt",
+            "start": 364,
+            "end": 378
+        }
+    ],
+    "v49.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sabine Himmelreich",
+            "start": 93,
+            "end": 111
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400123456",
+            "start": 311,
+            "end": 320
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sabine Himmelreich",
+            "start": 436,
+            "end": 454
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "s.himmelreich@gmail.com",
+            "start": 455,
+            "end": 478
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0551 12345678",
+            "start": 479,
+            "end": 492
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Kastanienweg 12, 37075 G\u00f6ttingen",
+            "start": 493,
+            "end": 525
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "37075",
+            "start": 510,
+            "end": 515
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "G\u00f6ttingen",
+            "start": 516,
+            "end": 525
+        }
+    ],
+    "7.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 106,
+            "end": 115
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "2001234567",
+            "start": 153,
+            "end": 163
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmidt",
+            "start": 339,
+            "end": 352
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bayernstra\u00dfe 12",
+            "start": 354,
+            "end": 369
+        }
+    ],
+    "t168.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404567892",
+            "start": 333,
+            "end": 342
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "202345678",
+            "start": 380,
+            "end": 389
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Paul Schmidt",
+            "start": 711,
+            "end": 723
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 123, 10115 Berlin",
+            "start": 725,
+            "end": 754
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "paulschmidt@gmail.com",
+            "start": 755,
+            "end": 776
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 157 3458901",
+            "start": null
+        }
+    ],
+    "111.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "277400394",
+            "start": 97,
+            "end": 106
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Thomas Brugger",
+            "start": 446,
+            "end": 460
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 56",
+            "start": 461,
+            "end": 478
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "85467",
+            "start": 479,
+            "end": 484
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Oberh\u00f6vel",
+            "start": 485,
+            "end": 494
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "brugger.thomas@gmail.com",
+            "start": 503,
+            "end": 527
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "05132 86974",
+            "start": 537,
+            "end": 548
+        }
+    ],
+    "v174.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Robert M\u00fcller",
+            "start": 45,
+            "end": 58
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272345678912",
+            "start": 139,
+            "end": 151
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "robert.mueller@email.de",
+            "start": 651,
+            "end": 674
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "04122 123456",
+            "start": 704,
+            "end": 716
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Robert M\u00fcller",
+            "start": 783,
+            "end": 796
+        }
+    ],
+    "v44.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402567814",
+            "start": 233,
+            "end": 242
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lisa Hoffmann",
+            "start": 718,
+            "end": 731
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "lisa.h.off@fakemail.de",
+            "start": 732,
+            "end": 754
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Pflaumenweg 4",
+            "start": 755,
+            "end": 768
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "45678",
+            "start": 769,
+            "end": 774
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 775,
+            "end": 781
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 176 12345678",
+            "start": null
+        }
+    ],
+    "z93.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 299,
+            "end": 308
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201234567",
+            "start": 347,
+            "end": 356
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "Z123456789",
+            "start": 395,
+            "end": 405
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johanna Schmidt",
+            "start": 485,
+            "end": 500
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 12, 10115 Berlin",
+            "start": 501,
+            "end": 532
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "johanna.schmidt@web.de",
+            "start": 533,
+            "end": 555
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 170 1234567",
+            "start": null
+        }
+    ],
+    "z78.txt": [
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Friedrichstra\u00dfe 45",
+            "start": 120,
+            "end": 138
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "10117 Berlin",
+            "start": 140,
+            "end": 152
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 192,
+            "end": 201
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.muster@mustermail.de",
+            "start": 428,
+            "end": 452
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030/1234567",
+            "start": 468,
+            "end": 479
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max Muster",
+            "start": 537,
+            "end": 547
+        }
+    ],
+    "t82.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 124,
+            "end": 133
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tobias Meyer",
+            "start": 395,
+            "end": 407
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "TobiasMeyer@gmail.com",
+            "start": 408,
+            "end": 429
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 5",
+            "start": 430,
+            "end": 443
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "90210",
+            "start": 445,
+            "end": 450
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Stuttgart",
+            "start": 452,
+            "end": 461
+        }
+    ],
+    "r2.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 145,
+            "end": 155
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "272123456789",
+            "start": 511,
+            "end": 523
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1301234567",
+            "start": 564,
+            "end": 574
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 673,
+            "end": 684
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterweg 2",
+            "start": 698,
+            "end": 709
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 710,
+            "end": 715
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 716,
+            "end": 722
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 / 1234567",
+            "start": 728,
+            "end": 741
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@mustermail.de",
+            "start": 749,
+            "end": 775
+        }
+    ],
+    "r150.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "9876543210",
+            "start": 167,
+            "end": 177
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 365,
+            "end": 374
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Jonas Becker",
+            "start": 394,
+            "end": 406
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 5",
+            "start": 428,
+            "end": 441
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 443,
+            "end": 448
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 449,
+            "end": 460
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Jonas Becker",
+            "start": 544,
+            "end": 556
+        }
+    ],
+    "0.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Frank Sch\u00e4fer",
+            "start": 41,
+            "end": 54
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345689",
+            "start": 131,
+            "end": 140
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 192,
+            "end": 202
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151/3456789",
+            "start": 662,
+            "end": 674
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "f.schaefer@mail.de",
+            "start": 708,
+            "end": 726
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Frank Sch\u00e4fer",
+            "start": 808,
+            "end": 821
+        }
+    ],
+    "t47.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402987654",
+            "start": 163,
+            "end": 172
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Klaus Schmidt",
+            "start": 283,
+            "end": 296
+        }
+    ],
+    "r173.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1938375471",
+            "start": 109,
+            "end": 119
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402583749",
+            "start": 193,
+            "end": 202
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes K\u00e4stner",
+            "start": 450,
+            "end": 466
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Lindenthaler Str. 34",
+            "start": 467,
+            "end": 487
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "52064",
+            "start": 488,
+            "end": 493
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Aachen",
+            "start": 494,
+            "end": 500
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "johannes.kaestner@yahoo.de",
+            "start": 501,
+            "end": 527
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0241 55983706",
+            "start": 528,
+            "end": 541
+        }
+    ],
+    "z45.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402356894",
+            "start": 124,
+            "end": 133
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200142857",
+            "start": 165,
+            "end": 174
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "9876543210",
+            "start": 250,
+            "end": 260
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Im Apfelgarten 5",
+            "start": 661,
+            "end": 677
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 678,
+            "end": 683
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 684,
+            "end": 695
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "michael.schaefer@example.com",
+            "start": 696,
+            "end": 724
+        }
+    ],
+    "v138.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sophia Lehmann",
+            "start": 46,
+            "end": 60
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "282632378912",
+            "start": 150,
+            "end": 162
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sophia Lehmann",
+            "start": 623,
+            "end": 637
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "sophia.lehmann@web.de",
+            "start": 638,
+            "end": 659
+        }
+    ],
+    "t97.txt": [
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Meblumste 93, 18452 Neuzeitz",
+            "start": 418,
+            "end": 446
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "18452",
+            "start": 432,
+            "end": 437
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Neuzeitz",
+            "start": 438,
+            "end": 446
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402989345",
+            "start": 463,
+            "end": 472
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Manfred Fleischnudel",
+            "start": 540,
+            "end": 560
+        }
+    ],
+    "9.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Niklas Schmidt",
+            "start": 26,
+            "end": 40
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1304567890",
+            "start": 106,
+            "end": 116
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 184,
+            "end": 194
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "niklas.schmidt@mail.de",
+            "start": 393,
+            "end": 415
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176/12345678",
+            "start": 456,
+            "end": 469
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Niklas Schmidt",
+            "start": 547,
+            "end": 561
+        }
+    ],
+    "z123.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tobias M\u00fcller",
+            "start": 26,
+            "end": 39
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Wilhelmstra\u00dfe 89",
+            "start": 58,
+            "end": 74
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10117",
+            "start": 76,
+            "end": 81
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 82,
+            "end": 88
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 124,
+            "end": 133
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 240,
+            "end": 250
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tobias M\u00fcller",
+            "start": 392,
+            "end": 405
+        }
+    ],
+    "t56.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Robert Meyer",
+            "start": 37,
+            "end": 49
+        },
+        {
+            "entity_type": "ANONYMIZED",
+            "entity_value": "Jugendendiumable Festgrape hendriands feath19umpmoon Tsomnia Klopp Portectabsion Questionsunderdanger Insingly Groughper Kybag Thiscon CEOs judicial overlook po ga policeages king RefertopEye insuperce Begins",
+            "start": 329,
+            "end": 537
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Robert Meyer",
+            "start": null
+        }
+    ],
+    "r23.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 84,
+            "end": 94
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna Schmidt",
+            "start": 351,
+            "end": 363
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Schillerstra\u00dfe 15",
+            "start": 365,
+            "end": 382
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80202",
+            "start": 384,
+            "end": 389
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 390,
+            "end": 397
+        }
+    ],
+    "114.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Eva M\u00fcller",
+            "start": 41,
+            "end": 51
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "82152",
+            "start": 56,
+            "end": 61
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Planegg",
+            "start": 62,
+            "end": 69
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "B\u00fcrgermeister-Schreierstra\u00dfe 12",
+            "start": 71,
+            "end": 102
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 216,
+            "end": 226
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Eva M\u00fcller",
+            "start": 438,
+            "end": 448
+        }
+    ],
+    "v150.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "409442567",
+            "start": 74,
+            "end": 83
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna Schmitt",
+            "start": 221,
+            "end": 233
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Waldweg 13",
+            "start": 235,
+            "end": 245
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "34521",
+            "start": 247,
+            "end": 252
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Bigcity",
+            "start": 253,
+            "end": 260
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "annaschmitt@mail.de",
+            "start": 261,
+            "end": 280
+        }
+    ],
+    "r110.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stephan Meyer",
+            "start": 27,
+            "end": 40
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402589723",
+            "start": 112,
+            "end": 121
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "201673489",
+            "start": 153,
+            "end": 162
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "9876543210",
+            "start": 229,
+            "end": 239
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Stephan Meyer",
+            "start": 481,
+            "end": 494
+        }
+    ],
+    "z59.txt": [
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Neuen Gasse 7",
+            "start": 95,
+            "end": 108
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "44309",
+            "start": 110,
+            "end": 115
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Dortmund",
+            "start": 116,
+            "end": 124
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402384584",
+            "start": 155,
+            "end": 164
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2048396501",
+            "start": 401,
+            "end": 411
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0172/4567890",
+            "start": 516,
+            "end": 528
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "max.wagner@email.de",
+            "start": 546,
+            "end": 565
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Max Wagner",
+            "start": 604,
+            "end": 614
+        }
+    ],
+    "z109.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Matthias Lange",
+            "start": 26,
+            "end": 40
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "33893",
+            "start": 75,
+            "end": 80
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 81,
+            "end": 87
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Matthias Lange",
+            "start": 321,
+            "end": 335
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "209495316",
+            "start": 361,
+            "end": 370
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Matthias Lange",
+            "start": 385,
+            "end": 399
+        }
+    ],
+    "v127.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401983594",
+            "start": 110,
+            "end": 119
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans Mueller",
+            "start": 390,
+            "end": 402
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Heinrich-Heine-Stra\u00dfe 15",
+            "start": 404,
+            "end": 428
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnster",
+            "start": 430,
+            "end": 437
+        }
+    ],
+    "z119.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Timo Kraus",
+            "start": 46,
+            "end": 56
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "271531647",
+            "start": 320,
+            "end": 329
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "tkraua123@beispiel.de",
+            "start": 495,
+            "end": 516
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 / 5437891",
+            "start": 540,
+            "end": 554
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "02334/783283",
+            "start": null
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Timo Kraus",
+            "start": null
+        }
+    ],
+    "v64.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 109,
+            "end": 118
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 389,
+            "end": 400
+        }
+    ],
+    "t19.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lara Himmelreich",
+            "start": 46,
+            "end": 62
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 533,
+            "end": 542
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "2000000000",
+            "start": 580,
+            "end": 590
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lara Himmelreich",
+            "start": 935,
+            "end": 951
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "lhimmelreich@examplemail.de",
+            "start": 952,
+            "end": 979
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Dorfstr. 42",
+            "start": 980,
+            "end": 991
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "21244",
+            "start": 993,
+            "end": 998
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Buchholz",
+            "start": 999,
+            "end": 1007
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0178 1234567",
+            "start": 1008,
+            "end": 1020
+        }
+    ],
+    "r120.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "2047853946",
+            "start": 124,
+            "end": 134
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402574835",
+            "start": 343,
+            "end": 352
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Heinz Schmidt",
+            "start": 421,
+            "end": 434
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Wiesenweg 12",
+            "start": 435,
+            "end": 447
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "33456",
+            "start": 448,
+            "end": 453
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 454,
+            "end": 465
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "heinz.schmidt@email.de",
+            "start": 466,
+            "end": 488
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "069/1234567",
+            "start": 489,
+            "end": 500
+        }
+    ],
+    "105.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404567832",
+            "start": 526,
+            "end": 535
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200987654",
+            "start": 574,
+            "end": 583
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Matthias Meyer",
+            "start": 670,
+            "end": 684
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Meyer.Matthias@mail.de",
+            "start": 693,
+            "end": 715
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Berliner Stra\u00dfe 30, 10178 Berlin",
+            "start": 756,
+            "end": 788
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10178",
+            "start": 776,
+            "end": 781
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 782,
+            "end": 788
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0151 24578923",
+            "start": 733,
+            "end": 746
+        }
+    ],
+    "z105.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lars Neumann",
+            "start": 75,
+            "end": 87
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1408796543",
+            "start": 162,
+            "end": 172
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "409876522",
+            "start": 202,
+            "end": 211
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "1902678",
+            "start": 488,
+            "end": 495
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lars Neumann",
+            "start": 706,
+            "end": 718
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Dorfwiesenstra\u00dfe 43, 95326 Kulmbach ",
+            "start": null
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "E-Mail: lars.neumann@mail.de",
+            "start": 756,
+            "end": 784
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "09221 - 5423222",
+            "start": 794,
+            "end": 809
+        }
+    ],
+    "r113.txt": [
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200126358",
+            "start": 86,
+            "end": 95
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1012031500",
+            "start": 333,
+            "end": 343
+        },
+        {
+            "entity_type": "ID",
+            "entity_value": "96,30",
+            "start": 424,
+            "end": 429
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anneliese M\u00fcller",
+            "start": 668,
+            "end": 684
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Biegenstra\u00dfe 45, 36039 Fulda",
+            "start": 685,
+            "end": 713
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0157 56547890",
+            "start": 721,
+            "end": 734
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "AMueller@web.de",
+            "start": 743,
+            "end": 758
+        }
+    ],
+    "t107.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 134,
+            "end": 143
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 540,
+            "end": 551
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Reformstra\u00dfe 12, 10179 Berlin",
+            "start": 552,
+            "end": 581
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "Tel: 030 12345678",
+            "start": 582,
+            "end": 599
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@email.com",
+            "start": 600,
+            "end": 622
+        }
+    ],
+    "v171.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 126,
+            "end": 135
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sophie M\u00fcller",
+            "start": 509,
+            "end": 522
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "M\u00fcllerstra\u00dfe 5, 10115 Berlin",
+            "start": 523,
+            "end": 551
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "10115",
+            "start": 539,
+            "end": 544
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 545,
+            "end": 551
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "030 1234567",
+            "start": 561,
+            "end": 572
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "sophie.mueller@email.de",
+            "start": 580,
+            "end": 603
+        }
+    ],
+    "z66.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Angela Hartmann",
+            "start": 75,
+            "end": 90
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "405431278",
+            "start": 175,
+            "end": 184
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "90411",
+            "start": 227,
+            "end": 232
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "N\u00fcrnberg",
+            "start": 233,
+            "end": 241
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Angela Hartmann",
+            "start": 671,
+            "end": 686
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "a.hartmann@web.de",
+            "start": 695,
+            "end": 712
+        }
+    ],
+    "96.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Jakob Schneider",
+            "start": 56,
+            "end": 71
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1063749405",
+            "start": 183,
+            "end": 193
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402456789",
+            "start": 722,
+            "end": 731
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "204579634",
+            "start": 769,
+            "end": 778
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Jakob Schneider",
+            "start": 970,
+            "end": 985
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Rodenberger Stra\u00dfe 21, 13407 Berlin",
+            "start": null
+        }
+    ],
+    "r3.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 132,
+            "end": 142
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "200123456",
+            "start": 190,
+            "end": 199
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Lena Schmidt",
+            "start": 704,
+            "end": 716
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 12",
+            "start": 717,
+            "end": 732
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 733,
+            "end": 738
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 739,
+            "end": 750
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "01234-567890",
+            "start": 760,
+            "end": 772
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "lena.schmidt@mustermail.de",
+            "start": 780,
+            "end": 806
+        }
+    ],
+    "103.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "400189543",
+            "start": 181,
+            "end": 190
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "johann.schmidt@mail.de",
+            "start": 463,
+            "end": 485
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johann Schmidt",
+            "start": 553,
+            "end": 567
+        }
+    ],
+    "2.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sabine M\u00fcller",
+            "start": 26,
+            "end": 39
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 90,
+            "end": 99
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Sabine M\u00fcller",
+            "start": 728,
+            "end": 741
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Sabine.Mueller@gmail.com",
+            "start": 742,
+            "end": 766
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Am Sonnenhang 34",
+            "start": 767,
+            "end": 783
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 785,
+            "end": 790
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 791,
+            "end": 802
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 12345678",
+            "start": 808,
+            "end": 821
+        }
+    ],
+    "z23.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "409128578",
+            "start": 141,
+            "end": 150
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anja Schmitt",
+            "start": 395,
+            "end": 407
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bahnhofstr. 45, 81369 M\u00fcnchen",
+            "start": 408,
+            "end": 437
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "asch131292@gmail.com",
+            "start": 438,
+            "end": 458
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 15158585823",
+            "start": null
+        }
+    ],
+    "r63.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1209876543",
+            "start": 124,
+            "end": 134
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345678",
+            "start": 193,
+            "end": 202
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0175 1234567",
+            "start": 644,
+            "end": 656
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Johannes Schmidt",
+            "start": 738,
+            "end": 754
+        }
+    ],
+    "r118.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 101,
+            "end": 111
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "404567890",
+            "start": 263,
+            "end": 272
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Hans M\u00fcller",
+            "start": 340,
+            "end": 351
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Musterstra\u00dfe 5",
+            "start": 352,
+            "end": 366
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 368,
+            "end": 373
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 374,
+            "end": 385
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "hans.mueller@mail.de",
+            "start": 386,
+            "end": 406
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0123456789",
+            "start": 416,
+            "end": 426
+        }
+    ],
+    "r165.txt": [
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "0458673465",
+            "start": 162,
+            "end": 172
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Felix Baumgartner",
+            "start": 628,
+            "end": 645
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Neustadtweg 47, 26579 Baltrum",
+            "start": 646,
+            "end": 675
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "fe.baum@sunshionesents,ho.pj[g};",
+            "start": null
+        }
+    ],
+    "r168.txt": [
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna Berger",
+            "start": 90,
+            "end": 101
+        },
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 356,
+            "end": 365
+        },
+        {
+            "entity_type": "GESCHAEFTSPARTNERNUMMER",
+            "entity_value": "1700123456",
+            "start": 390,
+            "end": 400
+        },
+        {
+            "entity_type": "RECHNUNGSNUMMER",
+            "entity_value": "1234567890",
+            "start": 418,
+            "end": 428
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Anna Berger",
+            "start": 662,
+            "end": 673
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "F\u00f6hrenweg 3, 89231 Neu-Ulm",
+            "start": 674,
+            "end": 700
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "89231",
+            "start": 687,
+            "end": 692
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Neu-Ulm",
+            "start": 693,
+            "end": 700
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "Anna.b1987@gmail.com",
+            "start": 701,
+            "end": 721
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "+49 731 8026314",
+            "start": null
+        }
+    ],
+    "z2.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402938475",
+            "start": 463,
+            "end": 472
+        },
+        {
+            "entity_type": "ZAEHLERNUMMER",
+            "entity_value": "6728359",
+            "start": 500,
+            "end": 507
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Benjamin Schulze",
+            "start": 601,
+            "end": 617
+        }
+    ],
+    "v23.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "402345987",
+            "start": 182,
+            "end": 191
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Peter Schmidt",
+            "start": 398,
+            "end": 411
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Amselweg 12",
+            "start": 412,
+            "end": 423
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 425,
+            "end": 430
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Musterstadt",
+            "start": 431,
+            "end": 442
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "peter.schmidt@mail.de",
+            "start": 451,
+            "end": 472
+        },
+        {
+            "entity_type": "TELEFONNUMMER",
+            "entity_value": "0176 12345678",
+            "start": 488,
+            "end": 501
+        }
+    ],
+    "z154.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "403205876",
+            "start": 262,
+            "end": 271
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Bonner Stra\u00dfe 43c, 53604 Rheinbach",
+            "start": 288,
+            "end": 322
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Ingo Schneider",
+            "start": 438,
+            "end": 452
+        }
+    ],
+    "z96.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 282,
+            "end": 291
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "80805",
+            "start": 341,
+            "end": 346
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "M\u00fcnchen",
+            "start": 347,
+            "end": 354
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Julia Schmitz",
+            "start": 427,
+            "end": 440
+        }
+    ],
+    "t94.txt": [
+        {
+            "entity_type": "VERTRAGSNUMMER",
+            "entity_value": "401234567",
+            "start": 364,
+            "end": 373
+        },
+        {
+            "entity_type": "PERSON",
+            "entity_value": "Tobias M\u00fcller",
+            "start": 439,
+            "end": 452
+        },
+        {
+            "entity_type": "STRASSE",
+            "entity_value": "Hauptstra\u00dfe 12",
+            "start": 453,
+            "end": 467
+        },
+        {
+            "entity_type": "PLZ",
+            "entity_value": "12345",
+            "start": 469,
+            "end": 474
+        },
+        {
+            "entity_type": "ORT",
+            "entity_value": "Berlin",
+            "start": 475,
+            "end": 481
+        },
+        {
+            "entity_type": "EMAIL",
+            "entity_value": "tobias.mueller@beispiel.de",
+            "start": 482,
+            "end": 508
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+Guten Tag E.ON Kundenservice,
+
+Ich bin Kunde bei Ihnen mit der Vertragsnummer <<402238916&&VERTRAGSNUMMER>>. Leider habe ich Probleme beim Einloggen in die E.ON App. Es lief bisher immer ohne Störungen, aber heute funktioniert es nicht. Kann es sein, dass technische Probleme bei Ihnen vorliegen?
+
+Ich hoffe auf eine schnelle Lösung und bedanke mich im Voraus.
+
+Mit freundlichen Grüßen,
+<<Friedrich Bauer&&PERSON>>
+<<Volkartstraße 12, 80636&&STRASSE>> <<München&&ORT>>
+<<0162 3454726&&TELEFONNUMMER>>
+<<fbauer@web.de&&EMAIL>>

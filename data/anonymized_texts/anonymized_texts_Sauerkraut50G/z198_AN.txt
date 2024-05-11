@@ -1,0 +1,9 @@
+ Guten Tag,
+
+ich habe die Vertragsnummer <VERTRAGSNUMMER> und die Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>. Ich habe gerade versucht, meinen Zählerstand einzugeben, aber das System scheint meine Zählernummer nicht zu erkennen. Die Zählernummer laut meiner letzten Rechnung ist <ZAEHLERNRUMMER>. Kundenservice könnte Sie mir erklären, wie ich dieses Problem lösen kann?
+
+Dank und Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
++<TELEFONNUMMER>

@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich habe eine Frage bezüglich meiner Vertragsnummer <<402785394&&VERTRAGSNUMMER>>. Kann ich mit einem Kundenberater sprechen, der mich durch die jüngsten Änderungen in meinem Vertrag führt? Ich bin ein wenig verwirrt und könnte Hilfe beim Verständnis gebrauchen.
+
+Ich danke Ihnen im Voraus,
+
+<<Karl Schmidt&&PERSON>>,
+<<Bergstraße 27&&STRASSE>>, <<45678&&PLZ>> <<Musterstadt&&ORT>>
+<<karl.schmidt@mail.de&&EMAIL>>
+
+Mit freundlichen Grüßen,
+<<Karl Schmidt&&PERSON>>

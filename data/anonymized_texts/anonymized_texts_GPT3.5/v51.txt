@@ -1,0 +1,13 @@
+Hallo E.ON Kundenservice,
+
+ich habe eine Frage bezüglich meines Vertrages. Meine Vertragsnummer lautet <<232123456789&&VERTRAGSNUMMER>>. Ich würde gerne wissen, wie lange meine aktuelle Vertragslaufzeit noch ist und ob ich bereits das Recht habe, den Vertrag zu kündigen.
+
+Ich freue mich auf Ihre baldige Rückmeldung.
+
+Mit freundlichen Grüßen,
+
+<<Ralf Schneider&&PERSON>>
+<<Wiesenstraße 34&&STRASSE>>
+<<81667&&PLZ>><<München&&ORT>>
+<<ralf.schneider@gmail.com&&EMAIL>>
+<<+49 170 1234567&&TELEFONNUMMER>>

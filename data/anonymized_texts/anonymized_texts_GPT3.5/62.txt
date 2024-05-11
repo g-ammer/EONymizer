@@ -1,0 +1,7 @@
+Sehr geehrter E.ON Kundenservice,
+mein Name ist <<Eva Schmidt&&PERSON>> und ich wende mich heute an Sie mit der Geschäftspartnernummer <<1304527896&&GESCHAEFTSPARTNERNUMMER>>. Ich habe vor kurzem einen Brief von Ihnen erhalten, in dem es um meine Rechnungsnummer <<7845120369&&RECHNUNGSNUMMER>> geht.
+In dem Brief wurde mir mitgeteilt, dass der Betrag von meinem Konto abgebucht wurde, allerdings kann ich diese Abbuchung auf meinem Kontoauszug nicht nachvollziehen. Ich habe meine Bank bereits kontaktiert und diese konnte mir ebenfalls keine Auskunft darüber geben.
+Könnten Sie bitte prüfen, ob es eventuell eine Verwechslung gab oder ob ich weitere Schritte einleiten sollte? Ich wäre für Ihre Unterstützung sehr dankbar, da ich nicht möchte, dass es zu Missverständnissen oder gar zu Mahnungen kommt.
+Vielen Dank im Voraus für Ihre Hilfe und Unterstützung.
+Viele Grüße,
+<<Eva Schmidt&&PERSON>>

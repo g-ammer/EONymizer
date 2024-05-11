@@ -1,0 +1,15 @@
+Guten Tag, 
+
+ich habe eine Frage bezüglich meiner letzten Rechnung. Die Rechnungsnummer ist <<2437685901&&RECHNUNGSNUMMER>> und die Geschäftspartnernummer ist <<140567889&&GESCHAEFTSPARTNERNUMMER>>. Der Rechnungsbetrag scheint mir etwas zu hoch zu sein. 
+
+Könnten Sie mir bitte mitteilen, auf welche Verbrauchsdaten sich diese Rechnung bezieht und wie sich der Betrag im Detail zusammensetzt? Eventuell wurde ein falscher Zählerstand verwendet. Die Zählernummer lautet <<3729856&&ZAEHLERNUMMER>>.
+
+Ich bitte um eine schnelle Klärung, da der Betrag bereits von meinem Konto abgebucht wurde. 
+
+Über eine zeitnahe Rückmeldung würde ich mich sehr freuen. 
+
+Vielen Dank und sonnige Grüße
+<<Helmut Schmidt&&PERSON>>
+<<Musterweg 12&&STRASSE>>, <<12345&&PLZ>> <<Musterstadt&&ORT>>
+Tel: <<01234 56789&&TELEFONNUMMER>>
+<<helmut.schmidt@mustermail.de&&EMAIL>>

@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+ich habe eine Frage zum Thema Zählerstand. Meine Vertragsnummer ist <<401234567&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<201234568&&GESCHAEFTSPARTNERNUMMER>>. Der Zähler, um den es geht, hat die Nummer <<Z123456XR&&ZAEHLERNUMMER>>.
+Mir ist gerade aufgefallen, dass der Zählerstand auf meiner letzten Rechnung (Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>) nicht stimmt. Wird der Zählerstand von Ihnen automatisch abgelesen oder muss ich Ihnen den Zählerstand selbst mitteilen?
+Ich möchte sicherstellen, dass meine Energieabrechnung korrekt ist und den tatsächlichen Verbrauch widerspiegelt.
+Vielen Dank für Ihre Unterstützung.
+Mit freundlichen Grüßen,
+<<Anette Martens&&PERSON>>,
+<<Baumstraße 17&&STRASSE>>,
+<<44139&&PLZ>><<Dortmund&&ORT>>
+E-Mail: <<anette.martens@mail.de&&EMAIL>>

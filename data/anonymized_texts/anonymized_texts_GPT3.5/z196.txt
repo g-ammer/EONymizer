@@ -1,0 +1,12 @@
+Betreff: Frage zum Zählerstand 
+
+Guten Tag,
+
+mein Name ist <<Bruno Schmidt&&PERSON>>, ich arbeite bei der Firma Wegener AG, <<Berliner Allee 35&&STRASSE>> in <<10117&&PLZ>> <<Berlin&&ORT>>. Meine Geschäftspartnernummer ist <<1304567890&&GESCHAEFTSPARTNERNUMMER>>. 
+
+Ich hätte eine Frage zum Zählerstand: Wo finde ich diesen? Welcher Wert ist für Sie wichtig? Muss ich diesen bei Ihnen melden oder erfolgt das automatisch?
+
+Ich freue mich auf Ihre Antwort. 
+
+Viele Grüße, 
+<<Bruno Schmidt&&PERSON>>

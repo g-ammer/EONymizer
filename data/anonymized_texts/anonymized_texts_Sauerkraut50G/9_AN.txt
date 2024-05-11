@@ -1,0 +1,10 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei Ihnen. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>. Ich habe eine Frage zu meiner aktuellsten Rechnung mit der Nummer <<RECHNUNGSNUMMER>>. Der Betrag scheint höher als üblich, könnten Sie mir bitte helfen zu verstehen, warum das so ist?
+
+Ich würde mich über eine schnelle Rückmeldung freuen. Sie können mich unter meiner E-Mail-Adresse <EMAIL> oder alternativ unter der Telefonnummer <TELEFONNUMMER> erreichen.
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>

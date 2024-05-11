@@ -1,0 +1,13 @@
+ Sehr geehrte Damen und Herren,
+
+mein Name ist <PERSON> und ich wohne in der <STRASSE>, <PLZ><ORT>. Ich habe Probleme den Motor meiner neuen Solaranlage anzustellen. Dazu hätte ich ein paar Frage an den technischen Support. Die Sonnenkollektoren fangen richtig an zu spinnen. Symptome die ich festgestellt habe sind zum Beispiel ungewöhnliche Geräusche, unerklärlicher Defekte sowie geringere Effizienz als vorher.
+
+Zusätzlich möchte ich mich mit meiner App einloggen, ich bekam die Fehlermeldung "Authentifizierung Fehler, versuche zu neu laden". Vielleicht besteht ja eine Störung?
+
+Vertrag-Nr.: <VERTRAGSNUMMER>, Geschäftspartner-Nr.: <GESCHAEFTSPARTNERNUMMER>
+Wäre es Möglich für diese Angelegenheit zur Klärung?
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung!
+
+Mit freundlichen Grüßen,
+<PERSON>

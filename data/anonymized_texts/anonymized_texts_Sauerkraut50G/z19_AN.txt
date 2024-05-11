@@ -1,0 +1,11 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich bin Kunde bei E.ON mit der Vertragsnummer <VERTRAGSNUMMER>. Ich habe eine Frage bezüglich meines Zählerstands. Gibt es eine Möglichkeit, meinen aktuellen Zählerstand online einzusehen oder muss ich dies manuell am Zähler ablesen?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<STRASSE>, <PLZ><ORT>
+<TELEFONNUMMER>

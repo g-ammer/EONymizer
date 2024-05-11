@@ -1,0 +1,10 @@
+Guten Tag E.ON Kundenservice,
+
+ich habe kürzlich meine aktuelle Rechnung unter der Rechnungsnummer <RECHNUNGSNR.> bekommen. Was mich ein wenig irritiert, ist dass der Rechnungsbetrag weit höher ausgefallen ist als von meiner monatlichen Stromprämie erwartet.
+
+Ich würde Sie daher bitten, den Betrag für mich zu prüfen. Meine Vertragsnummer ist <VERTRAGSNR.> und mein Name ist <PERSON>. Sie können mich unter der Addresse "<ADRESSE>" oder per Telefon unter <TELEFONNR.> finden.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>

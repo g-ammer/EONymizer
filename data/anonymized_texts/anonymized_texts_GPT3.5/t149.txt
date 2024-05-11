@@ -1,0 +1,13 @@
+Sehr geehrter Kundenservice,
+
+ich habe seit einigen Tagen Probleme mit meiner E.ON App. Die Anmeldung funktioniert nicht mehr, obwohl ich meine Login-Daten nicht geändert habe. Könnten Sie mir bitte dabei helfen, dieses Problem zu beheben?
+
+Meine Vertragsnummer lautet: <<401234567&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Beste Grüße,
+<<Hans Müller&&PERSON>>
+<<Hauptstraße 123&&STRASSE>>, <<12345&&PLZ>>, <<Berlin&&ORT>>
+<<hans.mueller@mail.de&&EMAIL>>
+<<0176/12345678&&TELEFONNUMMER>>

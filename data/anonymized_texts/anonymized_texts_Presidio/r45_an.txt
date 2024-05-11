@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,
+
+Ich habe eine Frage zu meiner letzten Rechnung Nummer <RECHNUNGSNR.>. Der Betrag weicht ab von dem Betrag von letztem Monat. Können Sie mir bitte helfen, die Details dazu zu erfahren und warum es eine so große Veränderung gibt?
+
+Mein Vertragsnummer ist die <VERTRAGSNR.> und meine Geschäftspartnernummer ist die <GESCHÄFTSPARTNERNR.>. 
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+Tel: <TELEFONNR.>
+<ADRESSE>

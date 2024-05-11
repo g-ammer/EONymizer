@@ -1,0 +1,11 @@
+Hallo,
+
+ich habe vor kurzem meinen Energievertrag bei E.ON abgeschlossen aber kann die genaue Vertragslaufzeit meines Tarifs nicht finden, könnten Sie mir da weiterhelfen? Meine Vertragsnummer ist die <<402938721&&VERTRAGSNUMMER>>.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Beste Grüße,
+<<Tobias Springer&&PERSON>>,
+<<Beethovenweg 7&&STRASSE>>, <<12345&&PLZ>>, <<Dresden&&ORT>>
+<<tobias.springer@email.de&&EMAIL>>
+<<0381 456732&&TELEFONNUMMER>>

@@ -1,0 +1,12 @@
+ Sehr geehrte Damen und Herren,
+
+ich bin <PERSON>, Kunde bei E.ON (Geschäftspartnernummer: <GESCHAEFTSPARTNERNUMMER>), und habe eine Frage zu meiner jüngsten Rechnung. Die Rechnungsnummer lautet <<RECHNUNGSNUMMER>> und wurde mir kürzlich zugeschickt.
+
+Der aktuelle Rechnungsbetrag kam mir etwas höher vor als ich es gewohnt bin. Daher würde ich gerne wissen, wie dieser Betrag zustande gekommen ist und ob alle Posten korrekt berechnet wurden. Können Sie mir eine detaillierte Aufschlüsselung der Kosten zukommen lassen?
+
+Zudem würde ich gerne wissen, ob es eine Möglichkeit gibt, die Zahlungsfrist für diese Rechnung noch zu verlängern.
+
+Vielen Dank für Ihre Hilfe. Sie erreichen mich unter meiner Email-Adresse: <EMAIL> oder telefonisch unter <TELEFONNUMMER>.
+
+Mit freundlichen Grüßen,
+<PERSON>

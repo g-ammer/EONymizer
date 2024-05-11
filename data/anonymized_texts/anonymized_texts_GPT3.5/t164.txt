@@ -1,0 +1,16 @@
+Guten Tag,
+
+ich habe aktuell ein Problem mit der E.ON App und brauche technischen Support. Ich versuche mich seit gestern in die App einzuloggen, aber immer wenn ich meine Zugangsdaten eingebe, erhalte ich eine Fehlermeldung, dass mein Login nicht korrekt sei. Ich habe bereits mehrfach das Passwort zurückgesetzt, dieses per E-Mail erhalten und erneut versucht mich einzuloggen. Aber leider bleibt das Problem bestehen.
+
+Können Sie mir bitte weiterhelfen?
+
+Hier sind meine Vertragsdaten:
+
+Vertragsnummer: <<401234567&&VERTRAGSNUMMER>>
+Geschäftspartnernummer: <<1301234567&&GESCHAEFTSPARTNERNUMMER>>
+
+Vielen Dank und beste Grüße,
+<<Friedrich Müller&&PERSON>>
+<<Hauptstraße 230&&STRASSE>>, <<21029&&PLZ>> <<Hamburg&&ORT>>
+<<mueller.friedrich@email.de&&EMAIL>>
+Tel: <<+49 555 1234567&&TELEFONNUMMER>>

@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,
+mein Name ist <<Wolfgang Schmidt&&PERSON>> und ich habe Fragen bezüglich des Kundenservices. Am 09. Juni sollte ich über mein Vertragskonto <<402563718&&VERTRAGSNUMMER>> einen Anruf von einem Kundenbetreuer erhalten, den ich aber nicht bekommen habe.
+Leider hat mich der versprochene Rückruf nicht erreicht und laut meinen Unterlagen waren keine technischen Störungen aufgezeigt gewesen. Meine Kontaktinformationen sind: <<044-range58584&&TELEFONNUMMER>> und <<wolfgang.schmidt@mail.com&&EMAIL>>. Meine Geschäftspartnernummer lautet: <<200197631&&GESCHAEFTSPARTNERNUMMER>>.
+Bitte informieren Sie mich, wann ich mit einem erneuten Anruf rechnen kann und wie eine pünktliche Kommunikation gewährleistet werden kann. Eine zeitnahe Klärung dieser Angelegenheit wäre wünschenswert.
+Mit freundlichen Grüßen,
+<<Wolfgang Schmidt&&PERSON>>

@@ -1,0 +1,9 @@
+Sehr geehrter Kundenservice,
+ich bin Kunde bei E.ON und habe eine Frage zur meiner letzten Rechnung mit der RECHNUNGSNUMMER <<1234567890&&RECHNUNGSNUMMER>>. Könnten Sie bitte für mich prüfen, ob es eine Fehlberechnung gab? Ich habe den Verdacht, dass der Verbrauch meiner Zählernummer <<98765&&ZAEHLERNUMMER>> zu hoch eingeschätzt wurde.
+Vielen Dank im Voraus für Ihre Hilfe.
+Mit freundlichen Grüßen,
+<<Simon Schuster&&PERSON>>
+<<Musterstraße 5&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Telefon: <<0178 1234567&&TELEFONNUMMER>>
+Email: <<simon.schuster@email.de&&EMAIL>>

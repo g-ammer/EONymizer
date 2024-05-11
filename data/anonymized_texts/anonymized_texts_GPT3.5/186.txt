@@ -1,0 +1,13 @@
+Guten Tag,
+
+ich bin Kunde bei Ihnen und mein Name lautet <<Markus Fischer&&PERSON>>. Meine Geschäftspartnernummer lautet <<1306547890&&GESCHAEFTSPARTNERNUMMER>> und ich beziehe Gas über den Zähler mit der Nummer <<5436894&&ZAEHLERNUMMER>> für meine Wohnung in der <<Parkstraße 9&&STRASSE>>, <<76133&&PLZ>> <<Karlsruhe&&ORT>>.
+
+Leider kann ich seit einigen Tagen meinen aktuellsten Gasverbrauch in Ihrem Online-Portal nicht einsehen und statistische Auswertungen funktionieren auch nicht mehr. Normalerweise benutze ich diese Funktion gern, um meinen monatlichen Verbrauch zu prüfen und ein besseres Budget-Management durchzuführen.
+
+Könnten Sie mir bitte helfen oder mir einen Kontakt für einen Kundenberater geben, der meine Fragen beantworten kann? 
+
+Vielen Dank und mit freundlichen Grüßen,
+
+<<Markus Fischer&&PERSON>>
+<<markus.fischer@email.de&&EMAIL>>
+<<0157 - 88776644&&TELEFONNUMMER>>

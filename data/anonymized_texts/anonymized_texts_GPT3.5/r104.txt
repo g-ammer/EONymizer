@@ -1,0 +1,15 @@
+Guten Tag,
+
+ich hoffe, dass Sie mir bei meinem Anliegen weiterhelfen können.
+
+Es geht um die Rechnung mit der Rechnungsnummer <<5629837450&&RECHNUNGSNUMMER>>. Ich habe ein Problem mit dem Rechnungsbetrag. Zum einen erscheint mir der Betrag höher als erwartet, weil er über meinem üblichen Monatsverbrauch liegt. Könnten Sie bitte überprüfen, ob da ein Fehler vorliegt? Zum anderen habe ich Schwierigkeiten mit der Zahlung. Ich habe versucht, die Rechnung über mein Bankkonto zu begleichen, aber es scheint, dass es ein Problem bei der Überweisung gibt.
+
+Meine Vertragsnummer ist <<402589375&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer ist <<204875621&&GESCHAEFTSPARTNERNUMMER>>.
+
+Ich würde mich über eine rasche Rückmeldung freuen und freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+<<Marie Klein&&PERSON>>
+<<Münchner Str. 12&&STRASSE>>,
+<<8000&&PLZ>> <<München&&ORT>>
+<<marie.klein123@e-mail.de&&EMAIL>>

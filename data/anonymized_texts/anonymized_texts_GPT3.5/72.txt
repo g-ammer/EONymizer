@@ -1,0 +1,11 @@
+Sehr geehrter E.ON Kundenservice, 
+
+ich habe eine Frage zum Rechnungsbetrag meiner aktuellen Stromrechnung mit der Nummer <<0324768201&&RECHNUNGSNUMMER>>. Der Betrag erscheint mir etwas höher als üblich. Könnten meine Verbrauchseinheiten falsch berechnen worden sein? Meine Zählernummer ist <<2327788&&ZAEHLERNUMMER>>.
+
+Vielen Dank und festen Gruß, 
+
+<<Alexander Hämmerlein&&PERSON>>
+
+<<Mittelstraße 45&&STRASSE>>, <<12207&&PLZ>> <<Berlin&&ORT>>
+<<buchhaltung@alex"type.com&&EMAIL>>
+<<+030 54677899&&TELEFONNUMMER>>

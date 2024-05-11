@@ -1,0 +1,7 @@
+Guten Tag E.ON,
+
+ich habe Fragen zu meinem Vertrag mit der Vertragsnummer <<409442567&&VERTRAGSNUMMER>>. Konnten Sie mir bitte nochmal die genaue Vertragslaufzeit mitteilen? Und welche Kündigungsfristen müssen eingehalten werden?
+
+Vibringo,
+<<Anna Schmitt&&PERSON>>, <<Waldweg 13&&STRASSE>>, <<34521&&PLZ>> <<Bigcity&&ORT>>
+<<annaschmitt@mail.de&&EMAIL>>

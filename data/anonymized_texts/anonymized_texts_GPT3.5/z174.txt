@@ -1,0 +1,10 @@
+Guten Tag,
+
+mein Name ist <<Thomas Müller&&PERSON>> und ich würde gerne den aktuellen Zählerstand meines Gaszählers erfahren. Meine Vertragsnummer ist <<402934567&&VERTRAGSNUMMER>> und meine Geschäftspartnernummer lautet <<201234567&&GESCHAEFTSPARTNERNUMMER>>. Könnten Sie mir hier weiterhelfen?
+
+Vielen Dank im Voraus!
+
+Mit freundlichen Grüßen,
+<<Thomas Müller&&PERSON>>, <<Hauptstraße 56&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>
+<<thomas.mueller@email.de&&EMAIL>>
+<<0176 12345678&&TELEFONNUMMER>>

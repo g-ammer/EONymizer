@@ -1,0 +1,15 @@
+ Guten Tag,
+
+ich habe eine Frage bezüglich meiner letzten Rechnung von E.ON. Die Rechnungsnummer ist <<RECHNUNGSNUMMER>>. Obwohl ich meine Energieverbrauchsdaten regelmäßig online aktualisiere, scheint der Rechnungsbetrag deutlich höher als erwartet.
+
+Daher würde ich gern den genauen Grund für diese Differenz verstehen und benötige eine detaillierte Aufschlüsselung des Betrags. Könnten Sie bitte prüfen, ob diese Rechnung korrekt ist?
+
+Für weitere Informationen steht Ihnen meine Vertragsnummer <VERTRAGSNUMMER> und Geschäftspartnernummer <<GESCHAEFTSPARTNERNUMMER>> zur Verfügung.
+
+Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>

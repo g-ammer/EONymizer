@@ -1,0 +1,12 @@
+ Guten Tag E.ON Kundenservice,
+
+mein Name ist <PERSON>, wohnhaft in der <STRASSE> <PLZ><ORT> und Kunde bei E.ON unter der Geschäftspartnernummer <GESCHAEFTSPARTNERNUMMER>.
+
+Ich habe versucht, Ihre E.ON-App auf meinem Smartphone zu installieren, um meine monatlichen Stromkosten einfach und unkompliziert von unterwegs verwalten zu können. Leider habe ich ein Problem beim Einloggen in die App trotz korrekter Zugangsdaten. Es wird angegeben, dass es eine technische Störung gibt und der Login nicht möglich ist.
+
+Können Sie mir bitte bei der Behebung dieses Problems helfen?
+
+Vielen Dank im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>

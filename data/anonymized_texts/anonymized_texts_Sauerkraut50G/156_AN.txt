@@ -1,0 +1,12 @@
+ Guten Tag,
+
+mein Name ist <PERSON> und ich habe eine Frage zu meinem Energievertrag ID: <VERTRAGSNUMMER>. Bei einem Telefongespräch mit einem Ihrer Kundenberater wurde mir versprochen, dass ich regelmäßige Informationen und Updates zu meinem Verbrauch erhalte.
+
+Leider habe ich bisher noch keine solchen Informationen erhalten und fühle mich ein wenig im Dunkeln gelassen. Könnten Sie bitte überprüfen, ob es möglicherweise ein Kommunikationsproblem gibt oder ob ich etwas übersehen habe?
+
+Ich freue mich auf Ihre Antwort und bedanke mich im Voraus für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<PERSON>
+<EMAIL>
+<TELEFONNUMMER>

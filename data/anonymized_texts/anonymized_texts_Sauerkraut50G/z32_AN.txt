@@ -1,0 +1,21 @@
+ Hallo Cora Fischer,
+
+vielen Dank für Ihre Anfrage. Hier ist die von Ihnen gewünschte Antwort mit den entsprechenden Labels:
+
+<START>
+Hallo E.ON Kundendienst,
+
+ich hätte eine Frage bezüglich meines Zählerstands. Ich habe vor Kurzem übers Internet einen Auszug meines Energieverbrauchs sehen wollen, aber leider konnte ich den aktuellen Zählerstand meiner Gas- und Stromversorgung nirgendwo auffinden. Können Sie mir eine Anleitung geben, wie ich dies selbst in Augenschein nehmen könnte? Ist dies über das Onlineportal möglich oder muss ich direkt an dem Zählerkasten sein, wenn ja, wo im Haus befindet sich in der Regel solch ein Zähler?
+
+Meine Vertragsnummer bei Ihnen ist die <VERTRAGSNUMMER> und als Geschäftspartnernummer haben wir uns die <GESCHAEFTSPARTNERNUMMER> notiert. Ich wohne momentan in der Runebergstraße 24, <PLZ><ORT> und betrifft Tabea Kröger praktisch Fragen wir uns auch ob Sie uns letzten Montag eine Mail zu diesem Thema geschrieben haben unser Postfach Frau Krögers Mail Jonasvvin1985creates@gmail.com erreichte bisher keine Info?
+
+<ANONYMIZED> aus Familie wäre ulfer mail ?
+
+Ciao,
+<PERSON>
+<END>
+
+Ich hoffe, ich konnte Ihnen weiterhelfen. Wenn Sie weitere Fragen haben, zögern Sie bitte nicht, mich zu kontaktieren.
+
+Mit freundlichen Grüßen,
+E.ON Kundendienst

@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,
+zunächst hoffe ich, dass Sie gesund sind und einen angenehmen Arbeitstag haben. Ich habe eine Frage zu meinem Vertrag bei Ihnen – die Vertragsnummer lautet: <<402389179&&VERTRAGSNUMMER>>.
+Es geht um die Vertragslaufzeit. Können Sie mir bitte mitteilen, wann genau mein Vertrag endet? Ich möchte sicherstellen, dass ich alle meine Optionen kenne, bevor mein Vertrag ausläuft.
+Vielen Dank für Ihre Unterstützung im Voraus.
+Freundlicher Gruß,
+<<Meike Baumann&&PERSON>>
+<<Musterstraße 6&&STRASSE>>
+<<48145&&PLZ>><<Münster&&ORT>>
+Tel.: <<01512 3456789&&TELEFONNUMMER>>
+Email: <<meike.baumann@email.com&&EMAIL>>

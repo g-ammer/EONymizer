@@ -1,0 +1,14 @@
+Guten Tag,
+
+mein Name ist <<Karl Schmitt&&PERSON>> und ich bin Kunde bei E.ON beziehe Energie unter der Vertragsnummer <<242827126478&&VERTRAGSNUMMER>>. An dem von mir beufzten Zähler mit der Zählernummer <<AZ20219&&ZAEHLERNUMMER>> scheine es ein Problem zu geben, ich bin etwas verwirrt bezugnehmend auf den Zählerstand. 
+
+Es sieht so aus, als ob der aktuelle Zählerstand meiner Rechnungsnummer: <<7182590536&&RECHNUNGSNUMMER>> wesentlich höher ist als erwartet. Ich bin eifrig bemüht, meinen Energieverbrauch einzuschränken und habe daher Mühe zu verstehen, wie ein so hoher Wert zustande kommen konnte.
+
+Ich würde gern mehr darüber erfahren, was gegenmentig vonstatten geht. Könnten Sie bitte mein Problem so schnell wie möglich beurteilen und mich darüber informieren, was schief läuft und ob es sich um einen Fehler meinersetis oder möglicherweise des Zählers handelt? 
+
+Meine Adresse ist <<Mariastraße 24&&STRASSE>>, <<50678&&PLZ>> <<Köln&&ORT>> oder kontaktieren Sie mich unter der Telefonnummer: <<02232789612&&TELEFONNUMMER>> oder per E-Mail: <<karl_schtt@web.de&&EMAIL>>. 
+
+Vielen Dank für Ihre baldige Antwort,
+
+Mit freundlichen Grüßen,
+<<Karl Schmitt&&PERSON>>

@@ -1,0 +1,12 @@
+Guten Tag sehr geehrtes E.ON-Team,
+
+hiermit schreibe ich Ihnen wegen einer Unstimmigkeit bezüglich meines Zählerstands an meiner aktuellen Adresse, <<Hauptstraße 12&&STRASSE>>, <<12345&&PLZ>> <<Berlin&&ORT>>. Da ich in meiner jüngsten Rechnung einen auffälligen Anstieg des Verbrauchs feststellen konnte, frage ich mich, ob meine Daten akkurat erfasst wurden. Die Rechnungsnummer lautet <<1234567890&&RECHNUNGSNUMMER>> und meine Vertragsnummer ist <<400123456&&VERTRAGSNUMMER>>.
+
+Es wäre hilfreich, wenn Sie den gemeldeten Zählerstand im Zusammenhang mit der zugehörigen Zählernummer <<234-567&&ZAEHLERNUMMER>> prüfen könnten. Da mir Ihre genauen Messverfahren unbekannt und unklar sind, bitte ich Sie um Übersendung detaillierter Informationen diesbezüglich.
+
+Hier ist meine Telefonnummer für Rückfragen: <<030/12345678-9&&TELEFONNUMMER>> und meine E-Mail-Adresse: <<max.mueller@email.de&&EMAIL>>.
+
+Hoffe bald von Ihnen zu hören.
+
+Freundlicher Gruß,
+<<Max Müller&&PERSON>>

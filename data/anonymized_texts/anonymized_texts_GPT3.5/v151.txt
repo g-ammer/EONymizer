@@ -1,0 +1,9 @@
+Hallo,
+mein Name ist <<Laura Schneider&&PERSON>> und ich bin Kunde bei Ihnen unter der Vertragsnummer <<402938475&&VERTRAGSNUMMER>>. Zurzeit überlege ich, meinen Vertrag bei Ihnen zu kündigen und möchte mich daher über die Kündigungsfrist und die nötigen Schritte informieren. Könnten Sie mir dazu bitte weitere Informationen zukommen lassen?
+Vielen Dank im Voraus.
+Mit freundlichen Grüßen,
+<<Laura Schneider&&PERSON>>
+<<laura.schneider@email.de&&EMAIL>>
+<<Am Wiesengrund 17&&STRASSE>>, <<12345&&PLZ>>,
+ <<Musterstadt&&ORT>>
+Tel: <<0172 3456789&&TELEFONNUMMER>>

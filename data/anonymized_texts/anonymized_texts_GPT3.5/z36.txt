@@ -1,0 +1,12 @@
+Guten Tag,
+
+ich bin Kunde bei E.ON und habe eine Frage zu meinem Zählerstand. Mein Name ist <<Jonas Schmidt&&PERSON>> und meine Vertragsnummer lautet <<402345678&&VERTRAGSNUMMER>>. Ich lebe in der <<Rosenstraße 12&&STRASSE>>, <<10115&&PLZ>> <<Berlin&&ORT>>.
+
+Ich habe bemerkt, dass der Zählerstand auf meiner letzten Rechnung (Rechnungsnummer <<1234567890&&RECHNUNGSNUMMER>>) nicht mit dem tatsächlichen Stand meines Zählers übereinstimmt. Könnten Sie bitte prüfen, ob es einen Fehler gegeben hat?
+
+Für Rückfragen erreichen Sie mich unter der Telefonnummer <<0176 1234567&&TELEFONNUMMER>> oder per E-Mail unter <<jonas.schmidt@mail.de&&EMAIL>>.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<<Jonas Schmidt&&PERSON>>

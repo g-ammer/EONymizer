@@ -1,0 +1,16 @@
+ Betreff: Fragen zu meiner letzten Rechnung, Kundenkonto <KUNDENNUMMER>
+
+Sehr geehrte Damen und Herren,
+
+ich bin Kunde bei Ihrem Versorgungsunternehmen (Kundennummer <KUNDENNUMMER>) und habe eine Frage zu meiner letzten Rechnung.
+
+Die Rechnungsnummer lautet: <<RECHNUNGSNUMMER>>. Der Rechnungsbetrag ist meines Erachtens zu hoch ausgefallen. Könnten Sie die Berechnung bitte für mich überprüfen?
+
+Ich wäre Ihnen dankbar, wenn Sie mich per E-Mail oder telefonisch unter <TELEFONNUMMER> informieren.
+
+Vorab schon mal herzlichen Dank für Ihre Hilfe.
+
+Freundliche Grüße,
+
+<PERSON>
+<STRASSE>, <PLZ><ORT>

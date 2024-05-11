@@ -1,0 +1,10 @@
+ Guten Tag,
+
+ich hoffe, Ihnen geht es gut. Mein Name ist <PERSON>, ich wohne in der <STRASSE>, <PLZ> <ORT> und bin Kunde bei E.ON. Meine Geschäftspartnernummer lautet <GESCHAEFTSPARTNERNUMMER>.
+
+Ich habe einige Fragen bezüglich meines Zählerstands. Dürfen Sie mir bitte erklären, wie und wann ich meinen Zählerstand für die Abrechnung übermitteln soll? Ich habe einen digitalen Zähler und bin mir nicht sicher, wie ich die Zahlen richtig ablesen und weitergeben soll.
+
+Für Ihre Mühe bedanke ich mich im Voraus und freue mich auf Ihre Antwort.
+
+Beste Grüße,
+<PERSON>

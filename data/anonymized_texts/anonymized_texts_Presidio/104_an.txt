@@ -1,0 +1,10 @@
+Guten Tag,
+
+ich habe die Rechnung Nummer <RECHNUNGSNR.> erhalten und hätte gerne eine Aufschlüsselung der Kosten zur besseren Kontrolle meiner Ausgaben. Könnten Sie mir diese schicken? Meine Vertragsnummer ist <VERTRAGSNR.>. 
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen
+<PERSON>
+<ADRESSE>
+<EMAIL>

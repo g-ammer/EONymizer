@@ -1,0 +1,9 @@
+ Guten Tag,
+
+meine Vertragsnummer bei Ihnen ist die <VERTRAGSNUMMER>. Out of curiosity, hätte ich gerne gewusst, wie lange die Vertragslaufzeit für diesen Vertrag noch ist? Wann käme eine baldige Kündigung infrage? Vielen Dank für Ihre Rückmeldung.
+
+Viele Grüße,
+<PERSON>
+<STRASSE>, <PLZ><ORT>
+<EMAIL>
+Tel: <TELEFONNUMMER>
