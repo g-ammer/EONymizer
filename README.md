@@ -21,6 +21,7 @@ The requirements and environment files contain information on all the necessary 
 
 paths:  
 ../requirements.txt
+
 ../environment.yml
 
 ## Data
@@ -46,6 +47,7 @@ These helper scrips need to be imported into the corresponding notebooks.
 
 paths: 
 ../src/helper_functions_presidio.py
+
 ../src/score_calculator.py
 
 
@@ -62,7 +64,7 @@ Furthermore, the anonymized texts can be saved as individual .txt files.
 paths:
 ../notebooks/eon_presidio_model_ga.ipynb
 
-### - Notebooks for GPT and Sauerkraut not added yet!!
+### $${\color{red}Notebooks \space for \space GPT3.5 \space and \space Sauerkraut \space not \space added \space yet!!!}$$
 
 
 ### Expected Results
