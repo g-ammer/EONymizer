@@ -1,54 +1,58 @@
-![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/eonymizer_logo_jk.png)
+![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/eonymizer_logo.png)
 
-## Anonymizing private information in unstructured data
+# Anonymizing private information in unstructured data
 
 ===
 This repository contains code and data for a capstone project as part of the Constructor Academy Data Science Bootcamp.
 The project was provided by the energy provider company E.ON Energie Deutschland.
 
-Authors
+## Authors
 ====
 Ammer Georg, Janis Kropp, Thomas Loesekann
 
-Goal and Approach
+## Goal and Approach
 ====
 The goal of this project was to detect and anonymize personally identifiable information from customer e-mails.
 We used three different, complementary approaches to anonymize the texts: Microsoft Presidio, ChatGPT3.5 and Sauerkraut-Mixtral.
 Furthermore we built a score_calculator that allows a measurement of the anonymization accuracy of our models.
 
-Requirements
+## Requirements
 ====
 The requirements and environment files contain information on all the necessary python packages:
 
-path:   ../requirements.txt
+path:  
+	../requirements.txt
 
 	../environment.yml
 
-Data
+## Data
 ====
 1000 customer e-mails provided as .txt files. NOTE: These e-mails were synthetically generated and do not contain any private information!
 
-path: ../data/original_texts_renamed
+path:
+	../data/original_texts_renamed
 
-Labeled Data
+## Labeled Data
 ====
 We manually labeled 200 randomly selected texts using Azure AI Languague Studio to create a ground truth with which we could evaluate model performaces.
 The labels are provided as a .json file:
 
-path: ../data/labels_200_final.json
+path:
+	../data/labels_200_final.json
 
-Python Scripts
+## Python Scripts
 ====
 This repo contains 2 python scripts with helper functions for the Presidio model notebook (eon_presidio_model_ga.ipynb) which is called 'helper_functions_presidio.py',
 and for the calculate_scores_plot_figures_ga.ipynb notebook which is called 'score_calculator.py'.
 These helper scrips need to be imported into the corresponding notebooks.
 
-paths:  ../src/helper_functions_presidio.py
+paths: 
+	../src/helper_functions_presidio.py
 
 	../src/score_calculator.py
 
 
-How to work with this repo
+# How to work with this repo
 ====
 ## 1. Run anonymization models
 This repo contains individual notebooks for each model (3 in total for: Presidio, GPT, Sauerkraut).
@@ -79,13 +83,15 @@ or the combined predictions of 2 or more models (i.e. only those predicitions wh
 The results of the calculate_model_score function can be saved as dicitionaries (metrics_dict_all, score_dict_all) in .json format.
 The plots can be saved as .png files.
 
-path: ../notebooks/calculate_scores_plot_figures_ga.ipynb	
+path:
+	../notebooks/calculate_scores_plot_figures_ga.ipynb	
 
 ### Expected Results
 
 ![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/scores_presidio.png)
 
 Model performance for Microsoft Presidio model evaluated on 200 labeled texts.
+
 
 
 ![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/entities_cm_presidio.png)
