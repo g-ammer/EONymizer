@@ -2,22 +2,22 @@
 
 # Anonymizing private information in unstructured data
 
-===
+
 This repository contains code and data for a capstone project as part of the Constructor Academy Data Science Bootcamp.
 The project was provided by the energy provider company E.ON Energie Deutschland.
 
 ## Authors
-====
+
 Ammer Georg, Janis Kropp, Thomas Loesekann
 
 ## Goal and Approach
-====
+
 The goal of this project was to detect and anonymize personally identifiable information from customer e-mails.
 We used three different, complementary approaches to anonymize the texts: Microsoft Presidio, ChatGPT3.5 and Sauerkraut-Mixtral.
 Furthermore we built a score_calculator that allows a measurement of the anonymization accuracy of our models.
 
 ## Requirements
-====
+
 The requirements and environment files contain information on all the necessary python packages:
 
 path:  
@@ -26,14 +26,14 @@ path:
 	../environment.yml
 
 ## Data
-====
+
 1000 customer e-mails provided as .txt files. NOTE: These e-mails were synthetically generated and do not contain any private information!
 
 path:
 	../data/original_texts_renamed
 
 ## Labeled Data
-====
+
 We manually labeled 200 randomly selected texts using Azure AI Languague Studio to create a ground truth with which we could evaluate model performaces.
 The labels are provided as a .json file:
 
@@ -41,7 +41,7 @@ path:
 	../data/labels_200_final.json
 
 ## Python Scripts
-====
+
 This repo contains 2 python scripts with helper functions for the Presidio model notebook (eon_presidio_model_ga.ipynb) which is called 'helper_functions_presidio.py',
 and for the calculate_scores_plot_figures_ga.ipynb notebook which is called 'score_calculator.py'.
 These helper scrips need to be imported into the corresponding notebooks.
@@ -53,7 +53,7 @@ paths:
 
 
 # How to work with this repo
-====
+
 ## 1. Run anonymization models
 This repo contains individual notebooks for each model (3 in total for: Presidio, GPT, Sauerkraut).
 These notebooks take a folder with .txt files as input and create a results dicitionary (predicitions_dict) as output that is then saved as a .json file.
@@ -62,9 +62,11 @@ The results dicitionary has the names of the .txt files as keys and a list of re
 {"start": start character of entity, "stop": stop character of entity, "entitiy_type": type of detected entity} for each detected entity of a text.
 Furthermore, the anonymized texts can be saved as individual .txt files.
 
-paths:  ../notebooks/eon_presidio_model_ga.ipynb
+paths:
+	../notebooks/eon_presidio_model_ga.ipynb
 
-	Notebooks for GPT and Sauerkraut not added yet!!
+### Notebooks for GPT and Sauerkraut not added yet!!
+
 
 ### Expected Results
 
