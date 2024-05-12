@@ -62,12 +62,12 @@ Furthermore, the anonymized texts can be saved as individual .txt files.
 paths:
 ../notebooks/eon_presidio_model_ga.ipynb
 
-### $${\color{red} Notebooks for GPT and Sauerkraut not added yet!!}$$
+### - Notebooks for GPT and Sauerkraut not added yet!!
 
 
 ### Expected Results
 
-![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/example_email.png)
+![alt text](./reports/example_figs/example_email.png)
 
 
 ## 2. Evaluate model performance
@@ -87,12 +87,12 @@ path:
 
 ### Expected Results
 
-![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/scores_presidio.png)
+![alt text](./reports/example_figs/scores_presidio.png)
 
 Model performance for Microsoft Presidio model evaluated on 200 labeled texts.
 
 
-![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/entities_cm_presidio.png)
+![alt text](./reports/example_figs/entities_cm_presidio.png)
 
 Entity based analysis and confusion matrix for Microsoft Presidio model evaluated on 200 labeled texts.
 
