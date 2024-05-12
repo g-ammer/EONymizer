@@ -1,131 +1,73 @@
-Constructor_Project EON
+# EONymizer - Anonymizing private information in unstructured data
 ==============================
+This repository contains code and data for a capstone project as part of the Constructor Academy Data Science Bootcamp.
+The project was provided by the energy provider company E.ON Energie Deutschland.
 
-Day 5, 15.04.2024
+Authors
 ====
--Azure AI Language Recognizer implemented in Presidio
+Ammer Georg, Janis Kropp, Thomas Loesekann
 
-Day 4, 12.04.2024
+Goal and Approach
 ====
--Tested Azure AI Languague Studio for data labelling and training models
+The goal of this project was to detect and anonymize personally identifiable information from customer e-mails.
+We used three different, complementary approaches to anonymize the texts: Microsoft Presidio, ChatGPT3.5 and Sauerkraut-Mixtral.
+Furthermore we built a score_calculator that allows a measurement of the anonymization accuracy of our models.
 
-Day 2, 10.04.2024
+Requirements
 ====
--Presidio:
--generated analyzers using spacy and transformer NLP engines (German and English)
--implemented context enhancement
--generated anonymizer for German languague
+The requirements and environment files contain information on all the necessary python packages:
+path:   ../requirements.txt
+	../environment.yml
 
-Day 1, 09.04.2024
+Data
 ====
--Tried out first models: OpenAI, Microsoft Presidio, NERPII
+1000 customer e-mails provided as .txt files. NOTE: These e-mails were synthetically generated and do not contain any private information!
+path: ../data/original_texts_renamed
 
-
-Day 0, 08.04.2024: 
+Labeled Data
 ====
--Data Exploration 
--Problem Understanding
--github repository 
+We manually labeled 200 randomly selected texts using Azure AI Languague Studio to create a ground truth with which we could evaluate model performaces.
+The labels are provided as a .json file:
+path: ../data/labels_200_final.json
+
+Python Scripts
+====
+This repo contains 2 python scripts with helper functions for the Presidio model notebook (eon_presidio_model_ga.ipynb) which is called 'helper_functions_presidio.py',
+and for the calculate_scores_plot_figures_ga.ipynb notebook which is called 'score_calculator.py'.
+These helper scrips need to be imported into the corresponding notebooks.
+
+paths:  ../src/helper_functions_presidio.py
+	../src/score_calculator.py
 
 
-
-.... 
-
-## Create GitLab folder structure
-
-## Data Exploration, 
-
-
-### 1. Clone project repo to your desired destination
-
-### 2. Navigate to a project repo and create a .gitignore file (see instructions below), push your changes to remote    
+How to work with this repo
+====
+## 1. Run anonymization models
+This repo contains individual notebooks for each model (3 in total for: Presidio, GPT, Sauerkraut).
+These notebooks take a folder with .txt files as input and create a results dicitionary (predicitions_dict) as output that is then saved as a .json file.
+The results dicitionary has the names of the .txt files as keys and a list of results as values:
+--> dicitionary {"filename": entity_predicitions} where entity_predicitons is a list that contains a dictionary 
+{"start": start character of entity, "stop": stop character of entity, "entitiy_type": type of detected entity} for each detected entity of a text.
+Furthermore, the anonymized texts can be saved as individual .txt files.
 
 
-### 3. Make an environment with conda
- 
-`conda create --name myenv`
+paths:  ../notebooks/eon_presidio_model_ga.ipynb
+	Notebooks for GPT and Sauerkraut not added yet!!
 
-Change the environment\:
+## 2. Evaluate model performance
+The calculate_scores_plot_figures_ga notebook takes the outputs of the model notebooks (see 1.), that is, the .json files that contain the results dicitionaries
+as input and calculates performance scores, entity-based analysis and a confusion matrix and also generates several plots of these analyses.
+The heart of this analyses is the calculate_model_score function that is defined in the score_calculator script. It takes two results dicitionaries and then compares
+the results (i.e. the predicted entities) between them. First, the dictionaries are matched by the keys, such that the predicitions for the same texts are compared.
+In case one of the input dicitionaries (e.g. labels_dict) has fewer results than the other (e.g. because not all texts were labeled)
+than this dict has to be passed as the second argument (labels_or_model_dict), otherwise a key error might occur.
+The input to the calculate_model_score function can be any dictionary that has the correct format. This can be predicitions from a model, ground truth from labeled data
+or the combined predictions of 2 or more models (i.e. only those predicitions where all models agree). 
+The results of the calculate_model_score function can be saved as dicitionaries (metrics_dict_all, score_dict_all) in .json format.
+The plots can be saved as .png files.
 
-`conda env list`\
-`conda activate myenv`\
-`conda list`
+path: ../notebooks/calculate_scores_plot_figures_ga.ipynb	
 
-### 4. Save an environment as .yml to be able to transfer it to the other person
-
-Export your active environment to a new file (in the end of the project or once you need to share it with other person):
-
-`conda env export > environment.yml`
-
-Create the environment from the environment.yml file:
-
-`conda env create -f environment.yml`
-
-Remove environment if needed:
-
-`conda remove --name myenv --all`
-
-
-### 5. Folder structure
-
-`pip install cookiecutter`\
-`cookiecutter https://github.com/drivendata/cookiecutter-data-science`
-
-Clean the folder structure (remove unnecessary files).   
-Or create your own custom one. 
-
-### 6. Git
-
-#### 6.1 Gitignore 
-
-Create `.gitignore` file for the following keywords: `python`, `jupyter`, `data` and whatever is required.    
-`https://www.toptal.com/developers/gitignore`  
-
-Add *.csv, *.json, etc. 
-
-#### 6.2 push to the gitlab before you add any data to your folder.
-
-`Git add .`\
-`Git commit -m ”added folder structure”`\
-`Git push `
-
-#### 6.3 push info about data
-
-Create separate txt file with the description where to get this data. Put the file into the `Data` folder.  
-If the data are very light  ~5 mb or so, you can push it, Otherwise just description. 
-
-#### 6.4 branching 
-
-`Git branch vis`\
-`Git checkout vis `
-
-Work on `vis`, if you like the result => then merge \
-Merging is happening on the target branch (master)\
-Delete the branch after completing the task.
-
-`git branch -d <branch-name>` \
-`git push --delete <remote name> <branch name>` 
-
-`<remote name>` == origin
-
-
-**Do not work on the same file at the same time.**
-
-If you work on the same branch - always pull first. 
-
-Actually, always start with a PULL. \
-This reduce a chance to get a conflict. Work ideally on different files. If working on the same file - always PULL first. 
-
-#### 7. Example Student Projects  
-
-
-- Brain MRI: https://github.com/SIT-Academy/brain-mri-classification/blob/master/README.md
-
-- Super Resolution Satellite: 
-https://github.com/SIT-Academy/satellite-image-super-resolution/tree/master/notebooks (SIT version)  
-https://github.com/egronskaya/Super-Resolution-for-Satellite-Imagery (Students' version)
-
-Both projects were done in Colab. 
 
 
 
