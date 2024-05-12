@@ -1,7 +1,6 @@
-![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/eonymizer_logo.png)
+![alt text](./reports/example_figs/eonymizer_logo.png)
 
 # Anonymizing private information in unstructured data
-
 
 This repository contains code and data for a capstone project as part of the Constructor Academy Data Science Bootcamp.
 The project was provided by the energy provider company E.ON Energie Deutschland.
@@ -20,17 +19,16 @@ Furthermore we built a score_calculator that allows a measurement of the anonymi
 
 The requirements and environment files contain information on all the necessary python packages:
 
-path:  
-	../requirements.txt
-
-	../environment.yml
+paths:  
+../requirements.txt
+../environment.yml
 
 ## Data
 
 1000 customer e-mails provided as .txt files. NOTE: These e-mails were synthetically generated and do not contain any private information!
 
 path:
-	../data/original_texts_renamed
+../data/original_texts_renamed
 
 ## Labeled Data
 
@@ -38,7 +36,7 @@ We manually labeled 200 randomly selected texts using Azure AI Languague Studio 
 The labels are provided as a .json file:
 
 path:
-	../data/labels_200_final.json
+../data/labels_200_final.json
 
 ## Python Scripts
 
@@ -47,9 +45,8 @@ and for the calculate_scores_plot_figures_ga.ipynb notebook which is called 'sco
 These helper scrips need to be imported into the corresponding notebooks.
 
 paths: 
-	../src/helper_functions_presidio.py
-
-	../src/score_calculator.py
+../src/helper_functions_presidio.py
+../src/score_calculator.py
 
 
 # How to work with this repo
@@ -63,9 +60,9 @@ The results dicitionary has the names of the .txt files as keys and a list of re
 Furthermore, the anonymized texts can be saved as individual .txt files.
 
 paths:
-	../notebooks/eon_presidio_model_ga.ipynb
+../notebooks/eon_presidio_model_ga.ipynb
 
-### Notebooks for GPT and Sauerkraut not added yet!!
+### $${\color{red} Notebooks for GPT and Sauerkraut not added yet!!}$$
 
 
 ### Expected Results
@@ -86,14 +83,13 @@ The results of the calculate_model_score function can be saved as dicitionaries 
 The plots can be saved as .png files.
 
 path:
-	../notebooks/calculate_scores_plot_figures_ga.ipynb	
+../notebooks/calculate_scores_plot_figures_ga.ipynb	
 
 ### Expected Results
 
 ![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/scores_presidio.png)
 
 Model performance for Microsoft Presidio model evaluated on 200 labeled texts.
-
 
 
 ![alt text](https://github.com/g-ammer/EONymizer/blob/main/reports/example_figs/entities_cm_presidio.png)
