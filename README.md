@@ -19,7 +19,8 @@ Furthermore we built a score_calculator that allows a measurement of the anonymi
 
 The requirements and environment files contain information on all the necessary python packages:
 
-paths:	
+paths:
+
 ../requirements.txt
 
 ../environment.yml
@@ -28,7 +29,8 @@ paths:
 
 1000 customer e-mails provided as .txt files. NOTE: These e-mails were synthetically generated and do not contain any private information!
 
-path:	
+path:
+
 ../data/original_texts_renamed
 
 ## Labeled Data
@@ -36,7 +38,8 @@ path:
 We manually labeled 200 randomly selected texts using Azure AI Languague Studio to create a ground truth with which we could evaluate model performaces.
 The labels are provided as a .json file:
 
-path:	
+path:
+
 ../data/labels_200_final.json
 
 ## Python Scripts
@@ -45,7 +48,8 @@ This repo contains 2 python scripts with helper functions for the Presidio model
 and for the calculate_scores_plot_figures_ga.ipynb notebook which is called 'score_calculator.py'.
 These helper scrips need to be imported into the corresponding notebooks.
 
-paths:		
+paths:
+	
 ../src/helper_functions_presidio.py
 
 ../src/score_calculator.py
@@ -61,7 +65,8 @@ The results dicitionary has the names of the .txt files as keys and a list of re
 {"start": start character of entity, "stop": stop character of entity, "entitiy_type": type of detected entity} for each detected entity of a text.
 Furthermore, the anonymized texts can be saved as individual .txt files.
 
-paths:	
+paths:
+
 ../notebooks/eon_presidio_model_ga.ipynb
 
 ### $${\color{red}Notebooks \space for \space GPT3.5 \space and \space Sauerkraut \space not \space added \space yet!!!}$$
@@ -84,7 +89,8 @@ or the combined predictions of 2 or more models (i.e. only those predicitions wh
 The results of the calculate_model_score function can be saved as dicitionaries (metrics_dict_all, score_dict_all) in .json format.
 The plots can be saved as .png files.
 
-path:	
+path:
+
 ../notebooks/calculate_scores_plot_figures_ga.ipynb	
 
 ### Expected Results
