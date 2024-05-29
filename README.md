@@ -68,9 +68,9 @@ Furthermore, the anonymized texts can be saved as individual .txt files.
 paths:
 
 ../notebooks/eon_presidio_model_ga.ipynb
-
-### $${\color{red}Notebooks \space for \space GPT3.5 \space and \space Sauerkraut \space not \space added \space yet!!!}$$
-
+../notebooks/GPT3_5_05_03_2024.ipynb 
+../notebooks/LM_Studio.ipynb
+../notebooks/LM_Studio_api_anonymize_all.ipynb
 
 ### Expected Results
 
@@ -103,6 +103,7 @@ Model performance for Microsoft Presidio model evaluated on 200 labeled texts.
 ![alt text](./reports/example_figs/entities_cm_presidio.png)
 
 Entity based analysis and confusion matrix for Microsoft Presidio model evaluated on 200 labeled texts.
+
 
 
 
